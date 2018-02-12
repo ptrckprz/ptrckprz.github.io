@@ -35,6 +35,8 @@ Patrick Pérez is Distinguished Scientist and Fellow at Technicolor where he lea
 * H. Jégou, M. Douze, C. Schmid and P.Pérez. Aggregating local descriptors into a compact image representation. CVPR 2010 [code]
 * M. Douze, H. Jégou, C. Schmid, P.Pérez. Compact video description for copy detection with precise temporal alignment. ECCV 2010
 
+### Selection of journal papers since 2010
+
 
 
 
