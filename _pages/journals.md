@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+### Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
 * N. Keriven, A. Bourrier, R. Gribonval, P. Pérez. Sketching for large scale learning of mixture models. Information & Inference, 2017
 * G. Puy and P. Pérez. Structured sampling and fast reconstruction of smooth graph signals. Information & Inference, 2017
