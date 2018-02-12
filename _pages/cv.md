@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Articles in conferences"
 permalink: /cv/
 author_profile: true
