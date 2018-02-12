@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)) ...
+### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 * A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt. [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf). *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
 * H. Jain, J. Zepeda, R. Gribonval, P. Pérez. [Supervised structured binary codes for image search](https://arxiv.org/abs/1708.02932). *ICCV 2017* [[code](https://github.com/technicolor-research/subic)]
 * O. Miksik, J.M. Pérez-Rua, Ph. Torr, P. Pérez. [ROAM: a Rich Object Appearance Model with application to rotoscoping](http://openaccess.thecvf.com/content_cvpr_2017/papers/Miksik_ROAM_A_Rich_CVPR_2017_paper.pdf). *CVPR 2017* [[page](http://www.miksik.co.uk/projects/rotoscoping/roam.html), [code](https://github.com/omiksik/roam), [video](https://youtu.be/UvO7IacS9pQ)]
