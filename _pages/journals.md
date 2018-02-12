@@ -1,6 +1,6 @@
 ---
-title: "Articles in conferences"
-permalink: /cv/
+title: "Articles in journals"
+permalink: /jal/
 author_profile: true
 redirect_from:
   - /resume
