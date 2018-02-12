@@ -1,16 +1,14 @@
 ---
 permalink: /
-title: "Patrick's page"
-excerpt: "About me"
+title: "Articles in conference"
+excerpt: "Conferences"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Patrick Pérez is Distinguished Scientist and Fellow at Technicolor where he leads exploratory research on machine learning and vision.  He is currently on the Editorial Board of the International Journal of Computer Vision. Before joining Technicolor, Patrick Pérez has been researcher at Inria (1993-2000, 2004-2009) and at Microsoft Research Cambridge (2000-2004). His research interests include audio/video description, search and analysis, as well as photo/video editing and computational imaging.
-
-### Selection of conference papers since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 * A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt. [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf). *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
 * H. Jain, J. Zepeda, R. Gribonval, P. Pérez. [Supervised structured binary codes for image search](https://arxiv.org/abs/1708.02932). *ICCV 2017* [[code](https://github.com/technicolor-research/subic)]
 * O. Miksik, J.M. Pérez-Rua, Ph. Torr, P. Pérez. [ROAM: a Rich Object Appearance Model with application to rotoscoping](http://openaccess.thecvf.com/content_cvpr_2017/papers/Miksik_ROAM_A_Rich_CVPR_2017_paper.pdf). *CVPR 2017* [[page](http://www.miksik.co.uk/projects/rotoscoping/roam.html), [code](https://github.com/omiksik/roam), [video](https://youtu.be/UvO7IacS9pQ)]
@@ -33,9 +31,6 @@ Patrick Pérez is Distinguished Scientist and Fellow at Technicolor where he lea
 * Ph. Weinzaepfel, H. Jégou and P. Pérez. [Reconstructing an image from its local descriptors](http://hal.archives-ouvertes.fr/docs/00/56/71/94/PDF/weinzaepfel_cvpr11.pdf). *CVPR 2011* [[examples](http://www.irisa.fr/texmex/people/jegou/projects/reconstructing/index.html), unexpected pointer to this work [here](http://nuit-blanche.blogspot.com/2011/10/dreaming-reconstructions.html)]
 * H. Jégou, M. Douze, C. Schmid and P.Pérez. [Aggregating local descriptors into a compact image representation](http://lear.inrialpes.fr/pubs/2010/JDSP10/jegou_compactimagerepresentation.pdf). *CVPR 2010* [[code](http://lear.inrialpes.fr/src/inria_fisher/)]
 * M. Douze, H. Jégou, C. Schmid, P.Pérez. [Compact video description for copy detection with precise temporal alignment](http://lear.inrialpes.fr/pubs/2010/DJSP10/douze_eccv10.pdf). *ECCV 2010*
-
-### Selection of journal papers since 2010  
-
 
 
 
