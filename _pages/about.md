@@ -12,9 +12,9 @@ Patrick Pérez is Distinguished Scientist and Fellow at Technicolor where he lea
 
 ##### Recent conference papers
 *  A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt. [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf). *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
-* H. Jain, J. Zepeda, R. Gribonval, P. Pérez. [Supervised structured binary codes for image search. ICCV 2017](https://arxiv.org/abs/1708.02932) [[code](https://github.com/technicolor-research/subic)]
-* O. Miksik, J.M. Pérez-Rua, Ph. Torr, P. Pérez. ROAM: a Rich Object Appearance Model with application to rotoscoping. CVPR 2017 [page, code, video]
-* R. Rezende, J. Zepeda, J. Ponce, F. Bach, P. Pérez. Kernel square-loss exemplar machines for image retrieval. CVPR 2017 [code]
+* H. Jain, J. Zepeda, R. Gribonval, P. Pérez. [Supervised structured binary codes for image search](https://arxiv.org/abs/1708.02932). *ICCV 2017* [[code](https://github.com/technicolor-research/subic)]
+* O. Miksik, J.M. Pérez-Rua, Ph. Torr, P. Pérez. [ROAM: a Rich Object Appearance Model with application to rotoscoping](). *CVPR 2017* [[page](), [code](), [video]()]
+* R. Rezende, J. Zepeda, J. Ponce, F. Bach, P. Pérez. [Kernel square-loss exemplar machines for image retrieval](). *CVPR 2017* [code]()
 * G. Puy, S. Kitic, P. Pérez. Unifying local and non-local signal processing with graph CNNs. Deep Learning on Irregular Domains 2017
 * S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard. Motion informed audio source separation. ICASSP 2017
 * G. Puy, A. Ozerov, N. Duong, P. Pérez. Informed source separation via compressive graph sampling. ICASSP 2017
