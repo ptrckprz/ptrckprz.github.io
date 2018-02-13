@@ -15,11 +15,11 @@ main:
 - title: "talks"
   url: /talks/
   
-#- title: "code & data"
-#    url: /data/    
+- title: "code & data"
+  url: /data/    
 
 #  - title: "blog posts"
 #    url: /year-archive/
     
-#- title: "editorial"
-#    url: /edit/    
+- title: "editorial"
+  url: /edit/    
