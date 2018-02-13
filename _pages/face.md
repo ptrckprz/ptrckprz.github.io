@@ -18,10 +18,14 @@ A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobal
 P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt </br>
 *SiggraphAsia 2016* [[page](http://gvv.mpi-inf.mpg.de/projects/MonLipReconstruction/index.html), [video](https://youtu.be/N5bFhtlgRCc)]
 
-* [Reconstruction of personalized 3D face rigs from monocular video](http://people.mpi-inf.mpg.de/~mzollhoef/Papers/SG2016_PF/paper.pdf)
-P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt 
+* [Reconstruction of personalized 3D face rigs from monocular video](http://people.mpi-inf.mpg.de/~mzollhoef/Papers/SG2016_PF/paper.pdf)  </br>
+P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt </br> 
 ACM Trans. on Graphics, 35(3), 2016
 
-* P. Garrido, L. Valgaerts, H. Sarmadi, I. Steiner, K. Varanasi, P. Pérez, C. Theobalt. [VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audiotrack](http://gvv.mpi-inf.mpg.de/files/EuroGraphics2015/dubbing_high.pdf). *EuroGraphics 2015* [[page](http://gvv.mpi-inf.mpg.de/projects/VisualDubbing/index.html)]
+* [VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audiotrack](http://gvv.mpi-inf.mpg.de/files/EuroGraphics2015/dubbing_high.pdf) </br> 
+P. Garrido, L. Valgaerts, H. Sarmadi, I. Steiner, K. Varanasi, P. Pérez, C. Theobalt </br> 
+*EuroGraphics 2015* [[page](http://gvv.mpi-inf.mpg.de/projects/VisualDubbing/index.html)]
 
-* P. Garrido, L.Valgaerts, O. Rehmsen, Th. Thormaehlen, P. Pérez, Ch. Theobalt. [Automatic face reenactment](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/files/FaceReenactment.pdf). *CVPR 2014* [[page](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/)]
+* [Automatic face reenactment](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/files/FaceReenactment.pdf) </br>
+P. Garrido, L.Valgaerts, O. Rehmsen, Th. Thormaehlen, P. Pérez, Ch. Theobalt </br> 
+*CVPR 2014* [[page](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/)]
