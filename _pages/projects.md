@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-
-
 #### Face modeling (in coll. with Christian Theobalt's [group](http://gvv.mpi-inf.mpg.de/) at MPI) [[more](/face/)]
 * Personnalized face rig extraction and tracking
 * Photo-real face editing and retargeting
@@ -37,8 +35,8 @@ redirect_from:
 * Sketching for large scale unsupervised learning
 * Cross-modal search with deep text-semantic embeddings 
 
-#### Informed audio source separation
-* Motion informed
-* User guided
-* Unifying NMF framework 
+#### Audio source separation and modeling [[more](/iss/)]
+* Informed source separation
+* Inpaiting and declipping
+* Deep audio style transfer
 
