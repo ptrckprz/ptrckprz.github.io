@@ -22,7 +22,7 @@ P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt
 P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt  
 *ACM Trans. on Graphics*, 35(3), 2016
 
-* [VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audiotrack](http://gvv.mpi-inf.mpg.de/files/EuroGraphics2015/dubbing_high.pdf)  
+* [VDub - Modifying face video of actors for plausible visual alignment to a dubbed audiotrack](http://gvv.mpi-inf.mpg.de/files/EuroGraphics2015/dubbing_high.pdf)  
 P. Garrido, L. Valgaerts, H. Sarmadi, I. Steiner, K. Varanasi, P. Pérez, C. Theobalt  
 *EuroGraphics 2015* [[page](http://gvv.mpi-inf.mpg.de/projects/VisualDubbing/index.html)]
 
