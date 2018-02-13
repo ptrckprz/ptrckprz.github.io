@@ -35,7 +35,7 @@ redirect_from:
 * Sketching for large scale unsupervised learning
 * Cross-modal search with deep text-semantic embeddings 
 
-#### Audio source separation and modeling [[more](/iss/)]
+#### Audio source separation and modeling
 * Informed source separation
 * Inpaiting and declipping
 * Deep audio style transfer
