@@ -11,9 +11,7 @@ redirect_from:
 ### Relevant publications
 
 * [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf). 
-
 A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt. 
-
 *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
 
 * P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt. [Corrective 3D reconstruction of lips from monocular video](http://gvv.mpi-inf.mpg.de/files/SA2016/MonLipReconstruction-Low.pdf). *SiggraphAsia 2016* [[page](http://gvv.mpi-inf.mpg.de/projects/MonLipReconstruction/index.html), [video](https://youtu.be/N5bFhtlgRCc)]
