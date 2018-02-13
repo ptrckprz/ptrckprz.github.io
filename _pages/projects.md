@@ -8,12 +8,12 @@ redirect_from:
 
 
 
-## Face modeling (in coll. with Max Planck Institute in Saarbruken)
+##### Face modeling (in coll. with Max Planck Institute in Saarbruken)
 
-## Semantic 3D reconstruction (in coll. with University of Oxford)  
+##### Semantic 3D reconstruction (in coll. with University of Oxford)  
 
-## Deep solvers
+##### Deep solvers
 
-## Image indexing (in coll. with INRIA and Amazon)
+##### Image indexing (in coll. with INRIA and Amazon)
 
-## Dynamic visual content analasys 
+##### Dynamic visual content analasys 
