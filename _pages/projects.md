@@ -9,7 +9,7 @@ redirect_from:
 
 
 ##### Face modeling (in coll. with Max Planck Institute in Saarbruken)
-* * Personnalized face rig extraction and tracking
+* Personnalized face rig extraction and tracking
 * 3D face models from photo with deep learning
 
 ##### Semantic 3D reconstruction (in coll. with University of Oxford) 
