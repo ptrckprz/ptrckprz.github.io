@@ -81,7 +81,7 @@ author:
   name             : "Patrick Pérez"
   avatar           : "pat2.jpg"
   bio              : "Distinguished Scientist at Technicolor, head of computer vision and machine learning exploratory research"
-  location         : "Rennes, France [[map](https://goo.gl/maps/r3WgFmcRXJo)]"
+  location         : "https://goo.gl/maps/r3WgFmcRXJo"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en"
   email            : "patrick.perez@technicolor.com"
