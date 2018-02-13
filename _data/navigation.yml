@@ -23,3 +23,5 @@ main:
 #  - title: "blog posts"
 #    url: /year-archive/
     
+- title: "editorial"
+    url: /edit/    
