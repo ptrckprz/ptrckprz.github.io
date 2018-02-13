@@ -20,7 +20,7 @@ P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt
 
 * [Reconstruction of personalized 3D face rigs from monocular video](http://people.mpi-inf.mpg.de/~mzollhoef/Papers/SG2016_PF/paper.pdf)  
 P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt  
-ACM Trans. on Graphics, 35(3), 2016
+*ACM Trans. on Graphics*, 35(3), 2016
 
 * [VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audiotrack](http://gvv.mpi-inf.mpg.de/files/EuroGraphics2015/dubbing_high.pdf)  
 P. Garrido, L. Valgaerts, H. Sarmadi, I. Steiner, K. Varanasi, P. Pérez, C. Theobalt  
