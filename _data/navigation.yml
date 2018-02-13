@@ -1,19 +1,19 @@
 # main links links
 main:
 - title: "projects"
-    url: /proj/
+  url: /proj/
 
 - title: "conferences"
-    url: /cv/
+  url: /cv/
 
 - title: "journals"
-    url: /jal/
+  url: /jal/
 
 #  - title: "publications"
 #    url: /publications/
 
 - title: "talks"
-    url: /talks/
+  url: /talks/
   
 #- title: "code & data"
 #    url: /data/    
