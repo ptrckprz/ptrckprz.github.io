@@ -10,7 +10,7 @@ redirect_from:
 
 ### Relevant publications
 
-* [Motion informed audio source separation](Motion informed audio source separation) </br>
+* [Motion informed audio source separation](https://hal.archives-ouvertes.fr/hal-01447977/document) </br>
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard </br>
 *ICASSP 2017*
 
@@ -35,17 +35,17 @@ A. Ozerov, C. Bilen, P. Pérez</br>
 *ICASSP 2016*
 
 * [Automatic allocation of NTF components for user-guided audio source separation](https://hal.inria.fr/hal-01259430) </br>
-C. Bilen, A. Ozerov, P. Pérez /br>
+C. Bilen, A. Ozerov, P. Pérez </br>
 *ICASSP 2016*
 
 * [Compressive sampling-based informed source separation](https://hal.inria.fr/hal-01171833/document) </br>
-C. Bilen, A. Ozerov and P.Pérez /br>
+C. Bilen, A. Ozerov and P.Pérez </br>
 *Waspaa 2015*
 
 * [Audio declipping via nonnegative matrix factorization](https://hal.inria.fr/hal-01171813/file/waspaa15a.pdf) </br>
-C. Bilen, A. Ozerov and P.Pérez /br>
+C. Bilen, A. Ozerov and P.Pérez </br>
 *Waspaa 2015*
 
 * [Joint audio inpainting and source separation](https://scholar.google.fr/citations?view_op=view_citation&hl=en&user=8Cph5uQAAAAJ&sortby=pubdate&citation_for_view=8Cph5uQAAAAJ:idthP5jqfYAC) </br>
-C. Bilen, A. Ozerov and P.Pérez /br>
+C. Bilen, A. Ozerov and P.Pérez </br>
 *LVA 2015*
