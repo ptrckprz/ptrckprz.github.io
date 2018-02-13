@@ -8,11 +8,11 @@ redirect_from:
 
 
 
-##### Face modeling (in coll. with Max Planck Institute in Saarbruken)
+##### Face modeling (in coll. with Christian Theobalt's [group](http://www.robots.ox.ac.uk/~tvg/) at MPI)
 * Personnalized face rig extraction and tracking
 * 3D face models from photo with deep learning
 
-##### Semantic 3D reconstruction (in coll. with University of Oxford) 
+##### Semantic 3D reconstruction (in coll. with Phil Torr's group at University of Oxford) 
 * Interactive semantic 3D reconstruction
 * Vision and lidar fusion for 3D reconstruction
 
