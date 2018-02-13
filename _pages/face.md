@@ -10,7 +10,7 @@ redirect_from:
 
 ### Relevant publications
 
-* [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf). A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt.  *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
+* [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf). <\br> A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt.  *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
 
 * P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt. [Corrective 3D reconstruction of lips from monocular video](http://gvv.mpi-inf.mpg.de/files/SA2016/MonLipReconstruction-Low.pdf). *SiggraphAsia 2016* [[page](http://gvv.mpi-inf.mpg.de/projects/MonLipReconstruction/index.html), [video](https://youtu.be/N5bFhtlgRCc)]
 * P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt. [Reconstruction of personalized 3D face rigs from monocular video](http://people.mpi-inf.mpg.de/~mzollhoef/Papers/SG2016_PF/paper.pdf). ACM Trans. on Graphics, 35(3), 2016
