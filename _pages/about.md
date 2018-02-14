@@ -12,4 +12,4 @@ Patrick Pérez is Distinguished Scientist and Fellow at Technicolor where he lea
 
 ## NEWS
 
-* Pleased to announce that the workshop "[Deep learning: From theory to applications](https://www.lebesgue.fr/content/sem2018-deeplearning)" will be held at Technicolor in Rennes, France, 4-6 September 2018. Program is under construction, around six keynote speakers: Cordelia Schmid, Stéphane Mallat, Pierre Vandergheynst, François Pachet, Matthieu Cord and Gitta Kutyniok. Registration is free, but capacity is limited. Registration requests are open on the site.  
+* Pleased to announce that the workshop "[Deep learning: From theory to applications](https://www.lebesgue.fr/content/sem2018-deeplearning)" will be held at Technicolor in Rennes, France, 4-6 September 2018. Program is under construction, around six keynote speakers: **Cordelia Schmid** (Inria), **Stéphane Mallat** (ENS Paris/Collège de France), **Pierre Vandergheynst** (EPFL), **François Pachet** (Spotify), **Matthieu Cord** (UPMC) and **Gitta Kutyniok** (T.U.Berlin). Registration is free, but capacity is limited. Registration requests are open on the site.  
