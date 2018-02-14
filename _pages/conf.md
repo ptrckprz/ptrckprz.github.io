@@ -1,6 +1,6 @@
 ---
 title: "Articles in conferences"
-permalink: /cv/
+permalink: /conf/
 author_profile: true
 redirect_from:
   - /resume
