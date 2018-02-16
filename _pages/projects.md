@@ -6,8 +6,8 @@ redirect_from:
   - /resume
 ---
 
-### Face modeling  
-(in coll. with Christian Theobalt's [group](http://gvv.mpi-inf.mpg.de/) at MPI) [[more](/face/)]
+### Face modeling  [[more](/face/)] 
+(in coll. with Christian Theobalt's [group](http://gvv.mpi-inf.mpg.de/) at MPI)
 * Personnalized face rig extraction and tracking
 * Photo-real face editing and retargeting
 * Fast 3D face models from photos with deep learning
@@ -17,10 +17,10 @@ redirect_from:
 * Interactive semantic 3D reconstruction
 * Multi-modal semantic 3D reconstruction
 
-### Dynamic visual content analasys (in coll. with Inria) 
+### Dynamic visual content analasys
 * Visual tracking
 * Segmentation of video objects
-* Analaysis of visual dynamics
+* Analaysis of visual dynamics (in coll. with Patrick Bouthemy at Inria) 
 
 ### Graph signal processing
 * Structured sampling on graph
@@ -28,14 +28,14 @@ redirect_from:
 * Deep solvers for fast and flexible style transfer
 
 ### Visual and audio inpainting
-* Robust patch-based video inpainting
+* Robust patch-based video inpainting (coll. with [Andrés Almansa](https://perso.telecom-paristech.fr/almansa/HomePage/) and [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/) at Telecom ParisTech) 
 * Structural image inpainting with context encoders
 * Face and speech inpainting
 
-### Large scale indexing and sketching (in coll. with [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) at Inria, [Joaquin Zepeda](https://joaquin-zepeda.com/) at Amazon and [Matthieu Cord](http://webia.lip6.fr/~cord/) at UPMC)
-* Beyond product quantization for image indexing
-* Sketching for large scale unsupervised learning
-* Cross-modal search with deep text-semantic embeddings 
+### Large scale indexing and sketching   
+* Beyond product quantization for image indexing (coll. with [Joaquin Zepeda](https://joaquin-zepeda.com/)
+* Sketching for large scale unsupervised learning (coll. with [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/)
+* Cross-modal search with deep text-semantic embeddings (coll. with [Matthieu Cord](http://webia.lip6.fr/~cord/) at UPMC)
 
 ### Audio source separation and modeling
 * Informed source separation
