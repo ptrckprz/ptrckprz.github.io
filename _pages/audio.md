@@ -1,6 +1,6 @@
 ---
 title: "Graph signal processing and learning"
-permalink: /audio2/
+permalink: /audio/
 author_profile: true
 redirect_from:
   - /resume
