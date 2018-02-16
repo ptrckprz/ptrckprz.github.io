@@ -70,63 +70,86 @@ I. Junejo, E. Dexter, I. Laptev, P. Pérez
 Ch. Kervrann , J. Boulanger , Th. Pécot, P. Pérez and J. Salamero  
 *SIAM J. Multiscale Modeling and Simulation*, 9(4): 1829-1865, 2011
 
-### Older publications (visual tracking)
+### Older publications on visual tracking
 
-C Avenel, E Memin, P Pérez. Stochastic filtering of level sets for curve tracking(http://www.researchgate.net/publication/220928323_Stochastic_Filtering_of_Level_Sets_for_Curve_Tracking/file/60b7d517faff3a5779.pdf) ICPR 2010
+[Stochastic filtering of level sets for curve tracking](http://www.researchgate.net/publication/220928323_Stochastic_Filtering_of_Level_Sets_for_Curve_Tracking/file/60b7d517faff3a5779.pdf)  
+C Avenel, E Memin, P Pérez  
+*ICPR 2010*
 
-C. Avenel, E. Memin, P. Perez. Tracking closed curves with non-linear stochastic filters(http://www.irisa.fr/vista/Papers/2009_ssvm_avenel.pdf). SSVM 2009
+[Tracking closed curves with non-linear stochastic filters](http://www.irisa.fr/vista/Papers/2009_ssvm_avenel.pdf)  
+C. Avenel, E. Memin, P. Perez  
+*SSVM 2009*
 
-V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel. Geometric layout based graphical model for multi-Part object tracking(http://www.irisa.fr/vista/Papers/2008_eccv-vs_Badrinarayanan.pdf). ECCV-VS 2008
+[Geometric layout based graphical model for multi-Part object tracking](http://www.irisa.fr/vista/Papers/2008_eccv-vs_Badrinarayanan.pdf)   V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel  
+*ECCV-VS 2008*
 
-R. Venkatesh Babu, P. Pérez, P. Bouthemy
-Robust tracking with motion estimation and local kernel-based color modeling(http://www.irisa.fr/vista/Papers/2007_ivc_babu.pdf)
-Image and Vision Computing, 25(8):1205-1216, 2007
-
-V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel. Probabilistic color and adaptive multi-feature tracking with dynamically switched priority between cues(http://www.irisa.fr/vista/Papers/2007_iccv_Badrinarayanan.pdf). ICCV 2007
-
-I. Laptev, P. Pérez. Retrieving actions in movies(http://www.irisa.fr/vista/Papers/2007_iccv_laptev.pdf). ICCV 2007
-
-V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel. On uncertainties, random features and object tracking(http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4379765&tag=1). ICIP 2007
-
+[Robust tracking with motion estimation and local kernel-based color modeling](http://www.irisa.fr/vista/Papers/2007_ivc_babu.pdf)  
 R. Venkatesh Babu, P. Pérez, P. Bouthemy  
-Kernel-based robust tracking for objects undergoing occlusion(http://www.irisa.fr/vista/Papers/2006_accv_babu.pdf)
-ACCV 2006
+*Image and Vision Computing*, 25(8):1205-1216, 2007
 
-A. Lehuger, P. Lechat, P. Pérez. An adaptive mixture color model for robust visual tracking(v). ICIP 2006
+[Probabilistic color and adaptive multi-feature tracking with dynamically switched priority between cues](http://www.irisa.fr/vista/Papers/2007_iccv_Badrinarayanan.pdf)  
+V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel  
+*ICCV 2007*
 
+[Retrieving actions in movies](http://www.irisa.fr/vista/Papers/2007_iccv_laptev.pdf)  
+I. Laptev, P. Pérez  
+*ICCV 2007*
+
+[On uncertainties, random features and object tracking](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4379765&tag=1)  
+V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel  
+*ICIP 2007*
+
+[Kernel-based robust tracking for objects undergoing occlusion](http://www.irisa.fr/vista/Papers/2006_accv_babu.pdf)  
+R. Venkatesh Babu, P. Pérez, P. Bouthemy  
+*ACCV 2006*
+
+[An adaptive mixture color model for robust visual tracking](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4106594)  
+A. Lehuger, P. Lechat, P. Pérez  
+*ICIP 2006*
+
+[Robust tracking with motion estimation and kenel-based color modelling](http://www.irisa.fr/vista/Papers/2005_icip_babu.pdf)
 R. Venkatesh Babu, P. Pérez, P. Bouthemy
-Robust tracking with motion estimation and kenel-based color modelling(http://www.irisa.fr/vista/Papers/2005_icip_babu.pdf)
 ICIP 2005 (Genoa)
 
+[Bayesian visual tracking with existence process](http://www.irisa.fr/vista/Papers/2005_icip_vermaak.pdf). 
 J. Vermaak, S. Maskell, M. Briers, P. Pérez. 
-Bayesian visual tracking with existence process(http://www.irisa.fr/vista/Papers/2005_icip_vermaak.pdf). 
 ICIP 2005
 
-J. Vermaak, S. Maskell, M. Briers, P. Pérez. 
-Multi-Target tracking and existence. 
-Fusion 2005
+Multi-Target tracking and existence  
+J. Vermaak, S. Maskell, M. Briers, P. Pérez   
+*Fusion 2005*
 
-P. Pérez, J. Vermaak. Bayesian tracking with auxiliary discrete processes. 
-Application to detection and tracking of objects with occlusions(http://www.irisa.fr/vista/Papers/2005_wdviccv_perez.pdf). 
-WDV 2005
+[Bayesian tracking with auxiliary discrete processes. Application to detection and tracking of objects with occlusions](http://www.irisa.fr/vista/Papers/2005_wdviccv_perez.pdf)  
+P. Pérez, J. Vermaak 
+*WDV 2005*
 
-P. Pérez, J. Vermaak. Visual tracking and auxiliary discrete processes(http://conferences.telecom-bretagne.eu/asmda2005/IMG/pdf/proceedings/1069.pdf). 
-ASMDA 2005 
+[Visual tracking and auxiliary discrete processes](http://conferences.telecom-bretagne.eu/asmda2005/IMG/pdf/proceedings/1069.pdf)  
+P. Pérez, J. Vermaak  
+*ASMDA 2005*
 
-J. Vermaak, N. Lawrence, P. Pérez. Variational inference for visual tracking(http://www.irisa.fr/vista/Papers/2003_cvpr_vermaak_2.pdf)
-CVPR 2003 (Vancouver)
+[Variational inference for visual tracking](http://www.irisa.fr/vista/Papers/2003_cvpr_vermaak_2.pdf)  
+J. Vermaak, N. Lawrence, P. Pérez  
+*CVPR 2003*
 
-Vermaak, A. Doucet, P. Pérez. Maintaining multi-modality through mixture tracking(http://www.irisa.fr/vista/Papers/2003_iccv_vermaak.pdf). ICCV 2003 (Nice)
+[Maintaining multi-modality through mixture tracking](http://www.irisa.fr/vista/Papers/2003_iccv_vermaak.pdf)  
+Vermaak, A. Doucet, P. Pérez  
+*ICCV 2003*
 
-C. Hue, J.-P. Le Cadre, P. Pérez. Sequential Monte Carlo methods for multiple target tracking and data fusion(http://www.irisa.fr/vista/Papers/2001/hue_sp.pdf). IEEE Trans. on Signal Processing, 50(2):309-325, 2002
+[Sequential Monte Carlo methods for multiple target tracking and data fusion](http://www.irisa.fr/vista/Papers/2001/hue_sp.pdf)  
+C. Hue, J.-P. Le Cadre, P. Pérez  
+*IEEE Trans. on Signal Processing*, 50(2):309-325, 2002
 
- C. Hue, J.-P. Le Cadre, P. Pérez. Tracking multiple objects with particle filtering(http://www.irisa.fr/vista/Papers/2002_aes_hue.pdf)
-IEEE Trans. on Aerospace and Electronic Systems, 38(3):791-812, 2002
+[Tracking multiple objects with particle filtering](http://www.irisa.fr/vista/Papers/2002_aes_hue.pdf)  
+C. Hue, J.-P. Le Cadre, P. Pérez  
+*IEEE Trans. on Aerospace and Electronic Systems*, 38(3):791-812, 2002
 
-P. Pérez, C. Hue, J. Vermaak, M. Gangnet. Color-based probabilistic tracking(http://www.irisa.fr/vista/Papers/2002/perez_hue_eccv02.pdf).
-ECCV 2002 (Copenhagen)
+[Color-based probabilistic tracking](http://www.irisa.fr/vista/Papers/2002/perez_hue_eccv02.pdf)  
+P. Pérez, C. Hue, J. Vermaak, M. Gangnet  
+*ECCV 2002*
 
-J. Vermaak, P. Pérez, M. Gangnet, A. Blake. Towards improved observation models for visual tracking: selective adaptation(http://www.irisa.fr/vista/Papers/2002_eccv_vermaak.pdf). ECCV 2002
+[Towards improved observation models for visual tracking: selective adaptation](http://www.irisa.fr/vista/Papers/2002_eccv_vermaak.pdf)  
+J. Vermaak, P. Pérez, M. Gangnet, A. Blake  
+*ECCV 2002*
 
 ### Older publications (motion estimatio, segmentation and analysis)
 
