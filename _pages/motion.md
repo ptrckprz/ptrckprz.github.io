@@ -165,8 +165,8 @@ I. Junejo, E. Dexter, I. Laptev, P. Pérez
 M. Fradet, P. Pérez, Ph. Robert  
 *ICIP 2008*
 
+[Detection and segmentation of moving objects in highly dynamic scenes](http://www.irisa.fr/vista/Papers/2007_cvpr_bugeau.pdf)  
 A. Bugeau, P. Pérez  
-[Detection and segmentation of moving objects in highly dynamic scenes](http://www.irisa.fr/vista/Papers/2007_cvpr_bugeau.pdf)
 *CVPR 2007*
 
 [Extraction of singular points from dense motion fields: an analytic approach](http://thomas.corpetti.free.fr/jmiv_corpetti.pdf)  
