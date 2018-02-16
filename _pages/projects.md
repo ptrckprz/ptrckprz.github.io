@@ -6,12 +6,14 @@ redirect_from:
   - /resume
 ---
 
-### Face modeling (in coll. with Christian Theobalt's [group](http://gvv.mpi-inf.mpg.de/) at MPI) [[more](/face/)]
+### Face modeling  
+(in coll. with Christian Theobalt's [group](http://gvv.mpi-inf.mpg.de/) at MPI) [[more](/face/)]
 * Personnalized face rig extraction and tracking
 * Photo-real face editing and retargeting
 * Fast 3D face models from photos with deep learning
 
-### Semantic 3D reconstruction (in coll. with Phil Torr's [group](http://www.robots.ox.ac.uk/~tvg/) at University of Oxford) 
+### Semantic 3D reconstruction  
+(in coll. with Phil Torr's [group](http://www.robots.ox.ac.uk/~tvg/) at University of Oxford) 
 * Interactive semantic 3D reconstruction
 * Multi-modal semantic 3D reconstruction
 
