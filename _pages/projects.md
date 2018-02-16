@@ -17,7 +17,7 @@ redirect_from:
 * Interactive semantic 3D reconstruction
 * Multi-modal semantic 3D reconstruction
 
-### Dynamic visual content analasys
+### Dynamic visual content analysis [[more](/motion/)]
 * Visual tracking
 * Segmentation of video objects
 * Analaysis of visual dynamics (coll. with [Patrick Bouthemy](http://www.irisa.fr/vista/Equipe/People/Patrick.Bouthemy.english.html) at Inria) 
