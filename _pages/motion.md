@@ -153,37 +153,50 @@ J. Vermaak, P. Pérez, M. Gangnet, A. Blake
 
 ### Older publications on motion estimation, segmentation and analysis
 
-M. Fradet, P. Pérez, Ph. Robert. Semi-automatic motion segmentation with motion layer mosaics(http://www.irisa.fr/vista/Papers/2008_eccv_fradet.pdf). ECCV 2008 (Marseille)
+[Semi-automatic motion segmentation with motion layer mosaics](http://www.irisa.fr/vista/Papers/2008_eccv_fradet.pdf)  
+M. Fradet, P. Pérez, Ph. Robert  
+*ECCV 2008*
 
-I. Junejo, E. Dexter, I. Laptev, P. Pérez. Cross-view action recognition from temporal self-similarities(http://www.irisa.fr/vista/Papers/2008-eccv-junejo.pdf). ECCV 2008 (Marseille)
+[Cross-view action recognition from temporal self-similarities](http://www.irisa.fr/vista/Papers/2008-eccv-junejo.pdf)  
+I. Junejo, E. Dexter, I. Laptev, P. Pérez  
+*ECCV 2008*
 
-M. Fradet, P. Pérez, Ph. Robert. Time-sequential extraction of motion layers(http://www.irisa.fr/vista/Papers/2008-icip-fradet.pdf). ICIP 2008
+[Time-sequential extraction of motion layers(http://www.irisa.fr/vista/Papers/2008-icip-fradet.pdf)]  
+M. Fradet, P. Pérez, Ph. Robert  
+*ICIP 2008*
 
-A. Bugeau, P. Pérez. Detection and segmentation of moving objects in highly dynamic scenes(http://www.irisa.fr/vista/Papers/2007_cvpr_bugeau.pdf). CVPR 2007 (Minneapolis)
+A. Bugeau, P. Pérez  
+[Detection and segmentation of moving objects in highly dynamic scenes](http://www.irisa.fr/vista/Papers/2007_cvpr_bugeau.pdf
+*CVPR 2007*
 
-T. Corpetti, E. Mémin, P. Pérez. Extraction of singular points from dense motion fields: an analytic approach(http://thomas.corpetti.free.fr/jmiv_corpetti.pdf)
-Journal of Mathematical Imaging and Vision, 19(3):175-198, 2003
+[Extraction of singular points from dense motion fields: an analytic approach](http://thomas.corpetti.free.fr/jmiv_corpetti.pdf)  
+T. Corpetti, E. Mémin, P. Pérez  
+*Journal of Mathematical Imaging and Vision*, 19(3):175-198, 2003
 
-E. Mémin, P. Pérez. Hierarchical estimation and segmentation of dense motion fields(https://www.cs.auckland.ac.nz/~rklette/TeachAuckland.html/CIMAT/MeminPerez_2002.pdf)
-Int. Journal of Computer Vision, 46(2):129-155, 2002
+[Hierarchical estimation and segmentation of dense motion fields](https://www.cs.auckland.ac.nz/~rklette/TeachAuckland.html/CIMAT/MeminPerez_2002.pdf)  
+E. Mémin, P. Pérez  
+*Int. Journal of Computer Vision*, 46(2):129-155, 2002
 
-T. Corpetti, E. Mémin, P. Pérez. Dense estimation of fluid flows(http://www.irisa.fr/vista/Papers/2002_pami_corpetti.pdf). IEEE Trans. Pattern Anal. Machine Intell., 24(3):365-380, 2002
+[Dense estimation of fluid flows](http://www.irisa.fr/vista/Papers/2002_pami_corpetti.pdf)  
+T. Corpetti, E. Mémin, P. Pérez  
+*IEEE Trans. Pattern Anal. Machine Intell.*, 24(3):365-380, 2002
 
+[Non-parametric motion characterization using causal probabilistic models for video indexing and retrieval](http://www.irisa.fr/vista/Papers/2002_ieeeip_fablet.pdf)  
+R. Fablet, P. Bouthemy, P. Pérez  
+*IEEE Trans. on Image Processing*, 11(4):393-407, 2002
 
-R. Fablet, P. Bouthemy, P. Pérez. 
-Non-parametric motion characterization using causal probabilistic models for video indexing and retrieval(http://www.irisa.fr/vista/Papers/2002_ieeeip_fablet.pdf)
-IEEE Trans. on Image Processing, 11(4):393-407, 2002
+[Dense motion analysis in fluid imagery](http://www.irisa.fr/vista/Papers/2002/corpetti_eccv02.pdf)   
+T. Corpetti, E. Mémin, P. Pérez  
+*ECCV 2002*
 
-T. Corpetti, E. Mémin, P. Pérez. Dense motion analysis in fluid imagery(http://www.irisa.fr/vista/Papers/2002/corpetti_eccv02.pdf) 
-ECCV 2002
+[Fluid motion recovery by coupling dense and parametric fields](http://www.irisa.fr/fluminance/publi/papers/Memin-Perez-ICCV99.pdf)  
+E. Mémin, P. Pérez  
+*ICCV 1999*
 
-E. Mémin, P. Pérez. Fluid motion recovery by coupling dense and parametric fields(http://www.irisa.fr/fluminance/publi/papers/Memin-Perez-ICCV99.pdf)
-ICCV 1999
+Dense/parametric estimation of fluid flows(http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=817213)  
+E. Mémin, P. Pérez  
+*ICIP 1999*
 
-E. Mémin, P. Pérez. Dense/parametric estimation of fluid flows(http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=817213)
-ICIP'99
-
-E. Mémin, P. Pérez. Dense optical flow estimation and object-based segmentation with robust techniques(http://www.irisa.fr/vista/Papers/1998_ieeeip_memin2.pdf). IEEE Trans. on Image Processing, 7(5):703-719, 1998
-
-
-
+[Dense optical flow estimation and object-based segmentation with robust techniques](http://www.irisa.fr/vista/Papers/1998_ieeeip_memin2.pdf)  
+E. Mémin, P. Pérez  
+*IEEE Trans. on Image Processing*, 7(5):703-719, 1998
