@@ -151,7 +151,7 @@ P. Pérez, C. Hue, J. Vermaak, M. Gangnet
 J. Vermaak, P. Pérez, M. Gangnet, A. Blake  
 *ECCV 2002*
 
-### Older publications (motion estimatio, segmentation and analysis)
+### Older publications on motion estimation, segmentation and analysis
 
 M. Fradet, P. Pérez, Ph. Robert. Semi-automatic motion segmentation with motion layer mosaics(http://www.irisa.fr/vista/Papers/2008_eccv_fradet.pdf). ECCV 2008 (Marseille)
 
