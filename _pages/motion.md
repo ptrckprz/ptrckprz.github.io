@@ -108,12 +108,12 @@ A. Lehuger, P. Lechat, P. Pérez
 *ICIP 2006*
 
 [Robust tracking with motion estimation and kenel-based color modelling](http://www.irisa.fr/vista/Papers/2005_icip_babu.pdf)
-R. Venkatesh Babu, P. Pérez, P. Bouthemy
-ICIP 2005 (Genoa)
+R. Venkatesh Babu, P. Pérez, P. Bouthemy  
+*ICIP 2005*
 
-[Bayesian visual tracking with existence process](http://www.irisa.fr/vista/Papers/2005_icip_vermaak.pdf). 
-J. Vermaak, S. Maskell, M. Briers, P. Pérez. 
-ICIP 2005
+[Bayesian visual tracking with existence process](http://www.irisa.fr/vista/Papers/2005_icip_vermaak.pdf)  
+J. Vermaak, S. Maskell, M. Briers, P. Pérez  
+*ICIP 2005*
 
 Multi-Target tracking and existence  
 J. Vermaak, S. Maskell, M. Briers, P. Pérez   
