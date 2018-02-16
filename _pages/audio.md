@@ -26,11 +26,11 @@ S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard
 G. Puy, A. Ozerov, N. Duong, P. Pérez  
 *ICASSP 2017*
 
-[A comparative study of example-guided audio source separation approaches based on nonnegative matrix factorization]()  
+[A comparative study of example-guided audio source separation approaches based on nonnegative matrix factorization]  
 A. Ozerov, S. Kitic, P. Pérez  
 *MLSP 2017*
 
-[Guiding audio source separation by video object information]()  
+[Guiding audio source separation by video object information]  
 S. Parekh, S. Essid, A. Ozerov, N. Duong, P. Pérez, G. Richard  
 *WASPAA 2017*
 
