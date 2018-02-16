@@ -161,12 +161,12 @@ M. Fradet, P. Pérez, Ph. Robert
 I. Junejo, E. Dexter, I. Laptev, P. Pérez  
 *ECCV 2008*
 
-[Time-sequential extraction of motion layers(http://www.irisa.fr/vista/Papers/2008-icip-fradet.pdf)]  
+[Time-sequential extraction of motion layers](http://www.irisa.fr/vista/Papers/2008-icip-fradet.pdf)  
 M. Fradet, P. Pérez, Ph. Robert  
 *ICIP 2008*
 
 A. Bugeau, P. Pérez  
-[Detection and segmentation of moving objects in highly dynamic scenes](http://www.irisa.fr/vista/Papers/2007_cvpr_bugeau.pdf
+[Detection and segmentation of moving objects in highly dynamic scenes](http://www.irisa.fr/vista/Papers/2007_cvpr_bugeau.pdf)
 *CVPR 2007*
 
 [Extraction of singular points from dense motion fields: an analytic approach](http://thomas.corpetti.free.fr/jmiv_corpetti.pdf)  
@@ -193,7 +193,7 @@ T. Corpetti, E. Mémin, P. Pérez
 E. Mémin, P. Pérez  
 *ICCV 1999*
 
-Dense/parametric estimation of fluid flows(http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=817213)  
+[Dense/parametric estimation of fluid flows](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=817213)  
 E. Mémin, P. Pérez  
 *ICIP 1999*
 
