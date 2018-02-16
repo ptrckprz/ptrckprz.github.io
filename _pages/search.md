@@ -10,6 +10,10 @@ redirect_from:
 
 ### Relevant publications
 
+[Learning a complete image indexing pipeline](https://arxiv.org/pdf/1712.04480.pdf)  
+H. Jain, J. Zepeda, P. Pérez, R. Gribonval  
+arXiv preprint arXiv:1712.04480
+
 [Sketching for large scale learning of mixture models](https://arxiv.org/abs/1606.02838)  
 N. Keriven, A. Bourrier, R. Gribonval, P. Pérez  
 *Information & Inference*, 2017
