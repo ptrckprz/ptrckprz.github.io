@@ -11,7 +11,7 @@ redirect_from:
 ### Relevant publications
 
 [Non-local patch-based image inpainting](http://www.ipol.im/pub/art/2017/189/?utm_source=doi)  
-A Newson, A Almansa, Y Gousseau, P Pérez  
+A. Newson, A. Almansa, Y. Gousseau, P. Pérez  
 Image Processing On Line 7, 373-385, 2017 [online [demo](http://ipolcore.ipol.im/demo/clientAppOld/demo.html?id=189)]
 
 [Pose and expression-coherent face recovery in the wild](http://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w24/html/Burgos-Artizzu_Pose_and_Expression-Coherent_ICCV_2015_paper.html)  
@@ -31,7 +31,7 @@ A. Newson, M. Fradet, P. Pérez, A. Almansa, Y. Gousseau
 
 [Geometrically guided exemplar-based inpainting](http://perso.telecom-paristech.fr/~gousseau/inpaintingSIAM.pdf)  
 F. Cao, Y. Gousseau, S. Masnou and P. Pérez  
-SIAM J. Imaging Sciences, 4(4): 1143–1179, 2011
+*SIAM J. Imaging Sciences*, 4(4): 1143–1179, 2011
 
 [Region filling and object removal by exemplar-based inpainting](http://research.microsoft.com/pubs/67276/criminisi_tip2004.pdf)  
 A. Criminisi, P. Pérez, K. Toyama  
