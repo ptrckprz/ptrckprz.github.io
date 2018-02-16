@@ -115,7 +115,7 @@ R. Venkatesh Babu, P. Pérez, P. Bouthemy
 J. Vermaak, S. Maskell, M. Briers, P. Pérez  
 *ICIP 2005*
 
-Multi-Target tracking and existence  
+[A unifying framework for multi-Target tracking and existence](http://fusion.isif.org/proceedings/fusion05CD/Content/papers/e363d93799a897469163f526b647.pdf)  
 J. Vermaak, S. Maskell, M. Briers, P. Pérez   
 *Fusion 2005*
 
