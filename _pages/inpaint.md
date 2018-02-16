@@ -12,7 +12,7 @@ redirect_from:
 
 [Non-local patch-based image inpainting](http://www.ipol.im/pub/art/2017/189/?utm_source=doi)  
 A. Newson, A. Almansa, Y. Gousseau, P. Pérez  
-Image Processing On Line 7, 373-385, 2017 [online [demo](http://ipolcore.ipol.im/demo/clientAppOld/demo.html?id=189)]
+*Image Processing On Line* 7, 373-385, 2017 [online [demo](http://ipolcore.ipol.im/demo/clientAppOld/demo.html?id=189)]
 
 [Pose and expression-coherent face recovery in the wild](http://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w24/html/Burgos-Artizzu_Pose_and_Expression-Coherent_ICCV_2015_paper.html)  
 X. Burgos-Artizzu, J. Zepeda, F. Le Clerc, P. Pérez  
