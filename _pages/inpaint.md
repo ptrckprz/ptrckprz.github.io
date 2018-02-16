@@ -20,7 +20,7 @@ X. Burgos-Artizzu, J. Zepeda, F. Le Clerc, P. Pérez
 
 [Video inpainting of complex scenes](http://perso.telecom-paristech.fr/~gousseau/video_inpainting/Video_inpainting_complex_scenes.pdf)  
 A. Newson, A. Almansa, M. Fradet, Y. Gousseau, P. Pérez  
-SIAM Journal on Imaging Sciences, 7(4):1993-2019, 2014 [[project](http://perso.telecom-paristech.fr/~gousseau/video_inpainting/)]
+*SIAM Journal on Imaging Sciences*, 7(4):1993-2019, 2014 [[project](http://perso.telecom-paristech.fr/~gousseau/video_inpainting/)]
 
 [Towards fast, generic video inpainting](http://hal.archives-ouvertes.fr/docs/00/83/89/27/PDF/Fast_video_inpainting_preprint.pdf)  
 A. Newson, M. Fradet, P. Pérez, A. Almansa, Y. Gousseau  
