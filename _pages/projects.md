@@ -12,7 +12,7 @@ redirect_from:
 * Photo-real face editing and retargeting
 * Fast 3D face models from photos with deep learning
 
-### Semantic 3D reconstruction  
+### Semantic 3D reconstruction [[more](/reconstruct/)]
 (coll. with Phil Torr's [group](http://www.robots.ox.ac.uk/~tvg/) at University of Oxford) 
 * Interactive semantic 3D reconstruction
 * Multi-modal semantic 3D reconstruction
@@ -32,7 +32,7 @@ redirect_from:
 * Structural image inpainting with context encoders
 * Face inpainting
 
-### Large scale indexing and sketching   
+### Large scale indexing and sketching [[more](/search/)]   
 * Beyond product quantization for image indexing (coll. with [Joaquin Zepeda](https://joaquin-zepeda.com/) at Amazon)
 * Sketching for large scale unsupervised learning (coll. with [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) at Inria)
 * Cross-modal search with deep text-semantic embeddings (coll. with [Matthieu Cord](http://webia.lip6.fr/~cord/) at UPMC)
