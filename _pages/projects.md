@@ -37,7 +37,7 @@ redirect_from:
 * Sketching for large scale unsupervised learning (coll. with [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/) at Inria)
 * Cross-modal search with deep text-semantic embeddings (coll. with [Matthieu Cord](http://webia.lip6.fr/~cord/) at UPMC)
 
-### Audio source separation and modeling
+### Audio modeling and processing [[more](/audio/)]
 * Informed source separation
 * Audio inpainting and declipping, speech inpainting
 * Deep audio style transfer
