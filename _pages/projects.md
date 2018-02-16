@@ -22,7 +22,7 @@ redirect_from:
 * Segmentation of video objects
 * Analaysis of visual dynamics (coll. with [Patrick Bouthemy](http://www.irisa.fr/vista/Equipe/People/Patrick.Bouthemy.english.html) at Inria) 
 
-### Graph signal processing [[more](/graph/)]
+### Graph signal processing and learning [[more](/graph/)]
 * Structured sampling on graph
 * ConvNets on graphs
 * Deep solvers for fast and flexible style transfer
