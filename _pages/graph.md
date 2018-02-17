@@ -16,7 +16,7 @@ G. Puy and P. Pérez
 
 [Structured sampling and fast reconstruction of smooth graph signals](https://arxiv.org/abs/1705.02202)  
 G. Puy and P. Pérez  
-Information & Inference, 2017
+*Information & Inference*, 2017
 
 [Unifying local and non-local signal processing with graph CNNs](https://arxiv.org/pdf/1702.07759.pdf)  
 G. Puy, S. Kitic, P. Pérez  
