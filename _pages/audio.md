@@ -1,5 +1,5 @@
 ---
-title: "Audion modeling and processing"
+title: "Audio modeling and processing"
 permalink: /audio/
 author_profile: true
 redirect_from:
