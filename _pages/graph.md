@@ -10,7 +10,7 @@ redirect_from:
 
 ### Relevant publications
 
-A fexible convolutional solver with application to photorealistic style transfer  
+A flexible convolutional solver with application to photorealistic style transfer  
 G. Puy and P. Pérez  
 *in preparation*
 
