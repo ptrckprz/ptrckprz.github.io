@@ -50,7 +50,7 @@ J. Delhumeau, Ph.-H. Gosselin, H. Jégou and P. Pérez
 
 [Aggregating local image descriptors into compact codes](http://hal.inria.fr/docs/00/63/30/13/PDF/jegou_aggregate.pdf)  
 H. Jégou, F. Perronnin, M. Douze, J. Sánchez, P. Pérez, C. Schmid  
-IEEE Trans. Pattern Anal. Machine Intell., 34(9), 2012 [[code](http://lear.inrialpes.fr/src/inria_fisher/)]
+*IEEE Trans. Pattern Anal. Machine Intell.*, 34(9), 2012 [[code](http://lear.inrialpes.fr/src/inria_fisher/)]
 
 [Aggregating local descriptors into a compact image representation](http://lear.inrialpes.fr/pubs/2010/JDSP10/jegou_compactimagerepresentation.pdf)  
 H. Jégou, M. Douze, C. Schmid and P.Pérez  
