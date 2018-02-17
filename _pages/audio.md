@@ -1,5 +1,5 @@
 ---
-title: "Graph signal processing and learning"
+title: "Audion modeling and processing"
 permalink: /audio/
 author_profile: true
 redirect_from:
