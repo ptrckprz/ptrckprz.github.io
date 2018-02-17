@@ -1,5 +1,5 @@
 ---
-title: "Visual inpainting"
+title: "Semantic 3D reconstruction"
 permalink: /reconstruct/
 author_profile: true
 redirect_from:
