@@ -34,8 +34,8 @@ J.M. Pérez-Rua, T. Crivelli, P. Pérez, P. Bouthemy
 A. Djelouah, J.S. Franco, E. Boyer, P. Pérez, G. Drettakis  
 *3DV 2016*
 
-[.M. Pérez-Rua, T. Crivelli, P. Pérez, P. Bouthemy](https://hal.archives-ouvertes.fr/hal-01314095)
-Hierarchical motion decomposition for dynamic scene parsing  
+[Hierarchical motion decomposition for dynamic scene parsing](https://hal.archives-ouvertes.fr/hal-01314095)  
+M. Pérez-Rua, T. Crivelli, P. Pérez, P. Bouthemy  
 *ICIP 2016*
 
 [Sparse multi-view consistency for object segmentation](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6996026)  
@@ -80,7 +80,8 @@ C Avenel, E Memin, P Pérez
 C. Avenel, E. Memin, P. Perez  
 *SSVM 2009*
 
-[Geometric layout based graphical model for multi-Part object tracking](http://www.irisa.fr/vista/Papers/2008_eccv-vs_Badrinarayanan.pdf)   V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel  
+[Geometric layout based graphical model for multi-Part object tracking](http://www.irisa.fr/vista/Papers/2008_eccv-vs_Badrinarayanan.pdf)  
+V. Badrinarayanan, P. Pérez, F. Le Clerc, L. Oisel  
 *ECCV-VS 2008*
 
 [Robust tracking with motion estimation and local kernel-based color modeling](http://www.irisa.fr/vista/Papers/2007_ivc_babu.pdf)  
@@ -107,7 +108,7 @@ R. Venkatesh Babu, P. Pérez, P. Bouthemy
 A. Lehuger, P. Lechat, P. Pérez  
 *ICIP 2006*
 
-[Robust tracking with motion estimation and kenel-based color modelling](http://www.irisa.fr/vista/Papers/2005_icip_babu.pdf)
+[Robust tracking with motion estimation and kenel-based color modelling](http://www.irisa.fr/vista/Papers/2005_icip_babu.pdf)  
 R. Venkatesh Babu, P. Pérez, P. Bouthemy  
 *ICIP 2005*
 
@@ -120,7 +121,7 @@ J. Vermaak, S. Maskell, M. Briers, P. Pérez
 *Fusion 2005*
 
 [Bayesian tracking with auxiliary discrete processes. Application to detection and tracking of objects with occlusions](http://www.irisa.fr/vista/Papers/2005_wdviccv_perez.pdf)  
-P. Pérez, J. Vermaak 
+P. Pérez, J. Vermaak  
 *WDV 2005*
 
 [Visual tracking and auxiliary discrete processes](http://conferences.telecom-bretagne.eu/asmda2005/IMG/pdf/proceedings/1069.pdf)  
