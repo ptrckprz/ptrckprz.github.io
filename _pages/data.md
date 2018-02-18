@@ -19,7 +19,7 @@ redirect_from:
 
 * [TSFT](http://grvsharma.com/datasets.html#tsft): face tubes from TV series (589 manually croped and annotated face tubes of 94 subjects
 * [Hannah](https://www.technicolor.com/dream/research-innovation/hannah-dataset): dense person annotation of Woody Allen's Hannah and her sisters.
-* [Scratch](https://www.technicolor.com/dream/research-innovation/hannah-dataset): annotated data on scractch detection for movie restoration, with TelecomParisTech
+* [Scratch](https://perso.telecom-paristech.fr/gousseau/scratch_detection/): annotated data on scractch detection for movie restoration, with TelecomParisTech
 * [VideoInpainting](http://perso.telecom-paristech.fr/~gousseau/video_inpainting/): videos and objects' masks for object inpainting, with TelecomParisTech
 
 
