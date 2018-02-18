@@ -14,7 +14,7 @@ redirect_from:
 * [ROAM](https://github.com/omiksik/roam): Rich Online Appearance Model (CPVR 2017) - C++, using OpenCV 3.0
 * [SLEM](https://github.com/rafarez/SLEM): Square Loss Exemplar Machines (CVPR 2017) - Matlab
 * [VLAD](http://lear.inrialpes.fr/src/inria_fisher/): Vector of Locally Aggregated Descriptors (CVPR10) - Matlab, using Yael
-* [VideoInpaint](https://perso.telecom-paristech.fr/gousseau/video_inpainting/): Patch-based video inpainting 
+* [VideoInpaint](https://perso.telecom-paristech.fr/gousseau/video_inpainting/): Patch-based video inpainting (SIAM J. Imaging Science 2014)
 
 ### Data
 
