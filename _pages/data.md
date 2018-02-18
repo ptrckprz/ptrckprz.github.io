@@ -1,5 +1,5 @@
 ---
-title: "Code, data, demos"
+title: "Code & data"
 permalink: /data/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Codes
+### Code
 
 * [SuBic](https://github.com/technicolor-research/subic): Supervised Binary Codes (ICCV 2017) - Python
 * [ROAM](https://github.com/omiksik/roam): Rich Online Appearance Model (CPVR 2017) - C++, using OpenCV 3.0
