@@ -12,7 +12,7 @@ redirect_from:
 
 [Self-supervised multi-level face model learning for monocular reconstruction at over 250 Hz](https://arxiv.org/abs/1712.02859)  
 A. Tewari, M. Zollhöfer, P. Garrido, F. Bernard, H. Kim, P. Pérez, Ch. Theobalt  
-arXiv preprint arXiv:1712.02859
+*CVPR 2018*
 
 [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf)  
 A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt  
