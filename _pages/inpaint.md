@@ -10,6 +10,10 @@ redirect_from:
 
 ### Relevant publications
 
+Structural inpaint  
+Vo Van Huy, N. Duong, P. Pérez  
+*In preparation*
+
 [Non-local patch-based image inpainting](http://www.ipol.im/pub/art/2017/189/?utm_source=doi)  
 A. Newson, A. Almansa, Y. Gousseau, P. Pérez  
 *Image Processing On Line* 7, 373-385, 2017 [online [demo](http://ipolcore.ipol.im/demo/clientAppOld/demo.html?id=189)]
