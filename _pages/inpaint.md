@@ -10,7 +10,7 @@ redirect_from:
 
 ### Relevant publications
 
-Structural inpaint  
+Structural inpainting  
 Vo Van Huy, N. Duong, P. Pérez  
 *In preparation*
 
