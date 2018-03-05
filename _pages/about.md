@@ -13,7 +13,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* [Valeo.ai](https://www.valeo.com/en/valeo-launches-valeo-ai-the-first-global-research-center-in-artificial-intelligence-and-deep-learning-for-automotive-applications-based-in-paris/) is starting in the center of Paris. We are hiring highly motivated researchers, posdocs and PhD students to embark with us on this exciting adventure. 
+* [Valeo.ai](https://www.valeo.com/en/valeo-launches-valeo-ai-the-first-global-research-center-in-artificial-intelligence-and-deep-learning-for-automotive-applications-based-in-paris/) is starting in the center of Paris. We are hiring highly motivated researchers, postdocs and PhD students to embark on this exciting adventure. 
 
 * Pleased to announce that the workshop "[Deep learning: From theory to applications](https://www.lebesgue.fr/content/sem2018-deeplearning)" will be held at Technicolor in Rennes, France, 4-6 September 2018. Program is under construction, around six keynote speakers: **Cordelia Schmid** (Inria), **Stéphane Mallat** (ENS Paris/Collège de France), **Pierre Vandergheynst** (EPFL), **François Pachet** (Spotify), **Matthieu Cord** (UPMC) and **Gitta Kutyniok** (T.U.Berlin). Registration is free, but capacity is limited. Registration requests are open on the site.
 
