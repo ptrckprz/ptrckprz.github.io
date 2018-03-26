@@ -10,9 +10,13 @@ redirect_from:
 
 ### Relevant publications
 
+[State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
+M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
+*State of Art Report, EG 2018*
+
 [Self-supervised multi-level face model learning for monocular reconstruction at over 250 Hz](https://arxiv.org/abs/1712.02859)  
 A. Tewari, M. Zollhöfer, P. Garrido, F. Bernard, H. Kim, P. Pérez, Ch. Theobalt  
-*CVPR 2018*
+*CVPR 2018* [[page](http://gvv.mpi-inf.mpg.de/projects/FML/),[video](http://gvv.mpi-inf.mpg.de/projects/FML/video.mp4)]
 
 [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf)  
 A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt  
