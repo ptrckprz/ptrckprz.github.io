@@ -16,15 +16,15 @@ M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stammin
 
 Finding beans in burgers: Deep semantic-visual embedding with localization  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
-*CVPR 2018* [[page](http://gvv.mpi-inf.mpg.de/projects/FML/),[video](http://gvv.mpi-inf.mpg.de/projects/FML/video.mp4)]
+*CVPR 2018*
 
 [Learning a complete image indexing pipeline](https://arxiv.org/pdf/1712.04480.pdf)  
 H. Jain, J. Zepeda, P. Pérez, R. Gribonval  
 *CVPR 2018*
 
-[Self-supervised multi-level face model learning for monocular reconstruction at over 250 Hz](https://arxiv.org/abs/1712.02859)  
+[Self-supervised multi-level face model learning for monocular reconstruction at over 250 Hz](http://gvv.mpi-inf.mpg.de/projects/FML/paper.pdf)  
 A. Tewari, M. Zollhöfer, P. Garrido, F. Bernard, H. Kim, P. Pérez, Ch. Theobalt  
-*CVPR 2018*
+*CVPR 2018* [[page](http://gvv.mpi-inf.mpg.de/projects/FML/),[video](http://gvv.mpi-inf.mpg.de/projects/FML/video.mp4)]
 
 [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf)  
 A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt  
