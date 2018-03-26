@@ -10,13 +10,13 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
-State of the art on monocular 3D face Reconstruction, tracking, and applications  
+[State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
 *State of Art Report, EG 2018*
 
 Finding beans in burgers: Deep semantic-visual embedding with localization  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
-*CVPR 2018*
+*CVPR 2018* [[page](http://gvv.mpi-inf.mpg.de/projects/FML/),[video](http://gvv.mpi-inf.mpg.de/projects/FML/video.mp4)]
 
 [Learning a complete image indexing pipeline](https://arxiv.org/pdf/1712.04480.pdf)  
 H. Jain, J. Zepeda, P. Pérez, R. Gribonval  
