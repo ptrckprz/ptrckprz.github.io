@@ -14,7 +14,7 @@ redirect_from:
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
 *State of Art Report, EG 2018*
 
-Finding beans in burgers: Deep semantic-visual embedding with localization  
+[Finding beans in burgers: Deep semantic-visual embedding with localization](https://arxiv.org/abs/1804.01720)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
 *CVPR 2018*
 
