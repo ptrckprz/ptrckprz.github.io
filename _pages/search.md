@@ -10,7 +10,7 @@ redirect_from:
 
 ### Relevant publications
 
-Finding beans in burgers: Deep semantic-visual embedding with localization  
+[Finding beans in burgers: Deep semantic-visual embedding with localization](https://arxiv.org/abs/1804.01720)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
 *CVPR 2018*
 
