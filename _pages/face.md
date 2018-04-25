@@ -12,7 +12,7 @@ redirect_from:
 
 [State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
-*State of Art Report, EG 2018*
+*State of Art Report, EG 2018* [[page](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/page.html)]
 
 [Self-supervised multi-level face model learning for monocular reconstruction at over 250 Hz](http://gvv.mpi-inf.mpg.de/projects/FML/paper.pdf)  
 A. Tewari, M. Zollhöfer, P. Garrido, F. Bernard, H. Kim, P. Pérez, Ch. Theobalt  
