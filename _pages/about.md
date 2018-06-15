@@ -15,6 +15,8 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 * [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html) will be presented at Siggraph in Vancouver, 16 August 2018 ([video](https://www.youtube.com/watch?v=qc5P2bvfl44)).  
 
+* We are hiring Research Scientists in Prague as well, contact me for more information.
+
 * Valeo.ai will be at Valeo booth at CVPR, Salt Lake City, 19-21 June 2018, come and visit us.
 
 * [Valeo.ai](https://www.valeo.com/en/valeo-launches-valeo-ai-the-first-global-research-center-in-artificial-intelligence-and-deep-learning-for-automotive-applications-based-in-paris/) is starting in the center of Paris. We are hiring highly motivated researchers, postdocs and PhD students to embark on this exciting adventure. 
