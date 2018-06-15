@@ -40,11 +40,11 @@ Computer Vision and Image Understanding, 153:88-99, 2016
 
 [Corrective 3D reconstruction of lips from monocular video](http://gvv.mpi-inf.mpg.de/files/SA2016/MonLipReconstruction-Low.pdf)  
 P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt  
-ACM Trans. on Graphics, 35(6), 2016
+ACM Trans. on Graphics (Proc. Siggraph Asia 2016), 35(6), 2016
 
 [Reconstruction of personalized 3D face rigs from monocular video](http://people.mpi-inf.mpg.de/~mzollhoef/Papers/SG2016_PF/paper.pdf)  
 P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt  
-ACM Trans. on Graphics, 35(3), 2016
+ACM Trans. on Graphics, 35(3), 2016 - Presented at Siggraph 2016
 
 [Sparse multi-view consistency for object segmentation](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6996026)  
 A. Djelouah, J.S. Franco, F. Le Clerc, P. Pérez and E. Boyer  
