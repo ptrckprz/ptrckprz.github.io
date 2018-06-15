@@ -71,11 +71,11 @@ Ch. Avenel, E. Mémin, P. Pérez
 J. Mathematical Imaging and Vision, 49(2): 296-316, 2014
 
 [Perceptual principles for video classification with Slow Feature Analysis](http://webia.lip6.fr/~thomen/papers/Theriault-STSP-2014.pdf)  Ch. Thériault, N. Thome, M. Cord and P. Pérez  
-IEEE J. Selec. Topics Signal Proc., 8(3): 428 - 437, 2014
+IEEE J. Selec. Topics Signal Proc., 8(3): 428-437, 2014
 
 [Robust automatic line scratch detection in films](http://hal.archives-ouvertes.fr/docs/00/92/70/07/PDF/Scratch_detection_journal_revised.pdf)  
 A. Newson, A. Almansa, Y. Gousseau, P. Pérez  
-IEEE Trans. Image Processing, 23(3): 1240 - 1254, 2014 [[project](https://perso.telecom-paristech.fr/gousseau/scratch_detection/)]
+IEEE Trans. Image Processing, 23(3): 1240-1254, 2014 [[project](https://perso.telecom-paristech.fr/gousseau/scratch_detection/)]
 
 [Correspondence map-aided neighbor embedding for image intra prediction](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6355678)  
 S. Chérigui, Ch. Guillemot, D. Thoreau, Ph. Guillotel, and P. Pérez  
