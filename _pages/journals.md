@@ -16,7 +16,7 @@ ACM Tran. on Graphics (Proc. Siggraph 2018), 2018
 
 [State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
-Computer Graphics Forum (Eurographics State of the Art Reports 2018)}, 37(2), 2018       
+Computer Graphics Forum (Eurographics State of the Art Reports 2018), 37(2), 2018       
 
 [Sketching for large scale learning of mixture models](https://arxiv.org/abs/1606.02838)  
 N. Keriven, A. Bourrier, R. Gribonval, P. Pérez  
