@@ -12,7 +12,7 @@ redirect_from:
 
 [Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
 Hyeongwoo Kim, Pablo Garrido, Ayush Tewari, Weipeng Xu, Justus Thies, Matthias Niessner, Patrick Pérez, Christian Richardt, Michael Zollhöfer, Christian Theobalt  
-*ACM Transactions on Graphics (Proc. Siggraph 2018)* [[page](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)] 
+ACM Transactions on Graphics, 2018 (Proc. Siggraph 2018)
 
 [Sketching for large scale learning of mixture models](https://arxiv.org/abs/1606.02838)  
 N. Keriven, A. Bourrier, R. Gribonval, P. Pérez  
@@ -36,7 +36,7 @@ Computer Vision and Image Understanding, 153:88-99, 2016
 
 [Corrective 3D reconstruction of lips from monocular video](http://gvv.mpi-inf.mpg.de/files/SA2016/MonLipReconstruction-Low.pdf)  
 P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt  
-ACM Trans. on Gragphics, 35(6), 2016
+ACM Trans. on Graphics, 35(6), 2016
 
 [Reconstruction of personalized 3D face rigs from monocular video](http://people.mpi-inf.mpg.de/~mzollhoef/Papers/SG2016_PF/paper.pdf)  
 P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt  
