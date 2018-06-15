@@ -9,6 +9,11 @@ redirect_from:
 {% include base_path %}
 
 ## Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+
+[Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
+Hyeongwoo Kim, Pablo Garrido, Ayush Tewari, Weipeng Xu, Justus Thies, Matthias Niessner, Patrick Pérez, Christian Richardt, Michael Zollhöfer, Christian Theobalt  
+*ACM Transactions on Graphics (Proc. Siggraph 2018)* [[page](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)] 
+
 [Sketching for large scale learning of mixture models](https://arxiv.org/abs/1606.02838)  
 N. Keriven, A. Bourrier, R. Gribonval, P. Pérez  
 Information & Inference, 2017
