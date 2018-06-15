@@ -12,11 +12,11 @@ redirect_from:
 
 [Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
 H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
-ACM Tran. on Graphics, 2018 (Proc. Siggraph 2018)
+ACM Tran. on Graphics (Proc. Siggraph 2018), 2018
 
 [State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
-Graphics Forum, 2018 (Eurgographics State of Art Report)
+Computer Graphics Forum (Eurographics State of the Art Reports 2018)}, 37(2), 2018       
 
 [Sketching for large scale learning of mixture models](https://arxiv.org/abs/1606.02838)  
 N. Keriven, A. Bourrier, R. Gribonval, P. Pérez  
