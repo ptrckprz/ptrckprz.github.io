@@ -11,8 +11,12 @@ redirect_from:
 ## Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
 [Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
-Hyeongwoo Kim, Pablo Garrido, Ayush Tewari, Weipeng Xu, Justus Thies, Matthias Niessner, Patrick Pérez, Christian Richardt, Michael Zollhöfer, Christian Theobalt  
-ACM Transactions on Graphics, 2018 (Proc. Siggraph 2018)
+H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
+ACM Tran. on Graphics, 2018 (Proc. Siggraph 2018)
+
+[State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
+M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
+Graphics Forum, 2018 (Eurgographics State of Art Report)
 
 [Sketching for large scale learning of mixture models](https://arxiv.org/abs/1606.02838)  
 N. Keriven, A. Bourrier, R. Gribonval, P. Pérez  
