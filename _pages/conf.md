@@ -10,6 +10,10 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
+H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
+*Siggraph 2018* [[page](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)]  
+
 [State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
 *State of Art Report, EG 2018* [[page](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/page.html)]
