@@ -10,6 +10,11 @@ redirect_from:
 
 ### Relevant publications
 
+[Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)
+Hyeongwoo Kim, Pablo Garrido, Ayush Tewari, Weipeng Xu, Justus Thies, Matthias Niessner, Patrick Pérez, Christian Richardt, Michael Zollhöfer, Christian Theobalt  
+*ACM Transactions on Graphics (Proc. Siggraph 2018)* [[page](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)]  
+
+
 [State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
 *State of Art Report, EG 2018* [[page](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/page.html)]
