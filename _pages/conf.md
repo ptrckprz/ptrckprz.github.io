@@ -83,7 +83,7 @@ O. Miksik, Y. Amar, V. Vineet, P. Pérez, Ph. Torr
 *IROS 2015*
 
 [Incremental dense semantic stereo fusion for large-scale semantic scene reconstruction](http://www.miksik.co.uk/papers/vineet2015icra.pdf)  
-V. Vineet, O. Miksik, M. Lidegaard, M. Niessner, S. Golodetz, Prisacariu, Kähler, Murray, S. Izadi, P. Pérez, Ph. Torr  
+V. Vineet, O. Miksik, M. Lidegaard, M. Niessner, S. Golodetz, V. Prisacariu, O. Kähler, D. Murray, S. Izadi, P. Pérez, Ph. Torr  
 *ICRA 2015*
 
 [Automatic face reenactment](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/files/FaceReenactment.pdf)  
