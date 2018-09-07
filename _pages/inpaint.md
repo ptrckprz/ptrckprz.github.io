@@ -10,9 +10,9 @@ redirect_from:
 
 ### Relevant publications
 
-Structural inpainting  
+[Structural inpainting](https://arxiv.org/abs/1803.10348)  
 Vo Van Huy, N. Duong, P. Pérez  
-*In preparation*
+*ACM Multimedia 2018*
 
 [Non-local patch-based image inpainting](http://www.ipol.im/pub/art/2017/189/?utm_source=doi)  
 A. Newson, A. Almansa, Y. Gousseau, P. Pérez  
