@@ -13,7 +13,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html) will be presented at Siggraph in Vancouver, 16 August 2018 ([video](https://www.youtube.com/watch?v=qc5P2bvfl44)).  
+* [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html) was presented at Siggraph in Aug. 2018 ([statement](https://techxplore.com/news/2018-08-ai-dodgy-lip-sync-dubbing.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)).  
 
 * We are hiring Research Scientists in Prague as well, contact me for more information.
 
