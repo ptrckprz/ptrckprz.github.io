@@ -10,6 +10,10 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Structural inpainting](https://arxiv.org/abs/1803.10348)  
+Vo Van Huy, N. Duong, P. Pérez  
+*ACM Multimedia 2018*
+
 [Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
 H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
 *Siggraph 2018* [[page](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)]  
