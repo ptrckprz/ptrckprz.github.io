@@ -12,7 +12,7 @@ redirect_from:
 
 [Solving time domain audio inverse problems using nonnegative tensor factorization](https://hal.inria.fr/hal-01669825/document)  
 C. Bilen, A. Ozerov, P. Pérez  
-*under submission*
+*IEEE Trans. on Signal Processing* (to appear)
 
 [Audio style transfer](https://arxiv.org/pdf/1710.11385.pdf)  
 E. Grinstein, N. Duong, A. Ozerov, P. Pérez  
