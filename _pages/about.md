@@ -13,14 +13,13 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* Shortcoming talks at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc) (Sophia Antipolis, 7-9 Nov.) and [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm) (ENS Paris, 23 Nov.)
+* Forthcoming talks at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc) (Sophia Antipolis, 7-9 Nov.) and [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm) (ENS Paris, 23 Nov.)
 
 * [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html) was presented at Siggraph in Aug. 2018 ([statement](https://techxplore.com/news/2018-08-ai-dodgy-lip-sync-dubbing.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)).  
-* We are hiring Research Scientists in Prague as well, contact me for more information.
 
 [//]: # (* Valeo.ai will be at Valeo booth at CVPR, Salt Lake City, 19-21 June 2018, come and visit us.)
 
-* [Valeo.ai](https://www.valeo.com/en/valeo-launches-valeo-ai-the-first-global-research-center-in-artificial-intelligence-and-deep-learning-for-automotive-applications-based-in-paris/) started in March 2018 in the center of Paris. We are hiring highly motivated researchers, postdocs and PhD students to embark on this exciting adventure. 
+* [Valeo.ai](https://www.valeo.com/en/valeo-launches-valeo-ai-the-first-global-research-center-in-artificial-intelligence-and-deep-learning-for-automotive-applications-based-in-paris/) started in March 2018 in the center of Paris. We are hiring highly motivated researchers, postdocs and PhD students to embark on this exciting adventure.  We are hiring Research Scientists in Prague as well.
 
 * The workshop "[Deep learning: From theory to applications](https://www.lebesgue.fr/content/sem2018-deeplearning)" was held at Technicolor in Rennes, France, 4-6 September 2018. We had a variety of great talks, including six keynotes by **Matthieu Cord** (UPMC/Valeo.ai), **Stéphane Mallat** (ENS Paris/Collège de France), **François Pachet** (Spotify), **Olivier Pietquin** (Google Brain), **Cordelia Schmid** (Inria/Google) and **Pierre Vandergheynst** (EPFL).  
 
