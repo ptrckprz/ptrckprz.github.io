@@ -10,6 +10,10 @@ redirect_from:
 
 ## Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+ROAM: a Rich Object Appearance Model with Application to Rotoscoping  
+J.-M. Pérez-Rua, O. Miksik, T. Crivelli, P. Bouthemy, P. Torr and P. Pérez  
+*IEEE Trans. on Pattern Analysis and Machine Intelligence* (to appear)
+
 [Solving time domain audio inverse problems using nonnegative tensor factorization](https://hal.inria.fr/hal-01669825/document)  
 C. Bilen, A. Ozerov, P. Pérez  
 *IEEE Trans. on Signal Processing* (to appear)
