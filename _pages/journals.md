@@ -10,6 +10,10 @@ redirect_from:
 
 ## Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/FML/paper.pdf)  
+A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
+*IEEE Trans. Pattern Analysis and Machine Intelligence*, 2018 [[page](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)]  
+
 ROAM: a Rich Object Appearance Model with Application to Rotoscoping  
 J.-M. Pérez-Rua, O. Miksik, T. Crivelli, P. Bouthemy, P. Torr and P. Pérez  
 *IEEE Trans. on Pattern Analysis and Machine Intelligence* (to appear)
