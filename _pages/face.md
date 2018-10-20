@@ -10,9 +10,9 @@ redirect_from:
 
 ### Relevant publications
 
-[High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/FML/paper.pdf)  
+[High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)  
 A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
-*IEEE Trans. Pattern Analysis and Machine Intelligence*, 2018 [[page](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)]  
+*IEEE Trans. on Pattern Analysis and Machine Intelligence*, to appear [[page](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)]  
 
 [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
 H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
