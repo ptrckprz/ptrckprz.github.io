@@ -12,7 +12,7 @@ redirect_from:
 
 [Finding beans in burgers: Deep semantic-visual embedding with localization](https://arxiv.org/abs/1804.01720)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
-*CVPR 2018*
+*CVPR 2018*  [[code](https://github.com/technicolor-research/dsve-loc)]
 
 [Learning a complete image indexing pipeline](https://arxiv.org/pdf/1712.04480.pdf)  
 H. Jain, J. Zepeda, P. Pérez, R. Gribonval  
