@@ -13,7 +13,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* Code of our CPVR18 work on semantic-visual embedding is availabe on [github](https://github.com/technicolor-research/dsve-loc)
+* Code of our CPVR18 work on semantic-visual embedding is availabe on [github](https://github.com/technicolor-research/dsve-loc).
 
 * Given talks at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc) (Sophia Antipolis, 7-9 Nov.) and [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm) (ENS Paris, 23 Nov.)
 
