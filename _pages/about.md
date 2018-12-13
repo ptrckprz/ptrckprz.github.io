@@ -13,7 +13,9 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* Forthcoming talks at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc) (Sophia Antipolis, 7-9 Nov.) and [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm) (ENS Paris, 23 Nov.)
+* Code of our CPVR18 work on semantic-visual embedding is availabe on [github](https://github.com/technicolor-research/dsve-loc)
+
+* Given talks at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc) (Sophia Antipolis, 7-9 Nov.) and [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm) (ENS Paris, 23 Nov.)
 
 * [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html) was presented at Siggraph in Aug. 2018 ([statement](https://techxplore.com/news/2018-08-ai-dodgy-lip-sync-dubbing.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)).  
 
