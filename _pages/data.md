@@ -10,6 +10,7 @@ redirect_from:
 
 ### Code
 
+* [DSVE-loc](https://github.com/technicolor-research/dsve-loc): Deep Semantic Visual Embedding with Localization (CVPR 2018) - PyTorch
 * [SuBic](https://github.com/technicolor-research/subic): Supervised Binary Codes (ICCV 2017) - Python
 * [ROAM](https://github.com/omiksik/roam): Rich Online Appearance Model (CPVR 2017) - C++, using OpenCV 3.0
 * [SLEM](https://github.com/rafarez/SLEM): Square Loss Exemplar Machines (CVPR 2017) - Matlab
