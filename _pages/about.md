@@ -13,7 +13,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* Papers accepted at CVPR 2019, see [there]().
+* Papers accepted at CVPR 2019, see [there](https://ptrckprz.github.io/conf/).
 
 * Code of our CPVR18 work on semantic-visual embedding is availabe on [github](https://github.com/technicolor-research/dsve-loc).
 
