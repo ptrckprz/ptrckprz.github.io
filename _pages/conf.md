@@ -10,6 +10,26 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1812.07603)  
+T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
+*CVPR 2019*
+
+[FML: Face Model Learning from Videos](https://arxiv.org/pdf/1812.07603)  
+A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
+*CVPR 2019*
+
+[A flexible convolutional solver with application to photorealistic style transfer](https://arxiv.org/pdf/1806.05285)  
+G. Puy, P. Pérez  
+*CVPR 2019*
+
+[Unsupervised image matching and object discovery as optimization]()  
+H. V. Vo, K. Han, M. Cho, Y. LeCun, F. Bach, P. Pérez, J. Ponce  
+*CVPR 2019* 
+
+[SoDeep: a Sorting Deep net to learn ranking loss surrogates]()  
+M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
+*CVPR 2019* 
+
 [Structural inpainting](https://arxiv.org/abs/1803.10348)  
 Vo Van Huy, N. Duong, P. Pérez  
 *ACM Multimedia 2018*
