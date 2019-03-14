@@ -23,7 +23,7 @@ G. Puy, P. Pérez
 *CVPR 2019*
 
 [Unsupervised image matching and object discovery as optimization]()  
-H. V. Vo, K. Han, M. Cho, Y. LeCun, F. Bach, P. Pérez, J. Ponce  
+H. V. Vo, K. Han, M. Cho, P. Pérez, F. Bach, Y. LeCun, J. Ponce  
 *CVPR 2019* 
 
 [SoDeep: a Sorting Deep net to learn ranking loss surrogates]()  
