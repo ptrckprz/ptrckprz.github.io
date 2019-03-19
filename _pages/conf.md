@@ -10,7 +10,7 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
-[AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1812.07603)  
+[AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1811.12833)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
 *CVPR 2019*
 
