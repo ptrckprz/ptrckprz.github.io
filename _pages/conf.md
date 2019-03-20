@@ -102,7 +102,7 @@ P. Garrido, L. Valgaerts, H. Sarmadi, I. Steiner, K. Varanasi, P. Pérez, C. The
 O. Miksik, V. Vineet, M. Lidegaard, R. Selvaraju, M. Niessner, S. Golodetz, S. Hicks, P. Pérez, S. Izadi, Ph. Torr  
 *CHI 2015* [[page](http://www.miksik.co.uk/projects/visually_impaired/glasses_for_visually_impaired.html)]
 
-[Incremental dense multi-modal 3D scene reconstruction](http://amar.io/data/papers/ondra2015iros.pdf)  
+[Incremental dense multi-modal 3D scene reconstruction](http://vibhavvineet.info/papers/2015/IROS/iros2015.pdf)  
 O. Miksik, Y. Amar, V. Vineet, P. Pérez, Ph. Torr  
 *IROS 2015*
 
