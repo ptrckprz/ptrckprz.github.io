@@ -22,8 +22,8 @@ A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H.-P. Seidel, P. Pér
 G. Puy, P. Pérez  
 *CVPR 2019*
 
-[Unsupervised image matching and object discovery as optimization]()  
-H. V. Vo, K. Han, M. Cho, P. Pérez, F. Bach, Y. LeCun, J. Ponce  
+[Unsupervised image matching and object discovery as optimization](https://arxiv.org/abs/1904.03148)  
+H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce  
 *CVPR 2019* 
 
 [SoDeep: a Sorting Deep net to learn ranking loss surrogates]()  
@@ -31,7 +31,7 @@ M. Engilberge, L. Chevallier, M. Cord, P. Pérez
 *CVPR 2019* 
 
 [Structural inpainting](https://arxiv.org/abs/1803.10348)  
-Vo Van Huy, N. Duong, P. Pérez  
+H. V. Vo, N. Duong, P. Pérez  
 *ACM Multimedia 2018*
 
 [Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
