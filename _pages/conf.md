@@ -26,7 +26,7 @@ G. Puy, P. Pérez
 H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce  
 *CVPR 2019* 
 
-[SoDeep: a Sorting Deep net to learn ranking loss surrogates]()  
+[SoDeep: a Sorting Deep net to learn ranking loss surrogates](http://arxiv.org/abs/1904.04272)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
 *CVPR 2019* 
 
