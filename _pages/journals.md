@@ -20,7 +20,7 @@ IEEE Trans. on Pattern Analysis and Machine Intelligence, to appear
 
 [Solving time domain audio inverse problems using nonnegative tensor factorization](https://hal.inria.fr/hal-01669825/document)  
 C. Bilen, A. Ozerov, P. Pérez  
-IEEE Trans. on Signal Processing, to appear
+IEEE Trans. on Signal Processing, 66(21):5604 - 5617, 2018
 
 [Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
 H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
