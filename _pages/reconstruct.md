@@ -1,5 +1,5 @@
 ---
-title: "Semantic 3D reconstruction"
+title: "Visual scene understanding"
 permalink: /reconstruct/
 author_profile: true
 redirect_from:
