@@ -13,6 +13,8 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
+* [Valeao.ai](http://valeo.ai) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
+
 * Papers accepted at CVPR 2019, see [there](https://ptrckprz.github.io/conf/).  
 
 * Given talks at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay, 21-22 March), [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris, 1-5 April), [Computing and Learning](http://calcul.math.cnrs.fr/spip.php?article300) (Lyon, 24-25 April).
