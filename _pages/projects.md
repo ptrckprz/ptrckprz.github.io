@@ -6,16 +6,16 @@ redirect_from:
   - /resume
 ---
 
+### Visual scene understanding [[more](/reconstruct/)]
+* Unsupervised domain adaptation for semantic segmentation and object detection  
+* Multi-sensor fusion 
+* Semantic 3D reconstruction (coll. with Phil Torr's [group](http://www.robots.ox.ac.uk/~tvg/) at University of Oxford) 
+
 ### Face modeling [[more](/face/)] 
 (coll. with Christian Theobalt's [group](http://gvv.mpi-inf.mpg.de/) at MPI)
 * Personnalized face rig extraction and tracking
 * Photo-real face editing and retargeting
 * Fast 3D face models from photos with deep learning
-
-### Semantic 3D reconstruction [[more](/reconstruct/)]
-(coll. with Phil Torr's [group](http://www.robots.ox.ac.uk/~tvg/) at University of Oxford) 
-* Interactive semantic 3D reconstruction
-* Multi-modal semantic 3D reconstruction
 
 ### Dynamic visual content analysis [[more](/motion/)]
 * Visual tracking
@@ -41,4 +41,3 @@ redirect_from:
 * Informed source separation
 * Audio inpainting and declipping, speech inpainting
 * Deep audio style transfer
-
