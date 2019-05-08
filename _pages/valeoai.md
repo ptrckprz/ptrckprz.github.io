@@ -20,7 +20,9 @@ redirect_from:
 * Hedi Ben-younes (research scientist) 
 * Maxime Bucher (research scientist)
 
-### Openings: high profile research scientists in machine learning or in 3D scene understanding. Please contact me. 
+### Openings
+* high profile research scientists in machine learning or in 3D scene understanding. Please contact me.
+* AI research ingeneer
 
 
 ### Some projects
