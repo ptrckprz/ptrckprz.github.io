@@ -58,7 +58,7 @@ AI research engineer
 
 EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
 INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/))  
-le CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avener Bar-hen](https://ab-h.github.io/index.html))  
+le CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avner Bar-hen](https://ab-h.github.io/index.html))  
 Max Planck Institute ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
 Ponts ParisTech ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
 Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
