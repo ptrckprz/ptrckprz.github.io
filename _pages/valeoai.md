@@ -75,6 +75,7 @@ Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) a
 
 Jacques Aschenbroich (Chairman and CEO of Valeo) on [AI and valeo.ai](https://www.linkedin.com/pulse/valeo-our-order-intake-already-includes-ai-jacques-aschenbroich/).  
 Valeo Drive4u autonomated car [in Paris center, a world premiere](https://www.valeo.com/en/valeo-drive4u-the-first-autonomous-car-to-be-demonstrated-on-the-streets-of-paris/)!  
+Patrick Pérez on the [start of Valeo.ai](https://www.youtube.com/watch?time_continue=2&v=B5QWcDTTBrQ)  
 Valeo Cruise4u autonoumated car, [24h on Parisian ringroad](https://www.youtube.com/watch?v=XRKXBKPgYI4).
 
 **Location**: 15 rue de La Baume, Paris
