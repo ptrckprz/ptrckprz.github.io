@@ -56,13 +56,13 @@ AI research engineer
 
 ## Our academic partners
 
-**EPFL** ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi)) | 
-**INRIA** ([Jean Ponce](https://www.di.ens.fr/~ponce/)) |
-**le CNAM** ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avener Bar-hen](https://ab-h.github.io/index.html)) | 
-**Max Planck Institute** ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/)) |
-**Ponts ParisTech** ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)) |
-**Sorbonne Université** ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/)) |
-**Telecom ParisTech** ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
+EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
+INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/))  
+le CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avener Bar-hen](https://ab-h.github.io/index.html))  
+Max Planck Institute ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
+Ponts ParisTech** ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
+Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
+Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## News
 * June 2019: Valeo.ai researchers to present 8 papers (including 3 orals) at [CVPR](http://cvpr2019.thecvf.com/). See you in Long Beach!
@@ -71,4 +71,11 @@ AI research engineer
 * May 2019: Valeo is proud to be part of [Prairie](https://www.inria.fr/en/news/news-from-inria/launch-of-the-prairie-institute), the new Paris Interdisciplinary Artificial Intelligence Institute. Stay tuned.
 
 
+### Commnunication
+
+Jacques Aschenbroich (Chairman and CEO of Valeo) on [AI and valeo.ai](https://www.linkedin.com/pulse/valeo-our-order-intake-already-includes-ai-jacques-aschenbroich/).  
+Valeo Drive4u autonomous car in Paris Center, a [world premiere](https://www.valeo.com/en/valeo-drive4u-the-first-autonomous-car-to-be-demonstrated-on-the-streets-of-paris/)!
+
 **Location**: 15 rue de La Baume, Paris
+
+
