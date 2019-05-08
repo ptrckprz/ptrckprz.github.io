@@ -20,13 +20,8 @@ redirect_from:
 * Hedi Ben-younes (research scientist) 
 * Maxime Bucher (research scientist)
 
-### Openings
+### Openings: high profile research scientists in machine learning or in 3D scene understanding. Please contact me. 
 
-### News
-* June 2019: Valeo.ai researchers to present 8 papers (including 3 orals) at [CVPR](http://cvpr2019.thecvf.com/). See you in Long Beach!
-* May 2019: Hedi Ben-younes defends his PhD at Sorbonne Université, committee: M. Cord, V. Ferrari, Y. LeCun, P. Pérez, L. Soulier, N. Thome, J. Verbeek, Ch. Wolf.
-* May 2019: Himalaya Jain receives the [Best Thesis Prize from Rennes 1 Foundation](https://www.irisa.fr/en/actus/congratulations-himalaya-jain-his-thesis-prize-rennes-1-foundation). 
-* May 2019: Valeo is proud to be part of [Prairie](https://www.inria.fr/en/news/news-from-inria/launch-of-the-prairie-institute), the new Paris Interdisciplinary Artificial Intelligence Institute. Stay tuned.
 
 ### Some projects
 
@@ -35,7 +30,6 @@ redirect_from:
 **Domain adaptation**: Deep learning and reinforcement learning are key technologies for autonomous driving. One of the challenges they face is to adapt to conditions which differ from those met during training. To improve systems' performance in such situations, we explore so-called "domain adaption" techniques, as in [AdvEnt](https://github.com/valeoai/ADVENT), our project presented at CVPR 2019.
 
 **Uncertainty estimation and performance prediction**: When the unexpected happens, when the weather badly degrades, when a sensor gets blocked, the embarked perception system should diagnose the situation and react accordingly, e..g, by calling an alternative system or the human driver. With this in mind, we investigate automatic ways to assess the uncertainty of a system and to predict its performance.
-
 
 ### Our academic partners
 
@@ -47,6 +41,13 @@ redirect_from:
 **Sorbonne Université** ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/)) |
 **Telecom ParisTech** ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
+### News
+* June 2019: Valeo.ai researchers to present 8 papers (including 3 orals) at [CVPR](http://cvpr2019.thecvf.com/). See you in Long Beach!
+* May 2019: Hedi Ben-younes defends his PhD at Sorbonne Université, committee: M. Cord, V. Ferrari, Y. LeCun, P. Pérez, L. Soulier, N. Thome, J. Verbeek, Ch. Wolf.
+* May 2019: Himalaya Jain receives the [Best Thesis Prize from Rennes 1 Foundation](https://www.irisa.fr/en/actus/congratulations-himalaya-jain-his-thesis-prize-rennes-1-foundation). 
+* May 2019: Valeo is proud to be part of [Prairie](https://www.inria.fr/en/news/news-from-inria/launch-of-the-prairie-institute), the new Paris Interdisciplinary Artificial Intelligence Institute. Stay tuned.
+
+#### Location: 15 rue de La Baume, Paris
 
 
 
