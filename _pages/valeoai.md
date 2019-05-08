@@ -38,9 +38,9 @@ Huy Van Vo (PhD student)
 Tuan-Hung Vu (research scientist)
 
 ## Openings
-* high profile research scientists in machine learning or in 3D scene understanding. Please contact me.
-* AI research ingeneer
-
+high profile research scientists in machine learning or in 3D scene understanding  
+AI research engineer  
+*Please contact me*
 
 ## Some projects
 
@@ -49,6 +49,10 @@ Tuan-Hung Vu (research scientist)
 **Domain adaptation**: Deep learning and reinforcement learning are key technologies for autonomous driving. One of the challenges they face is to adapt to conditions which differ from those met during training. To improve systems' performance in such situations, we explore so-called "domain adaption" techniques, as in [AdvEnt](https://github.com/valeoai/ADVENT), our project presented at CVPR 2019.  
 
 **Uncertainty estimation and performance prediction**: When the unexpected happens, when the weather badly degrades, when a sensor gets blocked, the embarked perception system should diagnose the situation and react accordingly, e..g, by calling an alternative system or the human driver. With this in mind, we investigate automatic ways to assess the uncertainty of a system and to predict its performance.
+
+## Code & data
+
+*under construction*
 
 ## Our academic partners
 
