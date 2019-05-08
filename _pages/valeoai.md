@@ -44,7 +44,7 @@ AI research engineer
 
 ## Some projects
 
-**Multi-sensor perception**: Automated driving relies first on a diverse range of sensors, like Valeo's cameras, LiDARs, radars and ultrasonics. Exploiting at best the outputs of each of these sensors at any instant is fundamental to understand the complex environment of the vehicle. To this end, we explore various deep learning approaches where sensors are considered both in isolation and collectively.
+**Multi-sensor perception**: Automated driving relies first on a diverse range of sensors, like Valeo's [fish-eye cameras](https://www.valeo.com/en/360-vue/), [LiDARs](https://www.valeo.com/en/valeo-scala/), radars and ultrasonics. Exploiting at best the outputs of each of these sensors at any instant is fundamental to understand the complex environment of the vehicle. To this end, we explore various deep learning approaches where sensors are considered both in isolation and collectively.
 
 **Domain adaptation**: Deep learning and reinforcement learning are key technologies for autonomous driving. One of the challenges they face is to adapt to conditions which differ from those met during training. To improve systems' performance in such situations, we explore so-called "domain adaption" techniques, as in [AdvEnt](https://github.com/valeoai/ADVENT), our project presented at CVPR 2019.  
 
@@ -60,7 +60,7 @@ EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))
 INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/))  
 le CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avener Bar-hen](https://ab-h.github.io/index.html))  
 Max Planck Institute ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
-Ponts ParisTech** ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
+Ponts ParisTech ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
 Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
@@ -74,7 +74,8 @@ Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) a
 ### Commnunication
 
 Jacques Aschenbroich (Chairman and CEO of Valeo) on [AI and valeo.ai](https://www.linkedin.com/pulse/valeo-our-order-intake-already-includes-ai-jacques-aschenbroich/).  
-Valeo Drive4u autonomous car in Paris Center, a [world premiere](https://www.valeo.com/en/valeo-drive4u-the-first-autonomous-car-to-be-demonstrated-on-the-streets-of-paris/)!
+Valeo Drive4u autonomated car [in Paris center, a world premiere](https://www.valeo.com/en/valeo-drive4u-the-first-autonomous-car-to-be-demonstrated-on-the-streets-of-paris/)!
+Valeo Cruise4u autonoumated car, [24h on Parisian ringroad](https://www.youtube.com/watch?v=XRKXBKPgYI4).
 
 **Location**: 15 rue de La Baume, Paris
 
