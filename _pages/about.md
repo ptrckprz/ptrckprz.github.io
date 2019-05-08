@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Patrick Pérez is Scientific Director of valeo.ai, a Valeo AI research lab focused on self-driving cars.
+Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), a Valeo AI research lab focused on self-driving cars.
 He is currently on the Editorial Board of the International Journal of Computer Vision. Before joining Valeo, Patrick Pérez has been researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include audio/video description, search and analysis, as well as photo/video editing and computational imaging.
 
 ## NEWS
 
-* [Valeao.ai](http://valeo.ai) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
+* [Valeao.ai](https://ptrckprz.github.io/valeoai/) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
 
 * Papers accepted at CVPR 2019, see [there](https://ptrckprz.github.io/conf/).  
 
@@ -27,7 +27,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 [//]: # (* Valeo.ai will be at Valeo booth at CVPR, Salt Lake City, 19-21 June 2018, come and visit us.)
 
-* [Valeo.ai](https://www.valeo.com/en/valeo-launches-valeo-ai-the-first-global-research-center-in-artificial-intelligence-and-deep-learning-for-automotive-applications-based-in-paris/) started in March 2018 in the center of Paris. We are hiring highly motivated researchers, postdocs and PhD students to embark on this exciting adventure.  We are hiring Research Scientists in Prague as well.
+* [Valeo.ai](https://ptrckprz.github.io/valeoai/) started in March 2018 in the center of Paris. We are hiring highly motivated researchers, postdocs and PhD students to embark on this exciting adventure.  We are hiring Research Scientists in Prague as well.
 
 * The workshop "[Deep learning: From theory to applications](https://www.lebesgue.fr/content/sem2018-deeplearning)" was held at Technicolor in Rennes, France, 4-6 September 2018. We had a variety of great talks, including six keynotes by **Matthieu Cord** (UPMC/Valeo.ai), **Stéphane Mallat** (ENS Paris/Collège de France), **François Pachet** (Spotify), **Olivier Pietquin** (Google Brain), **Cordelia Schmid** (Inria/Google) and **Pierre Vandergheynst** (EPFL).  
 
