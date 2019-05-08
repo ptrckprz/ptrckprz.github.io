@@ -10,7 +10,7 @@ redirect_from:
 **We are** an open, international, research lab based in Paris  
 
 **We aim**
-* to conduct cutting-edge AI research fro automotive application
+* to conduct cutting-edge AI research for automotive applications
 * to nurture collaborations with world-class academic teams
 * to irrigate [Valeo](http://valeo.com)’s R&D    
 
