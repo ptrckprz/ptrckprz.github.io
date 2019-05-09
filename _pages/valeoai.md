@@ -57,6 +57,7 @@ Github [page](https://github.com/valeoai) *under construction*
 
 ## Our academic partners
 
+Czech Technical University in Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
 INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/))  
 le CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avner Bar-hen](https://ab-h.github.io/index.html))  
