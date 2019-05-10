@@ -10,21 +10,21 @@ redirect_from:
 
 ## Granted patents
 
-1. [Method and MRI device to detect a direction of at least one fiber in a body]() [Thomson]  
+1. [Method and MRI device to detect a direction of at least one fiber in a body](https://www.google.com/patents/US8907671) [INRIA]  
 A. Stamm, Ch. Barillot, P. Pérez. US Patent 8,907,671. 2015  
-1. [Generating a binary descriptor representing an image patch]() [Thomson]  
+1. [Generating a binary descriptor representing an image patch](https://www.google.com/patents/US8687892) [Thomson]  
 V. Demoulin, S. Saha, L. Oisel, P. Pérez. US Patent 8,687,892. 2014  
 1. [Video navigation through object location]() [Thomson]  
 L .Chevallier, P. Pérez, A. Lambert. WO Patent 2,012,171,839. 2012  
 1. [Device and method for online storage, transmission device and method, and receiving device and method]() [Thomson]  
 L. Montalvo, N Le Scouarnec, S. Defrance, F. Lefebvre, P. Pérez. WO Patent 2,012,093,216. 2012   
-1. [Method for segmenting video segments]() [Thomson]  
+1. [Method for segmenting video segments](https://www.google.com/patents/EP2277144B1) [Thomson]  
 M Fradet, P Robert, P Perez. EP Patent 2,27,144. 2011   
 1. [Device and method for tracking an object in a sequence of frames]() [Thomson]  
 V Badrinarayanan, F Le Clerc, P Perez, L Oisel. EP Patent 2,175,421. 2010  
-1. [Image region filling by exemplar-based inpainting]() [Microsoft]  
+1. [Image region filling by exemplar-based inpainting](https://www.google.com/patents/US6987520) [Microsoft]  
 A Criminisi, P Perez, K Toyama, M Gangnet, A Blake. US Patent 7,551,181. 2009  
-1. [Methods and system for providing image object boundary definition by particle filtering]() [Microsoft]  
+1. [Methods and system for providing image object boundary definition by particle filtering](https://www.google.com/patents/US7391906) [Microsoft]  
 A Blake, M Gangnet, P Perez. US Patent 7,391,906. 2008  
 1. [Color gradient paths](https://www.google.com/patents/US7427994) [Microsoft]  
 M. Gangnet, M Kallay, A. Wu, E. Stollnitz, D. Strawn, J. Lounsbery, P. Pérez. US Patent 7,427,994. 2006  
@@ -84,5 +84,3 @@ L Oisel, J Zepeda, L Chevallier, P Perez, P Hellier. US Patent App. 14/411,347.
 P Perez, JS Zepeda. US Patent App. 14/406,204.
 1. Filtering a displacement field between video frames.  
 P Robert, TE Crivelli, PH Conze, M Fradet, P Perez. US Patent App. 14/382,689
-1. Video navigation through object location.  
-L Chevallier, P Perez, A Lambert. US Patent App. 14/126,494
