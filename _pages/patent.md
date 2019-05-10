@@ -36,7 +36,7 @@ P. Pérez, M. Gangnet, A. Blake. US Patent 6,856,705. 2005
 ## Filed applications
 1. Method and device for refocusing at least one plenoptic video.  
 Pierre Hellier, Valerie Allie, Patrick Perez. US Patent App. 16/063,273.
-1. Method and Apparatus for Generating Codebooks for Efficient Search.
+1. Method and Apparatus for Generating Codebooks for Efficient Search.  
 H. Jain, C. Bilen, J. Zepeda, P. Perez. US Patent App. 15/772,227.
 1. Methods and apparatus for learning palette dictionaries for device-ready example-guided recolorization.  
 Hellier, Sabater, Pérez. US Patent App. 15/523,713.
