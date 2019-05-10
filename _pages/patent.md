@@ -14,9 +14,8 @@ redirect_from:
 A. Stamm, Ch. Barillot, P. Pérez. US Patent 8,907,671. 2015  
 1. [Generating a binary descriptor representing an image patch](https://www.google.com/patents/US8687892) [Thomson]  
 V. Demoulin, S. Saha, L. Oisel, P. Pérez. US Patent 8,687,892. 2014  
-1. [Video navigation through object location]() [Thomson]  
-L .Chevallier, P. Pérez, A. Lambert. WO Patent 2,012,171,839. 2012  
-1. [Device and method for online storage, transmission device and method, and receiving device and method]() [Thomson]  
+ 
+1. [Device and method for online storage, transmission device and method, and receiving device and method](https://patents.google.com/patent/US9519800B2) [Thomson]  
 L. Montalvo, N Le Scouarnec, S. Defrance, F. Lefebvre, P. Pérez. WO Patent 2,012,093,216. 2012   
 1. [Method for segmenting video segments](https://www.google.com/patents/EP2277144B1) [Thomson]  
 M Fradet, P Robert, P Perez. EP Patent 2,27,144. 2011   
@@ -84,3 +83,5 @@ L Oisel, J Zepeda, L Chevallier, P Perez, P Hellier. US Patent App. 14/411,347.
 P Perez, JS Zepeda. US Patent App. 14/406,204.
 1. Filtering a displacement field between video frames.  
 P Robert, TE Crivelli, PH Conze, M Fradet, P Perez. US Patent App. 14/382,689
+1. Video navigation through object location.  
+L .Chevallier, P. Pérez, A. Lambert. WO Patent 2,012,171,839.
