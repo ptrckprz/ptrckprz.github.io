@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), a Valeo AI research lab focused on self-driving cars.
+Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), a Valeo AI research lab focused on automotive applications, self-driving cars in particular.
 He is currently on the Editorial Board of the International Journal of Computer Vision. Before joining Valeo, Patrick Pérez has been researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include audio/video description, search and analysis, as well as photo/video editing and computational imaging.
 
 ## NEWS
@@ -17,7 +17,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 * Papers accepted at CVPR 2019, see [there](https://ptrckprz.github.io/conf/).  
 
-* Given talks at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay, 21-22 March), [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris, 1-5 April), [Computing and Learning](http://calcul.math.cnrs.fr/spip.php?article300) (Lyon, 24-25 April).
+* Given talks at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay, 21-22 March), [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris, 1-5 April), [Computing and Learning](https://indico.mathrice.fr/event/153/overview) (Lyon, 24-25 April).
 
 * Code of our CPVR18 work on semantic-visual embedding is availabe on [github](https://github.com/technicolor-research/dsve-loc).
 
