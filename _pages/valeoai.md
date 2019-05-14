@@ -24,7 +24,7 @@ Charles Corbière (PhD student) [scholar](https://scholar.google.fr/citations?us
 [Matthieu Cord](http://www-poleia.lip6.fr/~cord/) (principal scientist) [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en)   
 Spyros Gidaris (research scientist) [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en)  
 David Hurych (research scientist) [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
-Himalaya Jain (research scientist) [scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en)  
+[Himalaya Jain](https://himalayajain.github.io/) (research scientist) [scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en)  
 [Maximilian Jaritz](https://team.inria.fr/rits/membres/maximilian-jaritz/) (PhD student) [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ&hl=en)  
 [Renaud Marlet](http://imagine.enpc.fr/~marletr/) (principal scientist) [scholar](https://scholar.google.com/citations?user=2rclwh4AAAAJ&hl=en)  
 Gabriel de Marmiesse (research engineer)  
