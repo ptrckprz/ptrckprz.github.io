@@ -17,7 +17,8 @@ redirect_from:
 **We work** towards *better*, *lighter*, *clearer* & *safer* automotive AI 
 
 ## The team
-![](../images/vai-team.jpg)  
+![](../images/vai-team.jpg)\
+ \
 Hedi Ben-younes (research scientist) [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en)   
 [Maxime Bucher](https://maximebucher.github.io/) (research scientist) [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)  
 [Andrei Bursuc](https://abursuc.github.io/) (research scientist) [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en)  
