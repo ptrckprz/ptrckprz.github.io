@@ -67,7 +67,7 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
-* June 2019: Valeo.ai researchers to present 8 papers (including 3 orals) at [CVPR](http://cvpr2019.thecvf.com/). See you in Long Beach!
+* June 2019: Valeo.ai researchers to present 8 papers (including 4 orals) at [CVPR](http://cvpr2019.thecvf.com/). See you in Long Beach!
 * May 2019: Hedi Ben-younes defends his PhD at Sorbonne Université, committee: M. Cord, V. Ferrari, Y. LeCun, P. Pérez, L. Soulier, N. Thome, J. Verbeek, Ch. Wolf.
 * May 2019: Himalaya Jain receives the [Best Thesis Prize from Rennes 1 Foundation](https://www.irisa.fr/en/actus/congratulations-himalaya-jain-his-thesis-prize-rennes-1-foundation). 
 * May 2019: Valeo is proud to be part of [Prairie](https://www.inria.fr/en/news/news-from-inria/launch-of-the-prairie-institute), the new Paris Interdisciplinary Artificial Intelligence Institute. Stay tuned.
