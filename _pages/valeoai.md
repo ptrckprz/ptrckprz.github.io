@@ -82,6 +82,9 @@ Valeo Drive4u automated car [in Paris center, a world premiere](https://www.vale
 Patrick Pérez on the [start of Valeo.ai](https://www.youtube.com/watch?time_continue=2&v=B5QWcDTTBrQ).  
 Valeo Cruise4u automated car, [24h on Parisian ringroad](https://www.youtube.com/watch?v=XRKXBKPgYI4).
 
-**Location**: 15 rue de La Baume, Paris
+
+**Human Resource Partner**: [Pascal Le Herisse](mailto:pascal.le-herisse@valeo.com)  
+**Assistant**: [Ouardia Moussouni](mailto:ouardia.moussouni@valeo.com)  
+**Location**: [15 rue de La Baume](https://goo.gl/maps/5pNxVCeACzyDPi4d8), Paris  
 
 
