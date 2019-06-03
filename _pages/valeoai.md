@@ -28,6 +28,7 @@ Spyros Gidaris (research scientist) [scholar](https://scholar.google.fr/citation
 David Hurych (research scientist) [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
 [Himalaya Jain](https://himalayajain.github.io/) (research scientist) [scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en)  
 [Maximilian Jaritz](https://team.inria.fr/rits/membres/maximilian-jaritz/) (PhD student) [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ&hl=en)  
+[Renaud Marlet](http://imagine.enpc.fr/~marletr/) (principal scientist) [scholar](https://scholar.google.fr/citations?user=2rclwh4AAAAJ&hl=en)  
 Gabriel de Marmiesse (research engineer)  
 Arthur Ouaknine (PhD student)  
 [Patrick Pérez](https://ptrckprz.github.io/) (scientific director) [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
