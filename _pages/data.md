@@ -10,7 +10,7 @@ redirect_from:
 
 ### Code
 
-* [SoDeep](https://github.com/technicolor-research/sodeep): Sorting Deep Net to learn ranking loss surrogates (CVPR 2019) - Pytorch
+* [SoDeep](https://github.com/technicolor-research/sodeep): Sorting Deep Net to learn ranking loss surrogates (CVPR 2019) - PyTorch
 * [DSVE-loc](https://github.com/technicolor-research/dsve-loc): Deep Semantic Visual Embedding with Localization (CVPR 2018) - PyTorch
 * [SuBic](https://github.com/technicolor-research/subic): Supervised Binary Codes (ICCV 2017) - Python
 * [ROAM](https://github.com/omiksik/roam): Rich Online Appearance Model (CPVR 2017) - C++, using OpenCV 3.0
