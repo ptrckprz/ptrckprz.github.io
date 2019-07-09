@@ -69,6 +69,7 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
+* July 2019: Marin Toromanoff (PhD student with Mines ParisTech, Valeo DAR and Valeo.ai) ranks 1st on Track 2 of [Carla Challenge 2019](https://carlachallenge.org/results-challenge-2019/), and 2nd on Track 1. 
 * June 2019: Spyros Gidaris receives the Best Thesis Prize from Ponts Foundation. 
 * June 2019: Valeo.ai researchers to present 8 papers (including 4 orals) at [CVPR](http://cvpr2019.thecvf.com/). Also on Booth 1556. See you in Long Beach!
 * May 2019: Hedi Ben-younes defends his PhD at Sorbonne Université, committee: M. Cord, V. Ferrari, Y. LeCun, P. Pérez, L. Soulier, N. Thome, J. Verbeek, Ch. Wolf.
