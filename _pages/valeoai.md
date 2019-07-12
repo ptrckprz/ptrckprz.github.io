@@ -55,7 +55,8 @@ Huy Van Vo (PhD student) [scholar](https://scholar.google.fr/citations?user=gIf5
 
 ## Code & data
 
-Github [page](https://github.com/valeoai) *under construction*
+On our [github](https://github.com/valeoai):  
+* [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR 2019) - PyTorch
 
 ## Our academic partners
 
