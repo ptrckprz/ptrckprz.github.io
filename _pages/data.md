@@ -10,6 +10,7 @@ redirect_from:
 
 ### Code
 
+* [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR 2019) - PyTorch
 * [SoDeep](https://github.com/technicolor-research/sodeep): Sorting Deep Net to learn ranking loss surrogates (CVPR 2019) - PyTorch
 * [DSVE-loc](https://github.com/technicolor-research/dsve-loc): Deep Semantic Visual Embedding with Localization (CVPR 2018) - PyTorch
 * [SuBic](https://github.com/technicolor-research/subic): Supervised Binary Codes (ICCV 2017) - Python
