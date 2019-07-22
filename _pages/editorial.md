@@ -6,13 +6,13 @@ redirect_from:
   - /resume
 ---
 
-#### Journal and conference editorial commitments
+## Journal and conference editorial commitments
 * Editorial board of the International Journal on Computer Vision (2014-)
 * Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (2008-2012)
 * Associate Editor for the IEEE Transactions on Image Processing (2002-2006)
 * Area chair for ECCV (2008, 2010, 2012, 2014), ICCV (2011, 2013, 2019), BMVC (2017)
 
-#### ``Research Habilitation'' committees
+## ``Research Habilitation'' committees
 * Oct. 2018: David Tschumperlé (U. Caen), as reviewer
 * Dec. 2015: Nicolas Papadakis (U. Bordeaux), as reviewer 
 * Oct. 2014: Hervé Jégou (Inria Rennes), as examiner
@@ -25,7 +25,7 @@ redirect_from:
 * Sept. 2009: Thierry Chateau (U. Clermont-Ferran), as examine
 * July 2009: Eric Debreuve (U. Nice), as reviewer
 
-#### PhD committees since 2015
+## PhD committees since 2015
 * June 2019: Pauline Luc (Inria/Facebook), as reviewer
 * June 2019: Clément Pinard (Ensta/Parrot), as reviewer
 * June 2019: Thuc Trinh Le (Telecom ParisTech), as examiner
