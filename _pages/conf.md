@@ -12,11 +12,11 @@ redirect_from:
 
 [AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1811.12833)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
-*CVPR 2019*
+*CVPR 2019* [[blog](https://medium.com/@valeo.ai/advent-adversarial-entropy-minimization-for-domain-adaptation-in-semantic-segmentation-dba21934430b),[code](https://github.com/valeoai/ADVENT)]
 
 [FML: Face Model Learning from Videos](https://arxiv.org/pdf/1812.07603)  
 A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
-*CVPR 2019*
+*CVPR 2019* [[page](https://people.mpi-inf.mpg.de/~atewari/projects/FML19/)]
 
 [A flexible convolutional solver with application to photorealistic style transfer](https://arxiv.org/pdf/1806.05285)  
 G. Puy, P. Pérez  
@@ -28,7 +28,7 @@ H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce
 
 [SoDeep: a Sorting Deep net to learn ranking loss surrogates](http://arxiv.org/abs/1904.04272)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
-*CVPR 2019* 
+*CVPR 2019* [[code](https://github.com/technicolor-research/sodeep)]
 
 [Structural inpainting](https://arxiv.org/abs/1803.10348)  
 H. V. Vo, N. Duong, P. Pérez  
