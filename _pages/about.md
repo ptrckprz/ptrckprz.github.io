@@ -13,7 +13,11 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* Code of our CVPR19 paper on Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation (AdvEnt) is avaiable on [valeo.ai github](https://github.com/valeoai/ADVENT) 
+* Papers accepted at ICCV 2019, see [there](https://ptrckprz.github.io/conf/).
+
+* Code of our CVPR19 paper on Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation (AdvEnt) is available on [valeo.ai github](https://github.com/valeoai/ADVENT). 
+
+* Code of our CVPR19 paper on Sorting Deep Net to learn ranking loss surrogates (SoDeep) is available on [technicolor github](https://github.com/technicolor-research/sodeep). 
 
 * [Valeao.ai](https://ptrckprz.github.io/valeoai/) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
 
