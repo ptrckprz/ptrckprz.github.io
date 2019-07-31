@@ -10,6 +10,18 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[DADA: Depth-aware Domain Adaptation in semantic segmentation](https://arxiv.org/pdf/1904.01886)  
+T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
+*ICCV 2019*
+
+[Boosting few-shot visual learning with self-supervision](https://arxiv.org/pdf/1906.05186.pdf)  
+S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
+*ICCV 2019*
+
+[WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving](https://arxiv.org/pdf/1905.01489.pdf)  
+S. Yogamani, C. Hughes, J. Horgan, G. Sistu, P. Varley, D. O'Dea, M. Uricar, S. Milz, M. Simon, K. Amende, Ch. Witt, H. Rashed, S. Chennupati, S. Nayak, S. Mansoor, X. Perroton, P. Pérez  
+*ICCV 2019*
+
 [AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1811.12833)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
 *CVPR 2019* [[blog](https://medium.com/@valeo.ai/advent-adversarial-entropy-minimization-for-domain-adaptation-in-semantic-segmentation-dba21934430b),[code](https://github.com/valeoai/ADVENT)]
