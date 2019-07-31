@@ -11,7 +11,7 @@ redirect_from:
 ### Relevant publications
 
 [DADA: Depth-aware Domain Adaptation in semantic segmentation](https://arxiv.org/pdf/1904.01886)  
-T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez 
+T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez   
 *ICCV 2019*
 
 [AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1811.12833)  
