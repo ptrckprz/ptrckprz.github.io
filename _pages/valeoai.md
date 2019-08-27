@@ -57,6 +57,8 @@ Huy Van Vo (PhD student) [scholar](https://scholar.google.fr/citations?user=gIf5
 ## Code, data and posts
 
 On our [github](https://github.com/valeoai):  
+* [Rainbow-IQN Ape-X](https://github.com/valeoai/rainbow-iqn-apex): effective RL combination for Atari games - PyTorch
+* [DaDa](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV 2019) - coming soon
 * [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR 2019) - PyTorch
 
 ## Our academic partners
@@ -71,7 +73,7 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
-* July 2019; Three papers accepted at ICCV19, including one oral
+* July 2019: Three papers accepted at ICCV19, including one oral
 * July 2019: Code of our CVPR19 paper "AdvEnt: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" is available on [valeo.ai github](https://github.com/valeoai/ADVENT) 
 * July 2019: Marin Toromanoff (PhD student with Mines ParisTech, Valeo DAR and Valeo.ai) ranks 1st on Track 2 of [Carla Challenge 2019](https://carlachallenge.org/results-challenge-2019/), and 2nd on Track 1.   
 * June 2019: Spyros Gidaris receives the Best Thesis Prize from Ponts Foundation. 
