@@ -13,6 +13,8 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
+* Will give talk at Prairie AI Summer School ([PAISS 2019](https://project.inria.fr/paiss/)), 3-5 October, Paris.
+
 * Papers accepted at ICCV 2019, see [there](https://ptrckprz.github.io/conf/).
 
 * Code of our CVPR19 paper on Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation (AdvEnt) is available on [valeo.ai github](https://github.com/valeoai/ADVENT). 
