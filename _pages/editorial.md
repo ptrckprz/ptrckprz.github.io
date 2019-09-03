@@ -13,6 +13,7 @@ redirect_from:
 * Area chair for ECCV (2008, 2010, 2012, 2014), ICCV (2011, 2013, 2019), BMVC (2017)
 
 ## ``Research Habilitation'' committees
+* Aug. 2019: Mathieu Aubry (ENPC), as examiner
 * Oct. 2018: David Tschumperlé (U. Caen), as reviewer
 * Dec. 2015: Nicolas Papadakis (U. Bordeaux), as reviewer 
 * Oct. 2014: Hervé Jégou (Inria Rennes), as examiner
@@ -26,6 +27,8 @@ redirect_from:
 * July 2009: Eric Debreuve (U. Nice), as reviewer
 
 ## PhD committees since 2015
+* Dec. 2019: Kevin Bascol (Irisa/Blucime), as reviewer
+* Sept. 2019: Théophile Dalens (ENS Paris), as reviewer
 * June 2019: Pauline Luc (Inria/Facebook), as reviewer
 * June 2019: Clément Pinard (Ensta/Parrot), as reviewer
 * June 2019: Thuc Trinh Le (Telecom ParisTech), as examiner
