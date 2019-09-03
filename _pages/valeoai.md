@@ -58,7 +58,7 @@ Huy Van Vo (PhD student) [scholar](https://scholar.google.fr/citations?user=gIf5
 
 On our [github](https://github.com/valeoai):  
 * [Rainbow-IQN Ape-X](https://github.com/valeoai/rainbow-iqn-apex): effective RL combination for Atari games - PyTorch
-* [DaDa](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV 2019) - coming soon
+* [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV 2019) - coming soon
 * [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR 2019) - PyTorch
 
 ## Our academic partners
