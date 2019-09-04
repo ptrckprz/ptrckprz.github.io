@@ -10,6 +10,14 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+Addressing failure detection by learning model confidence  
+Ch. Corbière, N. Thome, A. Bar-Hen, M. Cord, P. Pérez  
+*NeurIPS 2019*
+
+[Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
+M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
+*NeurIPS 2019*
+
 [DADA: Depth-aware Domain Adaptation in semantic segmentation](https://arxiv.org/pdf/1904.01886)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
 *ICCV 2019*
