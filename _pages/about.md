@@ -13,6 +13,8 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
+* Papers accepted at NeurIPS 2019, see [there](https://ptrckprz.github.io/conf/).
+
 * Will give talk at Prairie AI Summer School ([PAISS 2019](https://project.inria.fr/paiss/)), 3-5 October, Paris.
 
 * Papers accepted at ICCV 2019, see [there](https://ptrckprz.github.io/conf/).
