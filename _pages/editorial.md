@@ -28,6 +28,7 @@ redirect_from:
 
 ## PhD committees since 2015
 * Dec. 2019: Kevin Bascol (Irisa/Blucime), as reviewer
+* Nov. 2019: Marcela Carvalho (Paris Descaetes/Onera), as examiner
 * Sept. 2019: Théophile Dalens (ENS Paris), as reviewer
 * June 2019: Pauline Luc (Inria/Facebook), as reviewer
 * June 2019: Clément Pinard (Ensta/Parrot), as reviewer
