@@ -73,12 +73,12 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
-* Sept. 2019: Two papers accepted at NeurIPS, including one on new problem of zero shot semantic segmgnetation ("[Z3S](https://arxiv.org/abs/1906.00817)")  
-* July 2019: Three papers accepted at ICCV19, including one oral
+* Sept. 2019: Two papers accepted at NeurIPS (21% acceptance rate), including one on new problem of zero shot semantic segmgnetation ("[Z3S](https://arxiv.org/abs/1906.00817)"). Matthieu Cord among the top contributors according to [conference stats](https://medium.com/@dcharrezt/neurips-2019-stats-c91346d31c8f).   
+* July 2019: Three papers accepted at ICCV19 (24% acceptance rate), including one oral (4.6% acceptance rate)
 * July 2019: Code of our CVPR19 paper "AdvEnt: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" is available on [valeo.ai github](https://github.com/valeoai/ADVENT) 
 * July 2019: Marin Toromanoff (PhD student with Mines ParisTech, Valeo DAR and Valeo.ai) ranks 1st on Track 2 of [Carla Challenge 2019](https://carlachallenge.org/results-challenge-2019/), and 2nd on Track 1.   
 * June 2019: Spyros Gidaris receives the Best Thesis Prize from Ponts Foundation. 
-* June 2019: Valeo.ai researchers to present 8 papers (including 4 orals) at [CVPR](http://cvpr2019.thecvf.com/). Also on Booth 1556. See you in Long Beach!
+* June 2019: Valeo.ai researchers to present 8 papers (25% acceptance rate), including 4 orals (5.6% acceptance rate), at [CVPR](http://cvpr2019.thecvf.com/). Also on Booth 1556.
 * May 2019: Hedi Ben-younes defends his PhD at Sorbonne Université, committee: M. Cord, V. Ferrari, Y. LeCun, P. Pérez, L. Soulier, N. Thome, J. Verbeek, Ch. Wolf.
 * May 2019: Himalaya Jain receives the [Best Thesis Prize from Rennes 1 Foundation](https://www.irisa.fr/en/actus/congratulations-himalaya-jain-his-thesis-prize-rennes-1-foundation). 
 * May 2019: Valeo is proud to be part of [Prairie](https://www.inria.fr/en/news/news-from-inria/launch-of-the-prairie-institute), the new Paris Interdisciplinary Artificial Intelligence Institute. Stay tuned.
