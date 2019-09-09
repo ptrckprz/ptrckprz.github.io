@@ -23,6 +23,8 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 * Code of our CVPR19 paper on Sorting Deep Net to learn ranking loss surrogates (SoDeep) is available on [technicolor github](https://github.com/technicolor-research/sodeep). 
 
+* Given a keynote on unsupervised domain adapatation at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR 2019 workhsop. 
+
 * [Valeao.ai](https://ptrckprz.github.io/valeoai/) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
 
 * Papers accepted at CVPR 2019, see [there](https://ptrckprz.github.io/conf/).  
