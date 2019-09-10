@@ -73,7 +73,7 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
-* Sept. 2019: Two papers accepted at [NeurIPS](https://nips.cc/) (21% acceptance rate), including one on new problem of zero shot semantic segmgnetation ("[Z3S](https://arxiv.org/abs/1906.00817)"). Matthieu Cord among the top contributors according to [conference stats](https://medium.com/@dcharrezt/neurips-2019-stats-c91346d31c8f).   
+* Sept. 2019: Two papers accepted at [NeurIPS](https://nips.cc/) (21% acceptance rate), including one on new problem of zero shot semantic segmentation ("[Z3S](https://arxiv.org/abs/1906.00817)"). Matthieu Cord among the top contributors according to [conference stats](https://medium.com/@dcharrezt/neurips-2019-stats-c91346d31c8f).   
 * July 2019: Three papers accepted at [ICCV19](http://iccv2019.thecvf.com/) (24% acceptance rate), including one oral (4.6% acceptance rate)
 * July 2019: Code of our CVPR19 paper "AdvEnt: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" is available on [valeo.ai github](https://github.com/valeoai/ADVENT) 
 * July 2019: Marin Toromanoff (PhD student with Mines ParisTech, Valeo DAR and Valeo.ai) ranks 1st on Track 2 of [Carla Challenge 2019](https://carlachallenge.org/results-challenge-2019/), and 2nd on Track 1.   
