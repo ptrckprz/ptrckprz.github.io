@@ -10,13 +10,15 @@ redirect_from:
 
 ### Code
 
-* [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR 2019) - PyTorch
-* [SoDeep](https://github.com/technicolor-research/sodeep): Sorting Deep Net to learn ranking loss surrogates (CVPR 2019) - PyTorch
-* [DSVE-loc](https://github.com/technicolor-research/dsve-loc): Deep Semantic Visual Embedding with Localization (CVPR 2018) - PyTorch
-* [SuBic](https://github.com/technicolor-research/subic): Supervised Binary Codes (ICCV 2017) - Python
-* [ROAM](https://github.com/omiksik/roam): Rich Online Appearance Model (CPVR 2017) - C++, using OpenCV 3.0
-* [SLEM](https://github.com/rafarez/SLEM): Square Loss Exemplar Machines (CVPR 2017) - Matlab
-* [VLAD](http://lear.inrialpes.fr/src/inria_fisher/): Vector of Locally Aggregated Descriptors (CVPR10) - Matlab, using Yael
+* [ConfidNet](https://github.com/valeoai/ConfidNet): Addressing failure prediction by learning model confidence (NeurIPS'19) - PyTorch  
+* [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV'19) - coming soon  
+* [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR'19) - PyTorch
+* [SoDeep](https://github.com/technicolor-research/sodeep): Sorting Deep Net to learn ranking loss surrogates (CVP'19) - PyTorch
+* [DSVE-loc](https://github.com/technicolor-research/dsve-loc): Deep Semantic Visual Embedding with Localization (CVPR'18) - PyTorch
+* [SuBic](https://github.com/technicolor-research/subic): Supervised Binary Codes (ICCV'17) - Python
+* [ROAM](https://github.com/omiksik/roam): Rich Online Appearance Model (CPVR'17) - C++, using OpenCV 3.0
+* [SLEM](https://github.com/rafarez/SLEM): Square Loss Exemplar Machines (CVPR'17) - Matlab
+* [VLAD](http://lear.inrialpes.fr/src/inria_fisher/): Vector of Locally Aggregated Descriptors (CVPR'10) - Matlab, using Yael
 * [VideoInpaint](https://perso.telecom-paristech.fr/gousseau/video_inpainting/): Patch-based video inpainting (SIAM J. Imaging Science 2014) - Matlab
 
 ### Data
