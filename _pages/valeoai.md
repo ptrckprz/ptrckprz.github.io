@@ -22,7 +22,7 @@ redirect_from:
 Hedi Ben-younes (research scientist) [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en)   
 [Maxime Bucher](https://maximebucher.github.io/) (research scientist) [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)  
 [Andrei Bursuc](https://abursuc.github.io/) (research scientist) [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en)  
-Charles Corbière (PhD student) [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en)  
+[Charles Corbière](https://chcorbi.github.io/) (PhD student) [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en)  
 [Matthieu Cord](http://www-poleia.lip6.fr/~cord/) (principal scientist) [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en)   
 Spyros Gidaris (research scientist) [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en)  
 David Hurych (research scientist) [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
@@ -57,9 +57,10 @@ Huy Van Vo (PhD student) [scholar](https://scholar.google.fr/citations?user=gIf5
 ## Code, data and posts
 
 On our [github](https://github.com/valeoai):  
+* [ConfidNet](https://github.com/valeoai/ConfidNet): Addressing failure prediction by learning model confidence (NeurIPS'19) - PyTorch
 * [Rainbow-IQN Ape-X](https://github.com/valeoai/rainbow-iqn-apex): effective RL combination for Atari games - PyTorch
-* [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV 2019) - coming soon
-* [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR 2019) - PyTorch
+* [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV'19) - coming soon
+* [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR'19) - PyTorch
 
 ## Our academic partners
 
@@ -74,8 +75,9 @@ Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) a
 
 ## Recent news
 * 11/2019: Spyros Gidaris receives the Thesis Prize from [Université Paris Est](https://www.univ-paris-est.fr/evenements/evenement/9ca2fa43ca68cce620d7ba8dfc59f7d0/?tx_news_pi1%5Bnews%5D=773&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bday%5D=5&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2019). 
-* 10/2019: Valeo.ai researchers present 5 papers at [ICCV](http://iccv2019.thecvf.com/) in Seoul, Korea, and Valeo participates to associated [Autonomous Driving](https://adworkshop.org/) workshop.    
+* 10/2019: Valeo.ai researchers present 5 papers at [ICCV](http://iccv2019.thecvf.com/) in Seoul, Korea, and Valeo participates to associated workshops on [Autonomous Driving](https://adworkshop.org/) and on [Autonomous Navigation in Unconstrained Environments](https://cvit.iiit.ac.in/autonue2019/program-s.html).    
 * 10/2019: [PRAIRIE](https://prairie-institute.fr/) research institute is officially launched, with a nice day of talks and pannels (inc. one on future mobility, [program](https://prairie-institute.fr/wp-content/uploads/2019/10/PROGRAMME-VF-HD-.pdf) in French). Followed by PRAIRIE AI Summer School ([PAISS](https://project.inria.fr/paiss/)), where Patrick Pérez delivered a lecture (videos and slides of lectures soon available).    
+* 09/2019: Code of our NeurIPS'19 paper "Addressing failure prediction by learning model confidence" is available on [valeo.ai github](https://github.com/valeoai/ConfidNet) 
 * 09/2019: Work of Marin Toromanoff *et al.* discussed by Andrew Ng in [The Batch](https://info.deeplearning.ai/the-batch-autonomous-nuclear-weapons-fighting-deepfakes-recognizing-chimps-automating-fast-food-2) (deeplearning.ai newsletter)
 * 09/2019: Two papers accepted at [NeurIPS](https://nips.cc/) (21% acceptance rate), including one on new problem of zero shot semantic segmentation ("[Z3S](https://arxiv.org/abs/1906.00817)"). Matthieu Cord among the top contributors according to [conference stats](https://medium.com/@dcharrezt/neurips-2019-stats-c91346d31c8f).   
 * 07/2019: Three papers accepted at [ICCV19](http://iccv2019.thecvf.com/) (24% acceptance rate), including one oral (4.6% acceptance rate)
