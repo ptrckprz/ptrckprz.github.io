@@ -19,7 +19,8 @@ redirect_from:
 ## The team
 ![](../images/vai-team.jpg)  
   
-Hedi Ben-younes (research scientist) [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en)   
+Hedi Ben-younes (research scientist) [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en)  
+[Alexandre Boulch](http://www.boulch.eu/) (research scientist) [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)  
 [Maxime Bucher](https://maximebucher.github.io/) (research scientist) [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)  
 [Andrei Bursuc](https://abursuc.github.io/) (research scientist) [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en)  
 [Charles Corbière](https://chcorbi.github.io/) (PhD student) [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en)  
