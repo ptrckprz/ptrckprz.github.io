@@ -33,6 +33,7 @@ David Hurych (research scientist) [scholar](https://scholar.google.cz/citations?
 Gabriel de Marmiesse (research engineer)  
 Arthur Ouaknine (PhD student)  
 [Patrick Pérez](https://ptrckprz.github.io/) (scientific director) [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
+[Gilles Puy](https://sites.google.com/site/puygilles/home) (research scientist) [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
 Julien Rebut (research scientist)  
 Simon Roburin (PhD student)  
 Antoine Saporta (PhD student)  
@@ -84,7 +85,7 @@ Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) a
 * 07/2019: Three papers accepted at [ICCV19](http://iccv2019.thecvf.com/) (24% acceptance rate), including one oral (4.6% acceptance rate)
 * 07/2019: Code of our CVPR19 paper "AdvEnt: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" is available on [valeo.ai github](https://github.com/valeoai/ADVENT) 
 * 07/2019: Marin Toromanoff (PhD student with Mines ParisTech, Valeo DAR and Valeo.ai) ranks 1st on Track 2 of [Carla Challenge 2019](https://carlachallenge.org/results-challenge-2019/), and 2nd on Track 1.   
-* 06/2019: Spyros Gidaris receives the Best Thesis Prize from Ponts Foundation. 
+* 06/2019: Spyros Gidaris receives the [Best Thesis Prize from Ponts Foundation](https://www.fondationdesponts.fr/spyros-gidaris-laureat-ex-aequo-du-prix-de-la-meilleure-these-2019/). 
 * 06/2019: Valeo.ai researchers present 8 papers (25% acceptance rate), including 4 orals (5.6% acceptance rate), at [CVPR](http://cvpr2019.thecvf.com/). Patrick Pérez delivers keynote on "Sustainable supervision with application to autonomous driving" at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR 2019 workhsop. 
 * 05/2019: Hedi Ben-younes defends his PhD at Sorbonne Université, committee: M. Cord, V. Ferrari, Y. LeCun, P. Pérez, L. Soulier, N. Thome, J. Verbeek, Ch. Wolf.
 * 05/2019: Himalaya Jain receives the [Best Thesis Prize from Rennes 1 Foundation](https://www.irisa.fr/en/actus/congratulations-himalaya-jain-his-thesis-prize-rennes-1-foundation). 
