@@ -13,7 +13,8 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* 2019.11: Panel on Maths and AI at Poincaré Institute, Paris.  
+* 2019.11: Panel on Maths and AI at Poincaré Institute, Paris. 
+* 2019.11: OmniCV (Bridging the gap from research to industry) workhsop accepted at CVPR 2020.  
 * 2019.11: ICCV23 in Paris.
 * 2019.10: Talk at Prairie AI Summer School ([PAISS 2019](https://project.inria.fr/paiss/)).  
 * 2019.10: Panel on future mobilities at (PRAIRIE)[https://prairie-institute.fr/] inauguration day. 
