@@ -10,43 +10,43 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
-Addressing failure detection by learning model confidence  
+[Addressing failure detection by learning model confidence](http://papers.nips.cc/paper/8556-addressing-failure-detection-by-learning-model-confidence)  
 Ch. Corbière, N. Thome, A. Bar-Hen, M. Cord, P. Pérez  
-*NeurIPS 2019*
+*NeurIPS 2019* [[code](https://github.com/valeoai/ConfidNet)]
 
-[Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817)  
+[Zero-Shot Semantic Segmentation](http://papers.nips.cc/paper/8338-zero-shot-semantic-segmentation)  
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
-*NeurIPS 2019*
+*NeurIPS 2019* [[code](https://github.com/valeoai/ZS3)]  
 
-[DADA: Depth-aware Domain Adaptation in semantic segmentation](https://arxiv.org/pdf/1904.01886)  
+[DADA: Depth-aware Domain Adaptation in semantic segmentation](http://openaccess.thecvf.com/content_ICCV_2019/html/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.html)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
-*ICCV 2019*
+*ICCV 2019* [[code](https://github.com/valeoai/DADA)]
 
-[Boosting few-shot visual learning with self-supervision](https://arxiv.org/pdf/1906.05186.pdf)  
+[Boosting few-shot visual learning with self-supervision](http://openaccess.thecvf.com/content_ICCV_2019/html/Gidaris_Boosting_Few-Shot_Visual_Learning_With_Self-Supervision_ICCV_2019_paper.html)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
-*ICCV 2019*
+*ICCV 2019* [[code](https://github.com/valeoai/BF3S)]
 
-[WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving](https://arxiv.org/pdf/1905.01489.pdf)  
+[WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving](http://openaccess.thecvf.com/content_ICCV_2019/html/Yogamani_WoodScape_A_Multi-Task_Multi-Camera_Fisheye_Dataset_for_Autonomous_Driving_ICCV_2019_paper.html)  
 S. Yogamani, C. Hughes, J. Horgan, G. Sistu, P. Varley, D. O'Dea, M. Uricar, S. Milz, M. Simon, K. Amende, Ch. Witt, H. Rashed, S. Chennupati, S. Nayak, S. Mansoor, X. Perroton, P. Pérez  
-*ICCV 2019*
+*ICCV 2019*  [[page](https://github.com/valeoai/WoodScape)]
 
-[AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1811.12833)  
+[AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
 *CVPR 2019* [[blog](https://medium.com/@valeo.ai/advent-adversarial-entropy-minimization-for-domain-adaptation-in-semantic-segmentation-dba21934430b),[code](https://github.com/valeoai/ADVENT)]
 
-[FML: Face Model Learning from Videos](https://arxiv.org/pdf/1812.07603)  
+[FML: Face Model Learning from Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Tewari_FML_Face_Model_Learning_From_Videos_CVPR_2019_paper.html)  
 A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
 *CVPR 2019* [[page](https://people.mpi-inf.mpg.de/~atewari/projects/FML19/)]
 
-[A flexible convolutional solver with application to photorealistic style transfer](https://arxiv.org/pdf/1806.05285)  
+[A flexible convolutional solver with application to photorealistic style transfer](http://openaccess.thecvf.com/content_CVPR_2019/html/Puy_A_Flexible_Convolutional_Solver_for_Fast_Style_Transfers_CVPR_2019_paper.html)  
 G. Puy, P. Pérez  
 *CVPR 2019*
 
-[Unsupervised image matching and object discovery as optimization](https://arxiv.org/abs/1904.03148)  
+[Unsupervised image matching and object discovery as optimization](http://openaccess.thecvf.com/content_CVPR_2019/html/Vo_Unsupervised_Image_Matching_and_Object_Discovery_as_Optimization_CVPR_2019_paper.html)  
 H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce  
 *CVPR 2019* 
 
-[SoDeep: a Sorting Deep net to learn ranking loss surrogates](http://arxiv.org/abs/1904.04272)  
+[SoDeep: a Sorting Deep net to learn ranking loss surrogates](http://openaccess.thecvf.com/content_CVPR_2019/html/Engilberge_SoDeep_A_Sorting_Deep_Net_to_Learn_Ranking_Loss_Surrogates_CVPR_2019_paper.html)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
 *CVPR 2019* [[code](https://github.com/technicolor-research/sodeep)]
 
@@ -62,31 +62,31 @@ H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Rich
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
 *State of Art Report, EG 2018* [[page](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/page.html)]
 
-[Finding beans in burgers: Deep semantic-visual embedding with localization](https://arxiv.org/abs/1804.01720)  
+[Finding beans in burgers: Deep semantic-visual embedding with localization](http://openaccess.thecvf.com/content_cvpr_2018/html/Engilberge_Finding_Beans_in_CVPR_2018_paper.html)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
 *CVPR 2018* [[code](https://github.com/technicolor-research/dsve-loc)]
 
-[Learning a complete image indexing pipeline](https://arxiv.org/pdf/1712.04480.pdf)  
+[Learning a complete image indexing pipeline](http://openaccess.thecvf.com/content_cvpr_2018/html/Jain_Learning_a_Complete_CVPR_2018_paper.html)  
 H. Jain, J. Zepeda, P. Pérez, R. Gribonval  
 *CVPR 2018*
 
-[Self-supervised multi-level face model learning for monocular reconstruction at over 250 Hz](http://gvv.mpi-inf.mpg.de/projects/FML/paper.pdf)  
+[Self-supervised multi-level face model learning for monocular reconstruction at over 250 Hz](http://openaccess.thecvf.com/content_cvpr_2018/html/Tewari_Self-Supervised_Multi-Level_Face_CVPR_2018_paper.html)  
 A. Tewari, M. Zollhöfer, P. Garrido, F. Bernard, H. Kim, P. Pérez, Ch. Theobalt  
 *CVPR 2018* [[page](http://gvv.mpi-inf.mpg.de/projects/FML/),[video](http://gvv.mpi-inf.mpg.de/projects/FML/video.mp4)]
 
-[MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/paper.pdf)  
+[MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://openaccess.thecvf.com/content_iccv_2017/html/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.html)  
 A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt  
 *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
 
-[Supervised structured binary codes for image search](https://arxiv.org/abs/1708.02932)  
+[SuBIC: A supervised structured binary codes for image search](http://openaccess.thecvf.com/content_iccv_2017/html/Jain_SUBIC_A_Supervised_ICCV_2017_paper.html)  
 H. Jain, J. Zepeda, R. Gribonval, P. Pérez  
 *ICCV 2017* [[code](https://github.com/technicolor-research/subic)]
 
-[ROAM: a Rich Object Appearance Model with application to rotoscoping](http://openaccess.thecvf.com/content_cvpr_2017/papers/Miksik_ROAM_A_Rich_CVPR_2017_paper.pdf)  
+[ROAM: a Rich Object Appearance Model with application to rotoscoping](http://openaccess.thecvf.com/content_cvpr_2017/html/Miksik_ROAM_A_Rich_CVPR_2017_paper.html)  
 O. Miksik, J.M. Pérez-Rua, Ph. Torr, P. Pérez  
 *CVPR 2017* [[page](http://www.miksik.co.uk/projects/rotoscoping/roam.html), [code](https://github.com/omiksik/roam), [video](https://youtu.be/UvO7IacS9pQ)]
 
-[Kernel square-loss exemplar machines for image retrieval](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rezende_Kernel_Square-Loss_Exemplar_CVPR_2017_paper.pdf)  
+[Kernel square-loss exemplar machines for image retrieval](http://openaccess.thecvf.com/content_cvpr_2017/html/Rezende_Kernel_Square-Loss_Exemplar_CVPR_2017_paper.html)  
 R. Rezende, J. Zepeda, J. Ponce, F. Bach, P. Pérez  
 *CVPR 2017* [[code](https://github.com/rafarez/SLEM)]
 
@@ -102,7 +102,7 @@ H. Jain, P. Pérez, R. Gribonval, J. Zepeda, H. Jégou
 P. Kulkarni, F. Jurie, J. Zepeda, P. Pérez, L. Chevalier  
 *ECCV 2016*
 
-[Determining occlusions from space and time image reconstructions](https://hal.archives-ouvertes.fr/hal-01307703)  
+[Determining occlusions from space and time image reconstructions](http://openaccess.thecvf.com/content_cvpr_2016/html/Perez-Rua_Determining_Occlusions_From_CVPR_2016_paper.html)  
 J-M Pérez-Rua, T. Crivelli, P. Pérez., P. Bouthemy  
 *CVPR 2016*
 
@@ -110,7 +110,7 @@ J-M Pérez-Rua, T. Crivelli, P. Pérez., P. Bouthemy
 P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt  
 *SiggraphAsia 2016* [[page](http://gvv.mpi-inf.mpg.de/projects/MonLipReconstruction/index.html), [video](https://youtu.be/N5bFhtlgRCc)]
 
-[Examplar SVM as visual feature encoder](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zepeda_Exemplar_SVMs_as_2015_CVPR_paper.pdf)  
+[Examplar SVM as visual feature encoder](http://openaccess.thecvf.com/content_cvpr_2015/html/Zepeda_Exemplar_SVMs_as_2015_CVPR_paper.html)  
 J. Zepeda and P. Pérez  
 *CVPR 2015*
 
@@ -130,7 +130,7 @@ O. Miksik, Y. Amar, V. Vineet, P. Pérez, Ph. Torr
 V. Vineet, O. Miksik, M. Lidegaard, M. Niessner, S. Golodetz, V. Prisacariu, O. Kähler, D. Murray, S. Izadi, P. Pérez, Ph. Torr  
 *ICRA 2015*
 
-[Automatic face reenactment](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/files/FaceReenactment.pdf)  
+[Automatic face reenactment](http://openaccess.thecvf.com/content_cvpr_2014/html/Garrido_Automatic_Face_Reenactment_2014_CVPR_paper.html)  
 P. Garrido, L.Valgaerts, O. Rehmsen, Th. Thormaehlen, P. Pérez, Ch. Theobalt  
 *CVPR 2014* [[page](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/)]
 
@@ -138,7 +138,7 @@ P. Garrido, L.Valgaerts, O. Rehmsen, Th. Thormaehlen, P. Pérez, Ch. Theobalt
 G. Sharma, F. Jurie, P. Pérez  
 *ACCV 2014*
 
-[Multi-View object segmentation in space and time](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Djelouah_Multi-view_Object_Segmentation_2013_ICCV_paper.pdf)  
+[Multi-View object segmentation in space and time](http://openaccess.thecvf.com/content_iccv_2013/html/Djelouah_Multi-view_Object_Segmentation_2013_ICCV_paper.html)  
 A. Djelouah, J.S. Franco, F. Le Clerc, P. Pérez and E. Boyer  
 *ICCV 2013*
 
