@@ -10,6 +10,10 @@ redirect_from:
 
 ## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
+A. Dapogny, M. Cord, P. Pérez  
+*AAAI 2020* [[code]()]
+
 [Addressing failure detection by learning model confidence](http://papers.nips.cc/paper/8556-addressing-failure-detection-by-learning-model-confidence)  
 Ch. Corbière, N. Thome, A. Bar-Hen, M. Cord, P. Pérez  
 *NeurIPS 2019* [[code](https://github.com/valeoai/ConfidNet)]
