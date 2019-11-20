@@ -14,16 +14,16 @@ He is currently on the Editorial Board of the International Journal of Computer 
 ## NEWS
 
 * 2019.10: Talk at Prairie AI Summer School ([PAISS 2019](https://project.inria.fr/paiss/)), 3-5 October, Paris.  
-* 2019.09: Code of our NeurIPS'19 paper "Addressing failure prediction by learning model confidence" is available on [valeo.ai github](https://github.com/valeoai/ConfidNet) 
+* 2019.09: Code of NeurIPS19 paper "Addressing failure prediction by learning model confidence" (ConfidNEt) available on [valeo.ai github](https://github.com/valeoai/ConfidNet) 
 * 2019.09: Papers accepted at NeurIPS 2019, see [there](https://ptrckprz.github.io/conf/).  
 * 2019.07: Papers accepted at ICCV 2019, see [there](https://ptrckprz.github.io/conf/).  
-* 2019.06: Code of our CVPR19 paper on Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation (AdvEnt) is available on [valeo.ai github](https://github.com/valeoai/ADVENT).    
-* 2019.06: Code of our CVPR19 paper on Sorting Deep Net to learn ranking loss surrogates (SoDeep) is available on [technicolor github](https://github.com/technicolor-research/sodeep).  
+* 2019.06: Code of CVPR19 paper "Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" (AdvEnt) is available on [valeo.ai github](https://github.com/valeoai/ADVENT).    
+* 2019.06: Code of CVPR19 paper "Sorting Deep Net to learn ranking loss surrogates" (SoDeep) available on [technicolor github](https://github.com/technicolor-research/sodeep).  
 * 2019.06: Keynote on "Sustainable supervision with application to autonomous driving" at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR 2019 workhsop.  
 * 2019.04: [Valeao.ai](https://ptrckprz.github.io/valeoai/) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
 * 2019.03: Papers accepted at CVPR 2019, see [there](https://ptrckprz.github.io/conf/).  
 * 2019.03: Talks at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay, 21-22 March), [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris, 1-5 April), [Computing and Learning](https://indico.mathrice.fr/event/153/overview) (Lyon, 24-25 April).  
-* 2018.11: Code of our CPVR18 work on semantic-visual embedding is availabe on [github](https://github.com/technicolor-research/dsve-loc).  
+* 2018.11: Code of  CPVR18 paper "Finding beans in burgers: Deep semantic-visual embedding with localizatio" (DVSE-lcoc) availabe on [github](https://github.com/technicolor-research/dsve-loc).  
 * 2018.11: Talks at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc) (Sophia Antipolis, 7-9 Nov.) and [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm) (ENS Paris, 23 Nov.)  
 * 2018.09: The workshop "[Deep learning: From theory to applications](https://www.lebesgue.fr/content/sem2018-deeplearning)" was held at Technicolor in Rennes, France, 4-6 September 2018. We had a variety of great talks, including six keynotes by Matthieu Cord (UPMC/Valeo.ai), Stéphane Mallat (ENS Paris/Collège de France), François Pachet (Spotify), Olivier Pietquin (Google Brain), Cordelia Schmid (Inria/Google) and Pierre Vandergheynst (EPFL).  
 * 2018.08: [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/page.html) was presented at Siggraph in Aug. 2018 ([statement](https://techxplore.com/news/2018-08-ai-dodgy-lip-sync-dubbing.html),[video](https://www.youtube.com/watch?v=qc5P2bvfl44)).   
