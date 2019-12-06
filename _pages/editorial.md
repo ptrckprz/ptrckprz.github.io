@@ -7,9 +7,9 @@ redirect_from:
 ---
 
 ## Journal and conference editorial commitments
-* Editorial board of the International Journal on Computer Vision (2014-)
-* Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (2008-2012)
-* Associate Editor for the IEEE Transactions on Image Processing (2002-2006)
+* Editorial board of the International Journal on Computer Vision (IJCV): 2014-
+* Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): 2008-2012
+* Associate Editor for the IEEE Transactions on Image Processing (T-IP): 2002-2006
 * Area chair for ECCV (2008, 2010, 2012, 2014), ICCV (2011, 2013, 2019), BMVC (2017)
 
 ## "Research Habilitation" committees
@@ -22,8 +22,7 @@ redirect_from:
 * July 2013: Nikos Komodakis (Ponts ParisTech), as examiner
 * Nov. 2012: Séverine Dubuisson (U. Paris 6), as reviewer
 * Dec. 2009: Rémi Ronfard (U. Grenoble), as examiner
-* July 2009: Eric Debreuve (U. Nice), as reviewer
-* Sept. 2009: Thierry Chateau (U. Clermont-Ferran), as examine
+* Sept. 2009: Thierry Chateau (U. Clermont-Ferrand), as examiner
 * July 2009: Eric Debreuve (U. Nice), as reviewer
 
 ## PhD committees since 2015
