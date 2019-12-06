@@ -26,10 +26,11 @@ redirect_from:
 * July 2009: Eric Debreuve (U. Nice), as reviewer
 
 ## PhD committees since 2015
+* March 2020: Oriane Simeoni (Inria Rennes), as reviewer  
 * Jan. 2020: Florian Strub (Lille U.), as reviewer  
 * Dec. 2019: Kevin Bascol (Irisa/Blucime), as reviewer  
 * Dec. 2019: Hugo Caracalla (Ircam/Sorbonne U.), as examiner  
-* Nov. 2019: Marcela Carvalho (Paris Descaetes/Onera), as examiner
+* Nov. 2019: Marcela Carvalho (Paris Descartes/Onera), as examiner
 * Sept. 2019: Théophile Dalens (ENS Paris), as reviewer
 * June 2019: Pauline Luc (Inria/Facebook), as reviewer
 * June 2019: Clément Pinard (Ensta/Parrot), as reviewer
