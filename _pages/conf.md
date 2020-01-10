@@ -14,7 +14,7 @@ redirect_from:
 A. Dapogny, M. Cord, P. Pérez  
 *AAAI 2020* [[code]()]
 
-[Addressing failure detection by learning model confidence](http://papers.nips.cc/paper/8556-addressing-failure-detection-by-learning-model-confidence)  
+[Addressing failure detection by learning model confidence](https://papers.nips.cc/paper/8556-addressing-failure-detection-by-learning-model-confidence)  
 Ch. Corbière, N. Thome, A. Bar-Hen, M. Cord, P. Pérez  
 *NeurIPS 2019* [[code](https://github.com/valeoai/ConfidNet)]
 
