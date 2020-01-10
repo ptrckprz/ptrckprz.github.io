@@ -68,7 +68,7 @@ On our [github](https://github.com/valeoai):
 
 Czech Technical University in Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
-INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/))  
+INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/), Inria Paris and [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/), Inria Grenoble)  
 le CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avner Bar-hen](https://ab-h.github.io/index.html))  
 Max Planck Institute ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
 Ponts ParisTech ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
