@@ -47,7 +47,7 @@ Huy Van Vo (PhD student) [scholar](https://scholar.google.fr/citations?user=gIf5
 *Please contact me*
 
 ## Some projects
-(for not too technical updates, follow us on [Medium](https://medium.com/@valeo.ai))
+(for not too technical updates, follow us on [Medium](https://medium.com/@valeo.ai) and [Twitter](https://twitter.com/valeoai))
 
 **Multi-sensor perception**: Automated driving relies first on a diverse range of sensors, like Valeo's [fish-eye cameras](https://www.valeo.com/en/360-vue/), [LiDARs](https://www.valeo.com/en/valeo-scala/), radars and ultrasonics. Exploiting at best the outputs of each of these sensors at any instant is fundamental to understand the complex environment of the vehicle. To this end, we explore various deep learning approaches where sensors are considered both in isolation and collectively.
 
