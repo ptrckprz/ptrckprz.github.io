@@ -89,7 +89,7 @@ Y. Lifchitz, Y. Avrithis, S. Picard, A. Bursuc
 *CVPR 2019*
 
 [Generating classification weights with gnn denoising autoencoders for few-shot learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Gidaris_Generating_Classification_Weights_With_GNN_Denoising_Autoencoders_for_Few-Shot_Learning_CVPR_2019_paper.html)  
-S. Gidarys, N. Komodakis  
+S. Gidaris, N. Komodakis  
 *CVPR 2019*  
 
 [Optimal Solving of Constrained Path-Planning Problems with Graph Convolutional Networks and Optimized Tree Search](https://abursuc.github.io/papers/iros_2019.pdf)  
