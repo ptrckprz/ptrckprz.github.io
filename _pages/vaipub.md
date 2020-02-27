@@ -22,7 +22,7 @@ M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez
 A.Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
 *CVPR 2020*
 
-[End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances]()  
+[End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868)  
 M. Toromanoff, E. Wirbel, F. Moutarde  
 *CVPR 2020*
 
@@ -34,11 +34,11 @@ F. Lafarge, R. Marlet
 A. Dapogny, M. Cord, P. Pérez  
 *AAAI 2020* [[code]()]
 
-[This dataset does not exist: training models from generated images]()  
+[This dataset does not exist: training models from generated images](https://arxiv.org/abs/1911.02888)  
 V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez  
 *ICASSP 2020*
 
-[Adversarial frontier stitching for remote neural network watermarking]()  
+[Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
 E. Le Merrer, P. Pérez, G. Trédan  
 *Neural Computing and Applications*
 
@@ -92,7 +92,7 @@ Y. Lifchitz, Y. Avrithis, S. Picard, A. Bursuc
 S. Gidarys, N. Komodakis  
 *CVPR 2019*  
 
-[Optimal Solving of Constrained Path-Planning Problems with Graph Convolutional Networks and Optimized Tree Search]()  
+[Optimal Solving of Constrained Path-Planning Problems with Graph Convolutional Networks and Optimized Tree Search](https://abursuc.github.io/papers/iros_2019.pdf)  
 K. Osanlou, A. Bursuc, Ch. Guettier, T. Cazenave, E. Jacopin  
 *IROS 2019*
 
@@ -100,10 +100,10 @@ K. Osanlou, A. Bursuc, Ch. Guettier, T. Cazenave, E. Jacopin
 A. Vobecky, M. Uricár, D. Hurych, R. Skoviera  
 *Workshop ICCV 2109*
 
-[Weakly supervised representation learning for audio-visual scene analysis]()  
+[Weakly supervised representation learning for audio-visual scene analysis](https://arxiv.org/abs/1804.07345)  
 S. Parekh, S. Essid, A. Ozerov, N. QK Duong, P. Pérez, G. Richard  
 *IEEE Trans. Audio, Speech and Language Proc. (T-ASLP) 2019* 
 
-[Understanding and improving kernel local descriptors]()  
+[Understanding and improving kernel local descriptors](https://arxiv.org/abs/1811.11147)  
 A. Mukundan, G. Tolias, A. Bursuc, H. Jégou, O. Chum  
 *Int. J. Computer Vision (IJCV), 2019*
