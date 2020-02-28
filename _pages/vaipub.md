@@ -26,8 +26,8 @@ A.Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.-P. Seidel, P. P√©rez, M. Zollh√
 M. Toromanoff, E. Wirbel, F. Moutarde  
 *CVPR 2020*
 
-[...]()  
-F. Lafarge, R. Marlet  
+[Approximating shapes in images with low-complexity polygons]()  
+M. Li, F. Lafarge, R. Marlet  
 *CVPR 2020*
 
 [The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
