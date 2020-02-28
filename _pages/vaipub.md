@@ -32,11 +32,15 @@ F. Lafarge, R. Marlet
 
 [The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
 A. Dapogny, M. Cord, P. Pérez  
-*AAAI 2020* [[code]()]
+*AAAI 2020* [[code](https://gitlab.com/adapo/themissingdataencoder/-/wikis/home)]
 
 [This dataset does not exist: training models from generated images](https://arxiv.org/abs/1911.02888)  
 V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez  
 *ICASSP 2020*
+
+ [ConvPoint: continuous convolution for point cloud processing](https://arxiv.org/abs/1904.02375)  
+ A. Boulch  
+ *Computer and Graphics Journal, 2020* [[code](https://github.com/aboulch/ConvPoint)]
 
 [Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
 E. Le Merrer, P. Pérez, G. Trédan  
