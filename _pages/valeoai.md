@@ -9,7 +9,7 @@ redirect_from:
 **We are** an open, international, research lab based in Paris  
 
 **We aim**
-* to conduct cutting-edge AI research for automotive applications
+* to conduct cutting-edge AI research for automotive applications (see our [papers](https://ptrckprz.github.io/vaipub) and [codes](https://github.com/valeoai))
 * to nurture collaborations with world-class academic teams
 * to irrigate [Valeo](http://valeo.com)’s R&D    
 
@@ -77,7 +77,7 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
-* 02/2020: Five papers accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate).
+* 02/2020: Five papers accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), see [there](https://ptrckprz.github.io/vaipub).
 * 01/2020: Pedestrian monitoring demo at CES, Las Vegas.
 * 12/2019: Medium post: [Is deep Reinforcement Learning really superhuman on Atari?](https://medium.com/@valeo.ai/is-deep-reinforcement-learning-really-superhuman-on-atari-2e34f8ae1eed)
 * 12/2019: Codes for our ICCV'19 papers "Boosting few-shot visual learning with self-supervision" and "DADA: Depth-Aware Domain Adaptation in semantic segmentation" available on our github ([BF3S](https://github.com/valeoai/BF3S) and [DADA](https://github.com/valeoai/DADA)).
@@ -88,7 +88,7 @@ Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) a
 * 09/2019: Work of Marin Toromanoff *et al.* discussed by Andrew Ng in [The Batch](https://info.deeplearning.ai/the-batch-autonomous-nuclear-weapons-fighting-deepfakes-recognizing-chimps-automating-fast-food-2) (deeplearning.ai newsletter).
 * 09/2019: Two papers accepted at [NeurIPS](https://nips.cc/) (21% acceptance rate), including one on new problem of zero shot semantic segmentation ("[Z3S](https://arxiv.org/abs/1906.00817)"). Matthieu Cord among the top contributors according to [conference stats](https://medium.com/@dcharrezt/neurips-2019-stats-c91346d31c8f).
 * 07/2029: Medium post: [ADVENT: Adversarial entropy minimization for domain adaptation in semantic segmentation](https://medium.com/@valeo.ai/advent-adversarial-entropy-minimization-for-domain-adaptation-in-semantic-segmentation-dba21934430b).
-* 07/2019: Three papers accepted at [ICCV19](http://iccv2019.thecvf.com/) (24% acceptance rate), including one oral (4.6% acceptance rate).
+* 07/2019: Three papers accepted at [ICCV19](http://iccv2019.thecvf.com/) (24% acceptance rate), including one oral (4.6% acceptance rate), see [there](https://ptrckprz.github.io/vaipub).
 * 07/2019: Code of our CVPR'19 paper "AdvEnt: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" is available on [valeo.ai github](https://github.com/valeoai/ADVENT). 
 * 07/2019: Marin Toromanoff (PhD student with Mines ParisTech, Valeo DAR and Valeo.ai) ranks 1st on Track 2 of [Carla Challenge 2019](https://carlachallenge.org/results-challenge-2019/), and 2nd on Track 1.   
 * 06/2019: Spyros Gidaris receives the [Best Thesis Prize from Ponts Foundation](https://www.fondationdesponts.fr/spyros-gidaris-laureat-ex-aequo-du-prix-de-la-meilleure-these-2019/). 
