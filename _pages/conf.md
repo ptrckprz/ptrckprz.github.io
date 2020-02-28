@@ -24,7 +24,7 @@ A.Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.-P. Seidel, P. Pérez, M. Zollh�
 
 [The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
 A. Dapogny, M. Cord, P. Pérez  
-*AAAI 2020* [[code]()]
+*AAAI 2020* [[code](https://gitlab.com/adapo/themissingdataencoder/-/wikis/home)]
 
 [Addressing failure detection by learning model confidence](https://papers.nips.cc/paper/8556-addressing-failure-detection-by-learning-model-confidence)  
 Ch. Corbière, N. Thome, A. Bar-Hen, M. Cord, P. Pérez  
