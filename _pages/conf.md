@@ -60,7 +60,7 @@ G. Puy, P. Pérez
 
 [Unsupervised image matching and object discovery as optimization](http://openaccess.thecvf.com/content_CVPR_2019/html/Vo_Unsupervised_Image_Matching_and_Object_Discovery_as_Optimization_CVPR_2019_paper.html)  
 H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce  
-*CVPR 2019* 
+*CVPR 2019* [[code](https://github.com/huyvvo/OSD)]  
 
 [SoDeep: a Sorting Deep net to learn ranking loss surrogates](http://openaccess.thecvf.com/content_CVPR_2019/html/Engilberge_SoDeep_A_Sorting_Deep_Net_to_Learn_Ranking_Loss_Surrogates_CVPR_2019_paper.html)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
