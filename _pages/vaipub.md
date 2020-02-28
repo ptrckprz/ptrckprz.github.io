@@ -42,10 +42,6 @@ V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez
  A. Boulch  
  *Computer and Graphics Journal, 2020* [[code](https://github.com/aboulch/ConvPoint)]
 
-[Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
-E. Le Merrer, P. Pérez, G. Trédan  
-*Neural Computing and Applications*
-
 **2019**
 
 [Addressing failure detection by learning model confidence](https://papers.nips.cc/paper/8556-addressing-failure-detection-by-learning-model-confidence)  
@@ -104,9 +100,13 @@ K. Osanlou, A. Bursuc, Ch. Guettier, T. Cazenave, E. Jacopin
 A. Vobecky, M. Uricár, D. Hurych, R. Skoviera  
 *Workshop ICCV 2109*
 
+[Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
+E. Le Merrer, P. Pérez, G. Trédan  
+*Neural Computing and Applications, 2019*
+
 [Weakly supervised representation learning for audio-visual scene analysis](https://arxiv.org/abs/1804.07345)  
 S. Parekh, S. Essid, A. Ozerov, N. QK Duong, P. Pérez, G. Richard  
-*IEEE Trans. Audio, Speech and Language Proc. (T-ASLP) 2019* 
+*IEEE Trans. Audio, Speech and Language Proc. (T-ASLP), 2019* 
 
 [Understanding and improving kernel local descriptors](https://arxiv.org/abs/1811.11147)  
 A. Mukundan, G. Tolias, A. Bursuc, H. Jégou, O. Chum  
