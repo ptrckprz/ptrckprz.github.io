@@ -26,6 +26,10 @@ A.Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.-P. Seidel, P. Pérez, M. Zollh�
 A. Dapogny, M. Cord, P. Pérez  
 *AAAI 2020* [[code](https://gitlab.com/adapo/themissingdataencoder/-/wikis/home)]
 
+[This dataset does not exist: training models from generated images](https://arxiv.org/abs/1911.02888)  
+V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez  
+*ICASSP 2020*
+
 [Addressing failure detection by learning model confidence](https://papers.nips.cc/paper/8556-addressing-failure-detection-by-learning-model-confidence)  
 Ch. Corbière, N. Thome, A. Bar-Hen, M. Cord, P. Pérez  
 *NeurIPS 2019* [[code](https://github.com/valeoai/ConfidNet)]
