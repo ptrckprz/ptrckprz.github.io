@@ -77,7 +77,7 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
-* 02/2020: Five papers accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), see [there](https://ptrckprz.github.io/vaipub).
+* 02/2020: Papers accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), see [there](https://ptrckprz.github.io/vaipub).
 * 01/2020: Pedestrian monitoring demo at CES, Las Vegas.
 * 12/2019: Medium post: [Is deep Reinforcement Learning really superhuman on Atari?](https://medium.com/@valeo.ai/is-deep-reinforcement-learning-really-superhuman-on-atari-2e34f8ae1eed)
 * 12/2019: Codes for our ICCV'19 papers "Boosting few-shot visual learning with self-supervision" and "DADA: Depth-Aware Domain Adaptation in semantic segmentation" available on our github ([BF3S](https://github.com/valeoai/BF3S) and [DADA](https://github.com/valeoai/DADA)).
