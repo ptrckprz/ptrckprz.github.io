@@ -18,10 +18,6 @@ S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord
 M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez  
 *CVPR 2020*
 
-[StyleRig: Rigging StyleGAN for 3D Control over Portrait Images]()  
-A.Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
-*CVPR 2020*
-
 [The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
 A. Dapogny, M. Cord, P. Pérez  
 *AAAI 2020* [[code](https://gitlab.com/adapo/themissingdataencoder/-/wikis/home)]
