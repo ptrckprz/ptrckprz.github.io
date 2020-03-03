@@ -18,10 +18,6 @@ S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord
 M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez  
 *CVPR 2020*
 
-[StyleRig: Rigging StyleGAN for 3D Control over Portrait Images]()  
-A.Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
-*CVPR 2020*
-
 [End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868)  
 M. Toromanoff, E. Wirbel, F. Moutarde  
 *CVPR 2020*
