@@ -7,26 +7,29 @@ redirect_from:
 ---
 
 ## Journal and conference editorial commitments
-* Editorial board of the International Journal on Computer Vision (IJCV): 2014-
+* Editorial board of the International Journal on Computer Vision (IJCV): 2010-2020
 * Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): 2008-2012
 * Associate Editor for the IEEE Transactions on Image Processing (T-IP): 2002-2006
-* Area chair for ECCV (2008, 2010, 2012, 2014), ICCV (2011, 2013, 2019), BMVC (2017)
+* Area chair for ECCV (2020, 2014, 2012, 2010, 2008), ICCV (2019, 2013, 2011), BMVC (2017)
 
 ## "Research Habilitation" committees
-* Aug. 2019: Mathieu Aubry (ENPC), as examiner
-* Oct. 2018: David Tschumperlé (U. Caen), as reviewer
-* Dec. 2015: Nicolas Papadakis (U. Bordeaux), as reviewer 
-* Oct. 2014: Hervé Jégou (Inria Rennes), as examiner
-* Feb. 2014: Josef Sivic (Inria Paris), as examiner
-* July 2013: Ivan Laptev (Inria Paris), as examiner
-* July 2013: Nikos Komodakis (Ponts ParisTech), as examiner
-* Nov. 2012: Séverine Dubuisson (U. Paris 6), as reviewer
-* Dec. 2009: Rémi Ronfard (U. Grenoble), as examiner
-* Sept. 2009: Thierry Chateau (U. Clermont-Ferrand), as examiner
-* July 2009: Eric Debreuve (U. Nice), as reviewer
+* June 2020: [Iannis Avrithis](https://avrithis.net/) (Inria Rennes), as reviewer
+* Aug. 2019: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/) (ENPC), as examiner
+* Oct. 2018: [David Tschumperlé](https://tschumperle.users.greyc.fr/) (U. Caen), as reviewer
+* Dec. 2015: [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/) (U. Bordeaux), as reviewer 
+* Oct. 2014: [Hervé Jégou](https://scholar.google.fr/citations?user=1lcY2z4AAAAJ&hl=en)(Inria Rennes), as examiner
+* Feb. 2014: [Josef Sivic](https://www.di.ens.fr/~josef/) (Inria Paris), as examiner
+* July 2013: [Ivan Laptev](https://www.di.ens.fr/~laptev/) (Inria Paris), as examiner
+* July 2013: [Nikos Komodakis](https://scholar.google.fr/citations?user=xCPoT4EAAAAJ&hl=en) (Ponts ParisTech), as examiner
+* Nov. 2012: [Séverine Dubuisson](https://scholar.google.com/citations?user=RCnjHDUAAAAJ&hl=en) (U. Paris 6), as reviewer
+* Dec. 2009: [Rémi Ronfard](https://team.inria.fr/imagine/remi-ronfard/) (U. Grenoble), as examiner
+* Sept. 2009: [Thierry Chateau](https://chateaut.fr/) (U. Clermont-Ferrand), as examiner
+* July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ## PhD committees since 2015
-* March 2020: Oriane Simeoni (Inria Rennes), as reviewer  
+* April 2020: Maximilian Jaritz (Inria Paris/Valeo), as invitee 
+* April 2020: Martin Engilberge (Sorbonne U./Technicolor-Interdigital), as advisor (postponed due to covid-19)
+* March 2020: Oriane Simeoni (Inria Rennes), as reviewer (postponed due to covid-19) 
 * Jan. 2020: Florian Strub (Lille U.), as reviewer  
 * Dec. 2019: Kevin Bascol (Irisa/Blucime), as reviewer  
 * Dec. 2019: Hugo Caracalla (Ircam/Sorbonne U.), as examiner  
