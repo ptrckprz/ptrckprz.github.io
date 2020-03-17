@@ -17,7 +17,7 @@ redirect_from:
 * Aug. 2019: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/) (ENPC), as examiner
 * Oct. 2018: [David Tschumperlé](https://tschumperle.users.greyc.fr/) (U. Caen), as reviewer
 * Dec. 2015: [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/) (U. Bordeaux), as reviewer 
-* Oct. 2014: [Hervé Jégou](https://scholar.google.fr/citations?user=1lcY2z4AAAAJ&hl=en)(Inria Rennes), as examiner
+* Oct. 2014: [Hervé Jégou](https://scholar.google.fr/citations?user=1lcY2z4AAAAJ&hl=en) (Inria Rennes), as examiner
 * Feb. 2014: [Josef Sivic](https://www.di.ens.fr/~josef/) (Inria Paris), as examiner
 * July 2013: [Ivan Laptev](https://www.di.ens.fr/~laptev/) (Inria Paris), as examiner
 * July 2013: [Nikos Komodakis](https://scholar.google.fr/citations?user=xCPoT4EAAAAJ&hl=en) (Ponts ParisTech), as examiner
