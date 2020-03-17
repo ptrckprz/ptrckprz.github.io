@@ -13,7 +13,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ## NEWS
 
-* 2020.03: [Panel](https://www.math-ia.fr/) on Maths and AI at Museum of Natural History, Paris.  
+* 2020.03: [Panel](https://www.math-ia.fr/) on Maths and AI at Museum of Natural History, Paris (postponed due to covid-19).  
 * 2020.02: Three papers accepted at CVPR'20  
 * 2019.12: Codes for our ICCV'19 papers "Boosting few-shot visual learning with self-supervision" and "DADA: Depth-Aware Domain Adaptation in semantic segmentation" available on valeo.ai github ([BF3S](https://github.com/valeoai/BF3S) and [DADA](https://github.com/valeoai/DADA)). 
 * 2019.11: Panel on Maths and AI at Poincaré Institute, Paris. 
