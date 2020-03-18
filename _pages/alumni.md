@@ -15,8 +15,9 @@ redirect_from:
 * Alexey Ozerov, Technicolor (2012-2013), now Senior Scientist at InterDigital
 * Tomas Crivelli, Technicolor (2011-2012), now CTO at Zowl Labs
 * Joaquin Zepeda, Technicolor (2010-2011), now Senior Applied Scientist at Amazon
-* Imran Junejo, INRIA (2007-2008), now Researcher at IBA Karachi
-* Ivan Laptev, INRIA (2004-2005), now Senior Researcher at Inria/ENS, head of Willow team
+* Imran Junejo, Inria (2007-2008), now Researcher at IBA Karachi
+* Ivan Laptev, Inria (2004-2005), now Senior Researcher at Inria/ENS, head of Willow team  
+* R. Venkatesh Baby, Inria (2004), now Associate Professor at IISc Bangalore
 
 ## PhDs (defended since 2007)
 * Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoctoral Research Engineer at Telecom Paris
@@ -29,7 +30,7 @@ redirect_from:
 * Anthony Bourrier (Inria-Rennes, May 2014), now Research Engineer at Thales
 * Alasdair Newson (Telecom Paris, March 2014), now Associate Professor at Telecom Paris
 * Aymeric Stamm (Inria-Rennes, Dec. 2013), now Research Engineer at CNRS
-* Christophe Guilmart (ONERA, Dec. 2011), now "Ingénieur en Chef" at French Army Direction 
+* Christophe Guilmart (Onera, Dec. 2011), now "Ingénieur en Chef" at French Army Direction 
 * Christophe Avenel (Inria-Rennes, Dec. 2011), now Director Of Software Dev. and Co-Founder at CADESS Medical AB
 * Matthieu Fradet (Inria-Rennes, March 2010), now Senior Research Scientist at InterDigital
 * Emilie Dexter (Inria-Rennes, Oct. 2009), now at French National Defense (DGA)
