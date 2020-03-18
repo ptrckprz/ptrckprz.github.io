@@ -50,11 +50,13 @@ Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations
 ## Some projects
 (for not too technical updates, follow us on [Medium](https://medium.com/@valeo.ai) and [Twitter](https://twitter.com/valeoai))
 
-**Multi-sensor perception**: Automated driving relies first on a diverse range of sensors, like Valeo's [fish-eye cameras](https://www.valeo.com/en/360-vue/), [LiDARs](https://www.valeo.com/en/valeo-scala/), radars and ultrasonics. Exploiting at best the outputs of each of these sensors at any instant is fundamental to understand the complex environment of the vehicle. To this end, we explore various deep learning approaches where sensors are considered both in isolation and collectively.
+**Multi-sensor perception**: Automated driving relies first on a diverse range of sensors, like Valeo's [fish-eye cameras](https://www.valeo.com/en/360-vue/), [LiDARs](https://www.valeo.com/en/valeo-scala/), radars and ultrasonics. Exploiting at best the outputs of each of these sensors at any instant is fundamental to understand the complex environment of the vehicle. To this end, we explore various deep learning approaches where sensors are considered both in isolation and collectively.  
+
+**3D dynamic perception**: Each sensor delivers information about the 3D world around the vehicle and its temporal evolution. Dectecting, segmenting and tracking important objects (road users, obstacles, street furnitures, etc.) in 3D, as well as forecasting their possible futures, is required for the driving system to plan and act in the safest and most confortable way. This encompasses a wide range of challenging tasks that our research tackles.   
 
 **Domain adaptation**: Deep learning and reinforcement learning are key technologies for autonomous driving. One of the challenges they face is to adapt to conditions which differ from those met during training. To improve systems' performance in such situations, we explore so-called "domain adaptation" techniques, as in [AdvEnt](https://github.com/valeoai/ADVENT), our project presented at CVPR'19.  
 
-**Uncertainty estimation and performance prediction**: When the unexpected happens, when the weather badly degrades, when a sensor gets blocked, the embarked perception system should diagnose the situation and react accordingly, e.g., by calling an alternative system or the human driver. With this in mind, we investigate automatic ways to assess the uncertainty of a system and to predict its performance.
+**Uncertainty estimation and performance prediction**: When the unexpected happens, when the weather badly degrades, when a sensor gets blocked, the embarked perception system should diagnose the situation and react accordingly, e.g., by calling an alternative system or the human driver. With this in mind, we investigate automatic ways to assess the uncertainty of a system and to predict its performance, as in [ConfidNet](https://github.com/valeoai/ConfidNet), our project presented at NeurIPS'19
 
 ## Code, data and posts
 
@@ -77,7 +79,7 @@ Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ## Recent news
-* 02/2020: Papers accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), see [there](https://ptrckprz.github.io/vaipub).
+* 02/2020: Five papers accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), inc. one oral, see [there](https://ptrckprz.github.io/vaipub).
 * 01/2020: Pedestrian monitoring demo at CES, Las Vegas.
 * 12/2019: Medium post: [Is deep Reinforcement Learning really superhuman on Atari?](https://medium.com/@valeo.ai/is-deep-reinforcement-learning-really-superhuman-on-atari-2e34f8ae1eed)
 * 12/2019: Codes for our ICCV'19 papers "Boosting few-shot visual learning with self-supervision" and "DADA: Depth-Aware Domain Adaptation in semantic segmentation" available on our github ([BF3S](https://github.com/valeoai/BF3S) and [DADA](https://github.com/valeoai/DADA)).
