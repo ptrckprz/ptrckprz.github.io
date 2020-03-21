@@ -26,7 +26,7 @@ redirect_from:
 * Juan-Manuel Perez-Rua (Inria-Rennes, Dec. 2017), now Researcher at Samsung AI
 * Praveen Kulkarni (U. Caen, Jan. 2017), now Computer Vision Engineer at Bosch
 * Pablo Garrido (MPI-Saarbruken, June 2016), now Research Scientist at Epic Games
-* Abdelaziz Djellouah (Inria-Grenoble, March 2015), now Associate Research Scientist at Disney Research
+* Abdelaziz Djellouah (Inria-Grenoble, March 2015), now Research Scientist at Disney Research
 * Anthony Bourrier (Inria-Rennes, May 2014), now Research Engineer at Thales
 * Alasdair Newson (Telecom Paris, March 2014), now Associate Professor at Telecom Paris
 * Aymeric Stamm (Inria-Rennes, Dec. 2013), now Research Engineer at CNRS
