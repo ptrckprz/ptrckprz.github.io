@@ -9,20 +9,20 @@ redirect_from:
 {% include base_path %}
 
 ### 2020
-* Crans-Montana — Monica Sabolo
-* Nous serons des héros — Brigitte Giraud
-* Un vertige — Hélène Gestern
-* Avec toutes mes sympathies — Olivia de Lamberterie
-* Ce qu’aimer veut dire — Mathieu Lindon
-* Le guetteur — Christophe Boltanski
-* La succession — Jean-Paul Dubois
-* J’apprends l’hébreu — Denis Lachaud
-* Vie de David Hockney — Catherine Cusset
-* L’amant — Marguerite Duras
-* Le cas Sneijder — Jean-Paul Dubois
-* Susan — Hanif Kureishi
-* La panthère des neiges — Sylvain Tesson
-* Arcadie — Emmanuelle Bayamack-Tam
+Crans-Montana — Monica Sabolo  
+Nous serons des héros — Brigitte Giraud  
+Un vertige — Hélène Gestern  
+Avec toutes mes sympathies — Olivia de Lamberterie  
+Ce qu’aimer veut dire — Mathieu Lindon  
+Le guetteur — Christophe Boltanski  
+La succession — Jean-Paul Dubois  
+J’apprends l’hébreu — Denis Lachaud  
+Vie de David Hockney — Catherine Cusset  
+L’amant — Marguerite Duras  
+Le cas Sneijder — Jean-Paul Dubois  
+Susan — Hanif Kureishi  
+La panthère des neiges — Sylvain Tesson  
+Arcadie — Emmanuelle Bayamack-Tam
 
 ### 2019
 1. La traquet kurde - Jean Rolin
@@ -79,3 +79,6 @@ redirect_from:
 52. Pelilu - Jean Rolin
 53. Novembre - Philippe Le Guillou
 54. La commémoration - Jean-Paul Goux
+
+### 2018
+TBC
