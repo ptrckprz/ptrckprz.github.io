@@ -17,7 +17,7 @@ redirect_from:
 * Joaquin Zepeda, Technicolor (2010-2011), now Senior Applied Scientist at Amazon
 * Imran Junejo, Inria (2007-2008), now Researcher at IBA Karachi
 * Ivan Laptev, Inria (2004-2005), now Senior Researcher at Inria/ENS, head of Willow team  
-* R. Venkatesh Baby, Inria (2004), now Associate Professor at IISc Bangalore
+* R. Venkatesh Babu, Inria (2004), now Associate Professor at IISc Bangalore
 
 ## PhDs (defended since 2007)
 * Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoctoral Research Engineer at Telecom Paris
