@@ -82,7 +82,7 @@ La commémoration - Jean-Paul Goux
 
 ### 2018
 Nagori - Ryoko Sekiguchi  
-La septième fonction du langage - Luarent Binet    
+La septième fonction du langage - Laurent Binet    
 Souviens-moi - Yves Pagés  
 La vie automatique - Christian Oster  
 Petit pays - Gaël Faye  
