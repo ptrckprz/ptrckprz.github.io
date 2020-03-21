@@ -34,7 +34,7 @@ One man show - Nicolas Fargue
 La jeune épouse - Alessandro Barricco  
 Mes pas vont ailleurs - Jean-Luc Coatlem  
 La clé USB - Jean-Philippe Toussaint  
-Bleu - Michel Pastoureau 
+Bleu - Michel Pastoureau  
 Le garçon qui voulait dormir - Aaron Happelfeld  
 Girl - Edna O’Brien  
 La bête à sa mère - David Goudreault  
