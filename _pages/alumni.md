@@ -31,7 +31,7 @@ redirect_from:
 * Alasdair Newson (Telecom Paris, March 2014), now Associate Professor at Telecom Paris
 * Aymeric Stamm (Inria, Dec. 2013), now Research Engineer at CNRS
 * Christophe Guilmart (Onera, Dec. 2011), now "Ingénieur en Chef" at French Army Direction 
-* Christophe Avenel (Inria, Dec. 2011), now Dir. SW Dev. and Co-Founder at CADESS Medical AB
+* Christophe Avenel (Inria, Dec. 2011), now Dir. SW Dev. and Co-Founder at Cadess Medical
 * Matthieu Fradet (Inria, March 2010), now Senior Research Scientist at InterDigital
 * Emilie Dexter (Inria, Oct. 2009), now at French National Defense (DGA)
 * Vijay Badrinarayanan (Inria, March 2009), now Dir. DL and AI at Magic Leap 
