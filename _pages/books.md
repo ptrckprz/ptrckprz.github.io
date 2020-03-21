@@ -1,7 +1,7 @@
 ---
 title: "Books"
 permalink: /books/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
