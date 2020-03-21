@@ -20,7 +20,7 @@ redirect_from:
 * R. Venkatesh Babu, Inria (2004), now Associate Professor at IISc Bangalore
 
 ## PhDs (defended since 2007)
-* Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoctoral Research Engineer at Telecom Paris
+* Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoc at Telecom Paris
 * Himalaya Jain (Inria-Rennes, May 2018), now Research Scientist at Valeo.ai
 * Ondra Miksik (Oxford University, Jan. 2018), now Scientist at Microsoft Research
 * Juan-Manuel Perez-Rua (Inria-Rennes, Dec. 2017), now Researcher at Samsung AI
