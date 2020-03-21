@@ -81,4 +81,90 @@ Novembre - Philippe Le Guillou
 La commémoration - Jean-Paul Goux  
 
 ### 2018
+Nagori - Ryoko Sekiguchi  
+La septième fonction du langage - Luarent Binet    
+Souviens-moi - Yves Pagés  
+La vie automatique - Christian Oster  
+Petit pays - Gaël Faye  
+Mon frère - Daniel Pennac  
+Le bruiteur - Christine Montalbetti  
+La salle - Joël Baqué  
+Un monde à portée de main - Maylis de Kerangal  
+Histoire de la littérature récente - Olivier Cadiot  
+Celle que vous croyez - Camille Laurens  
+Charlotte - David Foekinos  
+Pays sans chapeau - Danny Laferrière  
+Les émigrants - Sebald W.G.  
+Snow queen - Cunningam  
+Souvenirs de la marée basse - Chantal Thomas  
+Le corps des ruines - Juan Gabriel Vasquez  
+Le lambeau - Philippe Lançon  
+Au revoir là-haut - Pierre Lemaitre  
+Vernon Subutex t.3 - Virginie Despentes  
+Une rencontre à Pekin - Jean François Billeter  
+L'amie prodigieuse, t.4 - Elena Ferrante  
+L'amie prodigieuse, t.3 - Elena Ferrante  
+En cherchant Majorana - Etienne Klein  
+L'autre qu'on adorait - Catherine Cusset  
+Les souhaits ridicules - Pauline Klein  
+L'amie prodigieuse, t.2 - Elena Ferrante  
+Le salaire de la peur - Gorge Arnaud  
+L'amie prodigieuse, t.1 - Elena Ferrante  
+Cartons - Pascal Garnier  
+La serpe - Philippe Jeanada  
+Homo Deus - Yuval Nohah Harari
+
+### 2017
+Le cavalier du Louvre - Philippe Sollers  
+Dernier inventaire avant liquidation - Frédéric Beigbeder  
+121 curriculum vitae pour un tombeau - Pierre Lamalattie  
+Pas pleurer - Lydie Salvayre  
+Entre ciel et terre - Jón Kalman Stefánsson  
+Sulak - Philippe Jaenada  
+Le coursier de Valenciennes - Clélia Anfray  
+La cène - Hubert Haddad  
+La grande arche - Laurence Cossé  
+Titus n'aimait pas Bénénice - Nathalie Azoulai  
+Total Kheops - Jean-Claude Izzo  
+Qui a tué Roger Ackroyd? - Pierre Bayard  
+Fils unique - Stéphane Audeguy  
+Rue de voleurs - Mathias Enard  
+Palestine - Hubert Haddad  
+Moment d'un couple - Nelly Allard  
+Les petites infamies - Carmen Posadas  
+Bouvard et Pécuchet - Gustave Flaubert  
+Nutshell - Ian McEwan  
+The woman and the ape - Peter Hoeg  
+Relire, enquête sur une passion littéraire - Laure Murat  
+Petite histoire du spectacle industriel - Patrick Bouvet  
+The noise of time - Julian Barnes  
+La cheffe, roman d'une cuisinière - Marie Ndaye  
+Histoire du lion Personne - Stéphane Audeguy  
+L'exception - Auður Ava Ólafsdóttir  
+Déneiger le ciel - André Bucher  
+Homer & Langley - E.L. Doctorow 
+L'ordre du jour - Eric Vuillard  
+Le royaume - Emmanuel Carrère  
+La symphonie pastorale - André Gide  
+Ecrits dans les marges - Danielle Bassez  
+Paradis conjugal - Alice Ferney  
+The life and death of Sophie Stark - Anna North  
+Le très-bas - Christian Bobin  
+Vernon Subutex t.2 - Virginie Despentes  
+Le dernier gardien d'Ellis Island - Gaëlle Josee  
+In the light of what we know - Zia Haider Rahman  
+Les rumeurs de Babel - Yvon Le Men et Emmanuel Lepage  
+La mante religieuse - Jean-Henri Fabre  
+Eux sur le photo - Hélène Gestern  
+L'expérience - Christophe Bataille  
+Intérieur - Thomas Clair  
+La cache - Christophe Boltanski  
+Oh... - Philippe Djian  
+Les larmes - Pascal Quignard  
+Un garçon parfait - Alain Claude Sulzer  
+Mon traître - Sorj Chalandon  
+L'homme semence - Violette Ailhaud  
+Profession du père - Sorj Chalandon
+
+### 2016
 TBC
