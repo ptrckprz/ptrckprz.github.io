@@ -14,13 +14,13 @@ StyleRig: Rigging StyleGAN for 3D control over portrait images
 A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zolhöfer, Ch. Theobalt   
 *CVPR 2020* 
 
+[High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)  
+A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
+*IEEE Trans. on Pattern Analysis and Machine Intelligence*, 42(2), 2020 [[page](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)]  
+
 [FML: Face Model Learning from Videos](https://arxiv.org/pdf/1812.07603)  
 A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
 *CVPR 2019*
-
-[High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)  
-A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
-*IEEE Trans. on Pattern Analysis and Machine Intelligence*, to appear [[page](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)]  
 
 [Deep Video Portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
 H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
