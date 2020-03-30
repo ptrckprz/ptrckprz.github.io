@@ -10,6 +10,10 @@ redirect_from:
 
 ### Relevant publications
 
+StyleRig: Rigging StyleGAN for 3D control over portrait images  
+A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zolhöfer, Ch. Theobalt   
+*CVPR 2020* 
+
 [FML: Face Model Learning from Videos](https://arxiv.org/pdf/1812.07603)  
 A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
 *CVPR 2019*
