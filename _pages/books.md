@@ -168,4 +168,49 @@ L'homme semence - Violette Ailhaud
 Profession du père - Sorj Chalandon
 
 ### 2016
+
+Anagrammes renvsersantes - Klein & Perry-Salkow  
+Théâtres en présence - Joël Pommerat  
+Un roi sans lendemain - Christophe Donner  
+Zinc - David Van Reybrouck  
+La carte des Mendelhsson - Diane Meur  
+Six promenades dans les bois du roman et d'ailleurs - Umberto Eco  
+Fuir - Jean-Philippe Toussaint  
+Faire l'amour - Jean-Philippe Toussaint  
+Sweet caress - William Boyd  
+Shop class as soulcraft: An inquiry into the value of work - Matthew Crawford  
+Un secret sans importance - Agnès Desarthe
+Here and now - Auster and Coetze  
+Pourquoi je serais plutôt aristocrate - Vladimir Volkoff  
+L'homme nu - Marc Dugain & Christophe Labbé  
+Pourquoi je suis moyennement démocrate - Vladimir Volkoff  
+Battements d'ailes - Milena Agus  
+Le grand marin - Catherine Poulain  
+Vendredi ou la vie sauvage - Michel Tournier  
+Foreign affairs - Alison Lurie  
+Vendredi ou les limbes du Pacifique - Michel Tournier  
+TransAtlantic - Colum McCann,  
+Comme un roman - Daniel Pennac  
+Fordetroit - Alexandre Friederich  
+L'homme-dé - Luke Rhinehart  
+Number 11 - Jonathan Coe  
+L'amour et les forêts - Eric Reinhard  
+De ce pas - Caroline Broué  
+Toutes les femmes sont des aliens - Olivia Rosenthal  
+Il est avantageux d'avoir où aller - Emmanuel Carrère  
+Leïlah Mahi 1932 - Didier Blonde  
+L'herbe des nuits - Patrick Modiano  
+BW - Lidye Salvaire  
+La parabole du failli - Lyonel Trouillot  
+L'usage du monde - Nicolas Bouvier  
+Larsen - Jean-Jacques Bonvin  
+Algèbre - Yan Pradeau  
+Ma solitude s'appelle Brando - Arno Bertrand  
+Si c'est un homme - Primo Levi  
+L'exposition - Nathalie Léger  
+En voie de disparition - Eric Pessan  
+Je suis un écrivain japonais - Dany Laferrière  
+L'élégance des veuves - Alice Ferney
+
+##2015
 TBC
