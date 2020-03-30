@@ -10,13 +10,13 @@ redirect_from:
 
 **2020**
 
-[Learning Representations by Predicting Bags of Visual Words]()  
+[Learning Representations by Predicting Bags of Visual Words](https://arxiv.org/abs/2002.12247)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
 *CVPR 2020*
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/1911.12676)  
 M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez  
-*CVPR 2020*
+*CVPR 2020* [[code](https://github.com/valeoai/xmuda)]
 
 [End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868)  
 M. Toromanoff, E. Wirbel, F. Moutarde  
