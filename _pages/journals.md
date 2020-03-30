@@ -10,21 +10,21 @@ redirect_from:
 
 ## Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
-[Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
-E. Le Merrer, P. Pérez, G. Trédan  
-Neural Computing and Applications, 2019
+[High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)  
+A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 42(2):357-370, 2020 [[page](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)]  
 
 [Weakly supervised representation learning for audio-visual scene analysis](https://arxiv.org/abs/1804.07345)  
 S. Parekh, S. Essid, A. Ozerov, N. QK Duong, P. Pérez, G. Richard  
 IEEE Trans. Audio, Speech and Language Proc. 28:416-428, 2020
 
-[High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)  
-A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
-IEEE Trans. on Pattern Analysis and Machine Intelligence, to appear [[page](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/)]  
+[Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
+E. Le Merrer, P. Pérez, G. Trédan  
+Neural Computing and Applications, 2019
 
 ROAM: a Rich Object Appearance Model with Application to Rotoscoping  
 J.-M. Pérez-Rua, O. Miksik, T. Crivelli, P. Bouthemy, P. Torr and P. Pérez  
-IEEE Trans. on Pattern Analysis and Machine Intelligence, to appear
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 2019
 
 [Solving time domain audio inverse problems using nonnegative tensor factorization](https://hal.inria.fr/hal-01669825/document)  
 C. Bilen, A. Ozerov, P. Pérez  
