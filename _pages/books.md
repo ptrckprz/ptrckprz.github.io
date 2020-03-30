@@ -267,3 +267,116 @@ La modification - Michel Butor
 Dans l'or du temps - Claudie Gallay  
 Anna Karénine - Léon Tolsoi
 
+### 2014
+
+La lumière du monde - Christian Bobin  
+Autoportrait au radiateur - Christian Bobin  
+Oranges are not the only fruits - Jeannette Winterson  
+Nos séparations - David Foenkinos  
+Anima - Wajdi Mouawad  
+Le fils de Sam Green - Sibylle Grimbert  
+Heureux les heureux - Yasmina Reza  
+Report from the interior - Paul Auster  
+La boîte noire - Amos Oz  
+Le garçon incassable - Florence Seyros  
+Un barrage contre le Pacifique - Marguerite Duras  
+Let the great world spin - Colum McCann  
+Tsubaki (le poids des secrets, t.1) - Aki Shimazaki  
+Le cosmos et le lotus - Trinh Xuan Thuang  
+Indigo - Catherine Cusset  
+L'énigme du retour - Dany Laferrière  
+Appelez-moi mademoiselle - Félicien Marceau  
+L'héritage - Colette Audry  
+Clair de femmes - Romain Gary  
+Le mal de pierre - Milena Agus  
+La fête de l'insignifiance - Milan Kundera  
+Train de nuit pour Lisbonne - Pascal Mercier  
+Restless - William Boyd  
+La grande vie - Christian Bobin  
+Mémoire de mes putains tristes - Gabriel Garcia Marquez  
+La théorie de l'information - Aurélien Bellanger  
+Nouilles froides à Pyongyang - Jean-Luc Coatalem  
+Radeau de pierre - José Saramago  
+Détails d'Opalka - Claudie Gallay  
+A l'ombre des jeunes filles en fleur - Marcel Proust  
+Réparer les vivants - Maëlys de Kerangal  
+Middlesex - Jeffrey Eugenides  
+EasyJet - Alexandre Friederich  
+Un héros - Félicité Herzog  
+Épépée - Ferenc Kerenthy  
+
+### 2013
+
+Le cure-dent - Jean-Yves Lacroix  
+Rapport sur moi - Grégoire Bouillier  
+L'invité mystère - Grégoire Bouillier  
+Le rêve de Madoff - Manotti  
+Un pédigrée - Patrick Modiano  
+Supplément à la vie de Barbara Loden - Nathalie Léger  
+Autobiographie des objects - François Bon  
+Les lisières - Olivier Adam  
+La princesse de Clève - Madame de Sévigné  
+Du côté de chez Swan - Marcel Proust  
+Master butcher singing club - Luise Herdrich  
+Madame Bovary - Gustave Flaubert  
+Antipodia - Jean-Luc Coatalem  
+La photo - Marie Desplechin  
+Retour aux mots sauvages - Thierry Beinstingel  
+A moi tant de personnages - John Irving  
+Le coeur régulier - Olivier Adam 
+Comment faire l'amour à un nègre sans se fatiguer - Dany Laferrière  
+Seule Venise - Claudie Galla  
+Et si l'amour durait - Alain Finkelkraut  
+La déesse des petites victoires - Yannick Grannek  
+Alice Kahn - Pauline Klein  
+Trésor d'amour - Philippe Sollers  
+Fermer l'oeil de la nuit - Pauline Klein  
+Le chevalier inexistant - Italo Calvino  
+La fiancée des corbeaux - René Fregn  
+Ravel - Jean Echenoz  
+Zona frigida - Anne Radge  
+Home - Tonie Morrison
+Reflet dans l'oeil d'un homme - Nancy Huston  
+Nemesis - Philip Roth  
+Parlez-leur de batailles, de rois et d'éléphants - Mathias Enard  
+
+### 2012
+
+La route - Cormack MacCarthy  
+L'homme-joie - Christian Bobin  
+La théorie des nuages - Stéphane Audeguy
+The great house - Nicole Krauss  
+Un assassin blanc comme neige - Christian Bobin  
+Une femme fuyant l'annonce - David Grossman  
+Le système Victoria - Eric Reinhart  
+Steve Jobs - Walter Isaacson  
+Boulevard des géants - Marc Dugain  
+A deaf sentence - David Lodge  
+Neufs nuits - Bernardo Cavalhro 
+Démolir Nisard - Eric Chevillard  
+A sense of the ending - Julian Barnes  
+Je suis vivant et vous êtes mort - Emmanuel Carrère  
+Léa - Pascal Mercier  
+Le salon de Wutenberg - Pascal Quignard  
+Elizabeth Costello - JM Coetze  
+Une vie à fil tendu - George Charpac  
+La seiche - Marylin Desbiolles  
+Les quais de Ouistream - Florence Aubenas  
+Grace - Delphine Bertholon  
+Au hasard et souvent - Sébastien Lapaques  
+Un peu de désir, sinon je meurs - Raphaëlle/Marie Billetdoux  
+L'effet Larsen - Delphine Bertholon  
+Double-vie - Pierre Assouline  
+Bilan de l'intelligence - Paul Valery  
+Autoportrait - Edouard Levé  
+Tinkers - Paul Harding  
+L'auto-portrait au radiateur - Christian Bobin  
+Chaos calme - Sandro Veronesi  
+Ce que les banques vous disent et pourquoi il ne faut presque jamais les croire - Pascal Canfin  
+Ils ne sont pour rien dans mes larmes - Olivia Rosenthal  
+Seul dans le noir - Paul Auster  
+A summer without men - Siri Hustvedt  
+The Shallows: What the Internet Is Doing to Our Brains - Nicholas Carr
+
+
+
