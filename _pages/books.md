@@ -213,4 +213,57 @@ Je suis un écrivain japonais - Dany Laferrière
 L'élégance des veuves - Alice Ferney
 
 ### 2015
-TBC
+
+L'image manquante - Rithy Panh et Christophe Bataille  
+Un homme dans sa cuisine - Julian Barnes  
+Deux messieurs sur la plage - Michael Köhlmeier  
+Silex, la tombe du chasseur - Daniel De Bruycker  
+Sapiens, a brief history of humankind - Yuval Noah Harari  
+Notre nom est une île - Jeanne Benameur  
+La patience et l'urgence - Jean-Philippe Toussaint  
+Debout-payé - Gauz  
+Meursault, contre-enquête - Kamel Daoud  
+Le météorologue - Olivier Rolin  
+Oeuvres - Edouard Levé  
+Aftermath: On Marriage and Separation - Rachel Cusk  
+Tristesse de la terre - Eric Vuillard  
+Tous les diamants du ciel - Claro  
+Mécanisme de survie en milieu hostile - Olivia Rosenthal  
+All that is - James Salter  
+L'invention de la pauvreté - Tancrède Voituriez  
+Nos jours heureux - Gong Ji-young  
+D'après une histoire vraie - Delphine de Vigan  
+Peste et choléra - Patrick Deville  
+Le charme des après-midi sans fin - Dany Laferrière  
+Ou j'ai laissé mon âme - Jérôme Ferrari  
+Ce qu'il advint du sauvage blanc - François Garde  
+The woman upstairs - Claire Messud  
+Expo 58 - Jonathan Coe  
+Rosa candida - Auður Ava Ólafsdóttir  
+Ça aussi, ça passera - Milan Busquets  
+Le restaurant de l'amour retrouvé - Ito Ogawa  
+Les livres prennent soin de nous - Régine Detambel  
+Incendies - Wajdi Mouawad  
+La petite communiste qui ne souriait jamais - Lola Lafon  
+Naissance d'un pont - Maelis de Kerangal  
+Devance tous les adieux - Ivy Edelstein  
+Jackie - Kelly Dowland  
+The children act - Ian McEwan  
+Sagan 1954 - Anne Berest  
+Animal farm - George Orwell  
+Journal d'un écrivain en pyjama - Dany Laferrière  
+Les arpenteurs du monde - Daniel Kehlmann  
+Un lac immense et blanc - Michèle Lesbres  
+Vertiges - Lionel Duroy  
+La lettre à Helga - Bergsveinn Birgisson  
+Le baron perché - Italo Calvino  
+Novecento: un monologo - Alessandro Barrico  
+Il pleuvait des oiseaux - Jocelyne Saucier  
+A blazing world - Siri Hustvedt  
+Viviane Elizabeth Fauville - Julia Deck  
+Victoria rêve - Timothée de Fombellle  
+Chronique de la dérive douce - Danny Laferrière  
+La modification - Michel Butor  
+Dans l'or du temps - Claudie Gallay  
+Anna Karénine - Léon Tolsoi
+
