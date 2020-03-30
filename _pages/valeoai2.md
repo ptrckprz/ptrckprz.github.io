@@ -1,6 +1,6 @@
 ---
-title: "valeo.ai"
-permalink: /valeoai/
+title: "valeo2.ai"
+permalink: /valeoai2/
 author_profile: true
 redirect_from:
   - /resume
