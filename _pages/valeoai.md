@@ -6,12 +6,7 @@ redirect_from:
   - /resume
 ---
 
-We are a research lab based in Paris, aiming to:   
-* conduct cutting-edge AI research for automotive applications (see our [papers](https://ptrckprz.github.io/vaipub) and [codes](https://github.com/valeoai))  
-* nurture collaborations with world-class academic teams  
-* irrigate [Valeo](http://valeo.com)’s R&D  
-
-Our main research is towards *better*, *clearer* & *safer* automotive AI.
+An international team based in Paris, that conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is towards *better*, *clearer* & *safer* automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [codes](https://github.com/valeoai), [posts](https://medium.com/@valeo.ai) and [twitts](https://twitter.com/valeoai). 
 
 ###  Team
 ![](../images/vai-team.jpg)  
