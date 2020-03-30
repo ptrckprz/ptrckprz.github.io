@@ -79,7 +79,7 @@ L’invention des corps - Pierre Ducrozet
 An odyssey, a father, a son and an epic - Daniel Mendelsohn  
 Pelilu - Jean Rolin  
 Novembre - Philippe Le Guillou  
-La commémoration - Jean-Paul Goux  
+La commémoration - Jean-Paul Goux
 
 ### 2018
 Nagori - Ryoko Sekiguchi  
@@ -303,7 +303,7 @@ Réparer les vivants - Maëlys de Kerangal
 Middlesex - Jeffrey Eugenides  
 EasyJet - Alexandre Friederich  
 Un héros - Félicité Herzog  
-Épépée - Ferenc Kerenthy  
+Épépée - Ferenc Kerenthy
 
 ### 2013
 
@@ -338,7 +338,7 @@ Zona frigida - Anne Radge
 Home - Tonie Morrison
 Reflet dans l'oeil d'un homme - Nancy Huston  
 Nemesis - Philip Roth  
-Parlez-leur de batailles, de rois et d'éléphants - Mathias Enard  
+Parlez-leur de batailles, de rois et d'éléphants - Mathias Enard
 
 ### 2012
 
@@ -376,7 +376,7 @@ Ce que les banques vous disent et pourquoi il ne faut presque jamais les croire 
 Ils ne sont pour rien dans mes larmes - Olivia Rosenthal  
 Seul dans le noir - Paul Auster  
 A summer without men - Siri Hustvedt  
-The Shallows: What the Internet Is Doing to Our Brains - Nicholas Carr
+The Shallows: What the Internet is doing to our brains - Nicholas Carr
 
 
 
