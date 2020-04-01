@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+### Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
 [High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)  
 A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
