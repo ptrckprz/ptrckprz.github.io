@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
 [Learning Representations by Predicting Bags of Visual Words](https://arxiv.org/abs/2002.12247)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
