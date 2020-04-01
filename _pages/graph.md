@@ -10,9 +10,9 @@ redirect_from:
 
 ### Relevant publications
 
-A flexible convolutional solver with application to photorealistic style transfer  
-G. Puy and P. Pérez  
-*in preparation*
+[A flexible convolutional solver with application to photorealistic style transfer](http://openaccess.thecvf.com/content_CVPR_2019/html/Puy_A_Flexible_Convolutional_Solver_for_Fast_Style_Transfers_CVPR_2019_paper.html)  
+G. Puy, P. Pérez  
+*CVPR 2019*
 
 [Structured sampling and fast reconstruction of smooth graph signals](https://arxiv.org/abs/1705.02202)  
 G. Puy and P. Pérez  
