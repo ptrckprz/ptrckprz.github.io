@@ -10,6 +10,10 @@ redirect_from:
 
 ### Relevant publications
 
+[The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
+A. Dapogny, M. Cord, P. Pérez  
+*AAAI 2020* [[code](https://gitlab.com/adapo/themissingdataencoder/-/wikis/home)]
+
 [Structural inpainting](https://arxiv.org/abs/1803.10348)  
 Vo Van Huy, N. Duong, P. Pérez  
 *ACM Multimedia 2018*
