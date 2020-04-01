@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Postdocs
+### Postdocs
 * Gilles Puy, Technicolor (2016-2017), now Research Scientist at Valeo.ai
 * Çağdaş Bilen, Technicolor (2014-2015), now Staff Research Engineer at Audio Analytic
 * Gaurav Sharma, Technicolor (2013-2014), now Researcher at NEC
@@ -19,7 +19,7 @@ redirect_from:
 * Ivan Laptev, Inria (2004-2005), now Senior Researcher at Inria/ENS, head of Willow team  
 * R. Venkatesh Babu, Inria (2004), now Associate Professor at IISc Bangalore
 
-## PhDs (defended since 2007)
+### PhDs (graduated since 2007)
 * Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoc at Telecom Paris
 * Himalaya Jain (Inria, May 2018), now Research Scientist at Valeo.ai
 * Ondra Miksik (Oxford University, Jan. 2018), now Scientist at Microsoft Research
