@@ -6,13 +6,13 @@ redirect_from:
   - /resume
 ---
 
-## Journal and conference editorial commitments
+### Journal and conference editorial commitments
 * Editorial board of the International Journal on Computer Vision (IJCV): 2010-2020
 * Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): 2008-2012
 * Associate Editor for the IEEE Transactions on Image Processing (T-IP): 2002-2006
 * Area chair for ECCV (2020, 2014, 2012, 2010, 2008), ICCV (2019, 2013, 2011), BMVC (2017)
 
-## "Research Habilitation" committees
+### "Research Habilitation" committees
 * June 2020: [Iannis Avrithis](https://avrithis.net/) (Inria Rennes), as reviewer
 * Aug. 2019: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/) (ENPC), as examiner
 * Oct. 2018: [David Tschumperlé](https://tschumperle.users.greyc.fr/) (U. Caen), as reviewer
@@ -26,7 +26,7 @@ redirect_from:
 * Sept. 2009: [Thierry Chateau](https://chateaut.fr/) (U. Clermont-Ferrand), as examiner
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
-## PhD committees since 2015
+### PhD committees since 2015
 * April 2020: Maximilian Jaritz (Inria Paris/Valeo), as invitee 
 * April 2020: Martin Engilberge (Sorbonne U./Technicolor-Interdigital), as advisor (postponed due to covid-19)
 * March 2020: Oriane Simeoni (Inria Rennes), as reviewer (postponed due to covid-19) 
