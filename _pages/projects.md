@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-**[deep learning](/deep/)**: adaptation | supervision | uncertainty 
+**[Deep learning](/deep/)**: adaptation | supervision | uncertainty 
 
 **[Visual understanding](/reconstruct/)**: segmentation | detection | fusion 
 
