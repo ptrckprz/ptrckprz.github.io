@@ -10,6 +10,10 @@ redirect_from:
 
 ### Relevant publications
 
+[Weakly supervised representation learning for audio-visual scene analysis](https://arxiv.org/abs/1804.07345)  
+S. Parekh, S. Essid, A. Ozerov, N. QK Duong, P. Pérez, G. Richard  
+*IEEE Trans. Audio, Speech and Language Processing* 2020
+
 [Solving time domain audio inverse problems using nonnegative tensor factorization](https://hal.inria.fr/hal-01669825/document)  
 C. Bilen, A. Ozerov, P. Pérez  
 *IEEE Trans. on Signal Processing* 2018
