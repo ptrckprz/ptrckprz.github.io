@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: " "
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), a Valeo AI research lab focused on automotive applications, self-driving cars in particular.
 He is currently on the Editorial Board of the International Journal of Computer Vision. Before joining Valeo, Patrick Pérez has been researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include multimodal scene understanding and computational imaging.
 
-## NEWS
+### News
 
 * 2020.03: [Panel](https://www.math-ia.fr/) on Maths and AI at Museum of Natural History, Paris (*postponed due to covid-19*).  
 * 2020.02: Papers accepted at CVPR'20 (see [there](https://ptrckprz.github.io/conf/))  
