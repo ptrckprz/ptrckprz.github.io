@@ -54,10 +54,10 @@ Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations
 
 ###  Academic partners
 
+CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
 CTU Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
 INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/), [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
-CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/), [Avner Bar-hen](https://ab-h.github.io/index.html))  
 MPI ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
 Ponts ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
 Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
