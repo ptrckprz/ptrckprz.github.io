@@ -22,7 +22,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 * 2019.11: ICCV'23 in Paris.
 * 2019.10: Talk at Prairie AI Summer School ([PAISS'19](https://project.inria.fr/paiss/)).  
 * 2019.10: Panel on future mobilities at [PRAIRIE](https://prairie-institute.fr/) inauguration day. 
-* 2019.09: Code of NeurIPS'19 paper "Addressing failure prediction by learning model confidence" (ConfidNet) available on [valeo.ai github](https://github.com/valeoai/ConfidNet). 
+* 2019.09: Code of NeurIPS'19 paper "Addressing failure prediction by learning model confidence" ([valeo.ai ConfidNet](https://github.com/valeoai/ConfidNet)). 
 * 2019.09: Papers accepted at NeurIPS'19, see [there](https://ptrckprz.github.io/conf/).  
 * 2019.07: Papers accepted at ICCV'19, see [there](https://ptrckprz.github.io/conf/).  
 * 2019.06: Code of CVPR'19 paper "Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" ([AdvEnt](https://github.com/valeoai/ADVENT)).    
@@ -30,7 +30,9 @@ He is currently on the Editorial Board of the International Journal of Computer 
 * 2019.06: Keynote on "Sustainable supervision with application to autonomous driving" at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.  
 * 2019.04: [Valeao.ai](https://ptrckprz.github.io/valeoai/) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
 * 2019.03: Papers accepted at CVPR'19, see [there](https://ptrckprz.github.io/conf/).  
-* 2019.03: Talks at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay), [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris), [Computing and Learning](https://indico.mathrice.fr/event/153/overview) (Lyon).  
+* 2019.03: Talk at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay).
+* 2019.03: Talk at [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris).
+* 2019.03: Talk at [Computing and Learning](https://indico.mathrice.fr/event/153/overview) (Lyon).
 * 2018.11: Code of  CPVR'18 paper "Finding beans in burgers: Deep semantic-visual embedding with localization" ([DVSE-loc](https://github.com/technicolor-research/dsve-loc)).  
 * 2018.11: Talks at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc) (Sophia Antipolis) and [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm) (ENS Paris).  
 * 2018.09: Workshop "[Deep learning: From theory to applications](https://www.lebesgue.fr/content/sem2018-deeplearning)". 
