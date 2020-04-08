@@ -54,18 +54,18 @@ Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations
 
 ###  Academic partners
 
-Czech Technical University in Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
+CTU Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
 INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/), Inria Paris and [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/), Inria Grenoble)  
-le CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avner Bar-hen](https://ab-h.github.io/index.html))  
-Max Planck Institute ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
-Ponts ParisTech ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
-Sorbonne Université ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
-Telecom ParisTech ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
+CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/) and [Avner Bar-hen](https://ab-h.github.io/index.html))  
+MPI ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
+Ponts ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
+Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
+Téleécom Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/))
 
 ### News
 * 02/2020: Five [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), inc. one oral.
-* 01/2020: Spyros Gidaris, Andrei Bursuc and Karteek Alahari (Inria) to deliver a tutorial on Few-Shot, Self-Supervised, and Incremental Learning at CVPR'20. 
+* 01/2020: Spyros Gidaris, Andrei Bursuc and Karteek Alahari (Inria) to deliver a [tutorial](https://annotation-efficient-learning.github.io/) on Few-Shot, Self-Supervised, and Incremental Learning at CVPR'20. 
 * 01/2020: Pedestrian monitoring demo at CES, Las Vegas.
 * 12/2019: Medium post: [Is deep Reinforcement Learning really superhuman on Atari?](https://medium.com/@valeo.ai/is-deep-reinforcement-learning-really-superhuman-on-atari-2e34f8ae1eed)
 * 12/2019: Code for our ICCV'19 paper "Boosting few-shot visual learning with self-supervision" ([BF3S](https://github.com/valeoai/BF3S)).
