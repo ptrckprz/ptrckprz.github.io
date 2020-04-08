@@ -46,6 +46,7 @@ Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations
 
 ### Code
 
+* [ZS3](https://github.com/valeoai/ZS3): Zero-Shot Semantic Segmentation (NeurIPS'19) - PyTorch
 * [BF3S](https://github.com/valeoai/BF3S): Boosting few-shot visual learning with self-supervision (ICCV'19) - PyTorch
 * [ConfidNet](https://github.com/valeoai/ConfidNet): Addressing failure prediction by learning model confidence (NeurIPS'19) - PyTorch
 * [Rainbow-IQN Ape-X](https://github.com/valeoai/rainbow-iqn-apex): effective RL combination for Atari games - PyTorch
@@ -61,9 +62,10 @@ INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/), [Karteek Alahari](https://le
 MPI ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
 Ponts ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
 Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
-Télécom Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
+Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 02/2020:  Code for our NeurIPS'19 paper "Zero-Shot Semantic Segmentation" ([ZS3](https://github.com/valeoai/ZS3)).
 * 02/2020: Five [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), inc. one oral.
 * 01/2020: Spyros Gidaris, Andrei Bursuc and Karteek Alahari (Inria) to deliver a [tutorial](https://annotation-efficient-learning.github.io/) on Few-Shot, Self-Supervised, and Incremental Learning at CVPR'20. 
 * 01/2020: Pedestrian monitoring demo at CES, Las Vegas.
