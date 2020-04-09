@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ### 2020
+Trois chevaux — Erri de Luca, Rennes 04/2020  
 77 — Marin Fouqué   
 Crans-Montana — Monica Sabolo  
 Nous serons des héros — Brigitte Giraud  
