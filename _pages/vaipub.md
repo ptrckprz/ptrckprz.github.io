@@ -26,7 +26,7 @@ M. Toromanoff, E. Wirbel, F. Moutarde
 M. Li, F. Lafarge, R. Marlet  
 *CVPR 2020*
 
-[StyleRig: Rigging StyleGAN for 3D control over portrait images[(https://arxiv.org/abs/2004.00121)  
+[StyleRig: Rigging StyleGAN for 3D control over portrait images](https://arxiv.org/abs/2004.00121)  
 A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zolhöfer, Ch. Theobalt   
 *CVPR 2020* 
 
