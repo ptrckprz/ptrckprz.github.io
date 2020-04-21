@@ -20,7 +20,7 @@ M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez
 
 [End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868)  
 M. Toromanoff, E. Wirbel, F. Moutarde  
-*CVPR 2020*
+*CVPR 2020* [[code](https://github.com/valeoai/learningbycheating)]
 
 [Approximating shapes in images with low-complexity polygons](https://hal.inria.fr/hal-02526028/)  
 M. Li, F. Lafarge, R. Marlet  
