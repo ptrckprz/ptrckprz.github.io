@@ -46,6 +46,7 @@ Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations
 
 ### Code
 
+* [LightConvPoint](https://github.com/valeoai/LightConvPoint): Convolution for points (arXiv 2020) - PyTorch
 * [ZS3](https://github.com/valeoai/ZS3): Zero-Shot Semantic Segmentation (NeurIPS'19) - PyTorch
 * [BF3S](https://github.com/valeoai/BF3S): Boosting few-shot visual learning with self-supervision (ICCV'19) - PyTorch
 * [ConfidNet](https://github.com/valeoai/ConfidNet): Addressing failure prediction by learning model confidence (NeurIPS'19) - PyTorch
