@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ### 2020
+Vengeance du traducteur — Brice Matthieussent  
 Summer — Monica Sabolo  
 Trois chevaux — Erri de Luca  
 77 — Marin Fouqué   
