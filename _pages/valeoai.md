@@ -31,6 +31,7 @@ Antoine Saporta (PhD student)
 Marin Toromanoff (PhD student) [scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)  
 Huy Van Vo (PhD student) [scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)  
 [Tuan-Hung Vu](https://tuanhungvu.github.io/) (research scientist) [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en)  
+Emilie Wirbel (research scientist) [scholar](https://scholar.google.com/citations?hl=en&user=Z7wRy_cAAAAJ)  
 Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ)
 
 ### Some projects
