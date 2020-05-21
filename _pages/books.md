@@ -9,8 +9,13 @@ redirect_from:
 {% include base_path %}
 
 ### 2020
+Elle, par bonheur, et toujours nue — Guy Goffette  
+L’effet maternel — Virginie Linehart  
+L’idée ridicule de ne plus jamais te revoir — Rosa Montero  
+L’appel — Fanny Wallendorf  
 Vengeance du traducteur — Brice Matthieussent  
 Summer — Monica Sabolo  
+Buvard — Julia Kerninon  
 Trois chevaux — Erri de Luca  
 77 — Marin Fouqué   
 Crans-Montana — Monica Sabolo  
