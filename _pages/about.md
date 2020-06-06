@@ -13,6 +13,7 @@ He is currently on the Editorial Board of the International Journal of Computer 
 
 ### News
 
+* 2020.06: Code for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)).
 * 2020.03: [Panel](https://www.math-ia.fr/) on Maths and AI at Museum of Natural History, Paris (*postponed due to covid-19*).  
 * 2020.02: Papers accepted at CVPR'20 (see [there](https://ptrckprz.github.io/conf/))  
 * 2019.12: Code for ICCV'19 paper "Boosting few-shot visual learning with self-supervision" ([BF3S](https://github.com/valeoai/BF3S)). 
