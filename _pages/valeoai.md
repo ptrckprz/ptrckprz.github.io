@@ -11,12 +11,12 @@ An international team based in Paris, that conducts AI research for [Valeo](http
 ###  Team
 ![](../images/vai-team.jpg)  
   
-Hedi Ben-younes (research scientist) [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
-Florent Bartoccioni (PhD student)  
-[Alexandre Boulch](http://www.boulch.eu/) (research scientist) [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao) | [twitter](https://twitter.com/AlexandreBoulch)  
-[Maxime Bucher](https://maximebucher.github.io/) (research scientist) [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)  
-[Andrei Bursuc](https://abursuc.github.io/) (research scientist) [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [twitter](https://twitter.com/abursuc)  
-[Charles Corbière](https://chcorbi.github.io/) (PhD student) [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en) | [twitter](https://twitter.com/CharlesCorbiere)  
+**Hedi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
+**Florent Bartoccioni**, PhD student  
+**Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao) | [twitter](https://twitter.com/AlexandreBoulch)  
+**Maxime Bucher**, research scientist | [page](https://maximebucher.github.io/) | [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)  
+**Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [twitter](https://twitter.com/abursuc)  
+**Charles Corbière**, PhD student | [page](https://chcorbi.github.io/) | [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en) | [twitter](https://twitter.com/CharlesCorbiere)  
 [Matthieu Cord](http://www-poleia.lip6.fr/~cord/) (principal scientist) [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
 Spyros Gidaris (research scientist) [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en)  
 David Hurych (research scientist) [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
