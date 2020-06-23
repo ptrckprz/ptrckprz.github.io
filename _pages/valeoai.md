@@ -109,4 +109,7 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 **Assistant**: [Ouardia Moussouni](mailto:ouardia.moussouni@valeo.com)  
 **Location**: [15 rue de La Baume](https://goo.gl/maps/5pNxVCeACzyDPi4d8), Paris  
 
+### Alumni
 
+* **Maximilian Jaritz**, PhD student | [page](https://team.inria.fr/rits/membres/maximilian-jaritz/) | [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ) | now at....  
+* **Gabriel de Marmiesse**, research engineer | [github](https://github.com/gabrieldemarmiesse) | now at Hearthcube
