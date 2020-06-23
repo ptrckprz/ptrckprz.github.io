@@ -26,7 +26,7 @@ Arthur Ouaknine (PhD student)
 [Patrick Pérez](https://ptrckprz.github.io/) (scientific director) [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 [Gilles Puy](https://sites.google.com/site/puygilles/home) (research scientist) [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
 Julien Rebut (research scientist)  
-Simon Roburin (PhD student)  
+[Simon Roburin](http://imagine.enpc.fr/~roburins/) (PhD student)  
 Antoine Saporta (PhD student) [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
 Marin Toromanoff (PhD student) [scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)  
 Huy Van Vo (PhD student) [scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)  
@@ -46,6 +46,7 @@ Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations
 
 ### Code (PyTorch)
 
+* [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
 * [LightConvPoint](https://github.com/valeoai/LightConvPoint): Convolution for points (arXiv 2020)
 * [xMUDA](https://github.com/valeoai/xmuda): Cross-modal UDA for 3D semantic segmentation (CVPR'20)
 * [LearningByCheating](https://github.com/valeoai/LearningByCheating): End-to-End driving using implicit affordances (CVPR'20)
