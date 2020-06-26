@@ -19,7 +19,8 @@ redirect_from:
 * Ivan Laptev, Inria (2004-2005), now Senior Researcher at Inria/ENS, head of Willow team  
 * R. Venkatesh Babu, Inria (2004), now Associate Professor at IISc Bangalore
 
-### PhDs (graduated since 2007)
+### PhDs
+* Martin Engilberge (Sorbonne U., June 2020), now....
 * Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoc at Telecom Paris
 * Himalaya Jain (Inria, May 2018), now Research Scientist at Valeo.ai
 * Ondra Miksik (Oxford University, Jan. 2018), now Scientist at Microsoft Research
@@ -36,3 +37,10 @@ redirect_from:
 * Emilie Dexter (Inria, Oct. 2009), now at French National Defense (DGA)
 * Vijay Badrinarayanan (Inria, March 2009), now Dir. DL and AI at Magic Leap 
 * Aurélie Bugeau (Inria, Dec. 2007), now Associate Professor at Bordeaux U.
+* Carine Hue (Inria, Jan. 2003)
+* Thomas Corpetti (Inria, 2002), now Senior Researcher at CNRS
+* Jean-Noël Provost (École Navale, 2001)
+* Annabelle Chardin (Inria, 2000)
+* Max Mignotte (École Navale 1998), now Professor at U. Montréal
+* Pierre Thourel (École Navale, 1996)
+* Jean-Marc Laferté (Inria, 1996)
