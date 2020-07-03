@@ -18,6 +18,10 @@ H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
 
+[TRADI: Tracking deep neural network weight distributions](https://arxiv.org/abs/1912.11316)  
+G. Franchi, A. Bursuc, E. Aldea, S. Dubuisson, I. Bloch  
+*ECCV 2020*
+
 [Learning Representations by Predicting Bags of Visual Words](https://arxiv.org/abs/2002.12247)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
 *CVPR 2020*
