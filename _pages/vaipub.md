@@ -18,16 +18,16 @@ H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
 
-FLOT: Scene Flow Estimation by Learned Optimal Transport on Point Clouds  
-Gilles Puy, Alexandre Boulch, Renaud Marlet  
+FLOT: Scene Flow estimation by Learned Optimal Transport on point clouds  
+G. Puy, A. Boulch, R. Marlet  
 *ECCV 2020*
 
-Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild  
-Yang Xiao, Renaud Marlet  
+Few-shot object detection and viewpoint estimation for objects in the wild  
+Y. Xiao, R. Marlet  
 *ECCV 2020*
 
-Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, Inference & Application  
-Xuchong Qiu, Yang Xiao, Chaohui Wang, Renaud Marlet  
+Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, inference & application  
+X. Qiu, Y. Xiao, Ch. Wang, R. Marlet  
 *ECCV 2020*
 
 [TRADI: Tracking deep neural network weight distributions](https://arxiv.org/abs/1912.11316)  
@@ -108,7 +108,7 @@ H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
 *CVPR 2019* [[code](https://github.com/technicolor-research/sodeep)]
 
-[Dense Classification and Implanting for Few-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Lifchitz_Dense_Classification_and_Implanting_for_Few-Shot_Learning_CVPR_2019_paper.html)  
+[Dense classification and implanting for few-shot learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Lifchitz_Dense_Classification_and_Implanting_for_Few-Shot_Learning_CVPR_2019_paper.html)  
 Y. Lifchitz, Y. Avrithis, S. Picard, A. Bursuc  
 *CVPR 2019*
 
@@ -116,9 +116,13 @@ Y. Lifchitz, Y. Avrithis, S. Picard, A. Bursuc
 S. Gidaris, N. Komodakis  
 *CVPR 2019*  
 
-[Optimal Solving of Constrained Path-Planning Problems with Graph Convolutional Networks and Optimized Tree Search](https://abursuc.github.io/papers/iros_2019.pdf)  
+[Optimal solving of constrained path-planning problems with graph convolutional networks and optimized tree search](https://abursuc.github.io/papers/iros_2019.pdf)  
 K. Osanlou, A. Bursuc, Ch. Guettier, T. Cazenave, E. Jacopin  
 *IROS 2019*
+
+[Surface Reconstruction from 3D Line Segments](https://arxiv.org/pdf/1911.00451.pdf)
+P.-A. Langlois, A. Boulch, R. Marlet
+*3DV 2019*
 
 [Advanced Pedestrian Dataset Augmentation for Autonomous Driving](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Vobecky_Advanced_Pedestrian_Dataset_Augmentation_for_Autonomous_Driving_ICCVW_2019_paper.pdf)  
 A. Vobecky, M. Uricár, D. Hurych, R. Skoviera  
