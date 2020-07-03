@@ -34,6 +34,10 @@ X. Qiu, Y. Xiao, Ch. Wang, R. Marlet
 G. Franchi, A. Bursuc, E. Aldea, S. Dubuisson, I. Bloch  
 *ECCV 2020*
 
+[Small-Task Incremental Learning](https://arxiv.org/abs/2004.13513)  
+A. Douillard, M. Cord, Ch. Ollion, Th. Robert, Ed. Valle  
+*ECCV 2020*
+
 [Learning representations by predicting bags of visual words](https://openaccess.thecvf.com/content_CVPR_2020/html/Gidaris_Learning_Representations_by_Predicting_Bags_of_Visual_Words_CVPR_2020_paper.html)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
 *CVPR 2020*
