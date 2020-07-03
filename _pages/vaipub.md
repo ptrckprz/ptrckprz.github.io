@@ -66,9 +66,13 @@ A. Dapogny, M. Cord, P. Pérez
 V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez  
 *ICASSP 2020*
 
- [ConvPoint: continuous convolution for point cloud processing](https://arxiv.org/abs/1904.02375)  
+[ConvPoint: continuous convolution for point cloud processing](https://arxiv.org/abs/1904.02375)  
  A. Boulch  
  *Computer and Graphics Journal, 2020* [[code](https://github.com/aboulch/ConvPoint)]
+
+[ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2006.08658)  
+A. Saporta, T.H. Vu, M. Cord, P. Pérez  
+*Workshop CVPR 2020*
 
 **2019**
 
@@ -130,7 +134,7 @@ P.-A. Langlois, A. Boulch, R. Marlet
 
 [Advanced Pedestrian Dataset Augmentation for Autonomous Driving](https://openaccess.thecvf.com/content_ICCVW_2019/html/ADW/Vobecky_Advanced_Pedestrian_Dataset_Augmentation_for_Autonomous_Driving_ICCVW_2019_paper.html)  
 A. Vobecky, M. Uricár, D. Hurych, R. Skoviera  
-*Workshop ICCV 2109*
+*Workshop ICCV 2019*
 
 [Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
 E. Le Merrer, P. Pérez, G. Trédan  
