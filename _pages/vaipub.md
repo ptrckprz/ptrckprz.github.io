@@ -18,6 +18,18 @@ H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
 
+FLOT: Scene Flow Estimation by Learned Optimal Transport on Point Clouds  
+Gilles Puy, Alexandre Boulch, Renaud Marlet  
+*ECCV 2020*
+
+Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild  
+Yang Xiao, Renaud Marlet  
+*ECCV 2020*
+
+Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, Inference & Application  
+Xuchong Qiu, Yang Xiao, Chaohui Wang, Renaud Marlet  
+*ECCV 2020*
+
 [TRADI: Tracking deep neural network weight distributions](https://arxiv.org/abs/1912.11316)  
 G. Franchi, A. Bursuc, E. Aldea, S. Dubuisson, I. Bloch  
 *ECCV 2020*
