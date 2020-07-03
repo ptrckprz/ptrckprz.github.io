@@ -14,7 +14,7 @@ redirect_from:
 H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord  
 *ECCV 2020*
 
-[Toward unsupervised, multi-object discovery in large-scale image collections]()  
+Toward unsupervised, multi-object discovery in large-scale image collections  
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
 
@@ -34,23 +34,23 @@ X. Qiu, Y. Xiao, Ch. Wang, R. Marlet
 G. Franchi, A. Bursuc, E. Aldea, S. Dubuisson, I. Bloch  
 *ECCV 2020*
 
-[Learning Representations by Predicting Bags of Visual Words](https://arxiv.org/abs/2002.12247)  
+[Learning representations by predicting bags of visual words](https://openaccess.thecvf.com/content_CVPR_2020/html/Gidaris_Learning_Representations_by_Predicting_Bags_of_Visual_Words_CVPR_2020_paper.html)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
 *CVPR 2020*
 
-[xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/1911.12676)  
+[xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Jaritz_xMUDA_Cross-Modal_Unsupervised_Domain_Adaptation_for_3D_Semantic_Segmentation_CVPR_2020_paper.html)  
 M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez  
 *CVPR 2020* [[code](https://github.com/valeoai/xmuda)]
 
-[End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances](https://arxiv.org/abs/1911.10868)  
+[End-to-end model-free reinforcement learning for urban driving using implicit affordances](https://openaccess.thecvf.com/content_CVPR_2020/html/Toromanoff_End-to-End_Model-Free_Reinforcement_Learning_for_Urban_Driving_Using_Implicit_Affordances_CVPR_2020_paper.html)  
 M. Toromanoff, E. Wirbel, F. Moutarde  
 *CVPR 2020* [[code](https://github.com/valeoai/learningbycheating)]
 
-[Approximating shapes in images with low-complexity polygons](https://hal.inria.fr/hal-02526028/)  
+[Approximating shapes in images with low-complexity polygons](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Approximating_shapes_in_images_with_low-complexity_polygons_CVPR_2020_paper.html)  
 M. Li, F. Lafarge, R. Marlet  
 *CVPR 2020*
 
-[StyleRig: Rigging StyleGAN for 3D control over portrait images](https://arxiv.org/abs/2004.00121)  
+[StyleRig: Rigging StyleGAN for 3D control over portrait images](https://openaccess.thecvf.com/content_CVPR_2020/html/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.html)  
 A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zolhöfer, Ch. Theobalt   
 *CVPR 2020* 
 
@@ -120,11 +120,11 @@ S. Gidaris, N. Komodakis
 K. Osanlou, A. Bursuc, Ch. Guettier, T. Cazenave, E. Jacopin  
 *IROS 2019*
 
-[Surface Reconstruction from 3D Line Segments](https://arxiv.org/pdf/1911.00451.pdf)
-P.-A. Langlois, A. Boulch, R. Marlet
+[Surface Reconstruction from 3D Line Segments](https://arxiv.org/abs/1911.00451)  
+P.-A. Langlois, A. Boulch, R. Marlet  
 *3DV 2019*
 
-[Advanced Pedestrian Dataset Augmentation for Autonomous Driving](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Vobecky_Advanced_Pedestrian_Dataset_Augmentation_for_Autonomous_Driving_ICCVW_2019_paper.pdf)  
+[Advanced Pedestrian Dataset Augmentation for Autonomous Driving](https://openaccess.thecvf.com/content_ICCVW_2019/html/ADW/Vobecky_Advanced_Pedestrian_Dataset_Augmentation_for_Autonomous_Driving_ICCVW_2019_paper.html)  
 A. Vobecky, M. Uricár, D. Hurych, R. Skoviera  
 *Workshop ICCV 2109*
 
