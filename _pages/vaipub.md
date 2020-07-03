@@ -10,6 +10,14 @@ redirect_from:
 
 **2020**
 
+[QuEST: Quantized Embedding Space for Transferring knowledge](https://arxiv.org/abs/1912.01540)  
+H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord  
+*ECCV 2020*
+
+[Toward unsupervised, multi-object discovery in large-scale image collections]()  
+H. V. Vo, P. Pérez, J. Ponce  
+*ECCV 2020*
+
 [Learning Representations by Predicting Bags of Visual Words](https://arxiv.org/abs/2002.12247)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
 *CVPR 2020*
