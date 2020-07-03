@@ -18,15 +18,15 @@ H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
 
-[Learning Representations by Predicting Bags of Visual Words](https://arxiv.org/abs/2002.12247)  
+[Learning Representations by Predicting Bags of Visual Words](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gidaris_Learning_Representations_by_Predicting_Bags_of_Visual_Words_CVPR_2020_paper.pdf)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
 *CVPR 2020*
 
-[xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/1911.12676)  
+[xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jaritz_xMUDA_Cross-Modal_Unsupervised_Domain_Adaptation_for_3D_Semantic_Segmentation_CVPR_2020_paper.pdf)  
 M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez  
 *CVPR 2020* [[code](https://github.com/valeoai/xmuda)]
 
-StyleRig: Rigging StyleGAN for 3D control over portrait images  
+[StyleRig: Rigging StyleGAN for 3D control over portrait images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.pdf)  
 A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zolhöfer, Ch. Theobalt   
 *CVPR 2020* 
 
