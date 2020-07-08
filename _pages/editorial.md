@@ -13,7 +13,7 @@ redirect_from:
 * Area chair for ECCV (2020, 2014, 2012, 2010, 2008), ICCV (2019, 2013, 2011), BMVC (2017)
 
 ### "Research Habilitation" committees
-* June 2020: [Iannis Avrithis](https://avrithis.net/) (Inria Rennes), as reviewer
+* July 2020: [Iannis Avrithis](https://avrithis.net/) (Inria Rennes), as reviewer
 * Aug. 2019: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/) (ENPC), as examiner
 * Oct. 2018: [David Tschumperlé](https://tschumperle.users.greyc.fr/) (U. Caen), as reviewer
 * Dec. 2015: [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/) (U. Bordeaux), as reviewer 
@@ -27,9 +27,12 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
-* April 2020: Maximilian Jaritz (Inria Paris/Valeo), as invitee 
-* April 2020: Martin Engilberge (Sorbonne U./Technicolor-Interdigital), as advisor (postponed due to covid-19)
-* March 2020: Oriane Simeoni (Inria Rennes), as reviewer (postponed due to covid-19) 
+* 2020: Sylvestre Rebuffi (Oxford U.), as reviewer
+* 2020: Ignacio Rocco (Inria Paris), as examiner
+* Sept. 2020: Oriane Simeoni (Inria Rennes), as reviewer 
+* July 2020: Mariano Rodriguez (ENS Paris Saclay), as examiner
+* June 2020: Maximilian Jaritz (Inria Paris/Valeo), as invitee 
+* June 2020: Martin Engilberge (Sorbonne U./Technicolor-Interdigital), as advisor
 * Jan. 2020: Florian Strub (Lille U.), as reviewer  
 * Dec. 2019: Kevin Bascol (Irisa/Blucime), as reviewer  
 * Dec. 2019: Hugo Caracalla (Ircam/Sorbonne U.), as examiner  
