@@ -35,7 +35,7 @@ redirect_from:
 * Christophe Avenel (Inria, Dec. 2011), now CTO and Co-Founder at Cadess Medical AB
 * Matthieu Fradet (Inria, March 2010), now Senior Research Scientist at InterDigital
 * Emilie Dexter (Inria, Oct. 2009), now at French National Defense (DGA)
-* Vijay Badrinarayanan (Inria, March 2009), now Dir. DL and AI at Magic Leap 
+* Vijay Badrinarayanan (Inria, March 2009), now VP of Autonomy @Wayve.ai
 * Aurélie Bugeau (Inria, Dec. 2007), now Associate Professor at Bordeaux U.
 * Carine Hue (Inria, Jan. 2003)
 * Thomas Corpetti (Inria, 2002), now Senior Researcher at CNRS
