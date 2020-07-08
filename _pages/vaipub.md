@@ -14,7 +14,7 @@ redirect_from:
 H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord  
 *ECCV 2020*
 
-Toward unsupervised, multi-object discovery in large-scale image collections  
+[Toward unsupervised, multi-object discovery in large-scale image collections](https://arxiv.org/abs/2007.02662)  
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
 
@@ -65,6 +65,10 @@ A. Dapogny, M. Cord, P. Pérez
 [This dataset does not exist: training models from generated images](https://arxiv.org/abs/1911.02888)  
 V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez  
 *ICASSP 2020*
+
+[Dynamic task weighting methods for multi-task networks in autonomous driving systems](https://arxiv.org/abs/2001.02223)  
+I. Leang, G. Sistu, F. Burger, A. Bursuc, S. Yogamani  
+*ITSC 2020*
 
 [ConvPoint: continuous convolution for point cloud processing](https://arxiv.org/abs/1904.02375)  
  A. Boulch  
