@@ -9,6 +9,12 @@ redirect_from:
 {% include base_path %}
 
 ### 2020
+
+La mer c'est rien du tout — Joël Baqué  
+Croire aux fauves — Nastassja Martin  
+ Avant que j’oublie — Anne Pauly  
+Chroniques d’une station-service — Alexandre Labruffe  
+Camarade papa — Gauz  
 Elle, par bonheur, et toujours nue — Guy Goffette  
 L’effet maternel — Virginie Linehart  
 L’idée ridicule de ne plus jamais te revoir — Rosa Montero  
