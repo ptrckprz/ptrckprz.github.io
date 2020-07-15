@@ -10,6 +10,10 @@ redirect_from:
 
 ### Relevant publications
 
+[Toward unsupervised, multi-object discovery in large-scale image collections](https://arxiv.org/abs/2007.02662)  
+H. V. Vo, P. Pérez, J. Ponce  
+*ECCV 2020*
+
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/1911.12676)  
 M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez  
 *CVPR 2020* [[code](https://github.com/valeoai/xmuda)]
@@ -29,6 +33,10 @@ T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez
 [AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](https://arxiv.org/pdf/1811.12833)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
 *CVPR 2019* [[page](https://github.com/valeoai/ADVENT)]
+
+[Unsupervised image matching and object discovery as optimization](http://openaccess.thecvf.com/content_CVPR_2019/html/Vo_Unsupervised_Image_Matching_and_Object_Discovery_as_Optimization_CVPR_2019_paper.html)  
+H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce  
+*CVPR 2019* [[code](https://github.com/huyvvo/OSD)]  
 
 [The semantic paintbrush: Interactive 3D mapping and recognition in large outdoor spaces](http://www.miksik.co.uk/papers/miksik2015chi.pdf)  
 O. Miksik, V. Vineet, M. Lidegaard, R. Selvaraju, M. Niessner, S. Golodetz, S. Hicks, P. Pérez, S. Izadi, Ph. Torr  
