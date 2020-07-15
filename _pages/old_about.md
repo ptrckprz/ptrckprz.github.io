@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: " "
-excerpt: "About2"
-author_profile: true
+excerpt: "old_about"
+author_profile: false
 redirect_from: 
-  - /about2/
-  - /about2.html
+  - /old_about/
+  - /old_about.html
 ---
 
 Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), an AI research lab focused on Valeo automotive applications, self-driving cars in particular.
