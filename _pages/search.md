@@ -10,6 +10,18 @@ redirect_from:
 
 ### Relevant publications
 
+[Toward unsupervised, multi-object discovery in large-scale image collections](https://arxiv.org/abs/2007.02662)  
+H. V. Vo, P. Pérez, J. Ponce  
+*ECCV 2020*
+
+[Unsupervised image matching and object discovery as optimization](http://openaccess.thecvf.com/content_CVPR_2019/html/Vo_Unsupervised_Image_Matching_and_Object_Discovery_as_Optimization_CVPR_2019_paper.html)  
+H. V. Vo, F. Bach, M. Cho, K. Han, Y. LeCun, P. Pérez, J. Ponce  
+*CVPR 2019* [[code](https://github.com/huyvvo/OSD)]  
+
+[SoDeep: a Sorting Deep net to learn ranking loss surrogates](http://openaccess.thecvf.com/content_CVPR_2019/html/Engilberge_SoDeep_A_Sorting_Deep_Net_to_Learn_Ranking_Loss_Surrogates_CVPR_2019_paper.html)  
+M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
+*CVPR 2019* [[code](https://github.com/technicolor-research/sodeep)]
+
 [Finding beans in burgers: Deep semantic-visual embedding with localization](https://arxiv.org/abs/1804.01720)  
 M. Engilberge, L. Chevallier, M. Cord, P. Pérez  
 *CVPR 2018*  [[code](https://github.com/technicolor-research/dsve-loc)]
