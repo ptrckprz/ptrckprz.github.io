@@ -71,6 +71,7 @@ Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 07/2020: Code for our ECCV'20 paper "FLOT: Scene flow on point clouds guided by optimal transport" ([FLOT](https://github.com/valeoai/FLOT)).
 * 06/2020: Seven [papers](https://ptrckprz.github.io/vaipub) accepted at [ECCV'20](https://eccv2020.eu/) (27% acceptance rate)
 * 06/2020: Four team members (Alexandre, Andrei, Matthieu and Renaud) acknowledged as Outstanding Reviewers at CVPR'20
 * 06/2020: Valeo.ai participates to (virtual) CVPR'20, presenting 5 papers in main conference, delivering tutorials on [annotation-efficient learning](https://annotation-efficient-learning.github.io/), co-organizing the [OmniCV](https://sites.google.com/view/omnicv-cvpr2020/) workshop and presenting keynote at the [SAIAD](https://sites.google.com/view/saiad2020/) workshop.
