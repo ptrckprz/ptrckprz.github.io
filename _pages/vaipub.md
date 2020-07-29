@@ -18,15 +18,15 @@ H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
 
-FLOT: Scene Flow estimation by Learned Optimal Transport on point clouds  
+[FLOT: Scene Flow estimation by Learned Optimal Transport on point clouds](https://arxiv.org/abs/2007.11142)  
 G. Puy, A. Boulch, R. Marlet  
 *ECCV 2020*
 
-Few-shot object detection and viewpoint estimation for objects in the wild  
+[Few-shot object detection and viewpoint estimation for objects in the wild](https://arxiv.org/abs/2007.12107)  
 Y. Xiao, R. Marlet  
 *ECCV 2020*
 
-Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, inference & application  
+[Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, inference & application](https://arxiv.org/abs/2007.12088)  
 X. Qiu, Y. Xiao, Ch. Wang, R. Marlet  
 *ECCV 2020*
 
