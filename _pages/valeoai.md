@@ -14,7 +14,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Hedi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
 **Florent Bartoccioni**, PhD student  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao) | [twitter](https://twitter.com/AlexandreBoulch)  
-**Maxime Bucher**, research scientist | [page](https://maximebucher.github.io/) | [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)  
+
 **Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [twitter](https://twitter.com/abursuc)  
 **Charles Corbière**, PhD student | [page](https://chcorbi.github.io/) | [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en) | [twitter](https://twitter.com/CharlesCorbiere)  
 **Matthieu Cord**, principal scientist | [page](http://www-poleia.lip6.fr/~cord/) | [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
@@ -118,5 +118,6 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 
 ### Alumni
 
+**Maxime Bucher**, research scientist | [page](https://maximebucher.github.io/) | [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en), now at Augustus Intelligence   
 **Maximilian Jaritz**, PhD student ([page](https://team.inria.fr/rits/membres/maximilian-jaritz/), [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ)), now at Amazon  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at EarthCube  
