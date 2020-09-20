@@ -15,8 +15,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2020.12: Keynote at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop.
 * 2020.09: Paper accepted at SiggraphAsia'20, see [there](https://ptrckprz.github.io/conf/) 
 * 2020.07: Papers accepted at ECCV'20, see [there](https://ptrckprz.github.io/conf/). 
-* 2020.06: Code for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)).
-* 2020.03: [Panel](https://www.math-ia.fr/) on Maths and AI at Museum of Natural History, Paris (*postponed due to covid-19*).  
+* 2020.06: Code for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)). 
 * 2020.02: Papers accepted at CVPR'20 (see [there](https://ptrckprz.github.io/conf/))  
 * 2019.12: Code for ICCV'19 paper "Boosting few-shot visual learning with self-supervision" ([BF3S](https://github.com/valeoai/BF3S)). 
 * 2019.12: Code for ICCV'19 paper "DADA: Depth-Aware Domain Adaptation in semantic segmentation" ([DADA](https://github.com/valeoai/DADA)). 
