@@ -55,7 +55,7 @@ M. Li, F. Lafarge, R. Marlet
 *CVPR 2020*
 
 [StyleRig: Rigging StyleGAN for 3D control over portrait images](https://openaccess.thecvf.com/content_CVPR_2020/html/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.html)  
-A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zolhöfer, Ch. Theobalt   
+A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
 *CVPR 2020* 
 
 [The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
