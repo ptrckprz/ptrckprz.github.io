@@ -49,6 +49,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ### Code (PyTorch)
 
+* [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20).
 * [FLOT](https://github.com/valeoai/FLOT): Scene flow on point clouds guided by optimal transport (ECCV'20).
 * [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
 * [LightConvPoint](https://github.com/valeoai/LightConvPoint): Convolution for points (arXiv 2020)
@@ -80,7 +81,7 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 * 06/2020: Maximilian Jaritz defends his PhD at Inria Paris on “2D-3D Scene Understanding for Autonomous Driving” (reviewers: V. Lepetit and G. Brostow, external examiners: A. Dai and F. Jurie).
 * 06/2020: Code for our CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmuda)).
 * 04/2020: Eloi Zablocki receives the [Second Best Thesis Prize from the French Association for AI](https://afia.asso.fr/breves-davril-2020/).
-* 02/2020:  Code for our NeurIPS'19 paper "Zero-Shot Semantic Segmentation" ([ZS3](https://github.com/valeoai/ZS3)).
+* 02/2020: Code for our NeurIPS'19 paper "Zero-Shot Semantic Segmentation" ([ZS3](https://github.com/valeoai/ZS3)).
 * 02/2020: Five [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'20](http://cvpr2020.thecvf.com/) (22% acceptance rate), inc. one oral.
 * 01/2020: Spyros Gidaris, Andrei Bursuc and Karteek Alahari (Inria) to deliver a [tutorial](https://annotation-efficient-learning.github.io/) on Few-Shot, Self-Supervised, and Incremental Learning at CVPR'20. 
 * 01/2020: Pedestrian monitoring demo at CES, Las Vegas.
