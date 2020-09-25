@@ -10,6 +10,10 @@ redirect_from:
 
 **2020**
 
+[FKAConv: Feature-Kernel Alignment for Point Cloud Convolution](https://arxiv.org/abs/2004.04462)  
+A. Boulch, G. Puy, R. Marlet  
+*ACCV 2020* [[code](https://github.com/valeoai/LightConvPoint)]
+
 [QuEST: Quantized Embedding Space for Transferring knowledge](https://arxiv.org/abs/1912.01540)  
 H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord  
 *ECCV 2020*
