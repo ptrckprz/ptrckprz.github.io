@@ -49,8 +49,8 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ### Code (PyTorch)
 
-* [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20).
-* [FLOT](https://github.com/valeoai/FLOT): Scene flow on point clouds guided by optimal transport (ECCV'20).
+* [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20)
+* [FLOT](https://github.com/valeoai/FLOT): Scene flow on point clouds guided by optimal transport (ECCV'20)
 * [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
 * [LightConvPoint](https://github.com/valeoai/LightConvPoint): Convolution for points (ACCV'20)
 * [xMUDA](https://github.com/valeoai/xmuda): Cross-modal UDA for 3D semantic segmentation (CVPR'20)
