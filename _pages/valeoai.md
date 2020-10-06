@@ -54,13 +54,15 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 * [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
 * [LightConvPoint](https://github.com/valeoai/LightConvPoint): Convolution for points (ACCV'20)
 * [xMUDA](https://github.com/valeoai/xmuda): Cross-modal UDA for 3D semantic segmentation (CVPR'20)
-* [LearningByCheating](https://github.com/valeoai/LearningByCheating): End-to-End driving using implicit affordances (CVPR'20)
+* [LearningByCheating](https://github.com/valeoai/LearningByCheating): End-to-End driving using implicit affordances (CVPR'20)  
+* [rOSD](https://github.com/huyvvo/rOSD): Unsupervised object discovery at scale (ECCV'20) - Matlab  
 * [ZS3](https://github.com/valeoai/ZS3): Zero-Shot Semantic Segmentation (NeurIPS'19)
 * [BF3S](https://github.com/valeoai/BF3S): Boosting few-shot visual learning with self-supervision (ICCV'19)
 * [ConfidNet](https://github.com/valeoai/ConfidNet): Addressing failure prediction by learning model confidence (NeurIPS'19)
 * [Rainbow-IQN Ape-X](https://github.com/valeoai/rainbow-iqn-apex): effective RL combination for Atari games
 * [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV'19)
 * [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR'19)
+* [OSD](https://github.com/huyvvo/OSD): Unsupervised object discovery as optimization (CVPR'19) - Matlab  
 
 ###  Academic partners
 
@@ -120,6 +122,6 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 
 ### Alumni
 
-**Maxime Bucher**, research scientist | [page](https://maximebucher.github.io/) | [scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en), now at Augustus Intelligence   
+**Maxime Bucher**, research scientist ([page](https://maximebucher.github.io/),[scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)), now at Augustus Intelligence   
 **Maximilian Jaritz**, PhD student ([page](https://team.inria.fr/rits/membres/maximilian-jaritz/), [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ)), now at Amazon  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at EarthCube  
