@@ -10,10 +10,17 @@ redirect_from:
 
 ### Code
 
+* [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20)
+* [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
+* [xMUDA](https://github.com/valeoai/xmuda): Cross-modal UDA for 3D semantic segmentation (CVPR'20)
+* [ZS3](https://github.com/valeoai/ZS3): Zero-Shot Semantic Segmentation (NeurIPS'19)
+* [BF3S](https://github.com/valeoai/BF3S): Boosting few-shot visual learning with self-supervision (ICCV'19)
+* [rOSD](https://github.com/huyvvo/rOSD): Unsupervised object discovery at scale (ECCV'20) - Matlab  
 * [ConfidNet](https://github.com/valeoai/ConfidNet): Addressing failure prediction by learning model confidence (NeurIPS'19) - PyTorch  
 * [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV'19) - coming soon  
 * [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR'19) - PyTorch
 * [SoDeep](https://github.com/technicolor-research/sodeep): Sorting Deep Net to learn ranking loss surrogates (CVP'19) - PyTorch
+* [OSD](https://github.com/huyvvo/OSD): Unsupervised object discovery as optimization (CVPR'19) - Matlab  
 * [DSVE-loc](https://github.com/technicolor-research/dsve-loc): Deep Semantic Visual Embedding with Localization (CVPR'18) - PyTorch
 * [SuBic](https://github.com/technicolor-research/subic): Supervised Binary Codes (ICCV'17) - Python
 * [ROAM](https://github.com/omiksik/roam): Rich Online Appearance Model (CPVR'17) - C++, using OpenCV 3.0
