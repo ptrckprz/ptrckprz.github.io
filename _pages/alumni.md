@@ -20,7 +20,7 @@ redirect_from:
 * R. Venkatesh Babu, Inria (2004), now Associate Professor at IISc Bangalore
 
 ### PhDs
-* Martin Engilberge (Sorbonne U., June 2020), now....
+* Martin Engilberge (Sorbonne U., June 2020), now Postdoc at EPFL
 * Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoc at Telecom Paris
 * Himalaya Jain (Inria, May 2018), now Research Scientist at Valeo.ai
 * Ondra Miksik (Oxford University, Jan. 2018), now Scientist at Microsoft Research
