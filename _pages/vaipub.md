@@ -10,6 +10,10 @@ redirect_from:
 
 **2020**
 
+PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving  
+Th. Buhet, E. Wirbel, A. Bursuc, X. Perrotton  
+*CoRL 2020*
+
 [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
 *ICPR 2020*
