@@ -10,6 +10,10 @@ redirect_from:
 
 **2020**
 
+[CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
+A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
+*ICPR 2020*
+
 [FKAConv: Feature-Kernel Alignment for Point Cloud Convolution](https://arxiv.org/abs/2004.04462)  
 A. Boulch, G. Puy, R. Marlet  
 *ACCV 2020* [[code](https://github.com/valeoai/LightConvPoint)]
