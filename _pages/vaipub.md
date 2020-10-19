@@ -28,7 +28,7 @@ H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord
 
 [Toward unsupervised, multi-object discovery in large-scale image collections](https://arxiv.org/abs/2007.02662)  
 H. V. Vo, P. Pérez, J. Ponce  
-*ECCV 2020*
+*ECCV 2020* [[code](https://github.com/huyvvo/rOSD)]
 
 [FLOT: Scene Flow estimation by Learned Optimal Transport on point clouds](https://arxiv.org/abs/2007.11142)  
 G. Puy, A. Boulch, R. Marlet  
