@@ -10,6 +10,10 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
+A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
+*ICPR 2020*
+
 [PIE: Portrait Image Embedding for Semantic Control](http://gvv.mpi-inf.mpg.de/projects/PIE/)  
 A. Tewari, M. Elgharib, B. Mallikarjun, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
 *SigAsia 2020* 
