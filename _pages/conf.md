@@ -24,7 +24,7 @@ H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord
 
 [Toward unsupervised, multi-object discovery in large-scale image collections](https://arxiv.org/abs/2007.02662)  
 H. V. Vo, P. Pérez, J. Ponce  
-*ECCV 2020*
+*ECCV 2020* [[code](https://github.com/huyvvo/rOSD)]
 
 [Learning Representations by Predicting Bags of Visual Words](https://openaccess.thecvf.com/content_CVPR_2020/html/Gidaris_Learning_Representations_by_Predicting_Bags_of_Visual_Words_CVPR_2020_paper.html)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
