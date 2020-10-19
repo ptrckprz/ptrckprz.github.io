@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-An international team based in Paris, which conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is towards *better*, *clearer* & *safer* automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [projects](https://valeoai.github.io/blog), [codes](https://github.com/valeoai), [posts](https://medium.com/@valeo.ai) and [tweets](https://twitter.com/valeoai). 
+An international team based in Paris, which conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is towards *better*, *clearer* & *safer* automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [projects](https://valeoai.github.io/blog/projects), [codes](https://github.com/valeoai), [posts](https://valeoai.github.io/blog) and [tweets](https://twitter.com/valeoai). 
 
 ###  Team
 ![](../images/vai-team.jpg)  
