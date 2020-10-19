@@ -110,6 +110,10 @@ H. Jain, J. Zepeda, P. Pérez, R. Gribonval
 A. Tewari, M. Zollhöfer, P. Garrido, F. Bernard, H. Kim, P. Pérez, Ch. Theobalt  
 *CVPR 2018* [[page](http://gvv.mpi-inf.mpg.de/projects/FML/),[video](http://gvv.mpi-inf.mpg.de/projects/FML/video.mp4)]
 
+[Audio style transfer](https://arxiv.org/pdf/1710.11385)  
+E Grinstein, N Duong, A Ozerov, P Pérez  
+*ICASSP 2018*
+
 [MoFA: Model-based deep convolutional face autoencoder for unsupervised monocular reconstruction](http://openaccess.thecvf.com/content_iccv_2017/html/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.html)  
 A. Tewari, M. Zollhöfer, H. Kim, P. Garrido, F. Bernard, P. Pérez, Ch. Theobalt  
 *ICCV 2017* [[page](http://gvv.mpi-inf.mpg.de/projects/MZ/Papers/arXiv2017_FA/page.html),[video](https://www.youtube.com/watch?v=uIMpHZYB8fI)]
@@ -130,6 +134,10 @@ R. Rezende, J. Zepeda, J. Ponce, F. Bach, P. Pérez
 G. Puy, S. Kitic, P. Pérez  
 *Deep Learning on Irregular Domains 2017*
 
+[Motion informed audio source separation](https://hal.archives-ouvertes.fr/hal-01447977/document)  
+S Parekh, S Essid, A Ozerov, N Duong, P Pérez, G Richard  
+*ICASSP 2017*
+
 [Approximate search with quantized sparse representations](https://arxiv.org/abs/1608.03308)  
 H. Jain, P. Pérez, R. Gribonval, J. Zepeda, H. Jégou  
 *ECCV 2016*
@@ -146,6 +154,10 @@ J-M Pérez-Rua, T. Crivelli, P. Pérez., P. Bouthemy
 P. Garrido, M. Zolhöfer, C. Wu, D. Bradley, P. Pérez, Th. Beeler, Ch. Theobalt  
 *SiggraphAsia 2016* [[page](http://gvv.mpi-inf.mpg.de/projects/MonLipReconstruction/index.html), [video](https://youtu.be/N5bFhtlgRCc)]
 
+[Sketching for large-scale learning of mixture models](https://arxiv.org/pdf/1606.02838)  
+N Keriven, A Bourrier, R Gribonval, P Pérez  
+*ICASSP 2016*
+
 [Examplar SVM as visual feature encoder](http://openaccess.thecvf.com/content_cvpr_2015/html/Zepeda_Exemplar_SVMs_as_2015_CVPR_paper.html)  
 J. Zepeda and P. Pérez  
 *CVPR 2015*
@@ -153,6 +165,10 @@ J. Zepeda and P. Pérez
 [VDub - Modifying Face Video of Actors for Plausible Visual Alignment to a Dubbed Audiotrack](http://gvv.mpi-inf.mpg.de/files/EuroGraphics2015/dubbing_high.pdf)  
 P. Garrido, L. Valgaerts, H. Sarmadi, I. Steiner, K. Varanasi, P. Pérez, C. Theobalt  
 *EuroGraphics 2015* [[page](http://gvv.mpi-inf.mpg.de/projects/VisualDubbing/index.html)]
+
+[Learning the structure of deep architectures using l1 regularization](https://hal.archives-ouvertes.fr/hal-01266462/)  
+P. Kulkarni, J. Zepeda, F. Jurie, P. Pérez, L. Chevallier  
+*BMVC 2015*
 
 [The semantic paintbrush: Interactive 3D mapping and recognition in large outdoor spaces](http://www.miksik.co.uk/papers/miksik2015chi.pdf)  
 O. Miksik, V. Vineet, M. Lidegaard, R. Selvaraju, M. Niessner, S. Golodetz, S. Hicks, P. Pérez, S. Izadi, Ph. Torr  
@@ -166,6 +182,22 @@ O. Miksik, Y. Amar, V. Vineet, P. Pérez, Ph. Torr
 V. Vineet, O. Miksik, M. Lidegaard, M. Niessner, S. Golodetz, V. Prisacariu, O. Kähler, D. Murray, S. Izadi, P. Pérez, Ph. Torr  
 *ICRA 2015*
 
+[Hybrid multi-layer Deep CNN/Aggregator feature for image classification](https://arxiv.org/pdf/1503.04065)  
+P. Kulkarni, J. Zepeda, F. Jurie, P. Pérez, L. Chevallier  
+*ICASSP 2015*
+
+[Joint audio inpainting and source separation](https://hal.inria.fr/hal-01160438/document)  
+C Bilen, A Ozerov, P Pérez  
+*LVA/ICA 2015*
+
+[Compressive sampling-based informed source separation](https://hal.inria.fr/hal-01171833/document)  
+C Bilen, A Ozerov, P Pérez  
+*WASPAA 2015*
+
+[Audio declipping via nonnegative matrix factorization](https://hal.inria.fr/hal-01171813/document)  
+C Bilen, A Ozerov, P Pérez  
+*WASPAA 2015*
+
 [Automatic face reenactment](http://openaccess.thecvf.com/content_cvpr_2014/html/Garrido_Automatic_Face_Reenactment_2014_CVPR_paper.html)  
 P. Garrido, L.Valgaerts, O. Rehmsen, Th. Thormaehlen, P. Pérez, Ch. Theobalt  
 *CVPR 2014* [[page](http://gvv.mpi-inf.mpg.de/projects/FaceReenactment/)]
@@ -173,6 +205,22 @@ P. Garrido, L.Valgaerts, O. Rehmsen, Th. Thormaehlen, P. Pérez, Ch. Theobalt
 [EPML: Expanded parts based metric learning for occlusion robust face verification](http://grvsharma.com/hpresources/sharma_epml_accv14.pdf)  
 G. Sharma, F. Jurie, P. Pérez  
 *ACCV 2014*
+
+[Distributed non-convex ADMM-inference in large-scale random fields](http://www.bmva.org/bmvc/2014/files/paper120.pdf)  
+O. Miksik, V. Vineet, P. Pérez, Ph. Torr  
+*BMVC 2014*
+
+[Some faces are more equal than others: Hierarchical organization for accurate and efficient large-scale identity-based face retrieval](https://link.springer.com/content/pdf/10.1007/978-3-319-16181-5_12.pdf)  
+B. Bhattarai, G. Sharma, F. Jurie, P. Pérez  
+*ECCVw 2014*
+
+[Accurate disparity estimation for plenoptic images](https://link.springer.com/content/pdf/10.1007/978-3-319-16181-5_42.pdf)  
+N. Sabater, M. Seifi, V. Drazic, G. Sandri, P. Pérez  
+*ECCVw 2014*
+
+[Disparity-guided demosaicking of light field images](http://vdraz.lumn.eu/wordpress/wp-content/uploads/2018/05/icip_demosaicking_v10.pdf)  
+M. Seifi, N. Sabater, V. Drazic, P. Pérez  
+*ICIP 2014*
 
 [Multi-View object segmentation in space and time](http://openaccess.thecvf.com/content_iccv_2013/html/Djelouah_Multi-view_Object_Segmentation_2013_ICCV_paper.html)  
 A. Djelouah, J.S. Franco, F. Le Clerc, P. Pérez and E. Boyer  
@@ -182,13 +230,45 @@ A. Djelouah, J.S. Franco, F. Le Clerc, P. Pérez and E. Boyer
 J. Delhumeau, Ph.-H. Gosselin, H. Jégou and P. Pérez  
 *ACM MultiMedia 2013*
 
+[Towards fast, generic video inpainting](https://hal.archives-ouvertes.fr/hal-00838927/file/Fast_video_inpainting_preprint.pdf)  
+A. Newson, A. Almansa, M. Fradet, Y. Gousseau, P. Pérez  
+*CVMP 2013*
+
+[Compressive Gaussian mixture estimation](https://hal.archives-ouvertes.fr/hal-00799896/document)  
+A. Bourrier, R. Gribonval, P. Pérez  
+*ICASSP 2013*
+
+[Adaptive multi-modal particle filtering for probabilistic white matter tractography](https://www.hal.inserm.fr/inserm-00849053/document)  
+A Stamm, O Commowick, C Barillot, P Pérez  
+*IPMI 2013*
+
+[On evaluating face tracks in movies](https://hal.inria.fr/hal-00870059/document)  
+A. Ozerov, J.R. Vigouroux, L. Chevallier, P. Pérez  
+*ICIP 2013*
+
 [N-tuple color segmentation for multi-view silhouette extraction](http://hal.inria.fr/docs/00/73/57/18/PDF/Final_N-tuple_Multi-View_Silhouette_Extraction-1.pdf)  
 A. Djellouah, J.S. Franco, F. Le Clerc, P. Pérez and E. Boyer  
 *ECCV 2012*
 
+[Multi-step flow fusion: towards accurate and dense correspondences in long video shots](https://hal.archives-ouvertes.fr/hal-00787768/)  
+T. Crivelli, P.-H. Conze, Ph. Robert, M. Fradet, P. Pérez  
+*BMVC 2012*  
+
+[A new multi-fiber model for low angular resolution diffusion MRI](https://www.hal.inserm.fr/docs/00/85/82/05/PDF/ISBI_Stamm_vf.pdf)  
+A.Stamm, P.Pérez, Ch. Barillot  
+*ISBI 2012*
+
+[Hybrid template and block matching algorithm for image intra prediction](https://hal.archives-ouvertes.fr/docs/00/69/52/77/PDF/HybridTMBM-icassp2012.pdf)  
+S. Cherigui, Ch. Guillemot, D. Thoreau, Ph. Guillotel, P. Pérez  
+*ICASSP 2012*
+
 [Reconstructing an image from its local descriptors](http://hal.archives-ouvertes.fr/docs/00/56/71/94/PDF/weinzaepfel_cvpr11.pdf)  
 Ph. Weinzaepfel, H. Jégou and P. Pérez  
 *CVPR 2011* [[examples](http://www.irisa.fr/texmex/people/jegou/projects/reconstructing/index.html), unexpected pointer to this work [here](http://nuit-blanche.blogspot.com/2011/10/dreaming-reconstructions.html)]
+
+[Joint pose estimation and action recognition in image graphs](https://hal.inria.fr/hal-01063329/document)  
+K Raja, I Laptev, P Pérez, L Oisel  
+*ICIP 2011*
 
 [Aggregating local descriptors into a compact image representation](http://lear.inrialpes.fr/pubs/2010/JDSP10/jegou_compactimagerepresentation.pdf)  
 H. Jégou, M. Douze, C. Schmid and P.Pérez  
