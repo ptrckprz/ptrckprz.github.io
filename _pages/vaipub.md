@@ -32,7 +32,7 @@ H. V. Vo, P. Pérez, J. Ponce
 
 [FLOT: Scene Flow estimation by Learned Optimal Transport on point clouds](https://arxiv.org/abs/2007.11142)  
 G. Puy, A. Boulch, R. Marlet  
-*ECCV 2020*
+*ECCV 2020* [[code](https://github.com/valeoai/FLOT)]
 
 [Few-shot object detection and viewpoint estimation for objects in the wild](https://arxiv.org/abs/2007.12107)  
 Y. Xiao, R. Marlet  
