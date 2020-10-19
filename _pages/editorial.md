@@ -27,54 +27,56 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
-* 2020: Sylvestre Rebuffi (Oxford U.), as reviewer
-* 2020: Ignacio Rocco (Inria Paris), as examiner
-* Sept. 2020: Oriane Simeoni (Inria Rennes), as reviewer 
-* July 2020: Mariano Rodriguez (ENS Paris Saclay), as examiner
-* June 2020: Maximilian Jaritz (Inria Paris/Valeo), as invitee 
-* June 2020: Martin Engilberge (Sorbonne U./Technicolor-Interdigital), as advisor
-* Jan. 2020: Florian Strub (Lille U.), as reviewer  
-* Dec. 2019: Kevin Bascol (Irisa/Blucime), as reviewer  
-* Dec. 2019: Hugo Caracalla (Ircam/Sorbonne U.), as examiner  
-* Nov. 2019: Marcela Carvalho (Paris Descartes/Onera), as examiner
-* Sept. 2019: Théophile Dalens (ENS Paris), as reviewer
-* June 2019: Pauline Luc (Inria/Facebook), as reviewer
-* June 2019: Clément Pinard (Ensta/Parrot), as reviewer
-* June 2019: Thuc Trinh Le (Telecom ParisTech), as examiner
-* May 2019: Hedi Ben-Younes (Sorbonne U./Heuritech), as president
-* April 2019: Sara El Aouad (Sorbonne U./Technicolor), as examiner
-* March 2019: Sanjeel Parekh (Telecom ParisTech/Technicolor), as advisor
-* Dec. 2018: Guillem Chéron (Inria Paris), as reviewer
-* Dec. 2018: Mélanie Ducoffe (U. Nice Sophia Antipolis), as reviewer
-* Dec. 2018: Spyros Gidaris (Ponts ParisTech), as reviewer
-* Dec. 2018: Paul Temples (Irisa), as examiner
-* Oct. 2018: Nicolas Audebert (Irisa/Onera), as examiner
-* Sept. 2018: Tuan-Hung Vu (Inria Paris), as reviewer 
-* June 2018: Himalaya Jain (Inria Rennes/Technicolor), as advisor
-* Dec. 2017: Grigory Antipov (Orange), as examiner
-* Dec. 2017: Damien Fourure (U. Jean Monnet), as reviewer
-* Dec. 2017: Juan-Manuel Pérez-Rua (Inria Rennes/Technicolor), as advisor
-* Oct. 2017: Edouard Oyallon (ENS Paris), as examiner
-* Oct. 2017: Grégoire Niéto (Inria Grenoble)
-* Sept. 2017: Ahmet Iscen (Inria Rennes), as reviewer
-* Sept. 2017: Thibaut Durand (UPMC Paris 6), as reviewer
-* June 2017: Christophe Duuy (INRIA Paris/Technicolor), as examiner
-* June 2017: Pablo Garrido (MPI Saarbruken), as reviewer
-* June 2017: Renaud Hedouin (Inria Rennes), as examiner
-* Feb. 2017: Francisco Massa (Ponts ParisTech), as reviewer
-* Jan. 2017: Praveen Kulkharni (U. Caen/Technicolor), as advisor
-* Dec. 2016: Isabelle Leang (Onera/UPMC), as examiner
-* Dec. 2016: Marion Chevalier (UPMC), as reviewer 
-* Nov. 2016: Maxim Karpushin (Telecom ParisTech), as examiner
-* Oct. 2016: Vadim Fedorov (UPF Barcelona), as reviewer 
-* Oct. 2016: Kyle Zengh (Oxford U.), as reviewer
-* June 2016: Yang Hua (Inira Grenoble), as reviewer 
-* April 2016: Guillaume Seguin (Inria Paris), as examiner
-* Dec. 2015: Maxime Daisy (U. Caen), as reviewer
-* Nov. 2015: Omkar Moreshwar Parkhi (Oxford U.), as reviewer
-* Nov. 2015: Guillaume Bourmaud (U. Bordeaux), as president
-* Sept. 2015: Ives Rey-Otero (ENS Cachan), as examiner
-* July 2015: Danila Potapov (Inria Grenoble), as reviewer
-* April 2015: Vincent Delaitre (Inria Paris), as examiner
-* March 2015: Abdelaziz Djelouha (Inria Grenoble/Techinicolor) as advisor
-* Jan. 2015: Marc Teva Law (UPMC), as reviewer
+* 2020.12: Daan Wynen (Inria Grenoble), as reviewer
+* 2020.11: Léo Maczyta (Inria Rennes), as examiner
+* 2020.11: Sylvestre Rebuffi (Oxford U.), as reviewer
+* 2020.10: Ignacio Rocco (Inria Paris), as examiner
+* 2020.09: Oriane Simeoni (Inria Rennes), as reviewer 
+* 2020.07: Mariano Rodriguez (ENS Paris Saclay), as examiner
+* 2020.06: Maximilian Jaritz (Inria Paris/Valeo), as invitee 
+* 2020.06: Martin Engilberge (Sorbonne U./Technicolor-Interdigital), as advisor
+* 2020.01: Florian Strub (Lille U.), as reviewer  
+* 2019.12: Kevin Bascol (Irisa/Blucime), as reviewer  
+* 2019.12: Hugo Caracalla (Ircam/Sorbonne U.), as examiner  
+* 2019.11: Marcela Carvalho (Paris Descartes/Onera), as examiner
+* 2019.09: Théophile Dalens (ENS Paris), as reviewer
+* 2019.06: Pauline Luc (Inria/Facebook), as reviewer
+* 2019.06: Clément Pinard (Ensta/Parrot), as reviewer
+* 2019.06: Thuc Trinh Le (Telecom ParisTech), as examiner
+* 2019.05: Hedi Ben-Younes (Sorbonne U./Heuritech), as president
+* 2019.04: Sara El Aouad (Sorbonne U./Technicolor), as examiner
+* 2019.03: Sanjeel Parekh (Telecom ParisTech/Technicolor), as advisor
+* 2018.12: Guillem Chéron (Inria Paris), as reviewer
+* 2018.12: Mélanie Ducoffe (U. Nice Sophia Antipolis), as reviewer
+* 2018.12: Spyros Gidaris (Ponts ParisTech), as reviewer
+* 2018.12: Paul Temples (Irisa), as examiner
+* 2018.10: Nicolas Audebert (Irisa/Onera), as examiner
+* 2018.09: Tuan-Hung Vu (Inria Paris), as reviewer 
+* 2018.06: Himalaya Jain (Inria Rennes/Technicolor), as advisor
+* 2017.12: Grigory Antipov (Orange), as examiner
+* 2017.12: Damien Fourure (U. Jean Monnet), as reviewer
+* 2017.12: Juan-Manuel Pérez-Rua (Inria Rennes/Technicolor), as advisor
+* 2017.10: Edouard Oyallon (ENS Paris), as examiner
+* 2017.10: Grégoire Niéto (Inria Grenoble)
+* 2017.09: Ahmet Iscen (Inria Rennes), as reviewer
+* 2017.09: Thibaut Durand (UPMC Paris 6), as reviewer
+* 2017.06: Christophe Duuy (INRIA Paris/Technicolor), as examiner
+* 2017.06: Pablo Garrido (MPI Saarbruken), as reviewer
+* 2017.06: Renaud Hedouin (Inria Rennes), as examiner
+* 2017.02: Francisco Massa (Ponts ParisTech), as reviewer
+* 2017.01: Praveen Kulkharni (U. Caen/Technicolor), as advisor
+* 2016.12: Isabelle Leang (Onera/UPMC), as examiner
+* 2016.12: Marion Chevalier (UPMC), as reviewer 
+* 2016.11: Maxim Karpushin (Telecom ParisTech), as examiner
+* 2016.10: Vadim Fedorov (UPF Barcelona), as reviewer 
+* 2016.10: Kyle Zengh (Oxford U.), as reviewer
+* 2016.06: Yang Hua (Inira Grenoble), as reviewer 
+* 2016.04: Guillaume Seguin (Inria Paris), as examiner
+* 2015.12: Maxime Daisy (U. Caen), as reviewer
+* 2015.11: Omkar Moreshwar Parkhi (Oxford U.), as reviewer
+* 2015.11: Guillaume Bourmaud (U. Bordeaux), as president
+* 2015.09: Ives Rey-Otero (ENS Cachan), as examiner
+* 2015.07: Danila Potapov (Inria Grenoble), as reviewer
+* 2015.04: Vincent Delaitre (Inria Paris), as examiner
+* 2015.03: Abdelaziz Djelouha (Inria Grenoble/Techinicolor) as advisor
+* 2015.01: Marc Teva Law (UPMC), as reviewer
