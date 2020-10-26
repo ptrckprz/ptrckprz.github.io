@@ -10,9 +10,9 @@ redirect_from:
 
 **2020**
 
-PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving  
+[PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving](https://arxiv.org/pdf/2003.08744.pdf)  
 Th. Buhet, E. Wirbel, A. Bursuc, X. Perrotton  
-*CoRL 2020*
+*CoRL 2020* [[page](https://valeoai.github.io/blog/publications/plop/)]
 
 [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
@@ -20,19 +20,19 @@ A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez
 
 [FKAConv: Feature-Kernel Alignment for Point Cloud Convolution](https://arxiv.org/abs/2004.04462)  
 A. Boulch, G. Puy, R. Marlet  
-*ACCV 2020* [[code](https://github.com/valeoai/LightConvPoint)]
+*ACCV 2020* [[page](https://valeoai.github.io/blog/publications/fkaconv/), [code](https://github.com/valeoai/LightConvPoint)]
 
 [QuEST: Quantized Embedding Space for Transferring knowledge](https://arxiv.org/abs/1912.01540)  
 H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord  
-*ECCV 2020*
+*ECCV 2020* [[page](https://valeoai.github.io/blog/publications/quest/)]
 
 [Toward unsupervised, multi-object discovery in large-scale image collections](https://arxiv.org/abs/2007.02662)  
 H. V. Vo, P. Pérez, J. Ponce  
-*ECCV 2020* [[code](https://github.com/huyvvo/rOSD)]
+*ECCV 2020* [[page](https://valeoai.github.io/blog/publications/rosd/), [code](https://github.com/huyvvo/rOSD)]
 
 [FLOT: Scene Flow estimation by Learned Optimal Transport on point clouds](https://arxiv.org/abs/2007.11142)  
 G. Puy, A. Boulch, R. Marlet  
-*ECCV 2020* [[code](https://github.com/valeoai/FLOT)]
+*ECCV 2020* [[page](https://valeoai.github.io/blog/publications/flot/), [code](https://github.com/valeoai/FLOT)]
 
 [Few-shot object detection and viewpoint estimation for objects in the wild](https://arxiv.org/abs/2007.12107)  
 Y. Xiao, R. Marlet  
@@ -44,7 +44,7 @@ X. Qiu, Y. Xiao, Ch. Wang, R. Marlet
 
 [TRADI: Tracking deep neural network weight distributions](https://arxiv.org/abs/1912.11316)  
 G. Franchi, A. Bursuc, E. Aldea, S. Dubuisson, I. Bloch  
-*ECCV 2020*
+*ECCV 2020* [[page](https://valeoai.github.io/blog/publications/tradi/)]
 
 [Small-Task Incremental Learning](https://arxiv.org/abs/2004.13513)  
 A. Douillard, M. Cord, Ch. Ollion, Th. Robert, Ed. Valle  
@@ -52,15 +52,15 @@ A. Douillard, M. Cord, Ch. Ollion, Th. Robert, Ed. Valle
 
 [Learning representations by predicting bags of visual words](https://openaccess.thecvf.com/content_CVPR_2020/html/Gidaris_Learning_Representations_by_Predicting_Bags_of_Visual_Words_CVPR_2020_paper.html)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
-*CVPR 2020*
+*CVPR 2020* [[page](https://valeoai.github.io/blog/publications/bownet/)]
 
 [xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Jaritz_xMUDA_Cross-Modal_Unsupervised_Domain_Adaptation_for_3D_Semantic_Segmentation_CVPR_2020_paper.html)  
 M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez  
-*CVPR 2020* [[code](https://github.com/valeoai/xmuda)]
+*CVPR 2020* [[page](https://valeoai.github.io/blog/publications/xmuda/), [code](https://github.com/valeoai/xmuda)]
 
 [End-to-end model-free reinforcement learning for urban driving using implicit affordances](https://openaccess.thecvf.com/content_CVPR_2020/html/Toromanoff_End-to-End_Model-Free_Reinforcement_Learning_for_Urban_Driving_Using_Implicit_Affordances_CVPR_2020_paper.html)  
 M. Toromanoff, E. Wirbel, F. Moutarde  
-*CVPR 2020* [[code](https://github.com/valeoai/learningbycheating)]
+*CVPR 2020* [[page](https://valeoai.github.io/blog/publications/e2e-rl-driving/), [code](https://github.com/valeoai/learningbycheating)]
 
 [Approximating shapes in images with low-complexity polygons](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Approximating_shapes_in_images_with_low-complexity_polygons_CVPR_2020_paper.html)  
 M. Li, F. Lafarge, R. Marlet  
@@ -76,11 +76,11 @@ A. Dapogny, M. Cord, P. Pérez
 
 [This dataset does not exist: training models from generated images](https://arxiv.org/abs/1911.02888)  
 V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez  
-*ICASSP 2020*
+*ICASSP 2020* [[page](https://valeoai.github.io/blog/publications/gan-dataset/)]
 
 [Dynamic task weighting methods for multi-task networks in autonomous driving systems](https://arxiv.org/abs/2001.02223)  
 I. Leang, G. Sistu, F. Burger, A. Bursuc, S. Yogamani  
-*ITSC 2020*
+*ITSC 2020* [[page](https://valeoai.github.io/blog/publications/dynamic-mtl/)]
 
 [ConvPoint: continuous convolution for point cloud processing](https://arxiv.org/abs/1904.02375)  
  A. Boulch  
