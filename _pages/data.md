@@ -30,6 +30,7 @@ redirect_from:
 
 ### Data
 
+* [CARRADA](https://github.com/valeoai/carrada_dataset): Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset
 * [TSFT](http://grvsharma.com/datasets.html#tsft): Face tubes from TV series (589 cropped annotated face tubes of 94 subjects)
 * [Hannah](https://www.technicolor.com/dream/research-innovation/hannah-dataset): Dense person annotation of Woody Allen's Hannah and her sisters
 * [Scratch](https://perso.telecom-paristech.fr/gousseau/scratch_detection/): Annotated data on scractch detection for movie restoration
