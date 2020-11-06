@@ -33,7 +33,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [twitter](https://twitter.com/tuanhungvu89)  
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
 
-**Human Resource Partner**: [Pascal Le Herisse](mailto:pascal.le-herisse@valeo.com)  
+**Human Resource Partner**: [Pascal Le Hérissé](mailto:pascal.le-herisse@valeo.com)  
 **Assistant**: [Ouardia Moussouni](mailto:ouardia.moussouni@valeo.com)  
 **Location**: [15 rue de La Baume](https://goo.gl/maps/5pNxVCeACzyDPi4d8), Paris  
 
