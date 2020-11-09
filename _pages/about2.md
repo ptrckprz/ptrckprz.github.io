@@ -14,8 +14,9 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 * 2020.12: Keynote at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop.
 * 2020.11: Talk at NaverLabs Europe.
-* 2020.10: Talk at Samsung AI Center (SAIC) Cambridge on "Safer driving AI with limited supervision".
+* 2020.10: Talk at Samsung AI Center (SAIC) Cambridge.
 * 2020.09: Paper accepted at SiggraphAsia'20, see [there](https://ptrckprz.github.io/conf/).
+* 2020.06: Keynote at the [SAIAD](https://sites.google.com/view/saiad2020/) CVPR'20 workshop.
 * 2020.07: Papers accepted at ECCV'20, see [there](https://ptrckprz.github.io/conf/). 
 * 2020.06: Code for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)). 
 * 2020.02: Papers accepted at CVPR'20 (see [there](https://ptrckprz.github.io/conf/))  
@@ -31,7 +32,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2019.07: Papers accepted at ICCV'19, see [there](https://ptrckprz.github.io/conf/).  
 * 2019.06: Code of CVPR'19 paper "Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" ([AdvEnt](https://github.com/valeoai/ADVENT)).    
 * 2019.06: Code of CVPR'19 paper "Sorting Deep Net to learn ranking loss surrogates" ([DeepSort](https://github.com/technicolor-research/sodeep)).  
-* 2019.06: Keynote on "Sustainable supervision with application to autonomous driving" at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.  
+* 2019.06: Keynote at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.  
 * 2019.04: [Valeao.ai](https://ptrckprz.github.io/valeoai/) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
 * 2019.03: Papers accepted at CVPR'19, see [there](https://ptrckprz.github.io/conf/).  
 * 2019.03: Talk at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay).
