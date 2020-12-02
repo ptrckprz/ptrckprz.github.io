@@ -8,6 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
+**2021**
+
+Artificial dummies for urban dataset augmentation  
+A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
+*AAAI 2020*
+
 **2020**
 
 [PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving](https://arxiv.org/pdf/2003.08744.pdf)  
