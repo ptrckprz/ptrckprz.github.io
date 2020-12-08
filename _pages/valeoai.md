@@ -83,6 +83,8 @@ Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 12/2020: Preprint on project with EPFL: [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
+* 12/2020: Valeo participates with keynote and posters to [ML4AD](https://ml4ad.github.io/) virtual workshop at NeurIPS'20.
 * 11/2020: IV2020 workshop on 3D Deep Learning for Autonomous Driving ([3D-DLAD](https://sites.google.com/view/3d-dlad-v2-iv2020))
 * 10/2020: Dataset for our ICPR'20 paper "CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations" ([CARRADA](https://github.com/valeoai/carrada_dataset))
 * 10/2020: Four team members (Andrei, Matthieu, Patrick and Spyros) acknowledged as Outstanding Reviewers at NeurIPS'20
