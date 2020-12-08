@@ -10,6 +10,10 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+Artificial dummies for urban dataset augmentation  
+A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
+*AAAI 2021*
+
 [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
 *ICPR 2020*
