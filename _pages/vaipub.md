@@ -12,7 +12,7 @@ redirect_from:
 
 Artificial dummies for urban dataset augmentation  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
-*AAAI 2020*
+*AAAI 2021*
 
 **2020**
 
