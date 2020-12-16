@@ -10,7 +10,7 @@ redirect_from:
 
 **2021**
 
-Artificial dummies for urban dataset augmentation  
+[Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
 *AAAI 2021*
 
