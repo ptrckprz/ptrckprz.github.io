@@ -8,7 +8,27 @@ redirect_from:
 
 {% include base_path %}
 
-### Since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+### Since 2011 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+
+Explainability of vision-based autonomous driving systems: Review and challenges  
+E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
+in preparation
+
+Cross-modal learning for domain adaptationin 3D semantic segmentation  
+M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Perez  
+in preparation
+
+Handling new target classes in semantic segmentation with domain adaptation  
+M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
+in preparation
+
+[Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
+Ch. Corbière, N. Thome, A. Saporta, T.-H. Vu, M. Cord, P. Pérez  
+sumitted to IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
+
+[Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
+T. Morand, M. Cord, P. Pérez, A. Alahi  
+submitted to IEEE Trans. on Intelligent Transportation Systems, 2021
 
 [ROAM: a Rich Object Appearance Model with Application to Rotoscoping](https://ieeexplore.ieee.org/document/8666808)  
 J.-M. Pérez-Rua, O. Miksik, T. Crivelli, P. Bouthemy, P. Torr and P. Pérez  
