@@ -1,11 +1,9 @@
 ---
+title: "Talks"
 permalink: /pres/
-title: " "
-excerpt: "pres"
 author_profile: true
 redirect_from: 
-  - /pres/
-  - /pres.html
+  - /resume
 ---
 
 ### Talks since 2016
