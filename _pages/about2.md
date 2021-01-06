@@ -12,14 +12,15 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
-* 2020.12: Keynote at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop.
-* 2020.11: Talk at NaverLabs Europe.
-* 2020.10: Talk at Samsung AI Center (SAIC) Cambridge.
-* 2020.09: Paper accepted at SiggraphAsia'20, see [there](https://ptrckprz.github.io/conf/).
-* 2020.06: Keynote at the [SAIAD](https://sites.google.com/view/saiad2020/) CVPR'20 workshop.
-* 2020.07: Papers accepted at ECCV'20, see [there](https://ptrckprz.github.io/conf/). 
-* 2020.06: Code for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)). 
-* 2020.02: Papers accepted at CVPR'20 (see [there](https://ptrckprz.github.io/conf/))  
+* 2020.12: Preprint with EPFL on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
+* 2020.12: [Paper](https://ptrckprz.github.io/conf/) in collaboration with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
+* 2020.12: Keynote at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop
+* 2020.11: Talk at NaverLabs Europe
+* 2020.10: Talk at Samsung AI Center (SAIC)
+* 2020.09: [Paper](https://ptrckprz.github.io/conf/) accepted at SiggraphAsia'20.
+* 2020.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'20.
+* 2020.06: Code for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)).
+* 2020.02: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'20.
 * 2019.12: Code for ICCV'19 paper "Boosting few-shot visual learning with self-supervision" ([BF3S](https://github.com/valeoai/BF3S)). 
 * 2019.12: Code for ICCV'19 paper "DADA: Depth-Aware Domain Adaptation in semantic segmentation" ([DADA](https://github.com/valeoai/DADA)). 
 * 2019.11: Panel on Maths and AI at Poincaré Institute, Paris. 
@@ -28,13 +29,12 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2019.10: Talk at Prairie AI Summer School ([PAISS'19](https://project.inria.fr/paiss/)).  
 * 2019.10: Panel on future mobilities at [PRAIRIE](https://prairie-institute.fr/) inauguration day. 
 * 2019.09: Code of NeurIPS'19 paper "Addressing failure prediction by learning model confidence" ([valeo.ai ConfidNet](https://github.com/valeoai/ConfidNet)). 
-* 2019.09: Papers accepted at NeurIPS'19, see [there](https://ptrckprz.github.io/conf/).  
-* 2019.07: Papers accepted at ICCV'19, see [there](https://ptrckprz.github.io/conf/).  
+* 2019.09: [Papers](https://ptrckprz.github.io/conf/) accepted at NeurIPS'19.
+* 2019.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'19.
 * 2019.06: Code of CVPR'19 paper "Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" ([AdvEnt](https://github.com/valeoai/ADVENT)).    
 * 2019.06: Code of CVPR'19 paper "Sorting Deep Net to learn ranking loss surrogates" ([DeepSort](https://github.com/technicolor-research/sodeep)).  
-* 2019.06: Keynote at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.  
-* 2019.04: [Valeao.ai](https://ptrckprz.github.io/valeoai/) has openings in Paris for high-profile researchers in machine learning and in 3D scene understanding. Please contact me.   
-* 2019.03: Papers accepted at CVPR'19, see [there](https://ptrckprz.github.io/conf/).  
+* 2019.06: Keynote at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.     
+* 2019.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'19.  
 * 2019.03: Talk at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay).
 * 2019.03: Talk at [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris).
 * 2019.03: Talk at [Computing and Learning](https://indico.mathrice.fr/event/153/overview) (Lyon).
