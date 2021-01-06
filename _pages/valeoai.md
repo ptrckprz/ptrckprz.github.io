@@ -85,6 +85,7 @@ Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 12/2020: Preprint on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508).
 * 12/2020: Preprint on [Online BoW prediction for unsupervised representation learning](https://arxiv.org/abs/2012.11552) with [code](https://github.com/valeoai/obow).  
 * 12/2020: Preprint on project with EPFL: [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
 * 12/2020: Valeo participates with keynote and posters to [ML4AD](https://ml4ad.github.io/) virtual workshop at NeurIPS'20.
