@@ -14,7 +14,7 @@ Explainability of vision-based autonomous driving systems: Review and challenges
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
 in preparation
 
-Cross-modal learning for domain adaptationin 3D semantic segmentation  
+Cross-modal learning for domain adaptation in 3D semantic segmentation  
 M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Perez  
 in preparation
 
