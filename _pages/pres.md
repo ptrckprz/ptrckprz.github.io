@@ -1,5 +1,5 @@
 ---
-title: "Talks"
+title: "Research talks, keynotes and tutorials"
 permalink: /pres/
 author_profile: true
 redirect_from: 
