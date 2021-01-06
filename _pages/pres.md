@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /pres/
 title: " "
 excerpt: "pres"
 author_profile: true
 redirect_from: 
   - /pres/
-  - /prese.html
+  - /pres.html
 ---
 
 ### Talks since 2016
