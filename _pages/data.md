@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ### Code
-
+* [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (arXiv 2020)  
 * [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20)
 * [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
 * [xMUDA](https://github.com/valeoai/xmuda): Cross-modal UDA for 3D semantic segmentation (CVPR'20)
