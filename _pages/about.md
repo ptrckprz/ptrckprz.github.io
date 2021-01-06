@@ -13,6 +13,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 ### News
 
 * 2020.12: [Preprint](https://ptrckprz.github.io/journals/) with EPFL on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
+* 2020.12: [Preprint](https://ptrckprz.github.io/journals/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508). 
 * 2020.12: [Papers](https://ptrckprz.github.io/conf/) in collaboration with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
 * 2020.12: [Keynote](https://ptrckprz.github.io/pres/) at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop
 * 2020.11: [Talk](https://ptrckprz.github.io/pres/) at NaverLabs Europe
@@ -25,7 +26,6 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2019.12: [Code](https://ptrckprz.github.io/data/) for ICCV'19 paper "DADA: Depth-Aware Domain Adaptation in semantic segmentation" ([DADA](https://github.com/valeoai/DADA)). 
 * 2019.11: [Panel](https://ptrckprz.github.io/pres/) on Maths and AI at Poincaré Institute, Paris. 
 * 2019.11: [OmniCV](https://sites.google.com/view/omnicv-cvpr2020/home) workhsop accepted at CVPR'20.  
-* 2019.11: ICCV'23 in Paris.
 * 2019.10: [Talk](https://ptrckprz.github.io/pres/) at Prairie AI Summer School ([PAISS'19](https://project.inria.fr/paiss/)).  
 * 2019.10: [Panel](https://ptrckprz.github.io/pres/) on future mobilities at [PRAIRIE](https://prairie-institute.fr/) inauguration day. 
 * 2019.09: [Code](https://ptrckprz.github.io/data/) of NeurIPS'19 paper "Addressing failure prediction by learning model confidence" ([valeo.ai ConfidNet](https://github.com/valeoai/ConfidNet)). 
@@ -33,7 +33,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2019.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'19.
 * 2019.06: [Code](https://ptrckprz.github.io/data/) of CVPR'19 paper "Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" ([AdvEnt](https://github.com/valeoai/ADVENT)).    
 * 2019.06: [Code](https://ptrckprz.github.io/data/) of CVPR'19 paper "Sorting Deep Net to learn ranking loss surrogates" ([DeepSort](https://github.com/technicolor-research/sodeep)).  
-* 2019.06: [Keynote]((https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.     
+* 2019.06: [Keynote](https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.     
 * 2019.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'19.  
 * 2019.03: [Talk](https://ptrckprz.github.io/pres/) at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay).
 * 2019.03: [Talk](https://ptrckprz.github.io/pres/) at [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris).
