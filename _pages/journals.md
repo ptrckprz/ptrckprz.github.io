@@ -170,7 +170,7 @@ ACM Trans. Graphics (SIGGRAPH'03), 22(3):313-318, 2003
 T. Corpetti, E. Mémin, P. Pérez  
 Journal of Mathematical Imaging and Vision, 19(3):175-198, 2003
 
-[Hierarchical estimation and segmentation of dense motion fields](https://www.cs.auckland.ac.nz/~rklette/TeachAuckland.html/CIMAT/MeminPerez_2002.pdf)  
+[Hierarchical estimation and segmentation of dense motion fields](](https://ptrckprz.github.io/files/2002_MeminIJCV46(2).pdf)  
 E. Mémin, P. Pérez  
 Int. Journal of Computer Vision, 46(2):129-155, 2002
 
