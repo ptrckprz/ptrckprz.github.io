@@ -138,7 +138,7 @@ SIAM J. Multiscale Modeling and Simulation, 9(4): 1829-1865, 2011
 I. Junejo, E. Dexter, I. Laptev, P. Pérez  
 IEEE Trans. Pattern Anal. Machine Intell. 33(1):172-185, 2011
 
-[Geodesic image and video editing](http://research.microsoft.com/apps/pubs/default.aspx?id=81528)  
+[Geodesic image and video editing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACriminisi_ACM_TOG2010.pdf)  
 A. Criminisi, T. Sharp, C. Rother, P. Pérez  
 ACM Trans. Graphics, 29(5), 2010 - Presented at Siggraph 2011
 
