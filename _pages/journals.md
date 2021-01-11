@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Since 2011 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
+### Selection (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
 Explainability of vision-based autonomous driving systems: Review and challenges  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
@@ -141,3 +141,81 @@ IEEE Trans. Pattern Anal. Machine Intell. 33(1):172-185, 2011
 [Geodesic image and video editing](http://research.microsoft.com/apps/pubs/default.aspx?id=81528)  
 A. Criminisi, T. Sharp, C. Rother, P. Pérez  
 ACM Trans. Graphics, 29(5), 2010 - Presented at Siggraph 2011
+
+[Detection and segmentation of moving objects in complex scenes](http://www.irisa.fr/vista/Papers/2009_cviu_bugeau.pdf)  
+A. Bugeau, P. Pérez  
+Vision and Image Understanding, 13(4):459-476, 2009
+
+[Posterior Cramer-Rao bounds for multi-target tracking](http://www.irisa.fr/vista/Papers/2006_aes_hue.pdf)  
+C. Hue, J.-P. Le Cadre, P. Pérez  
+IEEE Trans. on Aerospace and Electronic Systems, 42(1):37-49, 2006
+
+[Monte Carlo filtering for multi-target tracking and data association](http://www.irisa.fr/vista/Papers/2005_aes_vermaak.pdf)  
+J. Vermaak, S. Godsill, P. Pérez  
+IEEE Trans. on Aerospace and Electronic Systems, 41(1):309-332, 2005
+
+[Data fusion for visual tracking with particles](http://research.microsoft.com/en-us/um/people/ablake/papers/ablake/perez_ieee_2004.pdf)  
+P. Pérez, J. Vermaak, A. Blake  
+Proc. IEEE, 92(3):495-513, 2004
+
+[Region filling and object removal by exemplar-based inpainting](http://research.microsoft.com/pubs/67276/criminisi_tip2004.pdf)  
+A. Criminisi, P. Pérez, K. Toyama  
+IEEE Trans. Image Processing, 13(9):1200-1212, 2004
+
+[Poisson image editing](http://cs.uky.edu/~jacobs/classes/2010_photo/readings/PoissonImageEditing.pdf)  
+P. Pérez, M. Gangnet, A. Blake  
+ACM Trans. Graphics (SIGGRAPH'03), 22(3):313-318, 2003
+
+[Extraction of singular points from dense motion fields: an analytic approach](http://thomas.corpetti.free.fr/jmiv_corpetti.pdf)  
+T. Corpetti, E. Mémin, P. Pérez  
+Journal of Mathematical Imaging and Vision, 19(3):175-198, 2003
+
+[Hierarchical estimation and segmentation of dense motion fields](https://www.cs.auckland.ac.nz/~rklette/TeachAuckland.html/CIMAT/MeminPerez_2002.pdf)  
+E. Mémin, P. Pérez  
+Int. Journal of Computer Vision, 46(2):129-155, 2002
+
+[Dense estimation of fluid flows](http://www.irisa.fr/vista/Papers/2002_pami_corpetti.pdf)  
+T. Corpetti, E. Mémin, P. Pérez  
+IEEE Trans. Pattern Anal. Machine Intell., 24(3):365-380, 2002
+
+[Non-parametric motion characterization using causal probabilistic models for video indexing and retrieval](http://www.irisa.fr/vista/Papers/2002_ieeeip_fablet.pdf)  
+R. Fablet, P. Bouthemy, P. Pérez  
+IEEE Trans. on Image Processing, 11(4):393-407, 2002
+
+[Sequential Monte Carlo methods for multiple target tracking and data fusion](http://www.irisa.fr/vista/Papers/2001/hue_sp.pdf)  
+C. Hue, J.-P. Le Cadre, P. Pérez  
+IEEE Trans. on Signal Processing, 50(2):309-325, 2002
+
+[Tracking multiple objects with particle filtering](http://www.irisa.fr/vista/Papers/2002_aes_hue.pdf)  
+C. Hue, J.-P. Le Cadre, P. Pérez  
+IEEE Trans. on Aerospace and Electronic Systems, 38(3):791-812, 2002
+
+[Hierarchical estimation of a dense deformation field for 3D robust registration](http://www.irisa.fr/vista/Papers/2001_tmi_hellier.pdf)  
+P. Hellier, C. Barillot, E. Mémin, P. Pérez  
+IEEE Trans. Medical Imaging, 20(5):388-402, 2001
+
+[Sonar image segmentation using a hierarchical MRF model](http://www.irisa.fr/vista/Papers/2000_ieeeip_mignotte.pdf)  
+M. Mignotte, C. Collet, P. Pérez, P. Bouthemy  
+IEEE Trans. Image Proc., 9(7):1216-1231, 2000
+
+[Discrete Markov modeling and inference on the quad-tree](http://www.irisa.fr/vista/Papers/2000_ieeeip_laferte.pdf)  
+J.-M. Laferté, P. Pérez, F. Heitz  
+IEEE Trans. Image Proc., 9(3):390-404, 2000
+
+[Markov random fields and images](https://ptrckprz.github.io/files/1998_PerezCWIQ11(4).pdf)  
+P. Pérez  
+CWI Quarterly, 11(4):413-437, 1998
+
+[Dense optical flow estimation and object-based segmentation with robust techniques](http://www.irisa.fr/vista/Papers/1998_ieeeip_memin2.pdf)  
+E. Mémin, P. Pérez  
+IEEE Trans. on Image Processing, 7(5):703-719, 1998
+
+[Restriction of a Markov random field on a graph and multiresolution statistical image modeling](http://www.irisa.fr/vista/Papers/1996_ieeeit_perez2.pdf)  
+P. Pérez, F. Heitz  
+IEEE Trans. on Information Theory, 42(1):180-190, 1996
+
+[Multiscale minimization of global energy functions in some visual recovery problems](https://ptrckprz.github.io/files/1994_HeitzCVGIP59(1).pdf)  
+F. Heitz, P. Pérez, P. Bouthemy  
+CVGIP : Image Understanding, 59(1):125-134, 1994
+
+
