@@ -118,10 +118,6 @@ IEEE J. Selec. Topics Signal Proc., 8(3): 428-437, 2014
 A. Newson, A. Almansa, Y. Gousseau, P. Pérez  
 IEEE Trans. Image Processing, 23(3): 1240-1254, 2014 [[project](https://perso.telecom-paristech.fr/gousseau/scratch_detection/)]
 
-[Correspondence map-aided neighbor embedding for image intra prediction](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6355678)  
-S. Chérigui, Ch. Guillemot, D. Thoreau, Ph. Guillotel, and P. Pérez  
-IEEE Trans. Image Processing, 23(2):1161-1174, 2013
-
 [Aggregating local image descriptors into compact codes](http://hal.inria.fr/docs/00/63/30/13/PDF/jegou_aggregate.pdf)  
 H. Jégou, F. Perronnin, M. Douze, J. Sánchez, P. Pérez, C. Schmid  
 IEEE Trans. Pattern Anal. Machine Intell., 34(9), 2012 [[code](http://lear.inrialpes.fr/src/inria_fisher/)]
