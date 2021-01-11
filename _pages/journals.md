@@ -158,7 +158,7 @@ IEEE Trans. on Aerospace and Electronic Systems, 41(1):309-332, 2005
 P. Pérez, J. Vermaak, A. Blake  
 Proc. IEEE, 92(3):495-513, 2004
 
-[Region filling and object removal by exemplar-based inpainting](http://research.microsoft.com/pubs/67276/criminisi_tip2004.pdf)  
+[Region filling and object removal by exemplar-based inpainting](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_tip2004.pdf)  
 A. Criminisi, P. Pérez, K. Toyama  
 IEEE Trans. Image Processing, 13(9):1200-1212, 2004
 
