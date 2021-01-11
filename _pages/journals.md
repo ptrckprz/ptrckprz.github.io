@@ -154,7 +154,7 @@ IEEE Trans. on Aerospace and Electronic Systems, 42(1):37-49, 2006
 J. Vermaak, S. Godsill, P. Pérez  
 IEEE Trans. on Aerospace and Electronic Systems, 41(1):309-332, 2005
 
-[Data fusion for visual tracking with particles](http://research.microsoft.com/en-us/um/people/ablake/papers/ablake/perez_ieee_2004.pdf)  
+[Data fusion for visual tracking with particles](https://ptrckprz.github.io/files/2004_Perez_ProcIEEE92(3)_preprint_full_color.pdf)  
 P. Pérez, J. Vermaak, A. Blake  
 Proc. IEEE, 92(3):495-513, 2004
 
