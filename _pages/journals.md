@@ -162,7 +162,7 @@ Proc. IEEE, 92(3):495-513, 2004
 A. Criminisi, P. Pérez, K. Toyama  
 IEEE Trans. Image Processing, 13(9):1200-1212, 2004
 
-[Poisson image editing](http://cs.uky.edu/~jacobs/classes/2010_photo/readings/PoissonImageEditing.pdf)  
+[Poisson image editing](https://ptrckprz.github.io/files/2003_PerezSIGGRAPH03_TOG22(3).pdf)  
 P. Pérez, M. Gangnet, A. Blake  
 ACM Trans. Graphics (SIGGRAPH'03), 22(3):313-318, 2003
 
