@@ -10,7 +10,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ###  Team
 ![](../images/vai-team.jpg)  
-**Hedi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
+**Hédi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
 **Florent Bartoccioni**, PhD student  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [twitter](https://twitter.com/abursuc)  
@@ -29,7 +29,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Simon Roburin**, PhD student | [page](http://imagine.enpc.fr/~roburins/)  
 **Antoine Saporta**, PhD student | [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
 **Tristan Schultz**, research engineer  
-**Oriane Simeoni**, research scientist | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en)  
+**Oriane Siméoni**, research scientist | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en)  
 **Marin Toromanoff**, PhD student | [scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)  
 **Huy Van Vo**, PhD student | [scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en) | [github](https://github.com/huyvvo)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [twitter](https://twitter.com/tuanhungvu89)  
