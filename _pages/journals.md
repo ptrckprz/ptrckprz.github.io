@@ -10,13 +10,13 @@ redirect_from:
 
 ### Selection (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
-Explainability of vision-based autonomous driving systems: Review and challenges  
+[Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
-in preparation
+submitted to Int. J. Computer Vision, 2021
 
 Handling new target classes in semantic segmentation with domain adaptation  
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
-in preparation
+submitted to Computer Vision and Image Understanding, 2021
 
 Cross-modal learning for domain adaptation in 3D semantic segmentation  
 M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
