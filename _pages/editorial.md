@@ -11,6 +11,7 @@ redirect_from:
 * Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): 2008-2012
 * Associate Editor for the IEEE Transactions on Image Processing (T-IP): 2002-2006
 * Area chair for ECCV (2020, 2014, 2012, 2010, 2008), ICCV (2019, 2013, 2011), BMVC (2017)
+* Industrial chair for ICCV 2023
 
 ### "Research Habilitation" committees
 * July 2020: [Iannis Avrithis](https://avrithis.net/) (Inria Rennes), as reviewer
