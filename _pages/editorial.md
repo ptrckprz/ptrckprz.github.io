@@ -28,8 +28,9 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
-* 2021.04: Pierre Stock (Inria/Facebook), as reviewer
-* 2021.01: Pierre Godet (Paris-Saclay/Onera), as reviewer
+* 2021.04: Pierre Stock (Inria/Facebook), as examiner
+* 2021.03: Yann-Raphael Lifchitz (Inria/Safran), as examiner
+* 2021.01: Pierre Godet (Paris-Saclay/Onera), as examiner
 * 2020.12: Daan Wynen (Inria Grenoble), as reviewer
 * 2020.11: Léo Maczyta (Inria Rennes), as examiner
 * 2020.11: Sylvestre Rebuffi (Oxford U.), as reviewer
