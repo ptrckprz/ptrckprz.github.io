@@ -12,14 +12,14 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
-* 2021.01: [Preprint](https://ptrckprz.github.io/journals/) on [Cross-modal Learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)
-* 2021.01: [Preprint](https://ptrckprz.github.io/journals/) on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307)
+* 2021.01: [Preprint](https://ptrckprz.github.io/journals/) on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253).
+* 2021.01: [Preprint](https://ptrckprz.github.io/journals/) on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307).
 * 2020.12: [Preprint](https://ptrckprz.github.io/journals/) with EPFL on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
 * 2020.12: [Preprint](https://ptrckprz.github.io/journals/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508). 
 * 2020.12: [Paper](https://ptrckprz.github.io/conf/) in collaboration with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
-* 2020.12: [Keynote](https://ptrckprz.github.io/pres/) at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop
-* 2020.11: [Talk](https://ptrckprz.github.io/pres/) at NaverLabs Europe
-* 2020.10: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC)
+* 2020.12: [Keynote](https://ptrckprz.github.io/pres/) at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop.
+* 2020.11: [Talk](https://ptrckprz.github.io/pres/) at NaverLabs Europe.
+* 2020.10: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC).
 * 2020.09: [Paper](https://ptrckprz.github.io/conf/) accepted at SiggraphAsia'20.
 * 2020.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'20.
 * 2020.06: [Code](https://ptrckprz.github.io/data/) for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)).
