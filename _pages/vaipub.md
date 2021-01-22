@@ -24,6 +24,10 @@ Th. Buhet, E. Wirbel, A. Bursuc, X. Perrotton
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
 *ICPR 2020*
 
+[STaRFlow: A SpatioTemporal Recurrent Cell for Lightweight Multi-Frame Optical Flow Estimation](https://arxiv.org/abs/2007.05481)  
+P. Godet, A. Boulch, A. Plyer, G. Le Besnerais  
+*ICPR 2020*
+
 [FKAConv: Feature-Kernel Alignment for Point Cloud Convolution](https://arxiv.org/abs/2004.04462)  
 A. Boulch, G. Puy, R. Marlet  
 *ACCV 2020* [[page](https://valeoai.github.io/blog/publications/fkaconv/), [code](https://github.com/valeoai/LightConvPoint)]
