@@ -10,9 +10,13 @@ redirect_from:
 
 ### Relevant publications
 
-StyleRig: Rigging StyleGAN for 3D control over portrait images  
-A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zolhöfer, Ch. Theobalt   
-*CVPR 2020* 
+[PIE: Portrait Image Embedding for Semantic Control](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)  
+A. Tewari, M. Elgharib, B. Mallikarjun, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
+*SigAsia 2020* [[page]](http://gvv.mpi-inf.mpg.de/projects/PIE/)
+
+[StyleRig: Rigging StyleGAN for 3D control over portrait images](https://openaccess.thecvf.com/content_CVPR_2020/html/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.html)  
+A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
+*CVPR 2020* [[page]](https://gvv.mpi-inf.mpg.de/projects/StyleRig/)
 
 [High-fidelity monocular face reconstruction based on an unsupervised model-based face autoencoder](http://gvv.mpi-inf.mpg.de/projects/TPAMI_Face/paper.pdf)  
 A. Tewari, M. Zollhöfer, F. Bernard, P. Garrido, H. Kim, P. Pérez, Ch. Theobalt  
