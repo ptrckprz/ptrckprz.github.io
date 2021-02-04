@@ -18,9 +18,9 @@ A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
 *ICPR 2020*
 
-[PIE: Portrait Image Embedding for Semantic Control](http://gvv.mpi-inf.mpg.de/projects/PIE/)  
+[PIE: Portrait Image Embedding for Semantic Control](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)  
 A. Tewari, M. Elgharib, B. Mallikarjun, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
-*SigAsia 2020* 
+*SigAsia 2020* [[page]](http://gvv.mpi-inf.mpg.de/projects/PIE/)
 
 [QuEST: Quantized Embedding Space for Transferring knowledge](https://arxiv.org/abs/1912.01540)  
 H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord  
@@ -40,7 +40,7 @@ M. Jaritz, T.H. Vu, R. de Charette, E. Wirbel, P. Pérez
 
 [StyleRig: Rigging StyleGAN for 3D control over portrait images](https://openaccess.thecvf.com/content_CVPR_2020/html/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.html)  
 A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
-*CVPR 2020* 
+*CVPR 2020* [[page]](https://gvv.mpi-inf.mpg.de/projects/StyleRig/)
 
 [The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
 A. Dapogny, M. Cord, P. Pérez  
