@@ -6,6 +6,7 @@ redirect_from:
   - /resume
 ---
 
+* 2021.02: Industrial panel at [Visigrapp](http://www.visigrapp.org/) 2021 on *transfers from research to applications*. 
 * 2020.12: Keynote at [ML4AD](https://ml4ad.github.io/) NeurIPS'20 workshop: *Addressing some challenges of ML4AD*.
 * 2020.11: Research talk at NaverLabs Europe: *Safer driving AI with limited supervision*. 
 * 2020.10: Research talk at Samsung AI Cambridge Center: *Safer driving AI with limited supervision*. 
