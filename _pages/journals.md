@@ -14,7 +14,7 @@ redirect_from:
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
 submitted to Int. J. Computer Vision, 2021
 
-Handling new target classes in semantic segmentation with domain adaptation  
+[Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
 submitted to Computer Vision and Image Understanding, 2021
 
