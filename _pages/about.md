@@ -12,6 +12,8 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2021.02: [Industrial panel](https://ptrckprz.github.io/pres/) at Visigrapp 2021. 
+* 2021.02: [Preprint](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130).
 * 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253).
 * 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307).
 * 2020.12: [Preprint](https://ptrckprz.github.io/jal/) with EPFL on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
