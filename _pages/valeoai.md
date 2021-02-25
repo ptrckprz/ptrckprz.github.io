@@ -56,6 +56,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code
+* [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'20)
 * [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (arXiv 2020)  
 * [CARRADA](https://github.com/valeoai/carrada_dataset): Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset (ICPR'20)
 * [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20)
