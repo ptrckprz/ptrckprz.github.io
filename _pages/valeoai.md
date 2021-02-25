@@ -56,7 +56,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code
-* [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'20)
+* [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'21)
 * [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (arXiv 2020)  
 * [CARRADA](https://github.com/valeoai/carrada_dataset): Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset (ICPR'20)
 * [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20)
@@ -92,7 +92,7 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 * 12/2020: Preprint on [Online BoW prediction for unsupervised representation learning](https://arxiv.org/abs/2012.11552) with [code](https://github.com/valeoai/obow).  
 * 12/2020: Preprint on project with EPFL: [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
 * 12/2020: Valeo participates with keynote and posters to [ML4AD](https://ml4ad.github.io/) virtual workshop at NeurIPS'20.
-* 12/2020: One [paper](https://ptrckprz.github.io/vaipub) in collaboration with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
+* 12/2020: One [paper](https://ptrckprz.github.io/vaipub) in collaboration with CTU Prague accepted at [AAAI'21](https://aaai.org/Conferences/AAAI-21/).
 * 11/2020: IV2020 workshop on 3D Deep Learning for Autonomous Driving ([3D-DLAD](https://sites.google.com/view/3d-dlad-v2-iv2020))
 * 10/2020: Dataset for our ICPR'20 paper "CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations" ([CARRADA](https://github.com/valeoai/carrada_dataset))
 * 10/2020: Four team members (Andrei, Matthieu, Patrick and Spyros) acknowledged as Outstanding Reviewers at NeurIPS'20
