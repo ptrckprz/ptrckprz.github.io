@@ -92,6 +92,10 @@ V. Besnier, H. Jain, A. Bursuc, M. Cord, P. Pérez
 I. Leang, G. Sistu, F. Burger, A. Bursuc, S. Yogamani  
 *ITSC 2020* [[page](https://valeoai.github.io/blog/publications/dynamic-mtl/)]
 
+[Deep open space segmentation using automotive radar](https://arxiv.org/abs/2004.03449)  
+F. Nowruzi, D. Kolhatkar, P. Kapoor, F. Al Hassanat, E. Heravi, R. Laganiere, J. Rebut, W. Malik  
+*ICMIM 2020*
+
 [ConvPoint: continuous convolution for point cloud processing](https://arxiv.org/abs/1904.02375)  
  A. Boulch  
  *Computer and Graphics Journal, 2020* [[code](https://github.com/aboulch/ConvPoint)]
