@@ -12,7 +12,7 @@ redirect_from:
 
 Le ghetto intérieur — Santiago Amigorena  
 L'anomalie — Hervé Le Tellier  
-Comédies française — Eric Reinhardt  
+Comédies françaises — Eric Reinhardt  
 La robe blanche — Nathalie Léger  
 La fin de l'homme rouge — Svetlana Aleksievitch
 
