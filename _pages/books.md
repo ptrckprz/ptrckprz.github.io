@@ -185,7 +185,7 @@ La cheffe, roman d'une cuisinière — Marie Ndaye
 Histoire du lion Personne — Stéphane Audeguy  
 L'exception — Auður Ava Ólafsdóttir  
 Déneiger le ciel — André Bucher  
-Homer & Langley — E.L. Doctorow 
+Homer & Langley — E.L. Doctorow  
 L'ordre du jour — Eric Vuillard  
 Le royaume — Emmanuel Carrère  
 La symphonie pastorale — André Gide  
@@ -221,7 +221,7 @@ Fuir — Jean-Philippe Toussaint
 Faire l'amour — Jean-Philippe Toussaint  
 Sweet caress — William Boyd  
 Shop class as soulcraft: An inquiry into the value of work — Matthew Crawford  
-Un secret sans importance — Agnès Desarthe
+Un secret sans importance — Agnès Desarthe  
 Here and now — Auster and Coetze  
 Pourquoi je serais plutôt aristocrate — Vladimir Volkoff  
 L'homme nu — Marc Dugain & Christophe Labbé  
@@ -365,7 +365,7 @@ Antipodia — Jean-Luc Coatalem
 La photo — Marie Desplechin  
 Retour aux mots sauvages — Thierry Beinstingel  
 A moi tant de personnages — John Irving  
-Le coeur régulier — Olivier Adam 
+Le coeur régulier — Olivier Adam  
 Comment faire l'amour à un nègre sans se fatiguer — Dany Laferrière  
 Seule Venise — Claudie Galla  
 Et si l'amour durait — Alain Finkelkraut  
@@ -377,7 +377,7 @@ Le chevalier inexistant — Italo Calvino
 La fiancée des corbeaux — René Fregn  
 Ravel — Jean Echenoz  
 Zona frigida — Anne Radge  
-Home — Tonie Morrison
+Home — Tonie Morrison  
 Reflet dans l'oeil d'un homme — Nancy Huston  
 Nemesis — Philip Roth  
 Parlez-leur de batailles, de rois et d'éléphants — Mathias Enard
@@ -386,7 +386,7 @@ Parlez-leur de batailles, de rois et d'éléphants — Mathias Enard
 
 La route — Cormack MacCarthy  
 L'homme-joie — Christian Bobin  
-La théorie des nuages — Stéphane Audeguy
+La théorie des nuages — Stéphane Audeguy  
 The great house — Nicole Krauss  
 Un assassin blanc comme neige — Christian Bobin  
 Une femme fuyant l'annonce — David Grossman  
