@@ -10,6 +10,14 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Semantic Palette: Guiding scene generation with class proportions]()  
+G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
+*CVPR 2021*
+
+[Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
+S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
+*CVPR 2021*
+
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
 *AAAI 2021*
