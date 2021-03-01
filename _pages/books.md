@@ -8,9 +8,20 @@ redirect_from:
 
 {% include base_path %}
 
+### 2021
+
+Le ghetto intérieur — Santiago Amigorena  
+L'anomalie — Hervé Le Tellier  
+Comédies française — Eric Reinhardt  
+La robe blanche — Nathalie Léger  
+La fin de l'homme rouge — Svetlana Aleksievitch
+
 ### 2020
 
-Les services compétents —  Igor Gran   
+Crac — Jean Rolin  
+Sérotonine — Michel Houellebecq  
+Nu avec Picasso — Enki Bilal  
+Les services compétents —  Igor Gran  
 Deux fois par semaine — Christine Orban  
 Un hiver à Wuhan — Alexandre Labrusse  
 Le vampire de Ropraz — Jacques Chessex  
