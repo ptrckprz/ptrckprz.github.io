@@ -12,6 +12,8 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2021.03: [Panel](https://ptrckprz.github.io/pres/) on [Math and AI](https://www.math-ia.fr/).
+* 2021.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'21. 
 * 2021.02: [Industrial panel](https://ptrckprz.github.io/pres/) at Visigrapp 2021. 
 * 2021.02: [Preprint](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130).
 * 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253).
@@ -28,7 +30,6 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2020.02: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'20.
 * 2019.12: [Code](https://ptrckprz.github.io/data/) for ICCV'19 paper "Boosting few-shot visual learning with self-supervision" ([BF3S](https://github.com/valeoai/BF3S)). 
 * 2019.12: [Code](https://ptrckprz.github.io/data/) for ICCV'19 paper "DADA: Depth-Aware Domain Adaptation in semantic segmentation" ([DADA](https://github.com/valeoai/DADA)). 
-* 2019.11: [Panel](https://ptrckprz.github.io/pres/) on Maths and AI at Poincaré Institute, Paris. 
 * 2019.11: [OmniCV](https://sites.google.com/view/omnicv-cvpr2020/home) workhsop accepted at CVPR'20.  
 * 2019.10: [Talk](https://ptrckprz.github.io/pres/) at Prairie AI Summer School ([PAISS'19](https://project.inria.fr/paiss/)).  
 * 2019.10: [Panel](https://ptrckprz.github.io/pres/) on future mobilities at [PRAIRIE](https://prairie-institute.fr/) inauguration day. 
