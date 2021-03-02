@@ -16,15 +16,15 @@ G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord
 
 [Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
-*CVPR 2021*
+*CVPR 2021* [[code](https://github.com/valeoai/obow)]
 
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
-*AAAI 2021*
+*AAAI 2021* [[code](https://github.com/vobecant/DummyNet)]
 
 [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
-*ICPR 2020*
+*ICPR 2020* [[dataset](https://github.com/valeoai/carrada_dataset)]
 
 [PIE: Portrait Image Embedding for Semantic Control](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)  
 A. Tewari, M. Elgharib, B. Mallikarjun, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
