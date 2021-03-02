@@ -10,9 +10,21 @@ redirect_from:
 
 **2021**
 
+[Semantic Palette: Guiding scene generation with class proportions]()  
+G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
+*CVPR 2021*
+
+[Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
+S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
+*CVPR 2021* [[code](https://github.com/valeoai/obow)]
+
+[PLOP: Learning without forgetting for cotinual semantic segmentation](https://arxiv.org/abs/2011.11390)  
+Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord  
+*CVPR 2021*
+
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
-*AAAI 2021*
+*AAAI 2021* [[code](https://github.com/vobecant/DummyNet)]
 
 **2020**
 
@@ -22,7 +34,7 @@ Th. Buhet, E. Wirbel, A. Bursuc, X. Perrotton
 
 [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
-*ICPR 2020*
+*ICPR 2020* [[dataset](https://github.com/valeoai/carrada_dataset)]
 
 [STaRFlow: A SpatioTemporal Recurrent Cell for Lightweight Multi-Frame Optical Flow Estimation](https://arxiv.org/abs/2007.05481)  
 P. Godet, A. Boulch, A. Plyer, G. Le Besnerais  
