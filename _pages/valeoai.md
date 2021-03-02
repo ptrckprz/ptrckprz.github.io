@@ -56,8 +56,8 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code
+* [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (CVPR'21)  
 * [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'21)
-* [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (arXiv 2020)  
 * [CARRADA](https://github.com/valeoai/carrada_dataset): Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset (ICPR'20)
 * [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20)
 * [FLOT](https://github.com/valeoai/FLOT): Scene flow on point clouds guided by optimal transport (ECCV'20)
@@ -86,6 +86,7 @@ Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 03/2020: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'21](http://cvpr2021.thecvf.com/)
 * 01/2021: Preprint on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)
 * 01/2021: Preprint on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307)
 * 12/2020: Preprint on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508).
