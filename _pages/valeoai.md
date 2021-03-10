@@ -89,7 +89,7 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 * 03/2021: Marin Toromanoff defends his PhD at MinesParis, committee: O. Pietquin, Th. Chateau, P.-Y. Oudeyer, R. Munos, Ch. Gagne, F. Moutarde, X. Perrotton
 * 03/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'21](http://cvpr2021.thecvf.com/) (23.7% acceptance rate)
 * 02/2021: Matthieu Cords delivers keynote at [Machine Learning Prague](https://www.mlprague.com/)
-* 02/2021: Blog [post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html) on XAI and driving 
+* 02/2021: Blog [post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html) on the explainability of neural driving models 
 * 01/2021: Preprint on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)
 * 01/2021: Preprint on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307)
 * 12/2020: Preprint on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)
