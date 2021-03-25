@@ -19,8 +19,8 @@ S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez
 *CVPR 2021* [[code](https://github.com/valeoai/obow)]
 
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
-A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
-*AAAI 2021* [[code](https://github.com/vobecant/DummyNet)]
+A. Vobecký, D. Hurych, M. Uřičář, P. Pérez, J. Sivic  
+*AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
 
 [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
