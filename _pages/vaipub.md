@@ -24,7 +24,7 @@ Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord
 
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
-*AAAI 2021* [[code](https://github.com/vobecant/DummyNet)]
+*AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
 
 **2020**
 
