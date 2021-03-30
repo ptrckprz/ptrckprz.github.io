@@ -12,6 +12,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2021.03: Paper with MPI Saarbruken conditionally accepted at Siggraph'21
 * 2021.03: [Panel](https://ptrckprz.github.io/pres/) on [Math and AI](https://www.math-ia.fr/).
 * 2021.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'21. 
 * 2021.02: [Industrial panel](https://ptrckprz.github.io/pres/) at Visigrapp 2021. 
@@ -21,7 +22,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307).
 * 2020.12: [Preprint](https://ptrckprz.github.io/jal/) with EPFL on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
 * 2020.12: [Preprint](https://ptrckprz.github.io/jal/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508). 
-* 2020.12: [Paper](https://ptrckprz.github.io/conf/) in collaboration with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
+* 2020.12: [Paper](https://ptrckprz.github.io/conf/) with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
 * 2020.12: [Keynote](https://ptrckprz.github.io/pres/) at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop.
 * 2020.11: [Talk](https://ptrckprz.github.io/pres/) at NaverLabs Europe.
 * 2020.10: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC).
