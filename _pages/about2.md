@@ -12,6 +12,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2021.03: Paper with MPI Saarbruken conditionally accepted at Siggraph'21
 * 2020.12: Preprint with EPFL on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
 * 2020.12: [Paper](https://ptrckprz.github.io/conf/) in collaboration with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
 * 2020.12: Keynote at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop
