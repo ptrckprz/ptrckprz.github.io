@@ -12,7 +12,6 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
-* 2021.03: Paper with MPI Saarbruken conditionally accepted at Siggraph'21
 * 2021.03: [Panel](https://ptrckprz.github.io/pres/) on [Math and AI](https://www.math-ia.fr/).
 * 2021.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'21. 
 * 2021.02: [Industrial panel](https://ptrckprz.github.io/pres/) at Visigrapp 2021. 
