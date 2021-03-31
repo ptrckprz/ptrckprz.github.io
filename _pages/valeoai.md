@@ -30,7 +30,6 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Antoine Saporta**, PhD student | [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
 **Tristan Schultz**, research engineer  
 **Oriane Siméoni**, research scientist | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en)  
-**Marin Toromanoff**, PhD student | [scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)  
 **Huy Van Vo**, PhD student | [scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en) | [github](https://github.com/huyvvo)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [twitter](https://twitter.com/tuanhungvu89)  
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
@@ -142,6 +141,7 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 
 ### Alumni
 
+**Marin Toromanoff**, PhD student ([scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)), now at Valeo Driving Assistance Research  
 **Maxime Bucher**, research scientist ([page](https://maximebucher.github.io/),[scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en)), now at Augustus Intelligence   
 **Maximilian Jaritz**, PhD student ([page](https://team.inria.fr/rits/membres/maximilian-jaritz/), [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ)), now at Amazon  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at EarthCube  
