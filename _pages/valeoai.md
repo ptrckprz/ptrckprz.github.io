@@ -33,6 +33,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Huy Van Vo**, PhD student | [scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en) | [github](https://github.com/huyvvo)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [twitter](https://twitter.com/tuanhungvu89)  
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
+**Léon Zheng**, PhD student 
 
 **Human Resource Partner**: [Pascal Le Hérissé](mailto:pascal.le-herisse@valeo.com)  
 **Assistant**: [Ouardia Moussouni](mailto:ouardia.moussouni@valeo.com)  
@@ -80,6 +81,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
 CTU Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
+ENS Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
 INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/), [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
 MPI ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
 Ponts ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
