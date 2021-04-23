@@ -89,9 +89,10 @@ Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 04/2021: [Woodscape Challenge](https://sites.google.com/view/omnicv2021/woodscape-challenge) on fisheye semantic scene segmentation in conjunctin with CVPR'21 OmniCV workshop
 * 03/2021: Marin Toromanoff defends his PhD at MinesParis, committee: O. Pietquin, Th. Chateau, P.-Y. Oudeyer, R. Munos, Ch. Gagne, F. Moutarde, X. Perrotton
 * 03/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'21](http://cvpr2021.thecvf.com/) (23.7% acceptance rate)
-* 02/2021: Matthieu Cords delivers keynote at [Machine Learning Prague](https://www.mlprague.com/)
+* 02/2021: Matthieu Cord delivers keynote at [Machine Learning Prague](https://www.mlprague.com/)
 * 02/2021: Blog [post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html) on the explainability of neural driving models 
 * 01/2021: Preprint on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)
 * 01/2021: Preprint on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307)
