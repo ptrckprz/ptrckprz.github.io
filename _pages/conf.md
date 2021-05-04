@@ -10,6 +10,10 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
+S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
+*Siggraph 2021* [[page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)
+
 [Semantic Palette: Guiding scene generation with class proportions]()  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
 *CVPR 2021*
