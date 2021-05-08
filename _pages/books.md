@@ -10,6 +10,17 @@ redirect_from:
 
 ### 2021
 
+De nos frères blessés — Joseph Andras  
+Le coeur blanc — Catherine Poulain  
+Le consentement — Vanessa Springora  
+Xavier Dupont de Ligonnès, l’enquête — society  
+Un jour, il y aura le vide — Hugo Lidenberg  
+Les choses humaines — Karine Tuil  
+La famiglia grande — Camille Kouchner  
+Doggerland — Elisabeth Filhol  
+Bacchantes — Céline Minard  
+Sabre — Emmanuel Ruben  
+Of mice and men — John Steinbeck  
 Le ghetto intérieur — Santiago Amigorena  
 L'anomalie — Hervé Le Tellier  
 Comédies françaises — Eric Reinhardt  
