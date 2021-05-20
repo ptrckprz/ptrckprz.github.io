@@ -22,17 +22,17 @@ submitted to Computer Vision and Image Understanding, 2021
 M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
 sumitted to IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
 
-[Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
-Ch. Corbière, N. Thome, A. Saporta, T.-H. Vu, M. Cord, P. Pérez  
-sumitted to IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
-
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
 T. Morand, M. Cord, P. Pérez, A. Alahi  
 submitted to IEEE Trans. on Intelligent Transportation Systems, 2021
 
+[Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
+Ch. Corbière, N. Thome, A. Saporta, T.-H. Vu, M. Cord, P. Pérez  
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
+
 [Deep reinforcement learning for autonomous driving: A survey](https://arxiv.org/abs/2002.00444)  
 B. Ravi Kiran, I. Sobh, V. Talpaert, P. Mannion, A. Al Sallab, S. Yogamani, P. Pérez  
-IEEE Trans. on Intelligent Transportation Systems, to appear  
+IEEE Trans. on Intelligent Transportation Systems, 2021
 
 [ROAM: a Rich Object Appearance Model with Application to Rotoscoping](https://ieeexplore.ieee.org/document/8666808)  
 J.-M. Pérez-Rua, O. Miksik, T. Crivelli, P. Bouthemy, P. Torr and P. Pérez  
