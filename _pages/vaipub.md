@@ -10,6 +10,10 @@ redirect_from:
 
 **2021**
 
+[Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
+Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord  
+*IEEE Trans. PAMI*, 2021
+
 [Semantic Palette: Guiding scene generation with class proportions]()  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
 *CVPR 2021*
