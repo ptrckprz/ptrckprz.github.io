@@ -9,7 +9,9 @@ redirect_from:
 {% include base_path %}
 
 ### Code
-* [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (arXiv 2020)  
+* [Attributes with Fields](https://github.com/vita-epfl/detection-attributes-fields): Detecting 32 pedestrian attributes with composite fields (preprint'20 with EPFL)
+* [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (CVPR 2021) 
+* [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'21) 
 * [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (CVPRw'20)
 * [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
 * [xMUDA](https://github.com/valeoai/xmuda): Cross-modal UDA for 3D semantic segmentation (CVPR'20)
@@ -30,6 +32,7 @@ redirect_from:
 
 ### Data
 
+* [Woodscape](https://woodscape.valeo.com/): Driving fisheye multi-task dataset
 * [CARRADA](https://github.com/valeoai/carrada_dataset): Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset
 * [TSFT](http://grvsharma.com/datasets.html#tsft): Face tubes from TV series (589 cropped annotated face tubes of 94 subjects)
 * [Hannah](https://www.technicolor.com/dream/research-innovation/hannah-dataset): Dense person annotation of Woody Allen's Hannah and her sisters
