@@ -6,6 +6,10 @@ redirect_from:
   - /resume
 ---
 
+* 2019.06: Keynote at [Vision4AllSeason](https://vision4allseason.net/) CVPR'21 workhsop.
+* 2019.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workhsop.
+* 2021.05: Panel at [Mobilit.AI](https://www.mobilit.ai/en/) on *embedded AI*. 
+* 2021.03: Panel on [Math and AI](https://www.math-ia.fr/).
 * 2021.02: Industrial panel at [Visigrapp](http://www.visigrapp.org/) 2021 on *transfers from research to applications*. 
 * 2020.12: Keynote at [ML4AD](https://ml4ad.github.io/) NeurIPS'20 workshop: *Addressing some challenges of ML4AD*.
 * 2020.11: Research talk at NaverLabs Europe: *Safer driving AI with limited supervision*. 
