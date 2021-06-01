@@ -10,8 +10,8 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ###  Team
 ![](../images/vai-team.jpg)  
-**Hédi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
 **Florent Bartoccioni**, PhD student  
+**Hédi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [twitter](https://twitter.com/abursuc)  
 **Laura Calem**, PhD student | [page](https://lcalem.github.io/) | [twitter](https://twitter.com/lauracalem)  
