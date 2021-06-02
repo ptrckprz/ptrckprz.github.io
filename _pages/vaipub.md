@@ -22,10 +22,9 @@ G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
 *CVPR 2021* [[code](https://github.com/valeoai/obow)]
 
-[
-: Learning without forgetting for continual semantic segmentation](https://arxiv.org/abs/2011.11390)  
+[PLOP: Learning without forgetting for continual semantic segmentation](https://arxiv.org/abs/2011.11390)  
 Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord  
-*CVPR 2021* [[code](https://github.com/arthurdouillard/incremental_learning.pytorch)
+*CVPR 2021* [[code](https://github.com/arthurdouillard/CVPR2021_PLOP)]
 
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
