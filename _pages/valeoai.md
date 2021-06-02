@@ -29,9 +29,9 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Simon Roburin**, PhD student | [page](http://imagine.enpc.fr/~roburins/)  
 **Antoine Saporta**, PhD student | [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
 **Tristan Schultz**, research engineer  
-**Oriane Siméoni**, research scientist | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en)  
+**Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
 **Huy Van Vo**, PhD student | [scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en) | [github](https://github.com/huyvvo)  
-**Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [twitter](https://twitter.com/tuanhungvu89)  
+**Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [github](https://github.com/tuanhungvu) | [twitter](https://twitter.com/tuanhungvu89)  
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
 **Léon Zheng**, PhD student 
 
