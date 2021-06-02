@@ -90,11 +90,11 @@ M. Toromanoff, E. Wirbel, F. Moutarde
 
 [Approximating shapes in images with low-complexity polygons](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Approximating_shapes_in_images_with_low-complexity_polygons_CVPR_2020_paper.html)  
 M. Li, F. Lafarge, R. Marlet  
-*CVPR 2020*
+*CVPR 2020* [[code](https://github.com/MuxLi/Approximating-shapes-in-images-with-low-complexity-polygons)]
 
 [StyleRig: Rigging StyleGAN for 3D control over portrait images](https://openaccess.thecvf.com/content_CVPR_2020/html/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.html)  
 A. Tewari, M. Elgharib, G. Bharaj, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
-*CVPR 2020* 
+*CVPR 2020* [[page](https://gvv.mpi-inf.mpg.de/projects/StyleRig/)]
 
 [The Missing Data Encoder: Cross-channel image completion with hide-and-seek adversarial network](https://arxiv.org/abs/1905.01861)  
 A. Dapogny, M. Cord, P. Pérez  
@@ -118,7 +118,7 @@ F. Nowruzi, D. Kolhatkar, P. Kapoor, F. Al Hassanat, E. Heravi, R. Laganiere, J.
 
 [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2006.08658)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
-*Workshop CVPR 2020*
+*Workshop CVPR 2020* [[code](https://github.com/valeoai/ESL)]
 
 [Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
 H. Ben-Younes, É. Zablocki, P. Pérez, M. Cord  
@@ -144,11 +144,11 @@ S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord
 
 [WoodScape: A multi-task, multi-camera fisheye dataset for autonomous driving](http://openaccess.thecvf.com/content_ICCV_2019/html/Yogamani_WoodScape_A_Multi-Task_Multi-Camera_Fisheye_Dataset_for_Autonomous_Driving_ICCV_2019_paper.html)  
 S. Yogamani, C. Hughes, J. Horgan, G. Sistu, P. Varley, D. O'Dea, M. Uricar, S. Milz, M. Simon, K. Amende, Ch. Witt, H. Rashed, S. Chennupati, S. Nayak, S. Mansoor, X. Perroton, P. Pérez  
-*ICCV 2019*  [[page](https://github.com/valeoai/WoodScape)]
+*ICCV 2019*  [[page](https://woodscape.valeo.com), [dataset](https://github.com/valeoai/WoodScape)]
 
 [AdvEnt: Adversarial Entropy minimization for domain adaptation in semantic segmentation](http://openaccess.thecvf.com/content_CVPR_2019/html/Vu_ADVENT_Adversarial_Entropy_Minimization_for_Domain_Adaptation_in_Semantic_Segmentation_CVPR_2019_paper.html)  
 T.-H. Vu, H. Jain, M. Bucher, M. Cord, P. Pérez  
-*CVPR 2019* [[blog](https://medium.com/@valeo.ai/advent-adversarial-entropy-minimization-for-domain-adaptation-in-semantic-segmentation-dba21934430b),[code](https://github.com/valeoai/ADVENT)]
+*CVPR 2019* [[page](https://valeoai.github.io/blog/publications/advent/), [blog](https://medium.com/@valeo.ai/advent-adversarial-entropy-minimization-for-domain-adaptation-in-semantic-segmentation-dba21934430b),[code](https://github.com/valeoai/ADVENT)]
 
 [FML: Face Model Learning from Videos](http://openaccess.thecvf.com/content_CVPR_2019/html/Tewari_FML_Face_Model_Learning_From_Videos_CVPR_2019_paper.html)  
 A. Tewari, F. Bernard, P. Garrido, G. Bharaj, M. Elgharib, H.-P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt  
@@ -172,7 +172,7 @@ Y. Lifchitz, Y. Avrithis, S. Picard, A. Bursuc
 
 [Generating classification weights with gnn denoising autoencoders for few-shot learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Gidaris_Generating_Classification_Weights_With_GNN_Denoising_Autoencoders_for_Few-Shot_Learning_CVPR_2019_paper.html)  
 S. Gidaris, N. Komodakis  
-*CVPR 2019*  
+*CVPR 2019* [[code](https://github.com/gidariss/wDAE_GNN_FewShot)]  
 
 [Optimal solving of constrained path-planning problems with graph convolutional networks and optimized tree search](https://abursuc.github.io/papers/iros_2019.pdf)  
 K. Osanlou, A. Bursuc, Ch. Guettier, T. Cazenave, E. Jacopin  
@@ -186,13 +186,13 @@ P.-A. Langlois, A. Boulch, R. Marlet
 A. Vobecky, M. Uricár, D. Hurych, R. Skoviera  
 *Workshop ICCV 2019*
 
-[Adversarial frontier stitching for remote neural network watermarking](https://hal.laas.fr/hal-02043818/file/1711.01894.pdf)  
+[Adversarial frontier stitching for remote neural network watermarking](https://arxiv.org/abs/1711.01894)  
 E. Le Merrer, P. Pérez, G. Trédan  
 *Neural Computing and Applications, 2019*
 
 [Weakly supervised representation learning for audio-visual scene analysis](https://arxiv.org/abs/1804.07345)  
 S. Parekh, S. Essid, A. Ozerov, N. QK Duong, P. Pérez, G. Richard  
-*IEEE Trans. Audio, Speech and Language Proc. (T-ASLP), 2019* 
+*IEEE Trans. Audio, Speech and Language Proc. (T-ASLP), 2019* [[page](https://adasp.telecom-paris.fr/resources/2018-07-09-weakly-supervised-representation-learning-for-av-events/)]
 
 [Understanding and improving kernel local descriptors](https://arxiv.org/abs/1811.11147)  
 A. Mukundan, G. Tolias, A. Bursuc, H. Jégou, O. Chum  
