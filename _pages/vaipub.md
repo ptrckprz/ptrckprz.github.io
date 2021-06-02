@@ -22,9 +22,10 @@ G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
 *CVPR 2021* [[code](https://github.com/valeoai/obow)]
 
-[PLOP: Learning without forgetting for continual semantic segmentation](https://arxiv.org/abs/2011.11390)  
+[
+: Learning without forgetting for continual semantic segmentation](https://arxiv.org/abs/2011.11390)  
 Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord  
-*CVPR 2021*
+*CVPR 2021* [[code](https://github.com/arthurdouillard/incremental_learning.pytorch)
 
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
@@ -32,7 +33,7 @@ A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic
 
 **2020**
 
-[PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving](https://arxiv.org/pdf/2003.08744.pdf)  
+[PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving](https://arxiv.org/abs/2003.08744)  
 Th. Buhet, E. Wirbel, A. Bursuc, X. Perrotton  
 *CoRL 2020* [[page](https://valeoai.github.io/blog/publications/plop/)]
 
@@ -62,11 +63,11 @@ G. Puy, A. Boulch, R. Marlet
 
 [Few-shot object detection and viewpoint estimation for objects in the wild](https://arxiv.org/abs/2007.12107)  
 Y. Xiao, R. Marlet  
-*ECCV 2020*
+*ECCV 2020* [[page](http://imagine.enpc.fr/~xiaoy/FSDetView/)]
 
 [Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, inference & application](https://arxiv.org/abs/2007.12088)  
 X. Qiu, Y. Xiao, Ch. Wang, R. Marlet  
-*ECCV 2020*
+*ECCV 2020* [[page](http://imagine.enpc.fr/~qiux/P2ORM/), [code](https://github.com/tim885/P2ORM)]
 
 [TRADI: Tracking deep neural network weight distributions](https://arxiv.org/abs/1912.11316)  
 G. Franchi, A. Bursuc, E. Aldea, S. Dubuisson, I. Bloch  
@@ -74,7 +75,7 @@ G. Franchi, A. Bursuc, E. Aldea, S. Dubuisson, I. Bloch
 
 [Small-Task Incremental Learning](https://arxiv.org/abs/2004.13513)  
 A. Douillard, M. Cord, Ch. Ollion, Th. Robert, Ed. Valle  
-*ECCV 2020*
+*ECCV 2020* [[code](https://github.com/arthurdouillard/incremental_learning.pytorch)]
 
 [Learning representations by predicting bags of visual words](https://openaccess.thecvf.com/content_CVPR_2020/html/Gidaris_Learning_Representations_by_Predicting_Bags_of_Visual_Words_CVPR_2020_paper.html)  
 S. Gidaris, A. Bursuc, N. Komodakis, P. Pérez, M. Cord  
@@ -119,6 +120,10 @@ F. Nowruzi, D. Kolhatkar, P. Kapoor, F. Al Hassanat, E. Heravi, R. Laganiere, J.
 [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2006.08658)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
 *Workshop CVPR 2020*
+
+[Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
+H. Ben-Younes, É. Zablocki, P. Pérez, M. Cord  
+*Workshop Neurips 2020* [[code](https://github.com/valeoai/BEEF)]
 
 **2019**
 
