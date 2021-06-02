@@ -16,7 +16,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
 **Laura Calem**, PhD student | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
 **Mickaël Chen**, research scientist | [page](https://sites.google.com/view/mickaelchen/home) | [scholar](https://scholar.google.fr/citations?user=QnRpMJAAAAAJ&hl=en) | [github](https://github.com/mickaelChen/)  
-**Charles Corbière**, PhD student | [page](https://chcorbi.github.io/) | [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en) | [twitter](https://twitter.com/CharlesCorbiere)  
+**Charles Corbière**, PhD student | [page](https://chcorbi.github.io/) | [scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en) | [github](https://github.com/chcorbi) | [twitter](https://twitter.com/CharlesCorbiere)  
 **Matthieu Cord**, principal scientist | [page](http://www-poleia.lip6.fr/~cord/) | [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
 **Spyros Gidaris**, research scientist | [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en) | [github](https://github.com/gidariss)   
 **David Hurych**, research scientist | [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
