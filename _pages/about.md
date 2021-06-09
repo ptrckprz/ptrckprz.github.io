@@ -28,7 +28,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2020.10: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC).
 * 2020.09: [Paper](https://ptrckprz.github.io/conf/) accepted at SiggraphAsia'20.
 * 2020.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'20.
-* 2020.06: [Keynote](https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad2020)) CVPR'20 workhsop.
+* 2020.06: [Keynote](https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad2020)) CVPR'20 workhsop [[video](https://www.youtube.com/watch?v=JIUk2EYgp2M)].
 * 2020.06: [Code](https://ptrckprz.github.io/data/) for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)).
 * 2020.02: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'20.
 * 2019.12: [Code](https://ptrckprz.github.io/data/) for ICCV'19 paper "Boosting few-shot visual learning with self-supervision" ([BF3S](https://github.com/valeoai/BF3S)). 
