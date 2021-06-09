@@ -15,7 +15,7 @@ redirect_from:
 * 2020.11: Research talk at NaverLabs Europe: *Safer driving AI with limited supervision*. 
 * 2020.10: Research talk at Samsung AI Cambridge Center: *Safer driving AI with limited supervision*. 
 * 2020.09: Tutorial for French Home Affairs Ministry: *Safer driving AI with limited supervision*.
-* 2020.06: Keynote at [SAIAD](https://sites.google.com/view/saiad-wscvpr19) CVPR'20 workhsop: *Toward safer driving AI*.    
+* 2020.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2020) CVPR'20 workhsop: *Toward safer driving AI*.    
 * 2019.11: Panel on *Maths and AI* at Poincaré Institute, Paris. 
 * 2019.10: Course at [PAISS'19](https://project.inria.fr/paiss/): *Autonomous driving & sustainable supervision*.  
 * 2019.10: Panel on *Future Mobilities* at [PRAIRIE](https://prairie-institute.fr/) inauguration day. 
