@@ -41,7 +41,7 @@ redirect_from:
 * 2017.04: Research talk at Google Research Zurich: *From processing to learning on graphs*.
 * 2017.03: Tutorial at French Research Ministry: *AI and Industry*.
 * 2017.03: Research talk at Institut Poincaré: *From processing to learning on graphs*.
-* 2017-01: Tutorial at Inria Paris: *From video objects to visual effects*.
+* 2017.01: Tutorial at Inria Paris: *From video objects to visual effects*.
 * 2016.09: Keynote at DAGM: *On visual comparison*.
 * 2016.07: Keynote at RFIA'16: *Manipulating objects and scenes in video postprod*.
 * 2016.04: Keynote at StatLearn'16: *On visual comparison*.
@@ -69,7 +69,7 @@ redirect_from:
 * 2012.09: Research talk at MPI Saarbruken: *On visual search*.
 * 2012.08: Course at VS3 Summer School: *Visual tracking*.
 * 2012.03: Research talk at Oxford Brookes: *On visual search*.
-* 2010.02: Tutorial at Inria Rennes: *Visual tracking & particle filters*.
+* 2012.02: Tutorial at Inria Rennes: *Visual tracking & particle filters*.
 * 2012.01: Tutorial at Inria Grenoble: *Visual tracking*.
 * 2011.12: Tutorial at Centrale Marseille: *Computer vision in everyday life.*
 * 2011.08: Course at VS3 Summer School: *Visual tracking*.
