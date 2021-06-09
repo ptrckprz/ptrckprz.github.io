@@ -8,7 +8,7 @@ redirect_from:
 
 * 2019.06: Keynote at [Vision4AllSeason](https://vision4allseason.net/) CVPR'21 workhsop.
 * 2019.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workhsop.
-* 2021.05: Panel at [Mobilit.AI](https://www.mobilit.ai/en/) on *embedded AI*. 
+* 2021.05: Keynote at [Mobilit.AI](https://www.mobilit.ai/en/) on *challenges of AI for AD* [[video](https://www.youtube.com/watch?v=V_kyYRTFKlQ)] and panel on *embedded AI*. 
 * 2021.03: Panel on [Math and AI](https://www.math-ia.fr/).
 * 2021.02: Industrial panel at [Visigrapp](http://www.visigrapp.org/) 2021 on *transfers from research to applications*. 
 * 2020.12: Keynote at [ML4AD](https://ml4ad.github.io/) NeurIPS'20 workshop: *Addressing some challenges of ML4AD* [[video](https://slideslive.com/38938157/addressing-some-challenges-of-ml4ad)].
@@ -28,7 +28,7 @@ redirect_from:
 * 2019.03: Kyenote at [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/): *Unsupervised domain adaptation with application to urban scene analysis*.
 * 2019.03: Keynote at [Computing and Learning](https://indico.mathrice.fr/event/153/overview): *Fast neural solvers*.
 * 2018.11: Keynote at [SophI.A.2018](http://sophia-summit.com/sophia2018/en#.W5KcfKf-jDc): *Movies & Cars: When visual deep learning reinvent two secular industries* 
-* 2018.11: Keynote at [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm): *Fast neural solvers*.  
+* 2018.11: Keynote at [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm): *Fast neural solvers* [[video](https://vimeo.com/304616460)].  
 * 2018.11: Keynote at European Cyber Week 2018: *Manipulating visual content in the age of modern AI*.
 * 2018.07: Course at "[Peyresq Summer School on Signal and Image Processing](http://www.gretsi.fr/peyresq18/cours.php)": *Introduction to deep learning.*
 * 2018.02: Tutorial at Rennes ML MeetUp: *Deep learning for the movie industry*.
