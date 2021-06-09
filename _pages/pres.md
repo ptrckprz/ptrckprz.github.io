@@ -11,11 +11,11 @@ redirect_from:
 * 2021.05: Panel at [Mobilit.AI](https://www.mobilit.ai/en/) on *embedded AI*. 
 * 2021.03: Panel on [Math and AI](https://www.math-ia.fr/).
 * 2021.02: Industrial panel at [Visigrapp](http://www.visigrapp.org/) 2021 on *transfers from research to applications*. 
-* 2020.12: Keynote at [ML4AD](https://ml4ad.github.io/) NeurIPS'20 workshop: *Addressing some challenges of ML4AD*.
+* 2020.12: Keynote at [ML4AD](https://ml4ad.github.io/) NeurIPS'20 workshop: *Addressing some challenges of ML4AD* [[video](https://slideslive.com/38938157/addressing-some-challenges-of-ml4ad)].
 * 2020.11: Research talk at NaverLabs Europe: *Safer driving AI with limited supervision*. 
 * 2020.10: Research talk at Samsung AI Cambridge Center: *Safer driving AI with limited supervision*. 
 * 2020.09: Tutorial for French Home Affairs Ministry: *Safer driving AI with limited supervision*.
-* 2020.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2020) CVPR'20 workhsop: *Toward safer driving AI*.    
+* 2020.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2020) CVPR'20 workhsop: *Toward safer driving AI* [[video](https://www.youtube.com/watch?v=JIUk2EYgp2M)].    
 * 2019.11: Panel on *Maths and AI* at Poincaré Institute, Paris. 
 * 2019.10: Course at [PAISS'19](https://project.inria.fr/paiss/): *Autonomous driving & sustainable supervision*.  
 * 2019.10: Panel on *Future Mobilities* at [PRAIRIE](https://prairie-institute.fr/) inauguration day. 
