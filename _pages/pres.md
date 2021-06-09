@@ -9,6 +9,7 @@ redirect_from:
 * 2021.06: Keynote at [Vision4AllSeason](https://vision4allseason.net/) CVPR'21 workhsop.
 * 2021.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workhsop.
 * 2021.05: Keynote at [Mobilit.AI](https://www.mobilit.ai/en/) on *challenges of AI for AD* [[video](https://www.youtube.com/watch?v=V_kyYRTFKlQ)] and panel on *embedded AI*. 
+* 2021.04: Keynote at [Good In Tech](https://www.goodintech.org/EventDetails.html?lng=fr&id=13&lng=fr) on *Manipulating visual content in the age of modern AI*. 
 * 2021.03: Panel on [Math and AI](https://www.math-ia.fr/).
 * 2021.02: Industrial panel at [Visigrapp](http://www.visigrapp.org/) 2021 on *transfers from research to applications*. 
 * 2020.12: Keynote at [ML4AD](https://ml4ad.github.io/) NeurIPS'20 workshop: *Addressing some challenges of ML4AD* [[video](https://slideslive.com/38938157/addressing-some-challenges-of-ml4ad)].
