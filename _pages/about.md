@@ -12,8 +12,8 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
-* 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeason](https://vision4allseason.net/) CVPR'21 workhsop.
-* 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workhsop.
+* 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'21 workshop.
+* 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workshop.
 * 2021.05: Paper on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI.
 * 2021.04: [Paper](https://ptrckprz.github.io/conf/) accepted at Siggraph'21.
 * 2021.03: [Panel](https://ptrckprz.github.io/pres/) on [Math and AI](https://www.math-ia.fr/).
@@ -30,12 +30,12 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2020.10: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC).
 * 2020.09: [Paper](https://ptrckprz.github.io/conf/) accepted at SiggraphAsia'20.
 * 2020.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'20.
-* 2020.06: [Keynote](https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad2020)) CVPR'20 workhsop [[video](https://www.youtube.com/watch?v=JIUk2EYgp2M)].
+* 2020.06: [Keynote](https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad2020)) CVPR'20 workshop [[video](https://www.youtube.com/watch?v=JIUk2EYgp2M)].
 * 2020.06: [Code](https://ptrckprz.github.io/data/) for CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmud)).
 * 2020.02: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'20.
 * 2019.12: [Code](https://ptrckprz.github.io/data/) for ICCV'19 paper "Boosting few-shot visual learning with self-supervision" ([BF3S](https://github.com/valeoai/BF3S)). 
 * 2019.12: [Code](https://ptrckprz.github.io/data/) for ICCV'19 paper "DADA: Depth-Aware Domain Adaptation in semantic segmentation" ([DADA](https://github.com/valeoai/DADA)). 
-* 2019.11: [OmniCV](https://sites.google.com/view/omnicv-cvpr2020/home) workhsop accepted at CVPR'20.  
+* 2019.11: [OmniCV](https://sites.google.com/view/omnicv-cvpr2020/home) workshop accepted at CVPR'20.  
 * 2019.10: [Talk](https://ptrckprz.github.io/pres/) at Prairie AI Summer School ([PAISS'19](https://project.inria.fr/paiss/)).  
 * 2019.10: [Panel](https://ptrckprz.github.io/pres/) on future mobilities at [PRAIRIE](https://prairie-institute.fr/) inauguration day. 
 * 2019.09: [Code](https://ptrckprz.github.io/data/) of NeurIPS'19 paper "Addressing failure prediction by learning model confidence" ([valeo.ai ConfidNet](https://github.com/valeoai/ConfidNet)). 
@@ -43,7 +43,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2019.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'19.
 * 2019.06: [Code](https://ptrckprz.github.io/data/) of CVPR'19 paper "Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation" ([AdvEnt](https://github.com/valeoai/ADVENT)).    
 * 2019.06: [Code](https://ptrckprz.github.io/data/) of CVPR'19 paper "Sorting Deep Net to learn ranking loss surrogates" ([DeepSort](https://github.com/technicolor-research/sodeep)).  
-* 2019.06: [Keynote](https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workhsop.     
+* 2019.06: [Keynote](https://ptrckprz.github.io/pres/) at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 workshop.     
 * 2019.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'19.  
 * 2019.03: [Talk](https://ptrckprz.github.io/pres/) at [AI & Physics](https://physai.sciencesconf.org/) (Pascal Institute, Orsay).
 * 2019.03: [Talk](https://ptrckprz.github.io/pres/) at [Imaging & Machine Learnning](https://imaging-in-paris.github.io/semester2019/workshop3prog/) (Poincaré Institute, Paris).
