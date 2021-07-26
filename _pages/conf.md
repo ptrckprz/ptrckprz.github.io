@@ -22,9 +22,9 @@ A. Saporta, T.H. Vu, M. Cord, P. Pérez
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
 *Siggraph 2021* [[page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)
 
-[Semantic Palette: Guiding scene generation with class proportions]()  
+[Semantic Palette: Guiding scene generation with class proportions](https://arxiv.org/abs/2106.01629)  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
-*CVPR 2021*
+*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette)]
 
 [Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
