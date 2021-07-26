@@ -12,6 +12,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2021.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'21.
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'21 workshop.
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workshop.
 * 2021.05: [Paper](https://ptrckprz.github.io/jal/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI.
