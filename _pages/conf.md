@@ -20,7 +20,7 @@ A. Saporta, T.H. Vu, M. Cord, P. Pérez
 
 [Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
-*Siggraph 2021* [[page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)
+*Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)]
 
 [Semantic Palette: Guiding scene generation with class proportions](https://arxiv.org/abs/2106.01629)  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
