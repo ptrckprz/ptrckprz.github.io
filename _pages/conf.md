@@ -10,6 +10,14 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
+A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
+*ICCV 2021*
+
+[Multi-target adversarial frameworks for domain adaptationin in semantic segmentation]()  
+A. Saporta, T.H. Vu, M. Cord, P. Pérez  
+*ICCV 2021*  
+
 [Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
 *Siggraph 2021* [[page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)
