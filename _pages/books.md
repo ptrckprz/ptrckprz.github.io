@@ -10,6 +10,16 @@ redirect_from:
 
 ### 2021
 
+Mon père m’a donné un mari — Emmanuelle Bayamak-tam  
+Suivant l’azur — Nathalie Léger  
+Les faux-monnayeurs — André Gide  
+Internet ou le retour à la bougie — Hervé Krief  
+Dans le faisceau des vivants — Valérie Zenatti  
+Love me tender — Cosntance Debré  
+Le pont de Bezons — Olivier Rolin  
+Du bulgom et des hommes — Amandine Dhée  
+Le rivage des Syrtes — Julien Gracq  
+La conjuration — Philippe Vasset  
 De nos frères blessés — Joseph Andras  
 Le coeur blanc — Catherine Poulain  
 Le consentement — Vanessa Springora  
