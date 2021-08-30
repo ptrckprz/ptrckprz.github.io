@@ -12,6 +12,7 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2021.02: [Paper](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
 * 2021.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'21.
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'21 workshop.
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workshop.
@@ -21,7 +22,6 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 * 2021.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'21. 
 * 2021.02: [Industrial panel](https://ptrckprz.github.io/pres/) at Visigrapp 2021. 
 * 2021.02: [Post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html) on the explainability of neural driving models. 
-* 2021.02: [Preprint](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130).
 * 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253).
 * 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307).
 * 2020.12: [Preprint](https://ptrckprz.github.io/jal/) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
