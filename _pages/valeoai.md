@@ -56,8 +56,9 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code and data
+* [ObsNet](https://github.com/valeoai/obsnet): Out-Of-Distribution detection by learning from local adversarial attacks in semantic segmentation (ICCV'21)
 * [Semantic Palette](https://github.com/valeoai/SemanticPalette): Guiding scene generation with class proportions (CVPR'21) 
-* [Attributes with Fields](https://github.com/vita-epfl/detection-attributes-fields): Detecting 32 pedestrian attributes with composite fields (preprint'20 with EPFL)
+* [Attributes with Fields](https://github.com/vita-epfl/detection-attributes-fields): Detecting 32 pedestrian attributes with composite fields (T-ITS)
 * [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (CVPR'21)  
 * [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'21)
 * [CARRADA](https://github.com/valeoai/carrada_dataset) ([dataset](http://download.tsi.telecom-paristech.fr/Carrada/Carrada.tar.gz)): Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset (ICPR'20)
@@ -80,45 +81,46 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 * [OSD](https://github.com/huyvvo/OSD): Unsupervised object discovery as optimization (CVPR'19)  
 
 ###  Academic partners
-CNAM ([Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
-CTU Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
-EPFL ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
-ENS Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
-INRIA ([Jean Ponce](https://www.di.ens.fr/~ponce/), [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
-MPI ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
-Ponts ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/))  
-Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
-Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
+CNAM, Paris ([Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
+CTU, Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
+EPFL, Lausanne ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
+ENS & Inria, Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
+Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/)   
+Inria, Grenoble [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
+MPI, Saarbrücken ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
+Ponts, Paris ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [David Picard](https://davidpicard.github.io/))  
+Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
+Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
-* 08/2021: [Paper](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
+* 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
+* 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
 * 08/2021: [Code](https://github.com/valeoai/obsnet) for our ICCV'21 paper "Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation".
 * 07/2021: Matthieu Cord on [self-supervised](https://www.lemonde.fr/sciences/article/2021/07/20/la-reconnaissance-d-images-par-l-ordinateur-fait-un-pas-de-geant_6088953_1650684.html) learning in French newspaper Le Monde.
-* 07/2021: Five [papers](https://ptrckprz.github.io/vaipub) accepted at [ICCV'21](http://iccv2021.thecvf.com/) (25.9% acceptance rate)
+* 07/2021: Five [papers](https://ptrckprz.github.io/vaipub) accepted at [ICCV'21](http://iccv2021.thecvf.com/) (25.9% acceptance rate).
 * 07/2021: [Code](https://github.com/valeoai/SemanticPalette) for our CVPR'21 paper "Semantic Palette: Guiding scene generation with class proportions".
-* 06/2021: Spyros Gidaris to serve as Area Chair for CVPR 2022
-* 06/2021: Reanud Marlet to serve as Meta-reviewer for BMVC 2021
+* 06/2021: Spyros Gidaris to serve as Area Chair for CVPR 2022.
+* 06/2021: Reanud Marlet to serve as Meta-reviewer for BMVC 2021.
 * 06/2021: Valeo.ai participates to CVPR'21 presenting three papers, co-organizing a [tutorial on self-supervised learning](https://gidariss.github.io/self-supervised-learning-cvpr2021/) and the [OmniCV workshop](https://sites.google.com/view/omnicv2021) and delivering keynotes at [SAIAD](https://sites.google.com/view/saiad2021) and [Vision4AllSeason](https://vision4allseason.net/) workshops.
-* 06/2021: Matthieu Cord serves as Area Chair for NeurIPS 2021
-* 05/2021 Alexandre Boulch, Andrei Bursuc, Matthieu Cord, Renaud Marlet, Spyros Gidaris and Tuan-Hung Vu among the [Outstanding Reviewers of CVPR'21](http://cvpr2021.thecvf.com/node/184)
-* 05/2021: Paper on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI
-* 04/2021: [Woodscape Challenge](https://sites.google.com/view/omnicv2021/woodscape-challenge) on fisheye semantic scene segmentation in conjunctin with CVPR'21 OmniCV workshop
-* 03/2021: Marin Toromanoff defends his PhD at MinesParis, committee: O. Pietquin, Th. Chateau, P.-Y. Oudeyer, R. Munos, Ch. Gagne, F. Moutarde, X. Perrotton
-* 03/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'21](http://cvpr2021.thecvf.com/) (23.7% acceptance rate)
-* 02/2021: Matthieu Cord delivers keynote at [Machine Learning Prague](https://www.mlprague.com/)
-* 02/2021: Blog [post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html) on the explainability of neural driving models 
-* 01/2021: Preprint on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)
-* 01/2021: Preprint on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307)
+* 06/2021: Matthieu Cord serves as Area Chair for NeurIPS 2021.
+* 05/2021 Alexandre Boulch, Andrei Bursuc, Matthieu Cord, Renaud Marlet, Spyros Gidaris and Tuan-Hung Vu among the [Outstanding Reviewers of CVPR'21](http://cvpr2021.thecvf.com/node/184).
+* 05/2021: Paper on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI.
+* 04/2021: [Woodscape Challenge](https://sites.google.com/view/omnicv2021/woodscape-challenge) on fisheye semantic scene segmentation in conjunctin with CVPR'21 OmniCV workshop.
+* 03/2021: Marin Toromanoff defends his PhD at MinesParis, committee: O. Pietquin, Th. Chateau, P.-Y. Oudeyer, R. Munos, Ch. Gagne, F. Moutarde, X. Perrotton.
+* 03/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR'21](http://cvpr2021.thecvf.com/) (23.7% acceptance rate).
+* 02/2021: Matthieu Cord delivers keynote at [Machine Learning Prague](https://www.mlprague.com/).
+* 02/2021: Blog [post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html) on the explainability of neural driving models.
+* 01/2021: Preprint on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253).
+* 01/2021: Preprint on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307).
 * 12/2020: Preprint on [Online BoW prediction for unsupervised representation learning](https://arxiv.org/abs/2012.11552) with [code](https://github.com/valeoai/obow).  
-* 12/2020: Preprint on project with EPFL: [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields)
-* 12/2020: Valeo participates with keynote and posters to [ML4AD](https://ml4ad.github.io/) virtual workshop at NeurIPS'20
+* 12/2020: Valeo participates with keynote and posters to [ML4AD](https://ml4ad.github.io/) virtual workshop at NeurIPS'20.
 * 12/2020: One [paper](https://ptrckprz.github.io/vaipub) in collaboration with CTU Prague accepted at [AAAI'21](https://aaai.org/Conferences/AAAI-21/).
-* 11/2020: IV2020 workshop on 3D Deep Learning for Autonomous Driving ([3D-DLAD](https://sites.google.com/view/3d-dlad-v2-iv2020))
-* 10/2020: Dataset for our ICPR'20 paper "CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations" ([CARRADA](https://github.com/valeoai/carrada_dataset))
-* 10/2020: Four team members (Andrei, Matthieu, Patrick and Spyros) acknowledged as Outstanding Reviewers at NeurIPS'20
+* 11/2020: IV2020 workshop on 3D Deep Learning for Autonomous Driving ([3D-DLAD](https://sites.google.com/view/3d-dlad-v2-iv2020)).
+* 10/2020: Dataset for our ICPR'20 paper "CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations" ([CARRADA](https://github.com/valeoai/carrada_dataset)).
+* 10/2020: Four team members (Andrei, Matthieu, Patrick and Spyros) acknowledged as Outstanding Reviewers at NeurIPS'20.
 * 07/2020: Code for our ECCV'20 paper "FLOT: Scene flow on point clouds guided by optimal transport" ([FLOT](https://github.com/valeoai/FLOT)).
-* 06/2020: Seven [papers](https://ptrckprz.github.io/vaipub) accepted at [ECCV'20](https://eccv2020.eu/) (27% acceptance rate)
-* 06/2020: Four team members (Alexandre, Andrei, Matthieu and Renaud) acknowledged as Outstanding Reviewers at CVPR'20
+* 06/2020: Seven [papers](https://ptrckprz.github.io/vaipub) accepted at [ECCV'20](https://eccv2020.eu/) (27% acceptance rate).
+* 06/2020: Four team members (Alexandre, Andrei, Matthieu and Renaud) acknowledged as Outstanding Reviewers at CVPR'20.
 * 06/2020: Valeo.ai participates to (virtual) CVPR'20, presenting 5 papers in main conference, delivering tutorials on [annotation-efficient learning](https://annotation-efficient-learning.github.io/), co-organizing the [OmniCV](https://sites.google.com/view/omnicv-cvpr2020/) workshop and presenting keynote at the [SAIAD](https://sites.google.com/view/saiad2020/) workshop.
 * 06/2020: Maximilian Jaritz defends his PhD at Inria Paris on “2D-3D Scene Understanding for Autonomous Driving” (reviewers: V. Lepetit and G. Brostow, external examiners: A. Dai and F. Jurie).
 * 06/2020: Code for our CVPR'20 paper "xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation" ([xMUDA](https://github.com/valeoai/xmuda)).
@@ -145,7 +147,7 @@ Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdai
 * 06/2019: Valeo.ai researchers present 8 papers (25% acceptance rate), including 4 orals (5.6% acceptance rate), at [CVPR'19](http://cvpr2019.thecvf.com/). Patrick Pérez delivers keynote on "Sustainable supervision with application to autonomous driving" at the Safe AI for Automated Driving ([SAIAD](https://sites.google.com/view/saiad-wscvpr19)) CVPR'19 Workshop. 
 * 05/2019: Hedi Ben-younes defends his PhD at Sorbonne Université, committee: M. Cord, V. Ferrari, Y. LeCun, P. Pérez, L. Soulier, N. Thome, J. Verbeek, Ch. Wolf.
 * 05/2019: Himalaya Jain receives the [Best Thesis Prize from Rennes 1 Foundation](https://www.irisa.fr/en/actus/congratulations-himalaya-jain-his-thesis-prize-rennes-1-foundation). 
-* 05/2019: Valeo is proud to be part of [Prairie](https://www.inria.fr/en/news/news-from-inria/launch-of-the-prairie-institute), the new Paris Interdisciplinary Artificial Intelligence Institute. Stay tuned.
+* 05/2019: Valeo is proud to be part of [Prairie](https://www.inria.fr/en/news/news-from-inria/launch-of-the-prairie-institute), the new Paris Interdisciplinary Artificial Intelligence Institute.
 
 ### Commnunication
 
