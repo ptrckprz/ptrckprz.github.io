@@ -10,13 +10,29 @@ redirect_from:
 
 **2021**
 
+[Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
+A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
+*ICCV 2021*
+
+[Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
+A. Saporta, T.H. Vu, M. Cord, P. Pérez  
+*ICCV 2021*  
+
+[Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation](https://arxiv.org/abs/2108.01634)  
+V. Besnier, A. Bursuc, D. Picard, A. Briot  
+*ICCV 2021* [[code](https://github.com/valeoai/obsnet)]
+
+[Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
+M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
+*Computer Vision and Image Understanding*, 2021
+
 [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
 Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord  
 *IEEE Trans. PAMI*, 2021
 
 [Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
-*Siggraph 2021* [[page]](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)
+*Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)]
 
 [Semantic Palette: Guiding scene generation with class proportions]()  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
