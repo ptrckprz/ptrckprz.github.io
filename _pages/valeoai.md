@@ -91,6 +91,8 @@ Sorbonne ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 08/2021: [Paper](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
+* 08/2021: [Code](https://github.com/valeoai/obsnet) for our ICCV'21 paper "Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation".
 * 07/2021: [Code](https://github.com/valeoai/SemanticPalette) for our CVPR'21 paper "Semantic Palette: Guiding scene generation with class proportions".
 * 06/2021: Spyros Gidaris to serve as Area Chair for CVPR 2022
 * 06/2021: Reanud Marlet to serve as Meta-reviewer for BMVC 2021
