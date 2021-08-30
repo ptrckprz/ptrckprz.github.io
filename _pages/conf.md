@@ -14,7 +14,7 @@ redirect_from:
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
 *ICCV 2021*
 
-[Multi-target adversarial frameworks for domain adaptationin in semantic segmentation]()  
+[Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
 *ICCV 2021*  
 
