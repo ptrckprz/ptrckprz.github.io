@@ -10,6 +10,10 @@ redirect_from:
 
 **2021**
 
+[PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds]()  
+A.Q. Cao, G. Puy, A. Boulch, R. Marlet  
+*ICCV 2021*
+
 [Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
 *ICCV 2021*
