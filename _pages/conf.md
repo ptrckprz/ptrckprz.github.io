@@ -30,6 +30,10 @@ G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
 *CVPR 2021* [[code](https://github.com/valeoai/obow)]
 
+[StyleLess layer: Improving robustness for real-world driving](https://arxiv.org/abs/2103.13905)  
+J. Rebut, A. Bursuc, P. Pérez  
+*IROS 2021*
+
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uřičář, P. Pérez, J. Sivic  
 *AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
