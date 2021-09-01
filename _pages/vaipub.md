@@ -10,6 +10,14 @@ redirect_from:
 
 **2021**
 
+[StyleLess layer: Improving robustness for real-world driving](https://arxiv.org/abs/2103.13905)  
+J. Rebut, A. Bursuc, P. Pérez  
+*IROS 2021*
+
+[Beyond question-based biases: Assessing multimodal shortcut learning in visual question answering](https://arxiv.org/abs/2104.03149)  
+C. Dancette, R. Cadene, D. Teney, M. Cord  
+*ICCV 2021*
+
 [MixMo: Mixing multiple inputs for multiple outputs via deep subnetworks](https://arxiv.org/abs/2103.06132)  
 A. Ramé, R. Sun, M. Cord  
 *ICCV 2021*
