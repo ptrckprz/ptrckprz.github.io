@@ -12,8 +12,11 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
+* 08/2021: [Code](https://github.com/valeoai/MVRSS) for our ICCV'21 paper "Multi-view radar semantic segmentation".
 * 2021.08: [Paper](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
 * 2021.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'21.
+* 2021.07: [Code](https://github.com/valeoai/SemanticPalette) for our CVPR'21 paper "Semantic Palette: Guiding scene generation with class proportions".
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'21 workshop.
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workshop.
 * 2021.05: [Paper](https://ptrckprz.github.io/jal/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI.
