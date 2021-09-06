@@ -56,6 +56,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code and data
+* [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
 * [ObsNet](https://github.com/valeoai/obsnet): Out-Of-Distribution detection by learning from local adversarial attacks in semantic segmentation (ICCV'21)
 * [Semantic Palette](https://github.com/valeoai/SemanticPalette): Guiding scene generation with class proportions (CVPR'21) 
 * [Attributes with Fields](https://github.com/vita-epfl/detection-attributes-fields): Detecting 32 pedestrian attributes with composite fields (T-ITS)
@@ -95,6 +96,7 @@ Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [
 ### News
 * 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
 * 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
+* 08/2021: [Code](https://github.com/valeoai/MVRSS) for our ICCV'21 paper "Multi-view radar semantic segmentation".
 * 08/2021: [Code](https://github.com/valeoai/obsnet) for our ICCV'21 paper "Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation".
 * 07/2021: Matthieu Cord on [self-supervised](https://www.lemonde.fr/sciences/article/2021/07/20/la-reconnaissance-d-images-par-l-ordinateur-fait-un-pas-de-geant_6088953_1650684.html) learning in French newspaper Le Monde.
 * 07/2021: Six [papers](https://ptrckprz.github.io/vaipub) accepted at [ICCV'21](http://iccv2021.thecvf.com/) (25.9% acceptance rate).
