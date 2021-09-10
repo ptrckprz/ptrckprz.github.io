@@ -70,7 +70,7 @@ A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic
 R. Sulzer, L. Landrieu, R. Marlet, B. Vallet  
 *CGF 2021*
 
-[3D reconstruction by parameterized surface mapping](https://ieeexplore.ieee.org/document/9506425)  
+[3D reconstruction by parameterized surface mapping](https://imagine.enpc.fr/~marletr/publi/ICIP-2021-Langlois-et-al.pdf)  
 P.-A. Langlois, M. Fisher, O. Wang, V. Kim, A. Boulch, R. Marlet, B. Russell  
 *ICIP 2021*
 
