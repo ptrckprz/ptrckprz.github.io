@@ -19,8 +19,8 @@ M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez
 sumitted to IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
 
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
-T. Morand, M. Cord, P. Pérez, A. Alahi  
-submitted to IEEE Trans. on Intelligent Transportation Systems, 2021
+T. Mordan, M. Cord, P. Pérez, A. Alahi  
+IEEE Trans. on Intelligent Transportation Systems, 2021
 
 [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
