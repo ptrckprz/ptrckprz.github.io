@@ -66,6 +66,14 @@ Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
 *AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
 
+[Scalable surface reconstruction with Delaunay-graph neural networks](https://arxiv.org/abs/2107.06130)  
+R. Sulzer, L. Landrieu, R. Marlet, B. Vallet  
+*CGF 2021*
+
+[3D reconstruction by parameterized surface mapping](https://ieeexplore.ieee.org/document/9506425)  
+P.-A. Langlois, M. Fisher, O. Wang, V. Kim, A. Boulch, R. Marlet, B. Russell  
+*ICIP 2021*
+
 **2020**
 
 [PLOP: Probabilistic poLynomial Objects trajectory Prediction for autonomous driving](https://arxiv.org/abs/2003.08744)  
