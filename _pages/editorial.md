@@ -28,6 +28,7 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
+* 2022.01: Vivien Sainte-Fare Garnot (IGN), as examiner
 * 2021.xx: Erika Lu (Oxford U.), as reviewer
 * 2021.xx: Xi Shen (ENPC), as reviewer
 * 2021.12: Vincent Le Guen (le CNAM/EDF), as reviewer
