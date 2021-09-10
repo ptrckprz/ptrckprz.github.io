@@ -42,6 +42,10 @@ V. Besnier, A. Bursuc, D. Picard, A. Briot
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
 *Computer Vision and Image Understanding*, 2021
 
+[Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
+T. Mordan, M. Cord, P. Pérez, A. Alahi  
+*IEEE Trans. on Intelligent Transportation Systems*, 2021
+
 [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
 Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord  
 *IEEE Trans. PAMI*, 2021
