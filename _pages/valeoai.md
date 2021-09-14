@@ -35,7 +35,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
 **Léon Zheng**, PhD student 
 
-**Human Resource Partner**: [Pascal Le Hérissé](mailto:pascal.le-herisse@valeo.com)  
+**Human Resource Partner**: [Alain Phetsinghane](mailto:alain.phetsinghane@valeo.com)  
 **Assistant**: [Ouardia Moussouni](mailto:ouardia.moussouni@valeo.com)  
 **Location**: [15 rue de La Baume](https://goo.gl/maps/5pNxVCeACzyDPi4d8), Paris  
 
