@@ -36,8 +36,8 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Léon Zheng**, PhD student 
 
 **Human Resource Partner**: [Alain Phetsinghane](mailto:alain.phetsinghane@valeo.com)  
-**Assistant**: [Ouardia Moussouni](mailto:ouardia.moussouni@valeo.com)  
-**Location**: [15 rue de La Baume](https://goo.gl/maps/5pNxVCeACzyDPi4d8), Paris  
+**Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
+**Location**: [100 rue de Courcelles](https://goo.gl/maps/LPCmZTD1GZo36qWU6), Paris  
 
 ### Some projects
 
@@ -86,8 +86,8 @@ CNAM, Paris ([Nicolas Thome](http://cedric.cnam.fr/~thomen/))
 CTU, Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL, Lausanne ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
 ENS & Inria, Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
-Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/)   
-Inria, Grenoble [Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
+Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/))   
+Inria, Grenoble ([Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
 MPI, Saarbrücken ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
 Ponts, Paris ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [David Picard](https://davidpicard.github.io/))  
 Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
