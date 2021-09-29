@@ -10,6 +10,10 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Large-scale unsupervised object discovery](https://arxiv.org/abs/2106.06650)  
+H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce  
+*NeurIPS 2021*
+
 [Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
 *ICCV 2021*
