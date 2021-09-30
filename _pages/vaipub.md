@@ -10,6 +10,10 @@ redirect_from:
 
 **2021**
 
+[Large-scale unsupervised object discovery](https://arxiv.org/abs/2106.06650)  
+H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce  
+*NeurIPS 2021*
+
 [StyleLess layer: Improving robustness for real-world driving](https://arxiv.org/abs/2103.13905)  
 J. Rebut, A. Bursuc, P. Pérez  
 *IROS 2021*
