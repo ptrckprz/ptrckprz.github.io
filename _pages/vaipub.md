@@ -32,7 +32,7 @@ A.Q. Cao, G. Puy, A. Boulch, R. Marlet
 
 [Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
-*ICCV 2021*
+*ICCV 2021* [[code](https://github.com/valeoai/MVRSS)]
 
 [Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
@@ -60,7 +60,7 @@ S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt
 
 [Semantic Palette: Guiding scene generation with class proportions]()  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
-*CVPR 2021*
+*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette)]
 
 [Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
