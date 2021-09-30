@@ -56,6 +56,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code and data
+* [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (arXiv 2021) 
 * [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
 * [ObsNet](https://github.com/valeoai/obsnet): Out-Of-Distribution detection by learning from local adversarial attacks in semantic segmentation (ICCV'21)
 * [Semantic Palette](https://github.com/valeoai/SemanticPalette): Guiding scene generation with class proportions (CVPR'21) 
@@ -94,6 +95,7 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 09/2021: Preprint on [object localization with self-supervised transformers and no Labels](https://arxiv.org/abs/2109.14279), with [code](https://github.com/valeoai/LOST).
 * 09/2021: The team moves in the beautiful new Valeo headquarter, 100 rue de Courcelles, in Paris. 
 * 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
 * 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
