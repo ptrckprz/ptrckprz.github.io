@@ -10,6 +10,18 @@ redirect_from:
 
 **2021**
 
+[Generative zero-shot learning for semantic segmentation of 3D point clouds](https://arxiv.org/abs/2108.06230)  
+B. Michele, A. Boulch, G. Puy, R. Marlet, M. Bucher  
+*3DV 2021* 
+
+[NeeDrop: Unsupervised shape representation from sparse point clouds using needle dropping]()  
+A. Boulch, G. Puy, R. Marlet  
+*3DV 2021* 
+
+[PoseContrast: Class-agnostic object viewpoint estimation in the wild with pose-aware contrastive learning](https://arxiv.org/abs/2105.05643)  
+Y. Xiao, Y. Du, R. Marlet  
+*3DV 2021* 
+
 [Large-scale unsupervised object discovery](https://arxiv.org/abs/2106.06650)  
 H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce  
 *NeurIPS 2021*
