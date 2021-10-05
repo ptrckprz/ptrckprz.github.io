@@ -38,9 +38,9 @@ C. Dancette, R. Cadene, D. Teney, M. Cord
 A. Ramé, R. Sun, M. Cord  
 *ICCV 2021*
 
-[PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds]()  
+[PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds](http://arxiv.org/abs/2110.01269)  
 A.Q. Cao, G. Puy, A. Boulch, R. Marlet  
-*ICCV 2021*
+*ICCV 2021* [[code](https://github.com/valeoai/PCAM)]
 
 [Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
