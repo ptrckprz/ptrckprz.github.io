@@ -57,7 +57,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ### Code and data
 * [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (arXiv 2021) 
-* [PCAM](https://github.com/valeoai/PCAM): Product of Cross-Attention Matrices for rigid registration of point clouds (3DV'21)
+* [PCAM](https://github.com/valeoai/PCAM): Product of Cross-Attention Matrices for rigid registration of point clouds (ICCV'21)
 * [SP4ASC](https://github.com/valeoai/SP4ASC): Separable convolutions for [acoustic scene classification in DCASE'21 Challenge](http://dcase.community/challenge2021/task-acoustic-scene-classification-results-a).
 * [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
 * [ObsNet](https://github.com/valeoai/obsnet): Out-Of-Distribution detection by learning from local adversarial attacks in semantic segmentation (ICCV'21)
