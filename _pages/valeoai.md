@@ -57,6 +57,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ### Code and data
 * [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (arXiv 2021) 
+* [MTAF](https://github.com/valeoai/MTAF): Multi-target adversarial frameworks for domain adaptation (ICCV'21)
 * [PCAM](https://github.com/valeoai/PCAM): Product of Cross-Attention Matrices for rigid registration of point clouds (ICCV'21)
 * [SP4ASC](https://github.com/valeoai/SP4ASC): Separable convolutions for [acoustic scene classification in DCASE'21 Challenge](http://dcase.community/challenge2021/task-acoustic-scene-classification-results-a).
 * [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
@@ -97,6 +98,7 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
+* 10/2021: The team presents 6 papers with codes at ICCV ([post](https://valeoai.github.io/blog/2021/10/08/valeoai-at-iccv-2021.html)). 
 * 10/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [3DV](https://3dv2021.surrey.ac.uk/).
 * 09/2021: One [paper](https://ptrckprz.github.io/vaipub) accepted at [NeurIPS](https://nips.cc/).
 * 09/2021: Preprint on [object localization with self-supervised transformers and no Labels](https://arxiv.org/abs/2109.14279), with [code](https://github.com/valeoai/LOST).
@@ -110,7 +112,7 @@ Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [
 * 07/2021: Six [papers](https://ptrckprz.github.io/vaipub) accepted at [ICCV'21](http://iccv2021.thecvf.com/) (25.9% acceptance rate).
 * 07/2021: [Code](https://github.com/valeoai/SemanticPalette) for our CVPR'21 paper "Semantic Palette: Guiding scene generation with class proportions".
 * 06/2021: Spyros Gidaris to serve as Area Chair for CVPR 2022.
-* 06/2021: Reanud Marlet to serve as Meta-reviewer for BMVC 2021.
+* 06/2021: Renaud Marlet to serve as Meta-reviewer for BMVC 2021.
 * 06/2021: Valeo.ai participates to CVPR'21 presenting three papers, co-organizing a [tutorial on self-supervised learning](https://gidariss.github.io/self-supervised-learning-cvpr2021/) and the [OmniCV workshop](https://sites.google.com/view/omnicv2021) and delivering keynotes at [SAIAD](https://sites.google.com/view/saiad2021) and [Vision4AllSeason](https://vision4allseason.net/) workshops.
 * 06/2021: Matthieu Cord serves as Area Chair for NeurIPS 2021.
 * 05/2021 Alexandre Boulch, Andrei Bursuc, Matthieu Cord, Renaud Marlet, Spyros Gidaris and Tuan-Hung Vu among the [Outstanding Reviewers of CVPR'21](http://cvpr2021.thecvf.com/node/184).
