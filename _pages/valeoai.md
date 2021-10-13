@@ -57,7 +57,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ### Code and data
 * [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (arXiv 2021) 
-* [MTAF](https://github.com/valeoai/MTAF): Multi-target adversarial frameworks for domain adaptation (ICCV'21)
+* [MTAF](https://github.com/valeoai/MTAF): Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)
 * [PCAM](https://github.com/valeoai/PCAM): Product of Cross-Attention Matrices for rigid registration of point clouds (ICCV'21)
 * [SP4ASC](https://github.com/valeoai/SP4ASC): Separable convolutions for [acoustic scene classification in DCASE'21 Challenge](http://dcase.community/challenge2021/task-acoustic-scene-classification-results-a).
 * [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
@@ -102,7 +102,7 @@ Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [
 * 10/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [3DV](https://3dv2021.surrey.ac.uk/).
 * 09/2021: One [paper](https://ptrckprz.github.io/vaipub) accepted at [NeurIPS](https://nips.cc/).
 * 09/2021: Preprint on [object localization with self-supervised transformers and no Labels](https://arxiv.org/abs/2109.14279), with [code](https://github.com/valeoai/LOST).
-* 09/2021: The team moves in the beautiful new Valeo headquarter, 100 rue de Courcelles, in Paris. 
+* 09/2021: The team moves in the beautiful new [Valeo headquarter](https://goo.gl/maps/ChAzS42Y8kXUDDrG7), 100 rue de Courcelles, in Paris. 
 * 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accpeted in CVIU.
 * 08/2021: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
 * 08/2021: [Code](https://github.com/valeoai/MVRSS) for our ICCV'21 paper "Multi-view radar semantic segmentation".
