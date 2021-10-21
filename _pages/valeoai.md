@@ -20,7 +20,6 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Matthieu Cord**, principal scientist | [page](http://www-poleia.lip6.fr/~cord/) | [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
 **Spyros Gidaris**, research scientist | [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en) | [github](https://github.com/gidariss)   
 **David Hurych**, research scientist | [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
-**Himalaya Jain**, research scientist | [page](https://himalayajain.github.io/) | [scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en) | [github](https://github.com/himalayajain)   
 **Renaud Marlet**, principal scientist | [page](http://imagine.enpc.fr/~marletr/) | [scholar](https://scholar.google.fr/citations?user=2rclwh4AAAAJ&hl=en)  
 **Arthur Ouaknine**, PhD student | [page](https://arthurouaknine.github.io/) | [scholar](https://scholar.google.com/citations?user=OCT3E9wAAAAJ) | [twitter](https://twitter.com/ArthurOuaknine)  
 **Patrick Pérez**, scientific director | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
@@ -171,8 +170,9 @@ Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [
 
 ### Alumni
 
+**Himalaya Jain**, research scientist ([page](https://himalayajain.github.io/),[scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en))  
 **Marin Toromanoff**, PhD student ([scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)), now at Valeo Driving Assistance Research  
-**Maxime Bucher**, research scientist ([page](https://maximebucher.github.io/),[scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en))
+**Maxime Bucher**, research scientist ([page](https://maximebucher.github.io/),[scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en))  
 **Maximilian Jaritz**, PhD student ([page](https://team.inria.fr/rits/membres/maximilian-jaritz/), [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ)), now at Amazon  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at Preligens  
 **Emilie Wirbel**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Nvidia  
