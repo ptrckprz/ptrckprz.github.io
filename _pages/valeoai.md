@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-An international team based in Paris, which conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is towards *better*, *clearer* & *safer* automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [projects](https://valeoai.github.io/blog/projects), [codes](https://github.com/valeoai), [posts](https://valeoai.github.io/blog) and [tweets](https://twitter.com/valeoai). 
+An international team based in Paris, which conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is on reliable and sustainable automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [projects](https://valeoai.github.io/blog/projects), [codes](https://github.com/valeoai), [posts](https://valeoai.github.io/blog) and [tweets](https://twitter.com/valeoai). 
 
 ###  Team
 ![](../images/team-photo-crop-2021.jpg)  
@@ -55,7 +55,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code and data
-* [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (arXiv 2021) 
+* [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (BMVC'21) 
 * [MTAF](https://github.com/valeoai/MTAF): Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)
 * [PCAM](https://github.com/valeoai/PCAM): Product of Cross-Attention Matrices for rigid registration of point clouds (ICCV'21)
 * [SP4ASC](https://github.com/valeoai/SP4ASC): Separable convolutions for [acoustic scene classification in DCASE'21 Challenge](http://dcase.community/challenge2021/task-acoustic-scene-classification-results-a).
