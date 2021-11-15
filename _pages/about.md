@@ -12,6 +12,9 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2021.11: Panel on AI at Institut Henri Pointcaré
+* 2021.11: Panel on autonomous vehicles at the AI Day of the French AI Manifesto  
+* 2021.10: Panel on Machine Learning and Physics at the Industry Day on AI of the French Physics Society
 * 2021.09: [Paper](https://ptrckprz.github.io/conf/) accepted at NeurIPS'21.
 * 2021.08: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
 * 2021.08: [Code](https://github.com/valeoai/MVRSS) for our ICCV'21 paper "Multi-view radar semantic segmentation".
