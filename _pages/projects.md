@@ -8,9 +8,9 @@ redirect_from:
 
 **[Deep learning](/deep/)**: robustness - data efficiency - explicabiliy 
 
-**[Visual understanding](/reconstruct/)**: segmentation - detection - fusion 
+**[Scene understanding](/reconstruct/)**: segmentation - detection - fusion 
 
-**[Face and body modeling](/face/)**:  generation - editing - reconstruction
+**[Face and body analysis](/face/)**:  understanding - reconstruction - modification
 
 **[Dynamic scene analysis](/motion/)**: tracking and forecasting - segmentaion - motion analysis
 
