@@ -24,19 +24,19 @@ A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut
 
 [Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
-*ICCV 2021* [[code](https://github.com/valeoai/MTAF),[page](https://valeoai.github.io/blog/publications/mtaf/)] 
+*ICCV 2021* [[code](https://github.com/valeoai/MTAF),[page](https://valeoai.github.io/blog/publications/mtaf/),[video](https://www.youtube.com/watch?v=cfOCSSjf7Ew)] 
 
 [Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
-*Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)]
+*Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/),[video](https://www.youtube.com/watch?v=8JhUjzFAMJI)]
 
 [Semantic Palette: Guiding scene generation with class proportions]()  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
-*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette),[page](https://valeoai.github.io/blog/publications/semanticpalette/)]
+*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette),[page](https://valeoai.github.io/blog/publications/semanticpalette/),[video](https://www.youtube.com/watch?v=ejkbaJD4Emk)]
 
 [Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
-*CVPR 2021* [[code](https://github.com/valeoai/obow),[page](https://valeoai.github.io/blog/publications/obow/)]
+*CVPR 2021* [[code](https://github.com/valeoai/obow),[page](https://valeoai.github.io/blog/publications/obow/),[video](https://papertalk.org/papertalks/14942)]
 
 [StyleLess layer: Improving robustness for real-world driving](https://arxiv.org/abs/2103.13905)  
 J. Rebut, A. Bursuc, P. Pérez  
