@@ -10,6 +10,10 @@ redirect_from:
 
 **2021**
 
+[Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
+H. Ben-Younes, É. Zablocki, P. Pérez, M. Cord  
+*Pattern Recognition*, 2021 [[code](https://github.com/valeoai/BEEF)]
+
 [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279)  
 O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. Marlet, J. Ponce  
 *BMVC 2021* [[code](https://github.com/valeoai/LOST),[page](https://valeoai.github.io/blog/publications/lost/)]
