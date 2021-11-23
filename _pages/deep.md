@@ -10,6 +10,46 @@ redirect_from:
 
 ### Relevant publications
 
+[Beyond first-order uncertainty estimation with evidential models for open-world recognition](http://cedric.cnam.fr/~thomen/papers/UDL2021-paper-062.pdf)  
+C. Corbière, M. Lafon, N. Thome, M. Cord, P. Pérez  
+*ICML 2021 w. on Uncertainty and Robustness in DL*  
+
+[Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279)  
+O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. Marlet, J. Ponce  
+*BMVC 2021* [[code](https://github.com/valeoai/LOST),[page](https://valeoai.github.io/blog/publications/lost/)]
+
+[Large-scale unsupervised object discovery](https://arxiv.org/abs/2106.06650)  
+H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce  
+*NeurIPS 2021*
+
+[Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
+A. Saporta, T.H. Vu, M. Cord, P. Pérez  
+*ICCV 2021* [[code](https://github.com/valeoai/MTAF),[page](https://valeoai.github.io/blog/publications/mtaf/)] 
+
+[Semantic Palette: Guiding scene generation with class proportions](https://openaccess.thecvf.com/content/CVPR2021/html/Le_Moing_Semantic_Palette_Guiding_Scene_Generation_With_Class_Proportions_CVPR_2021_paper.html)  
+G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
+*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette),[page](https://valeoai.github.io/blog/publications/semanticpalette/),[video](https://www.youtube.com/watch?v=ejkbaJD4Emk)]
+
+[Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
+S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
+*CVPR 2021* [[code](https://github.com/valeoai/obow),[page](https://valeoai.github.io/blog/publications/obow/)]
+
+[StyleLess layer: Improving robustness for real-world driving](https://arxiv.org/abs/2103.13905)  
+J. Rebut, A. Bursuc, P. Pérez  
+*IROS 2021* [[page](https://valeoai.github.io/blog/publications/styleless/)]  
+
+[A spherical analysis of Adam with Batch Normalization](https://arxiv.org/abs/2006.13382)  
+S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
+*NeurIPS w. Optimization for ML (OPT'21)*
+
+[Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
+M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
+*Computer Vision and Image Understanding*, 2021 [[page](https://valeoai.github.io/blog/publications/buda/)]
+
+[Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
+Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord  
+*IEEE Trans. PAMI*, 2021 [[code](https://github.com/valeoai/ConfidNet),[page](https://valeoai.github.io/blog/publications/confidnet_conda/)]
+
 [QuEST: Quantized Embedding Space for Transferring knowledge](https://arxiv.org/abs/1912.01540)  
 H. Jain, S. Gidaris, N. Komodakis, P. Pérez, M. Cord  
 *ECCV 2020*
