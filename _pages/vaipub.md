@@ -10,11 +10,15 @@ redirect_from:
 
 **2021**
 
+[Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279)  
+O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. Marlet, J. Ponce  
+*BMVC 2021* [[code](https://github.com/valeoai/LOST),[page](https://valeoai.github.io/blog/publications/lost/)]
+
 [Generative zero-shot learning for semantic segmentation of 3D point clouds](https://arxiv.org/abs/2108.06230)  
 B. Michele, A. Boulch, G. Puy, R. Marlet, M. Bucher  
 *3DV 2021* 
 
-[NeeDrop: Unsupervised shape representation from sparse point clouds using needle dropping]()  
+NeeDrop: Unsupervised shape representation from sparse point clouds using needle dropping  
 A. Boulch, G. Puy, R. Marlet  
 *3DV 2021* 
 
@@ -28,7 +32,7 @@ H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce
 
 [StyleLess layer: Improving robustness for real-world driving](https://arxiv.org/abs/2103.13905)  
 J. Rebut, A. Bursuc, P. Pérez  
-*IROS 2021*
+*IROS 2021* [[page](https://valeoai.github.io/blog/publications/styleless/)]
 
 [Beyond question-based biases: Assessing multimodal shortcut learning in visual question answering](https://arxiv.org/abs/2104.03149)  
 C. Dancette, R. Cadene, D. Teney, M. Cord  
@@ -40,31 +44,31 @@ A. Ramé, R. Sun, M. Cord
 
 [PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds](http://arxiv.org/abs/2110.01269)  
 A.Q. Cao, G. Puy, A. Boulch, R. Marlet  
-*ICCV 2021* [[code](https://github.com/valeoai/PCAM)]
+*ICCV 2021* [[code](https://github.com/valeoai/PCAM),[page](https://valeoai.github.io/blog/publications/pcam/)]
 
 [Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
-*ICCV 2021* [[code](https://github.com/valeoai/MVRSS)]
+*ICCV 2021* [[code](https://github.com/valeoai/MVRSS),[page](https://valeoai.github.io/blog/publications/mvrss/)]
 
 [Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
-*ICCV 2021*  
+*ICCV 2021* [[code](https://github.com/valeoai/MTAF),[page](https://valeoai.github.io/blog/publications/mtaf/)] 
 
 [Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation](https://arxiv.org/abs/2108.01634)  
 V. Besnier, A. Bursuc, D. Picard, A. Briot  
-*ICCV 2021* [[code](https://github.com/valeoai/obsnet)]
+*ICCV 2021* [[code](https://github.com/valeoai/obsnet),[page](https://valeoai.github.io/blog/publications/obsnet/)]
 
 [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
-*Computer Vision and Image Understanding*, 2021
+*Computer Vision and Image Understanding*, 2021 [[page](https://valeoai.github.io/blog/publications/buda/)]
 
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
 T. Mordan, M. Cord, P. Pérez, A. Alahi  
-*IEEE Trans. on Intelligent Transportation Systems*, 2021
+*IEEE Trans. on Intelligent Transportation Systems*, 2021 
 
 [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
 Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord  
-*IEEE Trans. PAMI*, 2021
+*IEEE Trans. PAMI*, 2021 [[code](https://github.com/valeoai/ConfidNet),[page](https://valeoai.github.io/blog/publications/confidnet_conda/)]
 
 [Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
@@ -72,11 +76,11 @@ S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt
 
 [Semantic Palette: Guiding scene generation with class proportions]()  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
-*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette)]
+*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette),[page](https://valeoai.github.io/blog/publications/semanticpalette/)]
 
 [Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
-*CVPR 2021* [[code](https://github.com/valeoai/obow)]
+*CVPR 2021* [[code](https://github.com/valeoai/obow),[page](https://valeoai.github.io/blog/publications/obow/)]
 
 [PLOP: Learning without forgetting for continual semantic segmentation](https://arxiv.org/abs/2011.11390)  
 Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord  
