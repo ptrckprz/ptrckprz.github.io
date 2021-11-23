@@ -12,11 +12,15 @@ redirect_from:
 
 [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
-submitted to Int. J. Computer Vision, 2021 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
+submitted to *IJCV*, 2021 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
 
 [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
 M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
-sumitted to IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
+sumitted to *PAMI*, 2021
+
+[LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR]()  
+F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
+subitted to  *CVIU*, 2021
 
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
 T. Mordan, M. Cord, P. Pérez, A. Alahi  
