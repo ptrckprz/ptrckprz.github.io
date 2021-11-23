@@ -9,6 +9,11 @@ redirect_from:
 {% include base_path %}
 
 ### Code
+* [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (BMVC'21)  
+* [MTAF](https://github.com/valeoai/MTAF): Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)  
+* [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
+* [ObsNet](https://github.com/valeoai/obsnet): Out-Of-Distribution detection by learning from local adversarial attacks in semantic segmentation (ICCV'21)
+* [Semantic Palette](https://github.com/valeoai/SemanticPalette): Guiding scene generation with class proportions (CVPR'21) 
 * [Attributes with Fields](https://github.com/vita-epfl/detection-attributes-fields): Detecting 32 pedestrian attributes with composite fields (preprint'20 with EPFL)
 * [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (CVPR 2021) 
 * [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'21) 
