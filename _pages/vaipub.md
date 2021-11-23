@@ -74,7 +74,7 @@ Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
 *Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/),[video](https://www.youtube.com/watch?v=8JhUjzFAMJI)]
 
-[Semantic Palette: Guiding scene generation with class proportions]()  
+[Semantic Palette: Guiding scene generation with class proportions](https://openaccess.thecvf.com/content/CVPR2021/html/Le_Moing_Semantic_Palette_Guiding_Scene_Generation_With_Class_Proportions_CVPR_2021_paper.html)  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
 *CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette),[page](https://valeoai.github.io/blog/publications/semanticpalette/),[video](https://www.youtube.com/watch?v=ejkbaJD4Emk)]
 
