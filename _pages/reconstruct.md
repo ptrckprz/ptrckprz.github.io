@@ -10,6 +10,54 @@ redirect_from:
 
 ### Relevant publications
 
+[Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
+M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
+sumitted to *PAMI*, 2021
+
+[LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR]()  
+F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
+subitted to  *CVIU*, 2021
+
+[Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279)  
+O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. Marlet, J. Ponce  
+*BMVC 2021* [[code](https://github.com/valeoai/LOST),[page](https://valeoai.github.io/blog/publications/lost/)]
+
+[Large-scale unsupervised object discovery](https://arxiv.org/abs/2106.06650)  
+H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce  
+*NeurIPS 2021*
+
+[Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
+A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
+*ICCV 2021* [[code](https://github.com/valeoai/MVRSS),[page](https://valeoai.github.io/blog/publications/mvrss/)]
+
+[Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
+A. Saporta, T.H. Vu, M. Cord, P. Pérez  
+*ICCV 2021* [[code](https://github.com/valeoai/MTAF),[page](https://valeoai.github.io/blog/publications/mtaf/),[video](https://www.youtube.com/watch?v=cfOCSSjf7Ew)] 
+
+[Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
+M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
+*Computer Vision and Image Understanding*, 2021 [[page](https://valeoai.github.io/blog/publications/buda/)]
+
+[Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
+T. Mordan, M. Cord, P. Pérez, A. Alahi  
+*IEEE Trans. on Intelligent Transportation Systems*, 2021 [[code](https://github.com/vita-epfl/detection-attributes-fields)]
+
+[Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
+Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord  
+*IEEE Trans. PAMI*, 2021 [[code](https://github.com/valeoai/ConfidNet),[page](https://valeoai.github.io/blog/publications/confidnet_conda/)]
+
+[Semantic Palette: Guiding scene generation with class proportions](https://openaccess.thecvf.com/content/CVPR2021/html/Le_Moing_Semantic_Palette_Guiding_Scene_Generation_With_Class_Proportions_CVPR_2021_paper.html)  
+G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
+*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette),[page](https://valeoai.github.io/blog/publications/semanticpalette/),[video](https://www.youtube.com/watch?v=ejkbaJD4Emk)]
+
+[Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
+A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
+*AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [page](https://valeoai.github.io/blog/publications/dummynet/), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
+
+[CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
+A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
+*ICPR 2020* [[dataset](https://github.com/valeoai/carrada_dataset)]
+
 [Toward unsupervised, multi-object discovery in large-scale image collections](https://arxiv.org/abs/2007.02662)  
 H. V. Vo, P. Pérez, J. Ponce  
 *ECCV 2020*
