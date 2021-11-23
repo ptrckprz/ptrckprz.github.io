@@ -64,7 +64,7 @@ M. Bucher, T.-H. Vu, M. Cord, P. Pérez
 
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
 T. Mordan, M. Cord, P. Pérez, A. Alahi  
-*IEEE Trans. on Intelligent Transportation Systems*, 2021 
+*IEEE Trans. on Intelligent Transportation Systems*, 2021 [[code](https://github.com/vita-epfl/detection-attributes-fields)]
 
 [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
 Ch. Corbière, N. Thome, A. Sapporta, T.H. Vu, P. Pérez, M. Cord  
@@ -88,7 +88,7 @@ Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord
 
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
 A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
-*AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
+*AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [page](https://valeoai.github.io/blog/publications/dummynet/), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
 
 [Scalable surface reconstruction with Delaunay-graph neural networks](https://arxiv.org/abs/2107.06130)  
 R. Sulzer, L. Landrieu, R. Marlet, B. Vallet  
