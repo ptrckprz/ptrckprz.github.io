@@ -18,6 +18,10 @@ P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
 submitted to Int. J. Computer Vision, 2021 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
 
+[Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
+H. Ben-Younes, É. Zablocki, P. Pérez, M. Cord  
+*Pattern Recognition*, 2021 [[code](https://github.com/valeoai/BEEF)]
+
 [Beyond first-order uncertainty estimation with evidential models for open-world recognition](http://cedric.cnam.fr/~thomen/papers/UDL2021-paper-062.pdf)  
 C. Corbière, M. Lafon, N. Thome, M. Cord, P. Pérez  
 *ICML 2021 w. on Uncertainty and Robustness in DL*  
