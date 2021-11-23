@@ -10,9 +10,13 @@ redirect_from:
 
 ### Relevant publications
 
+[Raising context awareness in motion forecasting](https://arxiv.org/abs/2111.09094)  
+H Ben-Younes, É Zablocki, M Chen, P Pérez, M Cord  
+*arXiv*, 2021
+
 [ROAM: a Rich Object Appearance Model with application to rotoscoping](http://openaccess.thecvf.com/content_cvpr_2017/papers/Miksik_ROAM_A_Rich_CVPR_2017_paper.pdf)  
 O. Miksik, J.M. Pérez-Rua, Ph. Torr, P. Pérez  
-*IEEE Trans. PAMI (to appear)* and *CVPR 2017* [[page](http://www.miksik.co.uk/projects/rotoscoping/roam.html), [code](https://github.com/omiksik/roam), [video](https://youtu.be/UvO7IacS9pQ)]
+*IEEE Trans. PAMI 2020* and *CVPR 2017* [[page](http://www.miksik.co.uk/projects/rotoscoping/roam.html), [code](https://github.com/omiksik/roam), [video](https://youtu.be/UvO7IacS9pQ)]
 
 [Determining occlusions from space and time image reconstructions](https://hal.archives-ouvertes.fr/hal-01307703)  
 J-M Pérez-Rua, T. Crivelli, P. Pérez., P. Bouthemy  
