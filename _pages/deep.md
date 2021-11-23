@@ -10,6 +10,14 @@ redirect_from:
 
 ### Relevant publications
 
+[STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
+P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
+*arXiv 2021*
+
+[Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
+E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
+submitted to Int. J. Computer Vision, 2021 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
+
 [Beyond first-order uncertainty estimation with evidential models for open-world recognition](http://cedric.cnam.fr/~thomen/papers/UDL2021-paper-062.pdf)  
 C. Corbière, M. Lafon, N. Thome, M. Cord, P. Pérez  
 *ICML 2021 w. on Uncertainty and Robustness in DL*  
