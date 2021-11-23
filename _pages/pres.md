@@ -6,6 +6,10 @@ redirect_from:
   - /resume
 ---
 
+* 2021.11: Keynote at the ACM-Computer Science in Cars Symposium (CSCS)  
+* 2021.11: Panel on AI at Institut Henri Pointcaré  
+* 2021.11: Panel on autonomous vehicles at the AI Day of the French AI Manifesto  
+* 2021.10: Panel on Machine Learning and Physics at the Industry Day on AI of the French Physics Society
 * 2021.06: Keynote at [Vision4AllSeason](https://vision4allseason.net/) CVPR'21 workhsop.
 * 2021.06: Keynote at the Airbus workshop on Frugal Learning.
 * 2021.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workhsop.
