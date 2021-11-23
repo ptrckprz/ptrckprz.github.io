@@ -12,7 +12,7 @@ redirect_from:
 
 [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
-submitted to Int. J. Computer Vision, 2021
+submitted to Int. J. Computer Vision, 2021 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
 
 [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
 M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
@@ -20,15 +20,15 @@ sumitted to IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
 
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
 T. Mordan, M. Cord, P. Pérez, A. Alahi  
-IEEE Trans. on Intelligent Transportation Systems, 2021
+IEEE Trans. on Intelligent Transportation Systems, 2021 [[code](https://github.com/vita-epfl/detection-attributes-fields)]
 
 [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
-Computer Vision and Image Understanding, 2021
+Computer Vision and Image Understanding, 2021 [[page](https://valeoai.github.io/blog/publications/buda/)]
 
 [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
 Ch. Corbière, N. Thome, A. Saporta, T.-H. Vu, M. Cord, P. Pérez  
-IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021 [[code](https://github.com/valeoai/ConfidNet),[page](https://valeoai.github.io/blog/publications/confidnet_conda/)]
 
 [Deep reinforcement learning for autonomous driving: A survey](https://arxiv.org/abs/2002.00444)  
 B. Ravi Kiran, I. Sobh, V. Talpaert, P. Mannion, A. Al Sallab, S. Yogamani, P. Pérez  
