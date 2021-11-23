@@ -6,13 +6,13 @@ redirect_from:
   - /resume
 ---
 
-**[Deep learning](/deep/)**: adaptation - supervision - uncertainty 
+**[Deep learning](/deep/)**: robustness - data efficiency - explicabiliy 
 
 **[Visual understanding](/reconstruct/)**: segmentation - detection - fusion 
 
-**[Face modeling](/face/)**:  generation - editing - reconstruction
+**[Face and body modeling](/face/)**:  generation - editing - reconstruction
 
-**[Dynamic scene analysis](/motion/)**: tracking - segmentaion - motion analysis
+**[Dynamic scene analysis](/motion/)**: tracking and forecasting - segmentaion - motion analysis
 
 **[Signals on graphs](/graph/)**:  learning - sampling - processing
 
