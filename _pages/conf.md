@@ -10,37 +10,41 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279)  
+O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. Marlet, J. Ponce  
+*BMVC 2021* [[code](https://github.com/valeoai/LOST),[page](https://valeoai.github.io/blog/publications/lost/)]
+
 [Large-scale unsupervised object discovery](https://arxiv.org/abs/2106.06650)  
 H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce  
 *NeurIPS 2021*
 
 [Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
-*ICCV 2021*
+*ICCV 2021* [[code](https://github.com/valeoai/MVRSS),[page](https://valeoai.github.io/blog/publications/mvrss/)]
 
 [Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
-*ICCV 2021*  
+*ICCV 2021* [[code](https://github.com/valeoai/MTAF),[page](https://valeoai.github.io/blog/publications/mtaf/)] 
 
 [Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
 *Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)]
 
-[Semantic Palette: Guiding scene generation with class proportions](https://arxiv.org/abs/2106.01629)  
+[Semantic Palette: Guiding scene generation with class proportions]()  
 G. Le Moing, T.H. Vu, H. Jain, P. Pérez, M. Cord  
-*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette)]
+*CVPR 2021* [[code](https://github.com/valeoai/SemanticPalette),[page](https://valeoai.github.io/blog/publications/semanticpalette/)]
 
 [Online bag-of-visual-words generation for unsupervised representation learning](https://arxiv.org/abs/2012.11552)  
 S. Gidaris, A. Bursuc, G. Puy, N. Komodakis, M. Cord, P. Pérez  
-*CVPR 2021* [[code](https://github.com/valeoai/obow)]
+*CVPR 2021* [[code](https://github.com/valeoai/obow),[page](https://valeoai.github.io/blog/publications/obow/)]
 
 [StyleLess layer: Improving robustness for real-world driving](https://arxiv.org/abs/2103.13905)  
 J. Rebut, A. Bursuc, P. Pérez  
-*IROS 2021*
+*IROS 2021* [[page](https://valeoai.github.io/blog/publications/styleless/)]
 
 [Artificial dummies for urban dataset augmentation](https://arxiv.org/abs/2012.08274)  
-A. Vobecký, D. Hurych, M. Uřičář, P. Pérez, J. Sivic  
-*AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
+A. Vobecký, D. Hurych, M. Uricár, P. Pérez, J. Sivic  
+*AAAI 2021* [[code](https://github.com/vobecant/DummyNet), [page](https://valeoai.github.io/blog/publications/dummynet/), [talk](https://slideslive.com/38949236/artificial-dummies-for-urban-dataset-augmentation)]
 
 [CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
 A. Ouaknine, A. Newson, J. Rebut, F. Tupin, P. Pérez  
