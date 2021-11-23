@@ -1,5 +1,5 @@
 ---
-title: "Face modeling"
+title: "Face and body analysis"
 permalink: /face/
 author_profile: true
 redirect_from:
@@ -9,6 +9,18 @@ redirect_from:
 {% include base_path %}
 
 ### Relevant publications
+
+[STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
+P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
+*arXiv 2021*
+
+[Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
+S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
+*Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/),[video](https://www.youtube.com/watch?v=8JhUjzFAMJI)]
+
+[Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
+T. Mordan, M. Cord, P. Pérez, A. Alahi  
+*IEEE Trans. on Intelligent Transportation Systems*, 2021 [[code](https://github.com/vita-epfl/detection-attributes-fields)]
 
 [PIE: Portrait Image Embedding for Semantic Control](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)  
 A. Tewari, M. Elgharib, B. Mallikarjun, F. Bernard, H.P. Seidel, P. Pérez, M. Zollhöfer, Ch. Theobalt   
