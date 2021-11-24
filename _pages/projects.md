@@ -6,18 +6,18 @@ redirect_from:
   - /resume
 ---
 
-**[Deep learning](/deep/)**: robustness - data efficiency - explicabiliy 
+**[Deep learning](/deep/)**: robustness, data efficiency, explicability 
 
-**[Scene understanding](/reconstruct/)**: segmentation - detection - fusion 
+**[Scene understanding](/reconstruct/)**: segmentation, detection, fusion 
 
-**[Face and body analysis](/face/)**:  understanding - reconstruction - modification
+**[Face and body analysis](/face/)**:  understanding, reconstruction, modification
 
-**[Dynamic scene analysis](/motion/)**: tracking and forecasting - segmentaion - motion analysis
+**[Dynamic scene analysis](/motion/)**: understanding, tracking, forecast 
 
-**[Signals on graphs](/graph/)**:  learning - sampling - processing
+**[Signals on graphs](/graph/)**:  learning, sampling, processing
 
-**[Visual inpainting](/inpaint/)**: learning - video - faces
+**[Visual inpainting](/inpaint/)**: learning, video, faces
 
-**[Data mining](/search/)**: indexing - sketching - search 
+**[Data mining](/search/)**: indexing, sketching, search 
 
-**[Audio processing](/audio/)**: source separation - inpainting - sytle transfer
+**[Audio processing](/audio/)**: source separation, inpainting, sytle transfer
