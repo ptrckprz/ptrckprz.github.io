@@ -24,7 +24,7 @@ subitted to  *CVIU*, 2021
 
 [Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
 H. Ben-Younes, É. Zablocki, P. Pérez, M. Cord  
-*Pattern Recognition*, 2021 [[code](https://github.com/valeoai/BEEF)]
+*Pattern Recognition*, 123, 2021 [[code](https://github.com/valeoai/BEEF)]
 
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
 T. Mordan, M. Cord, P. Pérez, A. Alahi  
