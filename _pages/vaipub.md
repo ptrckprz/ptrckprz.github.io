@@ -22,7 +22,7 @@ O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. 
 B. Michele, A. Boulch, G. Puy, R. Marlet, M. Bucher  
 *3DV 2021* 
 
-NeeDrop: Unsupervised shape representation from sparse point clouds using needle dropping  
+[NeeDrop: Unsupervised shape representation from sparse point clouds using needle dropping](https://arxiv.org/abs/2111.15207)  
 A. Boulch, G. Puy, R. Marlet  
 *3DV 2021* 
 
