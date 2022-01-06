@@ -12,6 +12,8 @@ Patrick Pérez is Scientific Director of [valeo.ai](https://ptrckprz.github.io/v
 
 ### News
 
+* 2022.01: Keynote on trustworthy AI at the French Academy of Technologies 
+* 2022.01: Keynote on basic AI research in corporate labs at Eurecom 
 * 2021.11: Keynote at the ACM-Computer Science in Cars Symposium (CSCS)
 * 2021.11: Panel on AI at Institut Henri Pointcaré
 * 2021.11: Panel on autonomous vehicles at the AI Day of the French AI Manifesto  
