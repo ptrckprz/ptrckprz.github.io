@@ -24,7 +24,6 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Arthur Ouaknine**, PhD student | [page](https://arthurouaknine.github.io/) | [scholar](https://scholar.google.com/citations?user=OCT3E9wAAAAJ) | [twitter](https://twitter.com/ArthurOuaknine)  
 **Patrick Pérez**, scientific director | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
-**Julien Rebut**, research scientist | [scholar](https://scholar.google.com/citations?hl=fr&user=BJcQNcoAAAAJ)  
 **Simon Roburin**, PhD student | [page](http://imagine.enpc.fr/~roburins/)  
 **Antoine Saporta**, PhD student | [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
 **Tristan Schultz**, research engineer  
@@ -176,4 +175,6 @@ Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [
 **Maximilian Jaritz**, PhD student ([page](https://team.inria.fr/rits/membres/maximilian-jaritz/), [scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ)), now at Amazon  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at Preligens  
 **Emilie Wirbel**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Nvidia  
+**Julien Rebut**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Hexagon|AutonomouStuff  
+
 
