@@ -25,7 +25,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Patrick Pérez**, scientific director (and Valeo VP of AI) | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
 **Simon Roburin**, PhD student (with Ponts)| [page](http://imagine.enpc.fr/~roburins/)  
-**Antoine Saporta**, PhD student (with Sorbonne U.)| [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
+**Antoine Saporta**, PhD student (with Sorbonne U.) | [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
 **Tristan Schultz**, research engineer  
 **Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
 **Huy Van Vo**, PhD student (with Inria) | [scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en) | [github](https://github.com/huyvvo)  
