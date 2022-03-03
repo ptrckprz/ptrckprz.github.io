@@ -99,6 +99,8 @@ Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [
 ### News
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University
 * 03/2022: Arthur Ouaknine and Charles Corbière defend their PhD at Telecom and CNAM respectively.
+* 03/2022: [Paper](https://ptrckprz.github.io/vaipub) on [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation]() accpeted in PAMI.
+* 03/2022: Four [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR](https://cvpr2022.thecvf.com/) (25.3% acceptance rate).
 * 12/2022: [RADIal](https://github.com/valeoai/RADIal) dataset (HR radar, camera, lidar) for vehicle and free space detection is available.   
 * 10/2021: The team presents 6 papers with codes at ICCV ([post](https://valeoai.github.io/blog/2021/10/08/valeoai-at-iccv-2021.html)). 
 * 10/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [3DV](https://3dv2021.surrey.ac.uk/).
