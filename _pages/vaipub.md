@@ -28,11 +28,11 @@ A. Douillard, A. Ramé, G. Couairon, M. Cord
 
 [Spherical Perspective on Learning with Normalization Layers]()  
 S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
-Neurocomputing 2022  
+*Neurocomputing*, 2022  
 
 [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation]()  
 M. Jaritz, T.H. Vu, R. de Charette, É. Wirbel, P. Pérez  
-*PAMI 2022*
+*PAMI*, 2022
 
 **2021**
 
