@@ -8,6 +8,32 @@ redirect_from:
 
 {% include base_path %}
 
+**2022**
+
+[Image-to-Lidar self-supervised distillation for autonomous driving data]()  
+C. Sautier, G. Puy, S. Girodon, A. Boulch, A. Bursuc, R. Marlet  
+*CVPR 2022*  
+
+[POCO: Point convolution for surface reconstruction](https://arxiv.org/abs/2201.01831)  
+A. Boulch, R. Marlet  
+*CVPR 2022*
+
+[Raw high-definition radar for multi-task learning](https://arxiv.org/abs/2112.10646)  
+J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
+*CVPR 2022*
+
+[DyTox: Transformers for continual learning with dynamic token expansion](https://arxiv.org/abs/2111.11326)  
+A. Douillard, A. Ramé, G. Couairon, M. Cord  
+*CVPR 2022* 
+
+[Spherical Perspective on Learning with Normalization Layers]()  
+S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
+Neurocomputing 2022  
+
+[Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation]()  
+M. Jaritz, T.H. Vu, R. de Charette, É. Wirbel, P. Pérez  
+*PAMI 2022*
+
 **2021**
 
 [Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
