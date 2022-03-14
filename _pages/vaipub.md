@@ -11,7 +11,7 @@ redirect_from:
 **2022**
 
 [Image-to-Lidar self-supervised distillation for autonomous driving data]()  
-C. Sautier, G. Puy, S. Girodon, A. Boulch, A. Bursuc, R. Marlet  
+C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet  
 *CVPR 2022*  
 
 [POCO: Point convolution for surface reconstruction](https://arxiv.org/abs/2201.01831)  
