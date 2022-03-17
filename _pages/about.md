@@ -13,8 +13,9 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 ### News
 
 * 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/)
-* 2022.05: Keynote at the  ICRA Workshop on Research perspectives on the future of Autonomous Driving
-* 2022.02: [Talk](https://ptrckprz.github.io/pres/) at EPFL
+* 2022.06: Keynote at the [Vision4AllSeaons](https://vision4allseason.net/) CVPR Workshop
+* 2022.05: Keynote at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop
+* 2022.02: Talk at EPFL CV Seminar
 * 2022.01: [IMT podcast](https://imtech.wp.imt.fr/2022/01/26/voitures-intelligentes-sur-la-route-de-lautonomie/) (in French) on challenges of driving automation
 * 2022.01: Keynote on trustworthy AI at the French Academy of Technologies 
 * 2022.01: Keynote on basic AI research in corporate labs at Eurecom 
