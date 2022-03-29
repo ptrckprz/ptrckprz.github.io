@@ -14,10 +14,13 @@ redirect_from:
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
 submitted to *IJCV*, 2021 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
 
-
 [LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR]()  
 F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
 subitted to  *CVIU*, 2021
+
+[Spherical Perspective on Learning with Normalization Layers]()  
+S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
+Neurocomputing, 2022  
 
 [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
 M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
