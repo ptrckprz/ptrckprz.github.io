@@ -10,6 +10,14 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Raw high-definition radar for multi-task learning](https://arxiv.org/abs/2112.10646)  
+J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
+*CVPR 2022*
+
+Diverse probabilistic trajectory forecasting with admissibility constraints  
+L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
+*ICPR 2022*  
+
 [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279)  
 O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. Marlet, J. Ponce  
 *BMVC 2021* [[code](https://github.com/valeoai/LOST),[page](https://valeoai.github.io/blog/publications/lost/)]
