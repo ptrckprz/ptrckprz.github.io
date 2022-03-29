@@ -29,6 +29,11 @@ redirect_from:
 
 ### PhD committees since 2015
 * 2022.06: Yihong Xu (Inria Grenoble), as reviewer
+* 2022.06: Vo Van Huy (Inria Paris/Valeo), as advisor
+* 2022.04: Antoine Saporta (Sorbonne/Valeo), as advisor
+* 2022.04: Xu Yao (Telecom/Interdigital), as invitee
+* 2022.03: Charles Corbière (Cnam/Valeo), as advisor
+* 2022.03: Arthur Ouaknine (Telecom/Valeo), as advisor
 * 2022.01: Vivien Sainte-Fare Garnot (IGN), as examiner
 * 2021.12: Erika Lu (Oxford U.), as reviewer
 * 2021.12: Xi Shen (ENPC), as president
