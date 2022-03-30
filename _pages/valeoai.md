@@ -10,7 +10,6 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ###  Team
 ![](../images/team-photo-crop-2021.jpg)  
-**Florent Bartoccioni**, PhD student (with Inria)  
 **Hédi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
@@ -94,7 +93,9 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom, Paris ([Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ))
 
 ### News
-* 04/2022: Antoine Saporta defends his PhD at Sorbonne University
+* 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
+* 03/2022: Matthieu Cord delivers a keynote at the Explainable AV Workshop of the European Commission Joint Research Centre.
+* 03/2022: Work on forecasting multipe, diverse and feasible, trajectories, accepted at ICPR. 
 * 03/2022: Arthur Ouaknine and Charles Corbière defend their PhD at Telecom and CNAM respectively.
 * 03/2022: [Paper](https://ptrckprz.github.io/vaipub) on [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation]() accpeted in PAMI.
 * 03/2022: Four [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR](https://cvpr2022.thecvf.com/) (25.3% acceptance rate).
