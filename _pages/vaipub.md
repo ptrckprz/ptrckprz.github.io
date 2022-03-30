@@ -10,6 +10,14 @@ redirect_from:
 
 **2022**
 
+Deep surface reconstruction from point clouds with visibility information  
+R. Sulzer, L. Landrieu, A. Boulch, R. Marlet, B. Vallet  
+*ICPR 2022*
+
+VASAD: a volume and semantic dataset for building reconstruction from point clouds  
+P.-A. Langlois, Y. Xiao, A. Boulch, R. Marlet  
+*ICPR 2022*
+
 Diverse probabilistic trajectory forecasting with admissibility constraints  
 L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
 *ICPR 2022*
