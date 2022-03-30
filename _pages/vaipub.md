@@ -10,6 +10,10 @@ redirect_from:
 
 **2022**
 
+Diverse probabilistic trajectory forecasting with admissibility constraints  
+L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
+*ICPR 2022*
+
 [Image-to-Lidar self-supervised distillation for autonomous driving data]()  
 C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet  
 *CVPR 2022*  
