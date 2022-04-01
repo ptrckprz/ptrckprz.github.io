@@ -50,7 +50,8 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code and data
-* [RADIal](https://github.com/valeoai/RADIal) ([dataset](https://www.dropbox.com/s/y5kptmgxcngesp7/RADIal.zip)): HR radar dataset (+ camera & lidar) for vehicle and free space detection ([CVPR 2022](https://arxiv.org/abs/2112.10646))
+* [SLidR](https://github.com/valeoai/SLidR): Image-to-Lidar self-supervised distillation for autonomous driving data ([CVPR'22](https://arxiv.org/abs/2203.16258))
+* [RADIal](https://github.com/valeoai/RADIal) ([dataset](https://www.dropbox.com/s/y5kptmgxcngesp7/RADIal.zip)): HR radar dataset (+ camera & lidar) for vehicle and free space detection ([CVPR'22](https://arxiv.org/abs/2112.10646))
 * [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (BMVC'21) 
 * [MTAF](https://github.com/valeoai/MTAF): Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)
 * [PCAM](https://github.com/valeoai/PCAM): Product of Cross-Attention Matrices for rigid registration of point clouds (ICCV'21)
@@ -94,6 +95,7 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 
 ### News
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
+* 03/2022: [Code](https://github.com/valeoai/SLidR) for our CVPR'22 paper "Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data".
 * 03/2022: Matthieu Cord delivers a keynote at the Explainable AV Workshop of the European Commission Joint Research Centre.
 * 03/2022: Work on forecasting multipe, diverse and feasible, trajectories, accepted at ICPR. 
 * 03/2022: Arthur Ouaknine and Charles Corbière defend their PhD at Telecom and CNAM respectively.
