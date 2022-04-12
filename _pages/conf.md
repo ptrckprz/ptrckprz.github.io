@@ -12,7 +12,7 @@ redirect_from:
 
 [Raw high-definition radar for multi-task learning](https://arxiv.org/abs/2112.10646)  
 J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
-*CVPR 2022*
+*CVPR 2022* [[data](https://github.com/valeoai/RADIal), [video](https://www.youtube.com/watch?v=bBEKZ7dl7zE)]
 
 Diverse probabilistic trajectory forecasting with admissibility constraints  
 L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
