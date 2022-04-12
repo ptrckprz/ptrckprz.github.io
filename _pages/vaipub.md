@@ -28,7 +28,7 @@ C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet
 
 [POCO: Point convolution for surface reconstruction](https://arxiv.org/abs/2201.01831)  
 A. Boulch, R. Marlet  
-*CVPR 2022*
+*CVPR 2022* [[code](https://github.com/valeoai/POCO)]
 
 [Raw high-definition radar for multi-task learning](https://arxiv.org/abs/2112.10646)  
 J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
@@ -62,7 +62,7 @@ B. Michele, A. Boulch, G. Puy, R. Marlet, M. Bucher
 
 [NeeDrop: Unsupervised shape representation from sparse point clouds using needle dropping](https://arxiv.org/abs/2111.15207)  
 A. Boulch, G. Puy, R. Marlet  
-*3DV 2021* 
+*3DV 2021* [[code](https://github.com/valeoai/NeeDrop)]
 
 [PoseContrast: Class-agnostic object viewpoint estimation in the wild with pose-aware contrastive learning](https://arxiv.org/abs/2105.05643)  
 Y. Xiao, Y. Du, R. Marlet  
