@@ -20,6 +20,9 @@ redirect_from:
 * R. Venkatesh Babu, Inria (2004), now Associate Professor at IISc Bangalore
 
 ### PhDs
+* Antoine Saporta (Sorbonne U., April 2022)
+* Charles Corbière (CNAM, March 2022)
+* Arthur Ouaknine (Telecom Paris, March 2022)
 * Martin Engilberge (Sorbonne U., June 2020), now Postdoc at EPFL
 * Sanjeel Parekh (Telecom Paris, Jan. 2019), now Postdoc at Telecom Paris
 * Himalaya Jain (Inria, May 2018), now researcher at Helsing
