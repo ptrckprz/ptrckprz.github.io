@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ### Code
+* [RADIal](https://github.com/valeoai/RADIal): HR radar dataset (+ camera & lidar) for vehicle and free space detection (CVPR'22)
 * [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (BMVC'21)  
 * [MTAF](https://github.com/valeoai/MTAF): Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)  
 * [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
