@@ -6,11 +6,11 @@ redirect_from:
   - /resume
 ---
 
-**[Deep learning](/deep/)**: robustness, data efficiency, explicability 
+**[Safe AI](/deep/)**: robustness, adaptation, explicability 
 
 **[Scene understanding](/reconstruct/)**: segmentation, detection, fusion 
 
-**[Face and body analysis](/face/)**:  understanding, reconstruction, modification
+**[Face and body](/face/)**:  understanding, reconstruction, editing
 
 **[Dynamic scene analysis](/motion/)**: understanding, tracking, forecast 
 
