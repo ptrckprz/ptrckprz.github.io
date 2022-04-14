@@ -10,7 +10,7 @@ redirect_from:
 
 **2022**
 
-Deep surface reconstruction from point clouds with visibility information  
+[Deep surface reconstruction from point clouds with visibility information](https://arxiv.org/abs/2202.01810)  
 R. Sulzer, L. Landrieu, A. Boulch, R. Marlet, B. Vallet  
 *ICPR 2022*
 
