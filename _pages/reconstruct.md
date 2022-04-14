@@ -10,13 +10,18 @@ redirect_from:
 
 ### Relevant publications
 
-[Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
-M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
-sumitted to *PAMI*, 2021
 
 [LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR]()  
 F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
-subitted to  *CVIU*, 2021
+subitted to  *CVIU*
+
+[Raw high-definition radar for multi-task learning](https://arxiv.org/abs/2112.10646)  
+J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
+*CVPR 2022* [[data](https://github.com/valeoai/RADIal), [video](https://www.youtube.com/watch?v=bBEKZ7dl7zE)]
+
+[Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
+M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
+T-PAMI, 2022
 
 [Localizing Objects with Self-Supervised Transformers and no Labels](https://arxiv.org/abs/2109.14279)  
 O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. Marlet, J. Ponce  
