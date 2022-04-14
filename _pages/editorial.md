@@ -31,7 +31,7 @@ redirect_from:
 * 2022.06: Yihong Xu (Inria Grenoble), as reviewer
 * 2022.06: Vo Van Huy (Inria Paris/Valeo), as advisor
 * 2022.04: Antoine Saporta (Sorbonne/Valeo), as advisor
-* 2022.04: Xu Yao (Telecom/Interdigital), as invitee
+* 2022.04: Xu Yao (Telecom/Interdigital), as guest
 * 2022.03: Charles Corbière (Cnam/Valeo), as advisor
 * 2022.03: Arthur Ouaknine (Telecom/Valeo), as advisor
 * 2022.01: Vivien Sainte-Fare Garnot (IGN), as examiner
@@ -51,7 +51,7 @@ redirect_from:
 * 2020.10: Ignacio Rocco (Inria Paris), as examiner
 * 2020.09: Oriane Simeoni (Inria Rennes), as reviewer 
 * 2020.07: Mariano Rodriguez (ENS Paris Saclay), as examiner
-* 2020.06: Maximilian Jaritz (Inria Paris/Valeo), as invitee 
+* 2020.06: Maximilian Jaritz (Inria Paris/Valeo), as guest 
 * 2020.06: Martin Engilberge (Sorbonne U./Technicolor-Interdigital), as advisor
 * 2020.01: Florian Strub (Lille U.), as reviewer  
 * 2019.12: Kevin Bascol (Irisa/Blucime), as reviewer  
