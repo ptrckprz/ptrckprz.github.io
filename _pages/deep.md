@@ -1,5 +1,5 @@
 ---
-title: "Deep learning"
+title: "Safe and frugal AI"
 permalink: /deep/
 author_profile: true
 redirect_from:
