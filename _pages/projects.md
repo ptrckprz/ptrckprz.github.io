@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-**[Safe AI](/deep/)**: robustness, adaptation, explicability 
+**[Safe and frugal AI](/deep/)**: robustness, adaptation, explicability 
 
 **[Scene understanding](/reconstruct/)**: segmentation, detection, fusion 
 
