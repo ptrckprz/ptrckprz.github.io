@@ -5,7 +5,14 @@ author_profile: true
 redirect_from: 
   - /resume
 ---
-
+* 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/)
+* 2022.07: Course at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague
+* 2022.06: Keynote at the [Vision4AllSeaons](https://vision4allseason.net/) CVPR Workshop
+* 2022.05: Keynote at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop
+* 2022.02: Talk at EPFL CV Seminar
+* 2022.01: [IMT podcast](https://imtech.wp.imt.fr/2022/01/26/voitures-intelligentes-sur-la-route-de-lautonomie/) (in French) on challenges of driving automation
+* 2022.01: Keynote on trustworthy AI at the French Academy of Technologies 
+* 2022.01: Keynote on basic AI research in corporate labs at Eurecom 
 * 2021.11: Keynote at the ACM-Computer Science in Cars Symposium (CSCS)  
 * 2021.11: Panel on AI at Institut Henri Pointcaré  
 * 2021.11: Panel on autonomous vehicles at the AI Day of the French AI Manifesto  
