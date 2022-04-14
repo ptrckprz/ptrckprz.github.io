@@ -10,6 +10,14 @@ redirect_from:
 
 ### Relevant publications
 
+Diverse probabilistic trajectory forecasting with admissibility constraints  
+L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
+*ICPR 2022*  
+
+[Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
+S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
+*Siggraph 2021* [[page](http://gvv.mpi-inf.mpg.de/projects/PhysAware/),[video](https://www.youtube.com/watch?v=8JhUjzFAMJI)]
+
 [Raising context awareness in motion forecasting](https://arxiv.org/abs/2111.09094)  
 H Ben-Younes, É Zablocki, M Chen, P Pérez, M Cord  
 *arXiv*, 2021
