@@ -5,20 +5,20 @@ author_profile: true
 redirect_from: 
   - /resume
 ---
-* 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/)
+* 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/): *TBC*.
 * 2022.07: Course at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague: *Robustness and adaptation*.
 * 2022.06: Keynote at the [Vision4AllSeaons](https://vision4allseason.net/) CVPR Workshop: *TBC*
 * 2022.05: Keynote at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop: *TBC*
-* 2022.02: Talk at EPFL CV Seminar: *Annotation-efficient perception for driving* [[video](https://www.youtube.com/watch?v=aeVK6Rt-19g)]
+* 2022.02: Talk at EPFL CV Seminar: *Annotation-efficient perception for driving* [[video](https://www.youtube.com/watch?v=aeVK6Rt-19g)].
 * 2022.01: [IMT podcast](https://imtech.wp.imt.fr/2022/01/26/voitures-intelligentes-sur-la-route-de-lautonomie/) (in French): *Challenges of driving automation*.
 * 2022.01: Keynote on trustworthy AI at the French Academy of Technologies 
 * 2022.01: Keynote at Eurecom: *On basic AI research in corporate labs*. 
-* 2021.11: Keynote at the ACM-Computer Science in Cars Symposium (CSCS):   
+* 2021.11: Keynote at the ACM-Computer Science in Cars Symposium (CSCS): *Annotation-efficient perception for driving*.   
 * 2021.11: Panel on AI at Institut Henri Pointcaré  
 * 2021.11: Panel on autonomous vehicles at the AI Day of the French AI Manifesto  
 * 2021.10: Panel on Machine Learning and Physics at the Industry Day on AI of the French Physics Society
 * 2021.06: Keynote at [Vision4AllSeason](https://vision4allseason.net/) CVPR'21 workhsop: *Some challenges of night-time perception for driving*.
-* 2021.06: Keynote at the Airbus workshop on Frugal Learning.
+* 2021.06: Keynote at the Airbus workshop: *Frugal learning for autonomous driving*.
 * 2021.06: Keynote at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workhsop: *Paying attention to pedestrians*.
 * 2021.05: Keynote at [Mobilit.AI](https://www.mobilit.ai/en/): *Challenges of AI for AD* [[video](https://www.youtube.com/watch?v=V_kyYRTFKlQ)] and panel on *embedded AI*. 
 * 2021.04: Keynote at [Good In Tech](https://www.goodintech.org/EventDetails.html?lng=fr&id=13&lng=fr): *Manipulating visual content in the age of modern AI*. 
