@@ -1,5 +1,5 @@
 ---
-title: "Editorial duties"
+title: "Editorial duties and Committees"
 permalink: /edit/
 author_profile: true
 redirect_from:
