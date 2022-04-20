@@ -1,5 +1,5 @@
 ---
-title: "Recent and current projects"
+title: "Past and current projects"
 permalink: /proj/
 author_profile: true
 redirect_from:
