@@ -46,6 +46,10 @@ S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry
 M. Jaritz, T.H. Vu, R. de Charette, É. Wirbel, P. Pérez  
 *PAMI*, 2022
 
+[Raising context awareness in motion forecasting](https://arxiv.org/abs/2109.08048)  
+H. Ben-Younes, É. Zablocki, M. Chen, P. Pérez, M. Cord  
+*CVPR Workshop on Autonous Driving (WAD 2022)*
+
 **2021**
 
 [Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
