@@ -10,18 +10,6 @@ redirect_from:
 
 **2022**
 
-[Deep surface reconstruction from point clouds with visibility information](https://arxiv.org/abs/2202.01810)  
-R. Sulzer, L. Landrieu, A. Boulch, R. Marlet, B. Vallet  
-*ICPR 2022*
-
-VASAD: a volume and semantic dataset for building reconstruction from point clouds  
-P.-A. Langlois, Y. Xiao, A. Boulch, R. Marlet  
-*ICPR 2022*
-
-Diverse probabilistic trajectory forecasting with admissibility constraints  
-L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
-*ICPR 2022*
-
 [Image-to-Lidar self-supervised distillation for autonomous driving data]()  
 C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet  
 *CVPR 2022*  
@@ -37,6 +25,18 @@ J. Rebut, A. Ouaknine, W. Malik, P. Pérez
 [DyTox: Transformers for continual learning with dynamic token expansion](https://arxiv.org/abs/2111.11326)  
 A. Douillard, A. Ramé, G. Couairon, M. Cord  
 *CVPR 2022* 
+
+[Deep surface reconstruction from point clouds with visibility information](https://arxiv.org/abs/2202.01810)  
+R. Sulzer, L. Landrieu, A. Boulch, R. Marlet, B. Vallet  
+*ICPR 2022*
+
+VASAD: a volume and semantic dataset for building reconstruction from point clouds  
+P.-A. Langlois, Y. Xiao, A. Boulch, R. Marlet  
+*ICPR 2022*
+
+Diverse probabilistic trajectory forecasting with admissibility constraints  
+L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
+*ICPR 2022*
 
 [Spherical Perspective on Learning with Normalization Layers]()  
 S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
