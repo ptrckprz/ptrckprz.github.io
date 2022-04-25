@@ -48,7 +48,16 @@ M. Jaritz, T.H. Vu, R. de Charette, É. Wirbel, P. Pérez
 
 [Raising context awareness in motion forecasting](https://arxiv.org/abs/2109.08048)  
 H. Ben-Younes, É. Zablocki, M. Chen, P. Pérez, M. Cord  
-*CVPR Workshop on Autonous Driving (WAD 2022)*
+*CVPR Workshop on Autonomous Driving (WAD 2022)*
+
+[CSG0: Continual Urban Scene Generation with Zero Forgetting](https://arxiv.org/abs/2112.03252)  
+H. Jain, T.H. Vu, P. Pérez, M. Cord  
+*CVPR Workshop on Continual Learning (CLVision 2022)*
+
+[Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation]()  
+A. Saporta, A. Douillard, T.H. Vu, P. Pérez, M. Cord  
+*CVPR Workshop on Continual Learning (CLVision 2022)*
+
 
 **2021**
 
