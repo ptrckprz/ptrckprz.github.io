@@ -50,6 +50,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code and data
+* [MuHDi](https://github.com/valeoai/MuHDi): Multi-head distillation for dontinual unsupervised domain adaptation in semantic segmentation ([CLVision'22](https://arxiv.org/abs/2204.11667))
 * [SLidR](https://github.com/valeoai/SLidR): Image-to-Lidar self-supervised distillation for autonomous driving data ([CVPR'22](https://arxiv.org/abs/2203.16258))
 * [RADIal](https://github.com/valeoai/RADIal) ([dataset](https://www.dropbox.com/s/y5kptmgxcngesp7/RADIal.zip)): HR radar dataset (+ camera & lidar) for vehicle and free space detection ([CVPR'22](https://arxiv.org/abs/2112.10646))
 * [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (BMVC'21) 
