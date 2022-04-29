@@ -97,6 +97,7 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 ### News
 * 04/2022: [Code](https://github.com/valeoai/MuHDi) for our CLVision'22 workshop paper "Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation".  
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
+* 03/2022: Geoffrey Bouquot, Valeo CTO, highlights several team's projects on [augmented perception of autonomous vehicles](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/) at Nvidia GTC.  
 * 03/2022: [Code](https://github.com/valeoai/SLidR) for our CVPR'22 paper "Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data".
 * 03/2022: Matthieu Cord delivers a keynote at the Explainable AV Workshop of the European Commission Joint Research Centre.
 * 03/2022: Work on forecasting multipe, diverse and feasible, trajectories, accepted at ICPR. 
