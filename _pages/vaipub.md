@@ -10,6 +10,11 @@ redirect_from:
 
 **2022**
 
+[A neural tangent kernel perspective of GANs](https://arxiv.org/abs/2106.05566)  
+J.-Y. Franceschi, E. de Bézenac, I. Ayed, M. Chen, S. Lamprier, P. Gallinari  
+*ICML 2022*
+
+
 [Image-to-Lidar self-supervised distillation for autonomous driving data]()  
 C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet  
 *CVPR 2022*  
