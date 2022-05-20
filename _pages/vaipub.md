@@ -14,7 +14,7 @@ redirect_from:
 J.-Y. Franceschi, E. de Bézenac, I. Ayed, M. Chen, S. Lamprier, P. Gallinari  
 *ICML 2022*
 
-[Fishr: Invariant gradient variances for out-of-distribution generalization](https://arxiv.org/abs/2109.02934) 
+[Fishr: Invariant gradient variances for out-of-distribution generalization](https://arxiv.org/abs/2109.02934)  
 A. Rame, C. Dancette, M. Cord  
 *ICML 2022* 
 
