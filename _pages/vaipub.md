@@ -14,6 +14,9 @@ redirect_from:
 J.-Y. Franceschi, E. de Bézenac, I. Ayed, M. Chen, S. Lamprier, P. Gallinari  
 *ICML 2022*
 
+[Fishr: Invariant gradient variances for out-of-distribution generalization](https://arxiv.org/abs/2109.02934) 
+A. Rame, C. Dancette, M. Cord  
+*ICML 2022* 
 
 [Image-to-Lidar self-supervised distillation for autonomous driving data]()  
 C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet  
