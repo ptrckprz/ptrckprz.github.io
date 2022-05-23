@@ -10,6 +10,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ###  Team
 ![](../images/team-photo-crop-2021.jpg)  
+**Florent Bartoccioni**, PhD student (with Inria) | [linkedin](https://www.linkedin.com/in/flobarto/)   
 **Hédi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
@@ -20,6 +21,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **David Hurych**, research scientist | [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
 **Renaud Marlet**, principal scientist (and researcher at ENPC) | [page](http://imagine.enpc.fr/~marletr/) | [scholar](https://scholar.google.fr/citations?user=2rclwh4AAAAJ&hl=en)  
 **Patrick Pérez**, scientific director (and Valeo VP of AI) | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
+**Olivier Petit**, research engineer | [page](https://www.olivier-petit.fr/)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
 **Antoine Saporta**, PhD student (with Sorbonne U.) | [scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)   
 **Tristan Schultz**, research engineer  
