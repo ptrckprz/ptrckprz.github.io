@@ -179,16 +179,16 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 ### Alumni
 
 **Maxime Bucher**, research scientist ([scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en))  
-**Charles Corbière**, PhD student with CNAM ([scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en)), now... travelling  
+**Charles Corbière**, PhD student with CNAM ([scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en))  
 **Maximilian Jaritz**, PhD student ([scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ&hl=en)), now at Amazon  
 **Himalaya Jain**, research scientist ([scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en)), now at Helsing.ai  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at Preligens  
-**Arthur Ouaknine**, PhD student with Telecom ([scholar](https://scholar.google.com/citations?user=OCT3E9wAAAAJ&hl=en)), now... travelling   
+**Arthur Ouaknine**, PhD student with Telecom ([scholar](https://scholar.google.com/citations?user=OCT3E9wAAAAJ&hl=en))     
 **Julien Rebut**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Hexagon|AutonomouStuff  
-**Simon Roburin**, PhD student with Ponts ([scholar](https://scholar.google.fr/citations?user=Bf6mJqkAAAAJ&hl=en)), now at Ponts 
-**Antoine Saporta**, PhD student with Sorbonne U. ([scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)), now at ...
+**Simon Roburin**, PhD student with Ponts ([scholar](https://scholar.google.fr/citations?user=Bf6mJqkAAAAJ&hl=en))    
+**Antoine Saporta**, PhD student with Sorbonne U. ([scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en))  
 **Marin Toromanoff**, PhD student ([scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)), now at Valeo Driving Assistance Research   
-**Huy Van Vo**, PhD student with Inria ([scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)), now at ....  
+**Huy Van Vo**, PhD student with Inria ([scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en))  
 **Emilie Wirbel**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Nvidia  
 
 
