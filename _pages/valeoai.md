@@ -95,6 +95,9 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ), [Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/))
 
 ### News
+* 06/2022: Valeo.ai presents 4 papers and 3 worshop papers at CVPR'22.  
+* 05/2022: Patrick delivers a keynote at Autonomy 2.0 ICRA workshop.    
+* 05/2022: Oriane and Renaud are Outstanding Reviewers at CVPR'22.
 * 04/2022: [Code](https://github.com/valeoai/MuHDi) for our CLVision'22 workshop paper "Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation".  
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
 * 03/2022: Geoffrey Bouquot, Valeo CTO, highlights several team's projects on [augmented perception of autonomous vehicles](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/) at Nvidia GTC.  
