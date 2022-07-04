@@ -12,11 +12,11 @@ redirect_from:
 
 [HULC: 3D human motion capture with pose manifold sampling and dense contact guidance](https://arxiv.org/abs/2205.05677)  
 S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt  
-*arXiv 2022* 
+*ECCV 2022* 
 
 [STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
 P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
-*arXiv 2021*
+*ECCV 2022*
 
 [Neural monocular 3D human motion capture with physical awareness](http://gvv.mpi-inf.mpg.de/projects/PhysAware/data/PhysAware.pdf)  
 S. Shimada, V. Golyanik, W. Xu, P. Pérez, Ch. Theobalt   
