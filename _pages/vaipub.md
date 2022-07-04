@@ -10,6 +10,22 @@ redirect_from:
 
 **2022**
 
+[Drive&Segment: Unsupervised semantic segmentation of urban scenes via cross-modal distillation](https://arxiv.org/abs/2203.11160)  
+A. Vobecky, D. Hurych, O. Siméoni, S. Gydaris, A. Bursuc, P. Pérez, J. Sivic  
+*ECCV 2022* [[page](https://vobecant.github.io/DriveAndSegment/),[code](https://github.com/vobecant/DriveAndSegment),[demo](https://huggingface.co/spaces/vobecant/DaS)]
+
+Active learning strategies for weakly-supervised object detection  
+O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce  
+*ECCV 2022* 
+
+[STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
+P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
+*ECCV 2022* 
+
+[HULC: 3D human motion capture with pose manifold sampling and dense contact guidance](https://arxiv.org/abs/2205.05677)  
+S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt  
+*ECCV 2022* 
+
 [A neural tangent kernel perspective of GANs](https://arxiv.org/abs/2106.05566)  
 J.-Y. Franceschi, E. de Bézenac, I. Ayed, M. Chen, S. Lamprier, P. Gallinari  
 *ICML 2022*
