@@ -94,6 +94,8 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ), [Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/))
 
 ### News
+* 07/2022: Tutorial "Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data" accepted at ECCV'22.
+* 07/2022: Four [papers](https://ptrckprz.github.io/vaipub) accepted at ECCV'22.
 * 06/2022: Valeo.ai presents 4 papers and 3 worshop papers at CVPR'22.  
 * 05/2022: Patrick delivers a keynote at Autonomy 2.0 ICRA workshop.    
 * 05/2022: Oriane and Renaud are Outstanding Reviewers at CVPR'22.
