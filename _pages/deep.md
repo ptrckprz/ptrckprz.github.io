@@ -12,7 +12,7 @@ redirect_from:
 
 [STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
 P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
-*arXiv 2021*
+*ECCV 2022*
 
 [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
