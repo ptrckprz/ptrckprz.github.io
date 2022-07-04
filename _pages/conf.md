@@ -10,6 +10,22 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Drive&Segment: Unsupervised semantic segmentation of urban scenes via cross-modal distillation](https://arxiv.org/abs/2203.11160)  
+A. Vobecky, D. Hurych, O. Siméoni, S. Gydaris, A. Bursuc, P. Pérez, J. Sivic  
+*ECCV 2022* [[page](https://vobecant.github.io/DriveAndSegment/),[code](https://github.com/vobecant/DriveAndSegment),[demo](https://huggingface.co/spaces/vobecant/DaS)]
+
+Active learning strategies for weakly-supervised object detection  
+O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce  
+*ECCV 2022* 
+
+[STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
+P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
+*ECCV 2022* 
+
+[HULC: 3D human motion capture with pose manifold sampling and dense contact guidance](https://arxiv.org/abs/2205.05677)  
+S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt  
+*ECCV 2022* 
+
 [Raw high-definition radar for multi-task learning](https://arxiv.org/abs/2112.10646)  
 J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
 *CVPR 2022* [[data](https://github.com/valeoai/RADIal), [video](https://www.youtube.com/watch?v=bBEKZ7dl7zE)]
