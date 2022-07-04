@@ -22,6 +22,14 @@ O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce
 P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
 *ECCV 2022* 
 
+[What to hide to your student: Attention-guided masked image modeling](https://arxiv.org/abs/2203.12719)  
+I. Kakogeorgiou, S. Gidaris, B. Psomas, Y. Avrithis, A. Bursuc, K. Karantzalos, N. Komodakis  
+*ECCV 2022*
+
+Latent discriminant deterministic uncertainty  
+Franchi, Yu, Bursuc, Aldea, Dubuisson, Filliat  
+*ECCV 2022*
+
 [HULC: 3D human motion capture with pose manifold sampling and dense contact guidance](https://arxiv.org/abs/2205.05677)  
 S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt  
 *ECCV 2022* 
@@ -49,6 +57,10 @@ J. Rebut, A. Ouaknine, W. Malik, P. Pérez
 [DyTox: Transformers for continual learning with dynamic token expansion](https://arxiv.org/abs/2111.11326)  
 A. Douillard, A. Ramé, G. Couairon, M. Cord  
 *CVPR 2022* 
+
+[Solving disjunctive temporal networks with uncertainty under restricted time-based controllability using tree search and graph neural networks](https://arxiv.org/abs/2203.15030)  
+K. Osanlou, J. Frank, A. Bursuc, T. Cazenave, E. Jacopin, Ch. Guettier, J. Benton  
+*AAAI 2022*
 
 [Deep surface reconstruction from point clouds with visibility information](https://arxiv.org/abs/2202.01810)  
 R. Sulzer, L. Landrieu, A. Boulch, R. Marlet, B. Vallet  
