@@ -26,7 +26,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [github](https://github.com/tuanhungvu) | [twitter](https://twitter.com/tuanhungvu89)  
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
-**Léon Zheng**, PhD student (with ENS Lyon) | [page](https://www.linkedin.com/in/leon-zheng/)
+**Léon Zheng**, PhD student (with ENS Lyon) | [page](https://leonzheng2.github.io/)
 
 **Human Resource Partner**: [Alain Phetsinghane](mailto:alain.phetsinghane@valeo.com)  
 **Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
