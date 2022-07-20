@@ -13,7 +13,7 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 ### News
 
 * 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/)
-* 2022.07: Course on robustness, conf, at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague
+* 2022.07: Course on robustness, confidence and adaptation at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague
 * 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV
 * 2022.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'22
 * 2022/07: Tutorial "Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data" accepted at ECCV'22.
