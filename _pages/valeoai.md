@@ -49,6 +49,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 *Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
 
 ### Code and data
+* [BiB](https://github.com/huyvvo/BiB): Active learning strategies for weakly-supervised object detection (ECCV'22)
 * [STEEX](https://github.com/valeoai/STEEX): Steering Counterfactual Explanations with Semantics (ECCV'22)
 * [CAB](https://github.com/valeoai/CAB): Raising Context Awareness in Motion Forecasting (workshop CVPR'22)
 * [MuHDi](https://github.com/valeoai/MuHDi): Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation ([CLVision'22](https://arxiv.org/abs/2204.11667))
@@ -96,6 +97,8 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ), [Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/))
 
 ### News
+* 07/2022: [Code](https://github.com/huyvvo/BiB) for our ECCV'22 paper "Active learning strategies for weakly-supervised object detection"
+* 07/2022: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics"
 * 07/2022: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 07/2022: Tutorial "Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data" accepted at ECCV'22.
 * 07/2022: Six [papers](https://ptrckprz.github.io/vaipub) accepted at ECCV'22.
