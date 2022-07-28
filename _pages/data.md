@@ -9,6 +9,10 @@ redirect_from:
 {% include base_path %}
 
 ### Code
+* [BiB](https://github.com/huyvvo/BiB): Active learning strategies for weakly-supervised object detection (ECCV'22)
+* [STEEX](https://github.com/valeoai/STEEX): Steering Counterfactual Explanations with Semantics (ECCV'22)
+* [CAB](https://github.com/valeoai/CAB): Raising Context Awareness in Motion Forecasting (workshop CVPR'22)
+* [MuHDi](https://github.com/valeoai/MuHDi): Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation ([CLVision'22](https://arxiv.org/abs/2204.11667))
 * [RADIal](https://github.com/valeoai/RADIal): HR radar dataset (+ camera & lidar) for vehicle and free space detection (CVPR'22)
 * [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (BMVC'21)  
 * [MTAF](https://github.com/valeoai/MTAF): Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)  
