@@ -50,6 +50,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ### Code and data
 * [BiB](https://github.com/huyvvo/BiB): Active learning strategies for weakly-supervised object detection (ECCV'22)
+* [D&S](https://github.com/vobecant/DriveAndSegment): Unsupervised semantic segmentation of urban scenes via cross-modal distillation (ECCV'22) 
 * [STEEX](https://github.com/valeoai/STEEX): Steering Counterfactual Explanations with Semantics (ECCV'22)
 * [CAB](https://github.com/valeoai/CAB): Raising Context Awareness in Motion Forecasting (workshop CVPR'22)
 * [MuHDi](https://github.com/valeoai/MuHDi): Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation ([CLVision'22](https://arxiv.org/abs/2204.11667))
@@ -91,6 +92,7 @@ EPFL, Lausanne ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))
 ENPC, Paris ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [David Picard](https://davidpicard.github.io/))  
 ENS & Inria, Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
 Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/))   
+Inria Paris ([Raoul de Charrette](https://team.inria.fr/rits/membres/raoul-de-charette/)     
 Inria, Grenoble ([Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
 MPI, Saarbrücken ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
 Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
