@@ -99,13 +99,16 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))
 Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ), [Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/))
 
 ### News
-* 07/2022: [Code](https://github.com/huyvvo/BiB) for our ECCV'22 paper "Active learning strategies for weakly-supervised object detection"
-* 07/2022: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics"
+* 09/2022: Patrick Pérez contributes to the [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
+* 08/2022: Valeo.ai contributes to the [Weakly Supervised Computer Vision workshop](https://wscv-indaba.github.io/) at the Deep Learning Indaba in Tunis.
+* 08/2022: Valeo.ai is part of Astra, the new Inria-Valeo join team on autonomous driving.
+* 07/2022: [Code](https://github.com/huyvvo/BiB) for our ECCV'22 paper "Active learning strategies for weakly-supervised object detection".
+* 07/2022: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics".
 * 07/2022: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 07/2022: Tutorial "Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data" accepted at ECCV'22.
 * 07/2022: Six [papers](https://ptrckprz.github.io/vaipub) accepted at ECCV'22.
 * 06/2022: Valeo.ai presents 4 papers and 3 worshop papers at CVPR'22.  
-* 05/2022: Patrick delivers a keynote at Autonomy 2.0 ICRA workshop.    
+* 05/2022: Patrick Pérez delivers a keynote at Autonomy 2.0 ICRA workshop.    
 * 05/2022: Oriane and Renaud are Outstanding Reviewers at CVPR'22.
 * 04/2022: [Code](https://github.com/valeoai/MuHDi) for our CLVision'22 workshop paper "Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation".  
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
