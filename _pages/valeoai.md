@@ -11,7 +11,6 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 ###  Team
 ![](../images/team-photo-crop-2021.jpg)  
 **Florent Bartoccioni**, PhD student (with Inria) | [linkedin](https://www.linkedin.com/in/flobarto/)   
-**Hédi Ben-younes**, research scientist | [scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en) | [twitter](https://twitter.com/labegne)  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, research scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
 **Laura Calem**, PhD student (with CNAM) | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
@@ -86,19 +85,18 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 * [OSD](https://github.com/huyvvo/OSD): Unsupervised object discovery as optimization (CVPR'19)  
 
 ###  Academic partners
-CNAM, Paris ([Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
 CTU, Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL, Lausanne ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
-ENPC, Paris ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [David Picard](https://davidpicard.github.io/))  
+ENPC, Paris ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [David Picard](https://davidpicard.github.io/), [Vincent Lepetit](https://vincentlepetit.github.io/))  
 ENS & Inria, Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
 Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/))   
 Inria Paris ([Raoul de Charrette](https://team.inria.fr/rits/membres/raoul-de-charette/))     
 Inria, Grenoble ([Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
-MPI, Saarbrücken ([Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/))  
-Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/))  
+Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/), [Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
 Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ), [Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/))
 
 ### News
+* 09/2022: ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data.
 * 09/2022: Patrick Pérez contributes to the [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
 * 08/2022: Valeo.ai contributes to the [Weakly Supervised Computer Vision workshop](https://wscv-indaba.github.io/) at the Deep Learning Indaba in Tunis.
 * 08/2022: Valeo.ai is part of Astra, the new Inria-Valeo join team on autonomous driving.
@@ -193,6 +191,7 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 
 ### Alumni
 
+**Hédi Ben-younes**, research scientist ([scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en)), now at BCG  
 **Maxime Bucher**, research scientist ([scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en))  
 **Charles Corbière**, PhD student with CNAM ([scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en))  
 **Maximilian Jaritz**, PhD student ([scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ&hl=en)), now at Amazon  
