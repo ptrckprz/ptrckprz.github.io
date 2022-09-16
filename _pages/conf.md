@@ -18,17 +18,17 @@ F. Bartoccioni, É. Zablocki, A. Bursuc, P. Pérez, M. Cord, K. Alahari
 A. Vobecky, D. Hurych, O. Siméoni, S. Gydaris, A. Bursuc, P. Pérez, J. Sivic  
 *ECCV 2022* [[page](https://vobecant.github.io/DriveAndSegment/),[code](https://github.com/vobecant/DriveAndSegment),[demo](https://huggingface.co/spaces/vobecant/DaS)]
 
-Active learning strategies for weakly-supervised object detection  
+[Active learning strategies for weakly-supervised object detection](https://arxiv.org/abs/2207.12112)  
 O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce  
-*ECCV 2022* 
+*ECCV 2022* [[code](https://github.com/huyvvo/BiB)]
 
 [STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
 P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
-*ECCV 2022* 
+*ECCV 2022* [[code](https://github.com/valeoai/STEEX)]
 
 [HULC: 3D human motion capture with pose manifold sampling and dense contact guidance](https://arxiv.org/abs/2205.05677)  
 S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt  
-*ECCV 2022* 
+*ECCV 2022* [[video](youtube.com/watch?v=3hkfMg6T0lE)]
 
 [Raw high-definition radar for multi-task learning](https://arxiv.org/abs/2112.10646)  
 J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
