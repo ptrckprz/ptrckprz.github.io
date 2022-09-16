@@ -10,6 +10,10 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[LaRa: Latents and Rays for multi-camera bird's-eye-view semantic segmentation](https://arxiv.org/abs/2206.13294)  
+F. Bartoccioni, É. Zablocki, A. Bursuc, P. Pérez, M. Cord, K. Alahari  
+*CoRL 2022*
+
 [Drive&Segment: Unsupervised semantic segmentation of urban scenes via cross-modal distillation](https://arxiv.org/abs/2203.11160)  
 A. Vobecky, D. Hurych, O. Siméoni, S. Gydaris, A. Bursuc, P. Pérez, J. Sivic  
 *ECCV 2022* [[page](https://vobecant.github.io/DriveAndSegment/),[code](https://github.com/vobecant/DriveAndSegment),[demo](https://huggingface.co/spaces/vobecant/DaS)]
