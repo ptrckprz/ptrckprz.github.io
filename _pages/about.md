@@ -13,9 +13,10 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 ### News
 * 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/).
 * 2022.09: Keynote, panel and chair at [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
+* 2022.09: [Paper](https://ptrckprz.github.io/conf/) on transformer-based BEV segmentation accepted at CoRL'22.
 * 2022.09: Talk at Andrew Zisserman Festschrift, in Oxford.
 * 2022.07: [Code](https://github.com/huyvvo/BiB) for our ECCV'22 paper "Active learning strategies for weakly-supervised object detection".
-* 2022.07: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics"
+* 2022.07: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics".
 * 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 2022.07: Course on robustness, confidence and adaptation at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague.
 * 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
