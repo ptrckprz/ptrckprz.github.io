@@ -10,13 +10,13 @@ redirect_from:
 
 ### Selection (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
-[Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
-E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
-submitted to *IJCV*, 2021 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
-
 [LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR]()  
 F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
 subitted to  *CVIU*, 2021
+
+[Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
+E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
+IJCV, 2022 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
 
 [Spherical Perspective on Learning with Normalization Layers]()  
 S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
