@@ -12,6 +12,7 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 
 ### News
 * 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/).
+* 2022.10: Keynote at Confiance.ai Days in Saclay 
 * 2022.09: Keynote, panel and chair at [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
 * 2022.09: [Paper](https://ptrckprz.github.io/conf/) on transformer-based BEV segmentation accepted at CoRL'22.
 * 2022.09: Talk at Andrew Zisserman Festschrift, in Oxford.
