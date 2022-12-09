@@ -14,16 +14,18 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, senior scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
 **Laura Calem**, PhD student (with CNAM) | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
+**Loic Chambon**, pre-PhD | [linkedin](https://www.linkedin.com/in/loick-chambon)  
 **Mickaël Chen**, research scientist | [page](https://sites.google.com/view/mickaelchen/home) | [scholar](https://scholar.google.fr/citations?user=QnRpMJAAAAAJ&hl=en) | [github](https://github.com/mickaelChen/)  
 **Matthieu Cord**, principal scientist (and prof. at Sorbonne U.) | [page](http://www-poleia.lip6.fr/~cord/) | [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
 **Spyros Gidaris**, research scientist | [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en) | [github](https://github.com/gidariss)   
 **David Hurych**, research scientist | [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
+**Victor Letzelter**, pre-PhD | [linkedin](https://www.linkedin.com/in/victor-letzelter-3b832219b)  
 **Renaud Marlet**, principal scientist (and researcher at ENPC) | [page](http://imagine.enpc.fr/~marletr/) | [scholar](https://scholar.google.fr/citations?user=2rclwh4AAAAJ&hl=en)  
-**Bjoern Michele**, PhD student  
+**Bjoern Michele**, PhD student | [scholar](https://scholar.google.fr/citations?user=xQcKnXkAAAAJ)    
 **Patrick Pérez**, scientific director (and Valeo VP of AI) | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 **Cédric Rommel**, research scientist | [page](https://cedricrommel.github.io/) | [scholar](https://scholar.google.com/citations?user=GBv4KYwAAAAJ) | [twitter](https://twitter.com/ccrommel)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
-**Corentin Sautier**, PhD student  
+**Corentin Sautier**, PhD student | [linkedin](https://www.linkedin.com/in/corentin-sautier-74415917b)    
 **Tristan Schultz**, research engineer  
 **Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [github](https://github.com/tuanhungvu) | [twitter](https://twitter.com/tuanhungvu89)  
@@ -103,7 +105,7 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 ### News
 * 12/2022: Cédric Rommel starts as research scientist.
 * 11/2022: We have 4 internships open, looking for outstanding ML/CV master students. 
-* 11/2022: Huy defends his PhD at ENS.
+* 11/2022: Huy Van Vo defends his PhD at ENS.
 * 10/2022: Yihong Xu starts as research scientist.
 * 09/2022: ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data.
 * 09/2022: Patrick Pérez contributes to the [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
@@ -116,7 +118,7 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 * 07/2022: Six [papers](https://ptrckprz.github.io/vaipub) accepted at ECCV'22.
 * 06/2022: Valeo.ai presents 4 papers and 3 worshop papers at CVPR'22.  
 * 05/2022: Patrick Pérez delivers a keynote at Autonomy 2.0 ICRA workshop.    
-* 05/2022: Oriane and Renaud are Outstanding Reviewers at CVPR'22.
+* 05/2022: Oriane Siméoni and Renaud Marlet are Outstanding Reviewers at CVPR'22.
 * 04/2022: [Code](https://github.com/valeoai/MuHDi) for our CLVision'22 workshop paper "Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation".  
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
 * 03/2022: Geoffrey Bouquot, Valeo CTO, highlights several team's projects on [augmented perception of autonomous vehicles](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/) at Nvidia GTC.  
@@ -202,7 +204,7 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 
 **Hédi Ben-younes**, research scientist ([scholar](https://scholar.google.fr/citations?user=IFLcfvUAAAAJ&hl=en)), now at BCG  
 **Maxime Bucher**, research scientist ([scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en))  
-**Charles Corbière**, PhD student with CNAM ([scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en))  
+**Charles Corbière**, PhD student with CNAM ([scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en)), now at EPFL  
 **Maximilian Jaritz**, PhD student ([scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ&hl=en)), now at Amazon  
 **Himalaya Jain**, research scientist ([scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en)), now at Helsing.ai  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at Preligens  
@@ -211,7 +213,7 @@ Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?u
 **Simon Roburin**, PhD student with Ponts ([scholar](https://scholar.google.fr/citations?user=Bf6mJqkAAAAJ&hl=en))    
 **Antoine Saporta**, PhD student with Sorbonne U. ([scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en))  
 **Marin Toromanoff**, PhD student ([scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)), now at Valeo Driving Assistance Research   
-**Huy Van Vo**, PhD student with Inria ([scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)), now at FAIR  
+**Huy Van Vo**, PhD student with Inria ([scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)), now at Meta  
 **Emilie Wirbel**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Nvidia  
 
 
