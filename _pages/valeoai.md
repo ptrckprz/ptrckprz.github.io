@@ -14,20 +14,21 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, senior scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
 **Laura Calem**, PhD student (with CNAM) | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
-**Loic Chambon**, pre-PhD | [linkedin](https://www.linkedin.com/in/loick-chambon)  
+**Loïck Chambon**, pre-PhD | [linkedin](https://www.linkedin.com/in/loick-chambon)  
 **Mickaël Chen**, research scientist | [page](https://sites.google.com/view/mickaelchen/home) | [scholar](https://scholar.google.fr/citations?user=QnRpMJAAAAAJ&hl=en) | [github](https://github.com/mickaelChen/)  
 **Matthieu Cord**, principal scientist (and prof. at Sorbonne U.) | [page](http://www-poleia.lip6.fr/~cord/) | [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
 **Spyros Gidaris**, research scientist | [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en) | [github](https://github.com/gidariss)   
 **David Hurych**, research scientist | [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
 **Victor Letzelter**, pre-PhD | [linkedin](https://www.linkedin.com/in/victor-letzelter-3b832219b)  
 **Renaud Marlet**, principal scientist (and researcher at ENPC) | [page](http://imagine.enpc.fr/~marletr/) | [scholar](https://scholar.google.fr/citations?user=2rclwh4AAAAJ&hl=en)  
-**Bjoern Michele**, PhD student | [scholar](https://scholar.google.fr/citations?user=xQcKnXkAAAAJ)    
+**Björn Michele**, PhD student | [scholar](https://scholar.google.fr/citations?user=xQcKnXkAAAAJ)    
 **Patrick Pérez**, scientific director (and Valeo VP of AI) | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 **Cédric Rommel**, research scientist | [page](https://cedricrommel.github.io/) | [scholar](https://scholar.google.com/citations?user=GBv4KYwAAAAJ) | [twitter](https://twitter.com/ccrommel)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
 **Corentin Sautier**, PhD student | [linkedin](https://www.linkedin.com/in/corentin-sautier-74415917b)    
 **Tristan Schultz**, research engineer  
 **Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
+**Eduardo Valle**, senior scientist | [scholar](https://scholar.google.com/citations?user=lxWPqWAAAAAJ)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [github](https://github.com/tuanhungvu) | [twitter](https://twitter.com/tuanhungvu89)  
 **Yihong Xu**, research scientist | [scholar](https://scholar.google.fr/citations?user=vMLRRVkAAAAJ)  
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
@@ -37,7 +38,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
 **Location**: [100 rue de Courcelles](https://goo.gl/maps/LPCmZTD1GZo36qWU6), Paris  
 
-### Some projects
+### Main research themes
 
 *Multi-sensor perception* — Automated driving relies first on a variety of sensors, like Valeo's [fish-eye cameras](https://www.valeo.com/en/360-vue/), [LiDARs](https://www.valeo.com/en/valeo-scala/), radars and [ultrasonics](https://www.valeo.com/en/ultrasonic-parking-sensors/). Exploiting at best the outputs of each of these sensors at any instant is fundamental to understand the complex environment of the vehicle and gain robustness. To this end, we explore various machine learning approaches where sensors are considered either in isolation (as radar in [Carrada](https://arxiv.org/abs/2005.01456) at ICPR'20) or collectively (as in [xMUDA](https://valeoai.github.io/blog/publications/xmuda/) at CVPR'20).  
 
@@ -51,9 +52,9 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 *Driving in action* — Getting from sensory inputs to car control goes either through a modular stack (perception > localization > forecast > planning > actuation) or, more radically, through a single end-to-end model. We work on both strategies, more specifically on action forecasting, automatic interpretation of decisions taken by a driving system, and reinforcement / imitation learning for end-to-end systems (as in [RL work](https://openaccess.thecvf.com/content_CVPR_2020/html/Toromanoff_End-to-End_Model-Free_Reinforcement_Learning_for_Urban_Driving_Using_Implicit_Affordances_CVPR_2020_paper.html) at CVPR'20).    
 
-*Core Deep Learning* — Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
-
 ### Code and data
+
+* [DenseMTL](https://github.com/astra-vision/DenseMTL): Cross-task attention mechanism for dense multi-task learning (WACV'23)
 * [LaRa](https://github.com/valeoai/LaRa): Latents and rays for multi-camera BEV semantic segmentation (CoRL'22) 
 * [BiB](https://github.com/huyvvo/BiB): Active learning strategies for weakly-supervised object detection (ECCV'22)
 * [D&S](https://github.com/vobecant/DriveAndSegment): Unsupervised semantic segmentation of urban scenes via cross-modal distillation (ECCV'22) 
@@ -94,18 +95,20 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 ###  Academic partners
 CTU, Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
 EPFL, Lausanne ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
-ENPC, Paris ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), [David Picard](https://davidpicard.github.io/), [Vincent Lepetit](https://vincentlepetit.github.io/))  
+ENPC, Paris ([Vincent Lepetit](https://vincentlepetit.github.io/))  
 ENS & Inria, Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
 Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/))   
 Inria Paris ([Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/))     
 Inria, Grenoble ([Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
 Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/), [Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
-Télécom, Paris ([Florence d'Alché-Buc](https://scholar.google.com/citations?user=-qbL7z0AAAAJ), [Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/))
+Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/), [Mathieu Fontaine](https://matfontaine.github.io/))
 
 ### News
+* 01/2023: Eduarod Valle starts as senior scientist.
 * 12/2022: Cédric Rommel starts as research scientist.
 * 11/2022: We have 4 internships open, looking for outstanding ML/CV master students. 
 * 11/2022: Huy Van Vo defends his PhD at ENS.
+* 10/2022: [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception.
 * 10/2022: Yihong Xu starts as research scientist.
 * 09/2022: ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data.
 * 09/2022: Patrick Pérez contributes to the [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
