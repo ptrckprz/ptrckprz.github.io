@@ -58,6 +58,8 @@ Eloi Zablocki (research scientist) [scholar](https://scholar.google.fr/citations
 
 **Uncertainty estimation and performance prediction**: When the unexpected happens, when the weather badly degrades, when a sensor gets blocked, the embarked perception system should diagnose the situation and react accordingly, e.g., by calling an alternative system or the human driver. With this in mind, we investigate automatic ways to assess the uncertainty of a system and to predict its performance, as in [ConfidNet](https://github.com/valeoai/ConfidNet), our project presented at NeurIPS'19
 
+**Core Deep Learning**: Deep learning being now a key component of AD systems, it is important to get a better understanding of its inner workings, in particular the link between the specifics of the learning optimization and the key properties (performance, regularity, robustness, generalization) of the trained models. Among other things, we investigate the impact of popular batch normalization on standard learning procedures and the ability to learn through unsupervised distillation.      
+
 ## Code, data and posts
 
 On our [github](https://github.com/valeoai):  
