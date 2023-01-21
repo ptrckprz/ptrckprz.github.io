@@ -10,9 +10,13 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
+L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
+*ICLR 2023*
+
 [LaRa: Latents and Rays for multi-camera bird's-eye-view semantic segmentation](https://arxiv.org/abs/2206.13294)  
 F. Bartoccioni, É. Zablocki, A. Bursuc, P. Pérez, M. Cord, K. Alahari  
-*CoRL 2022*
+*CoRL 2022* [[code](https://github.com/valeoai/LaRa)]
 
 [Drive&Segment: Unsupervised semantic segmentation of urban scenes via cross-modal distillation](https://arxiv.org/abs/2203.11160)  
 A. Vobecky, D. Hurych, O. Siméoni, S. Gydaris, A. Bursuc, P. Pérez, J. Sivic  
@@ -44,7 +48,7 @@ O. Siméoni, G. Puy, H. V. Vo, S. Roburin, S. Gidaris, A. Bursuc, P. Pérez, R. 
 
 [Large-scale unsupervised object discovery](https://arxiv.org/abs/2106.06650)  
 H.V. Vo, E. Sizikova, C. Schmid, P. Pérez, J. Ponce  
-*NeurIPS 2021*
+*NeurIPS 2021* [[code](https://github.com/huyvvo/LOD)]
 
 [Multi-view radar semantic segmentation](https://arxiv.org/abs/2103.16214)  
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
