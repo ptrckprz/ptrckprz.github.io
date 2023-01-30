@@ -12,31 +12,31 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 
 ### News
 * 2023.01: [Paper](https://ptrckprz.github.io/conf/) on self-supervised learning with rotation-invariant kernels accepted at ICLR'22.
-* 2022.11: Talk at Collège de France workshop on the Future of Transports.
-* 2022.11: Talk at Wayve Scientific Speaker Series.
-* 2022.10: Keynote at the [VBSD](https://wvbsd.github.io/2022/index.html) ECCV workhsop
-* 2022.10: Plenary talk at [ICIP'22](https://2022.ieeeicip.org/).
-* 2022.10: Keynote at Confiance.ai Days in Saclay.
-* 2022.09: Keynote, panel and chair at [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
+* 2022.11: [Talk](https://ptrckprz.github.io/pres/) at Collège de France workshop on the Future of Transports ([video](https://www.youtube.com/watch?v=n6eIMCbgSiI)).
+* 2022.11: [Talk](https://ptrckprz.github.io/pres/) at Wayve Scientific Speaker Series.
+* 2022.10: Tutorial [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) at ECCV'22 ([video](https://www.youtube.com/watch?v=RhNZUyOubfE)).
+* 2022.10: [Keynote](https://ptrckprz.github.io/pres/) at the [VBSD](https://wvbsd.github.io/2022/index.html) ECCV workhsop
+* 2022.10: [Plenary](https://ptrckprz.github.io/pres/) talk at [ICIP'22](https://2022.ieeeicip.org/).
+* 2022.10: [Keynote](https://ptrckprz.github.io/pres/) at Confiance.ai Days in Saclay.
+* 2022.09: [Keynote, panel and chair](https://ptrckprz.github.io/pres/) at [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
 * 2022.09: [Paper](https://ptrckprz.github.io/conf/) on transformer-based BEV segmentation accepted at CoRL'22.
-* 2022.09: Talk at Andrew Zisserman Festschrift, in Oxford.
+* 2022.09: [Talk](https://ptrckprz.github.io/pres/) at Andrew Zisserman Festschrift, in Oxford.
 * 2022.07: [Code](https://github.com/huyvvo/BiB) for our ECCV'22 paper "Active learning strategies for weakly-supervised object detection".
 * 2022.07: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics".
-* 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 2022.07: Course on robustness, confidence and adaptation at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague.
 * 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 2022.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'22.
-* 2022.07: Tutorial [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) accepted at ECCV'22.
-* 2022.06: Keynote at the [Vision4AllSeaons](https://vision4allseason.net/) CVPR Workshop.
-* 2022.05: Keynote at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop.
-* 2022.02: Talk at EPFL CV Seminar.
+
+* 2022.06: [Keynote](https://ptrckprz.github.io/pres/) at the [Vision4AllSeaons](https://vision4allseason.net/) CVPR Workshop.
+* 2022.05: [Keynote](https://ptrckprz.github.io/pres/) at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop.
+* 2022.02: [Talk](https://ptrckprz.github.io/pres/) at EPFL CV Seminar.
 * 2022.01: [IMT podcast](https://imtech.wp.imt.fr/2022/01/26/voitures-intelligentes-sur-la-route-de-lautonomie/) (in French) on challenges of driving automation.
-* 2022.01: Keynote on trustworthy AI at the French Academy of Technologies. 
-* 2022.01: Keynote on basic AI research in corporate labs at Eurecom. 
-* 2021.11: Keynote at the ACM-Computer Science in Cars Symposium (CSCS).
-* 2021.11: Panel on AI at Institut Henri Pointcaré.
-* 2021.11: Panel on autonomous vehicles at the AI Day of the French AI Manifesto.
-* 2021.10: Panel on Machine Learning and Physics at the Industry Day on AI of the French Physics Society.
+* 2022.01: [Keynote](https://ptrckprz.github.io/pres/) on trustworthy AI at the French Academy of Technologies. 
+* 2022.01: [Keynote](https://ptrckprz.github.io/pres/) on basic AI research in corporate labs at Eurecom. 
+* 2021.11: [Keynote](https://ptrckprz.github.io/pres/) at the ACM-Computer Science in Cars Symposium (CSCS).
+* 2021.11: [Panel](https://ptrckprz.github.io/pres/) on AI at Institut Henri Pointcaré.
+* 2021.11: [Panel](https://ptrckprz.github.io/pres/) on autonomous vehicles at the AI Day of the French AI Manifesto.
+* 2021.10: [Panel](https://ptrckprz.github.io/pres/) on Machine Learning and Physics at the Industry Day on AI of the French Physics Society.
 * 2021.09: [Paper](https://ptrckprz.github.io/conf/) accepted at NeurIPS'21.
 * 2021.08: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
 * 2021.08: [Code](https://github.com/valeoai/MVRSS) for our ICCV'21 paper "Multi-view radar semantic segmentation".
