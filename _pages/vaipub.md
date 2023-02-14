@@ -12,7 +12,7 @@ redirect_from:
 
 [Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
-*ICLR 2023
+*ICLR 2023*
 
 **2022**
 
