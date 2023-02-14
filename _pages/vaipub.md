@@ -8,11 +8,17 @@ redirect_from:
 
 {% include base_path %}
 
-**2022**
+**2023**
 
 [Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
-*ICLR 2023*
+*ICLR 2023
+
+**2022**
+
+[LaRa: Latents and Rays for multi-camera bird's-eye-view semantic segmentation](https://arxiv.org/abs/2206.13294)  
+F. Bartoccioni, É. Zablocki, A. Bursuc, P. Pérez, M. Cord, K. Alahari  
+*CoRL 2022* [[code](https://github.com/valeoai/LaRa)]
 
 [Drive&Segment: Unsupervised semantic segmentation of urban scenes via cross-modal distillation](https://arxiv.org/abs/2203.11160)  
 A. Vobecky, D. Hurych, O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic  
