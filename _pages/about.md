@@ -11,7 +11,8 @@ redirect_from:
 Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), an AI research lab focused on Valeo automotive applications, self-driving cars in particular. Before joining Valeo, Patrick Pérez was researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include multimodal scene understanding and computational imaging.
 
 ### News
-* 2023.01: [Paper](https://ptrckprz.github.io/conf/) on self-supervised learning with rotation-invariant kernels accepted at ICLR'22.
+* 2023.01: [Paper](https://ptrckprz.github.io/conf/) on self-supervised learning with rotation-invariant kernels accepted at ICLR'23 (collab with ENS Lyon).
+* 2022.12: [Paper](https://ptrckprz.github.io/conf/) on transformer-based BEV segmentation preesented at CoRL'22 (collab with Inria Grenoble).
 * 2022.11: [Talk](https://ptrckprz.github.io/pres/) at Collège de France workshop on the Future of Transports ([video](https://www.youtube.com/watch?v=n6eIMCbgSiI)).
 * 2022.11: [Talk](https://ptrckprz.github.io/pres/) at Wayve Scientific Speaker Series.
 * 2022.10: Tutorial [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) at ECCV'22 ([video](https://www.youtube.com/watch?v=RhNZUyOubfE)).
@@ -19,14 +20,12 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 * 2022.10: [Plenary](https://ptrckprz.github.io/pres/) talk at [ICIP'22](https://2022.ieeeicip.org/).
 * 2022.10: [Keynote](https://ptrckprz.github.io/pres/) at Confiance.ai Days in Saclay.
 * 2022.09: [Keynote, panel and chair](https://ptrckprz.github.io/pres/) at [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
-* 2022.09: [Paper](https://ptrckprz.github.io/conf/) on transformer-based BEV segmentation accepted at CoRL'22.
 * 2022.09: [Talk](https://ptrckprz.github.io/pres/) at Andrew Zisserman Festschrift, in Oxford.
 * 2022.07: [Code](https://github.com/huyvvo/BiB) for our ECCV'22 paper "Active learning strategies for weakly-supervised object detection".
 * 2022.07: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics".
 * 2022.07: Course on robustness, confidence and adaptation at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague.
 * 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 2022.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'22.
-
 * 2022.06: [Keynote](https://ptrckprz.github.io/pres/) at the [Vision4AllSeaons](https://vision4allseason.net/) CVPR Workshop.
 * 2022.05: [Keynote](https://ptrckprz.github.io/pres/) at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop.
 * 2022.02: [Talk](https://ptrckprz.github.io/pres/) at EPFL CV Seminar.
@@ -37,24 +36,21 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 * 2021.11: [Panel](https://ptrckprz.github.io/pres/) on AI at Institut Henri Pointcaré.
 * 2021.11: [Panel](https://ptrckprz.github.io/pres/) on autonomous vehicles at the AI Day of the French AI Manifesto.
 * 2021.10: [Panel](https://ptrckprz.github.io/pres/) on Machine Learning and Physics at the Industry Day on AI of the French Physics Society.
-* 2021.09: [Paper](https://ptrckprz.github.io/conf/) accepted at NeurIPS'21.
-* 2021.08: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST.
+* 2021.09: [Paper](https://ptrckprz.github.io/conf/) accepted at NeurIPS'21 (collb with ENS/Inria-Paris and NYU).
+* 2021.08: [Paper](https://ptrckprz.github.io/vaipub) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647) with [code](https://github.com/vita-epfl/detection-attributes-fields) accepted in T-IST (collab with EPFL).
 * 2021.08: [Code](https://github.com/valeoai/MVRSS) for our ICCV'21 paper "Multi-view radar semantic segmentation".
 * 2021.08: [Paper](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accepted in CVIU.
 * 2021.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'21.
 * 2021.07: [Code](https://github.com/valeoai/SemanticPalette) for our CVPR'21 paper "Semantic Palette: Guiding scene generation with class proportions".
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'21 workshop.
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workshop.
-* 2021.05: [Paper](https://ptrckprz.github.io/jal/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI.
-* 2021.04: [Paper](https://ptrckprz.github.io/conf/) accepted at Siggraph'21.
+* 2021.05: [Paper](https://ptrckprz.github.io/jal/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI (collab with CNAM).
+* 2021.04: [Paper](https://ptrckprz.github.io/conf/) accepted at Siggraph'21 (collab with MPI).
 * 2021.03: [Panel](https://ptrckprz.github.io/pres/) on [Math and AI](https://www.math-ia.fr/).
 * 2021.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'21. 
 * 2021.02: [Industrial panel](https://ptrckprz.github.io/pres/) at Visigrapp 2021. 
 * 2021.02: [Post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html) on the explainability of neural driving models. 
-* 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253).
-* 2021.01: [Preprint](https://ptrckprz.github.io/jal/) on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307).
-* 2020.12: [Preprint](https://ptrckprz.github.io/jal/) on [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647).
-* 2020.12: [Paper](https://ptrckprz.github.io/conf/) with CTU Prague accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/).
+* 2020.12: [Paper](https://ptrckprz.github.io/conf/) accepted at [AAAI'20](https://aaai.org/Conferences/AAAI-21/) (collab with CTU).
 * 2020.12: [Keynote](https://ptrckprz.github.io/pres/) at the Machine Learning for Autonomoud Driving ([ML4AD](https://ml4ad.github.io/)) virtual NeurIPS workshop [[video](https://slideslive.com/38938157/addressing-some-challenges-of-ml4ad)].
 * 2020.11: [Talk](https://ptrckprz.github.io/pres/) at NaverLabs Europe.
 * 2020.10: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC).
