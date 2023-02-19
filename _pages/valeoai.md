@@ -213,8 +213,8 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 **Arthur Ouaknine**, PhD student with Telecom ([scholar](https://scholar.google.com/citations?user=OCT3E9wAAAAJ&hl=en)), now at McGill     
 **Julien Rebut**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Hexagon|AutonomouStuff  
 **Simon Roburin**, PhD student with Ponts ([scholar](https://scholar.google.fr/citations?user=Bf6mJqkAAAAJ&hl=en))    
-**Tristan Schultz**, research engineer, now at Valeo IS Direction  
 **Antoine Saporta**, PhD student with Sorbonne U. ([scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)), now at Meero  
+**Tristan Schultz**, research engineer, now at Valeo IS Direction  
 **Marin Toromanoff**, PhD student ([scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)), now at Valeo Driving Assistance Research   
 **Huy Van Vo**, PhD student with Inria ([scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)), now at Meta  
 **Emilie Wirbel**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Nvidia  
