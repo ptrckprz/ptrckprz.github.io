@@ -14,19 +14,18 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, senior scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
 **Laura Calem**, PhD student (with CNAM) | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
-**Loïck Chambon**, pre-PhD | [linkedin](https://www.linkedin.com/in/loick-chambon)  
+**Loïck Chambon**, PhD student | [linkedin](https://www.linkedin.com/in/loick-chambon)  
 **Mickaël Chen**, research scientist | [page](https://sites.google.com/view/mickaelchen/home) | [scholar](https://scholar.google.fr/citations?user=QnRpMJAAAAAJ&hl=en) | [github](https://github.com/mickaelChen/)  
 **Matthieu Cord**, principal scientist (and prof. at Sorbonne U.) | [page](http://www-poleia.lip6.fr/~cord/) | [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
 **Spyros Gidaris**, research scientist | [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en) | [github](https://github.com/gidariss)   
 **David Hurych**, research scientist | [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
-**Victor Letzelter**, pre-PhD | [linkedin](https://www.linkedin.com/in/victor-letzelter-3b832219b)  
+**Victor Letzelter**, PhD student | [linkedin](https://www.linkedin.com/in/victor-letzelter-3b832219b)  
 **Renaud Marlet**, principal scientist (and researcher at ENPC) | [page](http://imagine.enpc.fr/~marletr/) | [scholar](https://scholar.google.fr/citations?user=2rclwh4AAAAJ&hl=en)  
 **Björn Michele**, PhD student | [scholar](https://scholar.google.fr/citations?user=xQcKnXkAAAAJ)    
 **Patrick Pérez**, scientific director (and Valeo VP of AI) | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 **Cédric Rommel**, research scientist | [page](https://cedricrommel.github.io/) | [scholar](https://scholar.google.com/citations?user=GBv4KYwAAAAJ) | [twitter](https://twitter.com/ccrommel)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
 **Corentin Sautier**, PhD student | [linkedin](https://www.linkedin.com/in/corentin-sautier-74415917b)    
-**Tristan Schultz**, research engineer  
 **Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
 **Eduardo Valle**, senior scientist | [scholar](https://scholar.google.com/citations?user=lxWPqWAAAAAJ)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [github](https://github.com/tuanhungvu) | [twitter](https://twitter.com/tuanhungvu89)  
@@ -214,6 +213,7 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 **Arthur Ouaknine**, PhD student with Telecom ([scholar](https://scholar.google.com/citations?user=OCT3E9wAAAAJ&hl=en)), now at McGill     
 **Julien Rebut**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Hexagon|AutonomouStuff  
 **Simon Roburin**, PhD student with Ponts ([scholar](https://scholar.google.fr/citations?user=Bf6mJqkAAAAJ&hl=en))    
+**Tristan Schultz**, research engineer, now at Valeo IS Direction  
 **Antoine Saporta**, PhD student with Sorbonne U. ([scholar](https://scholar.google.com/citations?user=jSwfIU4AAAAJ&hl=en)), now at Meero  
 **Marin Toromanoff**, PhD student ([scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)), now at Valeo Driving Assistance Research   
 **Huy Van Vo**, PhD student with Inria ([scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)), now at Meta  
