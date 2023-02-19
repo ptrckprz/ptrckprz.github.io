@@ -10,7 +10,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ###  Team
 ![](../images/team-photo-crop-2021.jpg)  
-**Florent Bartoccioni**, PhD student (with Inria) | [linkedin](https://www.linkedin.com/in/flobarto/)   
+**Florent Bartoccioni**, PhD student (with Inria) | [page](https://f-barto.github.io/)   
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, senior scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
 **Laura Calem**, PhD student (with CNAM) | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
