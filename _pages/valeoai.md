@@ -10,32 +10,43 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ###  Team
 ![](../images/team-photo-crop-2021.jpg)  
-**Florent Bartoccioni**, PhD student (with Inria) | [page](https://f-barto.github.io/)   
+**Florent Bartoccioni**, PhD student w/ Inria Grenoble | [page](https://f-barto.github.io/)   
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=fr&oi=ao)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
 **Andrei Bursuc**, senior scientist | [page](https://abursuc.github.io/) | [scholar](https://scholar.google.com/citations?user=HTfERCsAAAAJ&hl=en) | [github](https://github.com/abursuc/) | [twitter](https://twitter.com/abursuc)  
-**Laura Calem**, PhD student (with CNAM) | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
-**Loïck Chambon**, PhD student | [linkedin](https://www.linkedin.com/in/loick-chambon)  
+**Laura Calem**, PhD student w/ CNAM | [github](https://github.com/lcalem) | [twitter](https://twitter.com/lauracalem)  
+**Loïck Chambon**, PhD student w/ Sorbonne U. | [linkedin](https://www.linkedin.com/in/loick-chambon)  
 **Mickaël Chen**, research scientist | [page](https://sites.google.com/view/mickaelchen/home) | [scholar](https://scholar.google.fr/citations?user=QnRpMJAAAAAJ&hl=en) | [github](https://github.com/mickaelChen/)  
 **Matthieu Cord**, principal scientist (and prof. at Sorbonne U.) | [page](http://www-poleia.lip6.fr/~cord/) | [scholar](https://scholar.google.fr/citations?user=SpAotDcAAAAJ&hl=en) | [twitter](https://twitter.com/quobbe)   
 **Spyros Gidaris**, research scientist | [scholar](https://scholar.google.fr/citations?user=7atfg7EAAAAJ&hl=en) | [github](https://github.com/gidariss)   
 **David Hurych**, research scientist | [scholar](https://scholar.google.cz/citations?user=XY1PVwYAAAAJ&hl=en)  
-**Victor Letzelter**, PhD student | [linkedin](https://www.linkedin.com/in/victor-letzelter-3b832219b)  
+**Victor Letzelter**, PhD student w/ Telecom Paris | [linkedin](https://www.linkedin.com/in/victor-letzelter-3b832219b)  
 **Renaud Marlet**, principal scientist (and researcher at ENPC) | [page](http://imagine.enpc.fr/~marletr/) | [scholar](https://scholar.google.fr/citations?user=2rclwh4AAAAJ&hl=en)  
-**Björn Michele**, PhD student | [scholar](https://scholar.google.fr/citations?user=xQcKnXkAAAAJ)    
+**Björn Michele**, PhD student w/ U. Bretagne Sud) | [scholar](https://scholar.google.fr/citations?user=xQcKnXkAAAAJ)    
 **Patrick Pérez**, scientific director (and Valeo VP of AI) | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 **Cédric Rommel**, research scientist | [page](https://cedricrommel.github.io/) | [scholar](https://scholar.google.com/citations?user=GBv4KYwAAAAJ) | [twitter](https://twitter.com/ccrommel)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
-**Corentin Sautier**, PhD student | [linkedin](https://www.linkedin.com/in/corentin-sautier-74415917b)    
+**Corentin Sautier**, PhD student w/ ENPC | [linkedin](https://www.linkedin.com/in/corentin-sautier-74415917b)    
 **Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
 **Eduardo Valle**, senior scientist | [scholar](https://scholar.google.com/citations?user=lxWPqWAAAAAJ)  
 **Tuan-Hung Vu**, research scientist | [page](https://tuanhungvu.github.io/) | [scholar](https://scholar.google.fr/citations?user=QIHrPZQAAAAJ&hl=en) | [github](https://github.com/tuanhungvu) | [twitter](https://twitter.com/tuanhungvu89)  
 **Yihong Xu**, research scientist | [scholar](https://scholar.google.fr/citations?user=vMLRRVkAAAAJ)  
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
-**Léon Zheng**, PhD student (with ENS Lyon) | [page](https://leonzheng2.github.io/)
+**Léon Zheng**, PhD student w/ ENS Lyon | [page](https://leonzheng2.github.io/)
 
 **Human Resource Partner**: [Alain Phetsinghane](mailto:alain.phetsinghane@valeo.com)  
 **Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
 **Location**: [100 rue de Courcelles](https://goo.gl/maps/LPCmZTD1GZo36qWU6), Paris  
+
+### Lastest News
+* 02/2023: Four [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, all with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET)).
+* 01/2023: Eduardo Valle starts as senior scientist.
+* 12/2022: Cédric Rommel starts as research scientist.
+* 11/2022: Huy Van Vo defends his PhD at ENS.
+* 10/2022: [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception.
+* 10/2022: Yihong Xu starts as research scientist.
+* 10/2022: Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([BiB](https://github.com/huyvvo/BiB), [D&S](https://github.com/vobecant/DriveAndSegment), [STEEX](https://github.com/valeoai/STEEX), [AttMask](https://github.com/gkakogeorgiou/attmask), [LDU](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([HULC](https://vcai.mpi-inf.mpg.de/projects/HULC/)).  
+* 10/2022: Andrei Bursuc and Spyros Gidaris runs [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) ECCV'22 Tutorial.
+* 09/2022: ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data.
 
 ### Main research themes
 
@@ -110,35 +121,20 @@ Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/), [Nicolas Tho
 Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/), [Mathieu Fontaine](https://matfontaine.github.io/))  
 UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
-### News
-* 02/2023: Four [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET)).
-* 01/2023: Eduarod Valle starts as senior scientist.
-* 12/2022: Cédric Rommel starts as research scientist.
-* 11/2022: Huy Van Vo defends his PhD at ENS.
-* 10/2022: [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception.
-* 10/2022: Yihong Xu starts as research scientist.
-* 09/2022: ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data.
+### Previous news
 * 09/2022: Patrick Pérez contributes to the [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
+* 08/2022: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) appears in [IJCV](https://link.springer.com/article/10.1007/s11263-022-01657-x).
 * 08/2022: Valeo.ai contributes to the [Weakly Supervised Computer Vision workshop](https://wscv-indaba.github.io/) at the Deep Learning Indaba in Tunis.
 * 08/2022: Valeo.ai is part of Astra, the new Inria-Valeo join team on autonomous driving.
-* 07/2022: [Code](https://github.com/huyvvo/BiB) for our ECCV'22 paper "Active learning strategies for weakly-supervised object detection".
-* 07/2022: [Code](https://github.com/valeoai/STEEX) for our ECCV'22 paper "Steering Counterfactual Explanations with Semantics".
-* 07/2022: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
-* 07/2022: Tutorial "Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data" accepted at ECCV'22.
-* 07/2022: Six [papers](https://ptrckprz.github.io/vaipub) accepted at ECCV'22.
-* 06/2022: Valeo.ai presents 4 papers and 3 worshop papers at CVPR'22.  
+* 06/2022: Valeo.ai presents 4 [papers](https://ptrckprz.github.io/vaipub) (25% acceptance ratio) and 3 worshop [papers](https://ptrckprz.github.io/vaipub) at CVPR'22, some with codes ([SliDR](https://github.com/valeoai/SLidR), [POCO](https://github.com/valeoai/POCO)], [MuHDI](https://github.com/valeoai/MuHDi)), one with dat ([RADIal](https://github.com/valeoai/RADIal)).  
 * 05/2022: Patrick Pérez delivers a keynote at Autonomy 2.0 ICRA workshop.    
-* 05/2022: Oriane Siméoni and Renaud Marlet are Outstanding Reviewers at CVPR'22.
-* 04/2022: [Code](https://github.com/valeoai/MuHDi) for our CLVision'22 workshop paper "Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation".  
+* 05/2022: Oriane Siméoni and Renaud Marlet are Outstanding Reviewers at CVPR'22..  
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
 * 03/2022: Geoffrey Bouquot, Valeo CTO, highlights several team's projects on [augmented perception of autonomous vehicles](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/) at Nvidia GTC.  
-* 03/2022: [Code](https://github.com/valeoai/SLidR) for our CVPR'22 paper "Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data".
 * 03/2022: Matthieu Cord delivers a keynote at the Explainable AV Workshop of the European Commission Joint Research Centre.
 * 03/2022: Work on forecasting multipe, diverse and feasible, trajectories, accepted at ICPR. 
 * 03/2022: Arthur Ouaknine and Charles Corbière defend their PhD at Telecom and CNAM respectively.
-* 03/2022: [Paper](https://ptrckprz.github.io/vaipub) on [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation]() accpeted in PAMI.
-* 03/2022: Four [papers](https://ptrckprz.github.io/vaipub) accepted at [CVPR](https://cvpr2022.thecvf.com/) (25.3% acceptance rate).
-* 12/2022: [RADIal](https://github.com/valeoai/RADIal) dataset (HR radar, camera, lidar) for vehicle and free space detection is available.   
+* 03/2022: [Paper](https://ptrckprz.github.io/vaipub) on [Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation]() accpeted in PAMI.  
 * 10/2021: The team presents 6 papers with codes at ICCV ([post](https://valeoai.github.io/blog/2021/10/08/valeoai-at-iccv-2021.html)). 
 * 10/2021: Three [papers](https://ptrckprz.github.io/vaipub) accepted at [3DV](https://3dv2021.surrey.ac.uk/).
 * 09/2021: One [paper](https://ptrckprz.github.io/vaipub) accepted at [NeurIPS](https://nips.cc/).
