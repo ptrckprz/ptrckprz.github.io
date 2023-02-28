@@ -37,6 +37,18 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
 **Location**: [100 rue de Courcelles](https://goo.gl/maps/LPCmZTD1GZo36qWU6), Paris  
 
+###  Academic partners
+CTU, Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
+EPFL, Lausanne ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
+ENPC, Paris ([Vincent Lepetit](https://vincentlepetit.github.io/))  
+ENS & Inria, Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
+Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/))   
+Inria Paris ([Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/))     
+Inria, Grenoble ([Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
+Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/), [Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
+Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/), [Mathieu Fontaine](https://matfontaine.github.io/))  
+UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
+
 ### Lastest News
 * 02/2023: Four [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, all with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET)).
 * 01/2023: Eduardo Valle starts as senior scientist.
@@ -52,11 +64,9 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 *Multi-sensor perception* — Automated driving relies first on a variety of sensors, like Valeo's [fish-eye cameras](https://www.valeo.com/en/360-vue/), [LiDARs](https://www.valeo.com/en/valeo-scala/), radars and [ultrasonics](https://www.valeo.com/en/ultrasonic-parking-sensors/). Exploiting at best the outputs of each of these sensors at any instant is fundamental to understand the complex environment of the vehicle and gain robustness. To this end, we explore various machine learning approaches where sensors are considered either in isolation (as radar in [Carrada](https://arxiv.org/abs/2005.01456) at ICPR'20) or collectively (as in [xMUDA](https://valeoai.github.io/blog/publications/xmuda/) at CVPR'20).  
 
-*3D perception* — Each sensor delivers information about the 3D world around the vehicle. Making sense of this information in terms of drivable space and important objects (road users, curb, obstacles, street furnitures) in 3D is required for the driving system to plan and act in the safest and most comfortable way. This encompasses several challenging tasks, in particular detection and segmentation of objects in point clouds as in [FKAConv](https://valeoai.github.io/blog/publications/fkaconv/) at ACCV'20.  
+*Scene understanding and forecasting* — Each sensor delivers information about the 3D world around the vehicle. Making sense of this information in terms of drivable space and important objects (road users, curb, obstacles, street furnitures) in 3D is required for the driving system to plan and act in the safest and most comfortable way. This encompasses several challenging tasks, in particular detection and segmentation of objects in point clouds as in [FKAConv](https://valeoai.github.io/blog/publications/fkaconv/) at ACCV'20.  
 
-*Frugal learning* — Collecting diverse enough data, and annotating it precisely, is complex, costly and time-consuming. To reduce dramatically these needs, we explore various alternatives to fully-supervised learning, e.g, training that is unsupervised (as [rOSD](https://valeoai.github.io/blog/publications/rosd/) at ECCCV'20), self-supervised (as [BoWNet](https://valeoai.github.io/blog/publications/bownet/) at CVPR'20 and [OBoW](https://arxiv.org/abs/2012.11552) at CVPR'21), semi-supervised, active, zero-shot (as [ZS3](https://valeoai.github.io/blog/publications/zs3/) at NeurIPS'19) or few-shot. We also investigate training with fully-synthetic data (in combination with unsupervised domain adaptation) and with GAN-augmented data (as with Semantic Palette at CVPR'21 and [DummyNet](https://arxiv.org/abs/2012.08274) at AAAI'21).  
-
-*Domain adaptation* — Deep learning and reinforcement learning are key technologies for autonomous driving. One of the challenges they face is to adapt to conditions which differ from those met during training. To improve systems' performance in such situations, we explore so-called "domain adaptation" techniques, as in [AdvEnt](https://valeoai.github.io/blog/publications/advent/) at CVPR'19 and [DADA](https://valeoai.github.io/blog/publications/dada/) its extension at ICCV'19.  
+*Data/annotation-efficient learning* — Collecting diverse enough real data, and annotating it precisely, is complex, costly, time-consuming and dommed insufficient for complex open-world applications. To reduce dramatically these needs, we explore various alternatives to fully-supervised learning, i.e, training that is unsupervised, self-supervised, semi-supervised, active, as well as various transfer techniques such as zero/few-shot learning and domain adapatiation. We also investigate training with fully-synthetic data (in combination with unsupervised domain adaptation) and with generatively-augmented data.  
 
 *Reliability* — When the unexpected happens, when the weather badly degrades, when a sensor gets blocked, the embarked perception system should continue working or, at least, diagnose the situation to react accordingly, e.g., by calling an alternative system or the human driver. With this in mind, we investigate ways to improve the robustness of neural nets to input variations, including to adversarial attacks, and to predict automatically the performance and the confidence of their predictions as in [ConfidNet](https://valeoai.github.io/blog/publications/confidnet) at NeurIPS'19. 
 
@@ -108,18 +118,6 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 * [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV'19)
 * [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR'19)
 * [OSD](https://github.com/huyvvo/OSD): Unsupervised object discovery as optimization (CVPR'19)  
-
-###  Academic partners
-CTU, Prague ([Josef Sivic](https://www.di.ens.fr/~josef/))  
-EPFL, Lausanne ([Alexandre Alahi](https://people.epfl.ch/alexandre.alahi))  
-ENPC, Paris ([Vincent Lepetit](https://vincentlepetit.github.io/))  
-ENS & Inria, Lyon ([Rémi Gribonval](https://scholar.google.com/citations?user=EcqbX1QAAAAJ))  
-Inria & PR[AI]RIE, Paris ([Jean Ponce](https://www.di.ens.fr/~ponce/))   
-Inria Paris ([Raoul de Charette](https://team.inria.fr/rits/membres/raoul-de-charette/))     
-Inria, Grenoble ([Karteek Alahari](https://lear.inrialpes.fr/people/alahari/))  
-Sorbonne, Paris ([Matthieu Cord](http://www-poleia.lip6.fr/~cord/), [Nicolas Thome](http://cedric.cnam.fr/~thomen/))  
-Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70tPIAAAAJ&hl=en), [Slim Essid](https://perso.telecom-paristech.fr/essid/), [Mathieu Fontaine](https://matfontaine.github.io/))  
-UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Previous news
 * 09/2022: Patrick Pérez contributes to the [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
@@ -222,5 +220,3 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 **Marin Toromanoff**, PhD student ([scholar](https://scholar.google.com/citations?user=Yu47MFYAAAAJ&hl=en)), now at Valeo Driving Assistance Research   
 **Huy Van Vo**, PhD student with Inria ([scholar](https://scholar.google.fr/citations?user=gIf5VqUAAAAJ&hl=en)), now at Meta  
 **Emilie Wirbel**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Nvidia  
-
-
