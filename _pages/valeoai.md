@@ -50,7 +50,7 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Lastest News
-* 02/2023: Four [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, all with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET)).
+* 02/2023: Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET)).
 * 01/2023: Eduardo Valle starts as senior scientist.
 * 12/2022: Cédric Rommel starts as research scientist.
 * 11/2022: Huy Van Vo defends his PhD at ENS.
