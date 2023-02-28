@@ -53,6 +53,13 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 
 ### Code and data
 
+* [SFRIK](https://github.com/valeoai/sfrik): Self-supervised learning with rotation-invariant kernels (ICLR'23)
+* [FOUND](https://github.com/valeoai/FOUND): Observing the background to discover objects (CVPR'23)
+* [ALSO](https://github.com/valeoai/ALSO): Automotive Lidar self-supervision by occupancy estimation (CVPR'23)  
+* [Range-ViT](https://github.com/valeoai/rangevit): ViT for 3D Semantic Segmentation in autonomous driving (CVPR'23)
+* [OCTET](https://github.com/valeoai/OCTET): Object-aware counterfactual explanations (CVPR'23)
+* [WaffleIron](https://github.com/valeoai/WaffleIron): Automotive point cloud semantic segmentation (arxiv 2022)
+* [LidarTouch](https://github.com/F-Barto/LiDARTouch): Monocular metric depth estimation with a few-beam LiDAR (CVIU 2022)
 * [DenseMTL](https://github.com/astra-vision/DenseMTL): Cross-task attention mechanism for dense multi-task learning (WACV'23)
 * [LaRa](https://github.com/valeoai/LaRa): Latents and rays for multi-camera BEV semantic segmentation (CoRL'22) 
 * [BiB](https://github.com/huyvvo/BiB): Active learning strategies for weakly-supervised object detection (ECCV'22)
@@ -104,9 +111,9 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### News
+* 02/2023: Four [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET)).
 * 01/2023: Eduarod Valle starts as senior scientist.
 * 12/2022: Cédric Rommel starts as research scientist.
-* 11/2022: We have 4 internships open, looking for outstanding ML/CV master students. 
 * 11/2022: Huy Van Vo defends his PhD at ENS.
 * 10/2022: [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception.
 * 10/2022: Yihong Xu starts as research scientist.
