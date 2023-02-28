@@ -10,9 +10,25 @@ redirect_from:
 
 **2023**
 
+[OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380)  
+M. Zemni, M. Chen, É. Zablocki, H. Ben-Younes, P. Pérez, M. Cord  
+*CVPR 2023* [[code](https://github.com/valeoai/OCTET)]
+
+[RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving](https://arxiv.org/abs/2301.10222)  
+A. Ando, S. Gidaris, A. Bursuc, G. Puy, A. Boulch, R. Marlet  
+*CVPR 2023* [[code](https://github.com/valeoai/rangevit)]
+
+[Unsupervised object localization: observing the background to discover objects](https://arxiv.org/abs/2212.07834)  
+O. Siméoni, Ch. Sekkat, G. Puy, A. Vobecky, E. Zablocki, P. Pérez  
+*CVPR 2023* [[code](https://github.com/valeoai/FOUND)]
+
+[ALSO: Automotive Lidar Self-supervision by Occupancy estimation](https://arxiv.org/abs/2212.05867)  
+A. Boulch. C. Sautier, B. Michele, G. Puy, R. Marlet  
+*CVPR 2023* [[code](https://github.com/valeoai/ALSO)]
+
 [Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
-*ICLR 2023*
+*ICLR 2023* [[code](https://github.com/valeoai/sfrik)]
 
 **2022**
 
@@ -24,25 +40,25 @@ F. Bartoccioni, É. Zablocki, A. Bursuc, P. Pérez, M. Cord, K. Alahari
 A. Vobecky, D. Hurych, O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic  
 *ECCV 2022* [[page](https://vobecant.github.io/DriveAndSegment/),[code](https://github.com/vobecant/DriveAndSegment),[demo](https://huggingface.co/spaces/vobecant/DaS)]
 
-Active learning strategies for weakly-supervised object detection  
-O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce  
-*ECCV 2022* 
+[Active learning strategies for weakly-supervised object detection](https://arxiv.org/abs/2207.12112)  
+H.V. Ho, O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce  
+*ECCV 2022* [[code](https://github.com/huyvvo/BiB)]
 
 [STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
 P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
-*ECCV 2022* 
+*ECCV 2022* [[code](https://github.com/valeoai/STEEX)]
 
 [What to hide to your student: Attention-guided masked image modeling](https://arxiv.org/abs/2203.12719)  
 I. Kakogeorgiou, S. Gidaris, B. Psomas, Y. Avrithis, A. Bursuc, K. Karantzalos, N. Komodakis  
-*ECCV 2022*
+*ECCV 2022* [[code](https://github.com/gkakogeorgiou/attmask)]
 
-Latent discriminant deterministic uncertainty  
+[Latent discriminant deterministic uncertainty](https://arxiv.org/abs/2207.10130)  
 Franchi, Yu, Bursuc, Aldea, Dubuisson, Filliat  
-*ECCV 2022*
+*ECCV 2022* [[code](https://github.com/ENSTA-U2IS/LDU)]
 
 [HULC: 3D human motion capture with pose manifold sampling and dense contact guidance](https://arxiv.org/abs/2205.05677)  
 S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt  
-*ECCV 2022* 
+*ECCV 2022* [[page and data](https://vcai.mpi-inf.mpg.de/projects/HULC/)]
 
 [A neural tangent kernel perspective of GANs](https://arxiv.org/abs/2106.05566)  
 J.-Y. Franceschi, E. de Bézenac, I. Ayed, M. Chen, S. Lamprier, P. Gallinari  
@@ -54,7 +70,7 @@ A. Rame, C. Dancette, M. Cord
 
 [Image-to-Lidar self-supervised distillation for autonomous driving data]()  
 C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet  
-*CVPR 2022*  
+*CVPR 2022* [[code](https://github.com/valeoai/SLidR)] 
 
 [POCO: Point convolution for surface reconstruction](https://arxiv.org/abs/2201.01831)  
 A. Boulch, R. Marlet  
@@ -76,21 +92,21 @@ K. Osanlou, J. Frank, A. Bursuc, T. Cazenave, E. Jacopin, Ch. Guettier, J. Bento
 R. Sulzer, L. Landrieu, A. Boulch, R. Marlet, B. Vallet  
 *ICPR 2022*
 
-VASAD: a volume and semantic dataset for building reconstruction from point clouds  
+[VASAD: a volume and semantic dataset for building reconstruction from point clouds](http://imagine.enpc.fr/~marletr/publi/ICPR-2022-Langlois-et-al.pdf)  
 P.-A. Langlois, Y. Xiao, A. Boulch, R. Marlet  
-*ICPR 2022*
+*ICPR 2022* [[data](https://github.com/palanglois/vasad)]
 
-Diverse probabilistic trajectory forecasting with admissibility constraints  
+[Diverse probabilistic trajectory forecasting with admissibility constraints](https://arxiv.org/abs/2302.03462)  
 L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
 *ICPR 2022*
 
-[Spherical Perspective on Learning with Normalization Layers]()  
+[Spherical Perspective on Learning with Normalization Layers](https://arxiv.org/abs/2006.13382)  
 S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
 *Neurocomputing*, 2022  
 
-[Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation]()  
+[Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation](https://arxiv.org/abs/2101.07253)  
 M. Jaritz, T.H. Vu, R. de Charette, É. Wirbel, P. Pérez  
-*PAMI*, 2022
+*PAMI*, 2022 [[code](https://github.com/valeoai/xmuda_journal)]
 
 [Raising context awareness in motion forecasting](https://arxiv.org/abs/2109.08048)  
 H. Ben-Younes, É. Zablocki, M. Chen, P. Pérez, M. Cord  
@@ -102,8 +118,7 @@ H. Jain, T.H. Vu, P. Pérez, M. Cord
 
 [Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation]()  
 A. Saporta, A. Douillard, T.H. Vu, P. Pérez, M. Cord  
-*CVPR Workshop on Continual Learning (CLVision 2022)*
-
+*CVPR Workshop on Continual Learning (CLVision 2022)* [[code](https://github.com/valeoai/MuHDi)]
 
 **2021**
 
