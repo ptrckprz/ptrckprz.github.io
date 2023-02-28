@@ -26,6 +26,14 @@ O. Siméoni, Ch. Sekkat, G. Puy, A. Vobecky, E. Zablocki, P. Pérez
 A. Boulch. C. Sautier, B. Michele, G. Puy, R. Marlet  
 *CVPR 2023* [[code](https://github.com/valeoai/ALSO)]
 
+[CoMFormer: Continual learning in semantic and panoptic segmentation](https://arxiv.org/abs/2211.13999)  
+F. Cermelli, M. Cord, A. Douillard  
+*CVPR 2023*
+
+[CoMFormer: Continual Learning in Semantic and Panoptic Segmentation]()  
+C. Dancette, S. Whitehead, R. Maheshwary, R. Vedantam, S. Scherer, X. Chen, M. Cord, M. Rohrbach  
+*CVPR 2023*
+
 [Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
 *ICLR 2023* [[code](https://github.com/valeoai/sfrik)]
