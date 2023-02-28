@@ -68,7 +68,7 @@ J.-Y. Franceschi, E. de Bézenac, I. Ayed, M. Chen, S. Lamprier, P. Gallinari
 A. Rame, C. Dancette, M. Cord  
 *ICML 2022* 
 
-[Image-to-Lidar self-supervised distillation for autonomous driving data]()  
+[Image-to-Lidar self-supervised distillation for autonomous driving data](https://arxiv.org/abs/2203.16258)  
 C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc, R. Marlet  
 *CVPR 2022* [[code](https://github.com/valeoai/SLidR)] 
 
@@ -116,7 +116,7 @@ H. Ben-Younes, É. Zablocki, M. Chen, P. Pérez, M. Cord
 H. Jain, T.H. Vu, P. Pérez, M. Cord  
 *CVPR Workshop on Continual Learning (CLVision 2022)*
 
-[Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation]()  
+[Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation](https://arxiv.org/abs/2204.11667)  
 A. Saporta, A. Douillard, T.H. Vu, P. Pérez, M. Cord  
 *CVPR Workshop on Continual Learning (CLVision 2022)* [[code](https://github.com/valeoai/MuHDi)]
 
