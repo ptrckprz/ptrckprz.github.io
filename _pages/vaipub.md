@@ -30,7 +30,7 @@ A. Boulch. C. Sautier, B. Michele, G. Puy, R. Marlet
 F. Cermelli, M. Cord, A. Douillard  
 *CVPR 2023*
 
-[CoMFormer: Continual Learning in Semantic and Panoptic Segmentation]()  
+[Improving Selective VQA by learning from your peers]()  
 C. Dancette, S. Whitehead, R. Maheshwary, R. Vedantam, S. Scherer, X. Chen, M. Cord, M. Rohrbach  
 *CVPR 2023*
 
