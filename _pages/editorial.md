@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-### Journal and conference editorial commitments
+### Conference and journal services
 * Editorial board of the International Journal on Computer Vision (IJCV): 2010-2020
 * Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): 2008-2012
 * Associate Editor for the IEEE Transactions on Image Processing (T-IP): 2002-2006
