@@ -50,15 +50,15 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Lastest News
-* 02/2023: Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET)) `paper` `code` 
-* 01/2023: Eduardo Valle starts as senior scientist `team`
-* 12/2022: Cédric Rommel starts as research scientist `team`
-* 11/2022: Huy Van Vo defends his PhD at ENS `team`
-* 10/2022: [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception `collab`
-* 10/2022: Yihong Xu starts as research scientist `team`
-* 10/2022: Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([BiB](https://github.com/huyvvo/BiB), [D&S](https://github.com/vobecant/DriveAndSegment), [STEEX](https://github.com/valeoai/STEEX), [AttMask](https://github.com/gkakogeorgiou/attmask), [LDU](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([HULC](https://vcai.mpi-inf.mpg.de/projects/HULC/)) `paper` `code` `data`
-* 10/2022: Andrei Bursuc and Spyros Gidaris runs [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) ECCV'22 Tutorial `pres`
-* 09/2022: ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data `challenge`
+`paper` `code`  [02/2023] Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET))   
+`team` [01/2023] Eduardo Valle starts as senior scientist  
+`team` [12/2022] Cédric Rommel starts as research scientist  
+`team` [11/2022] Huy Van Vo defends his PhD at ENS  
+`collab` [10/2022] [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception  
+`team` [10/2022] Yihong Xu starts as research scientist  
+`paper` `code` `data` [10/2022] Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([BiB](https://github.com/huyvvo/BiB), [D&S](https://github.com/vobecant/DriveAndSegment), [STEEX](https://github.com/valeoai/STEEX), [AttMask](https://github.com/gkakogeorgiou/attmask), [LDU](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([HULC](https://vcai.mpi-inf.mpg.de/projects/HULC/))  
+`pres` [10/2022] Andrei Bursuc and Spyros Gidaris runs [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) ECCV'22 Tutorial  
+`challenge` [09/2022] ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data  
 
 ### Main research themes
 
@@ -70,50 +70,50 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Code and data
 
-* [SFRIK](https://github.com/valeoai/sfrik): Self-supervised learning with rotation-invariant kernels (ICLR'23)
-* [FOUND](https://github.com/valeoai/FOUND): Observing the background to discover objects (CVPR'23)
-* [ALSO](https://github.com/valeoai/ALSO): Automotive Lidar self-supervision by occupancy estimation (CVPR'23)  
-* [Range-ViT](https://github.com/valeoai/rangevit): ViT for 3D Semantic Segmentation in autonomous driving (CVPR'23)
-* [OCTET](https://github.com/valeoai/OCTET): Object-aware counterfactual explanations (CVPR'23)
-* [WaffleIron](https://github.com/valeoai/WaffleIron): Automotive point cloud semantic segmentation (arxiv 2022)
-* [LidarTouch](https://github.com/F-Barto/LiDARTouch): Monocular metric depth estimation with a few-beam LiDAR (CVIU 2022)
-* [DenseMTL](https://github.com/astra-vision/DenseMTL): Cross-task attention mechanism for dense multi-task learning (WACV'23)
-* [LaRa](https://github.com/valeoai/LaRa): Latents and rays for multi-camera BEV semantic segmentation (CoRL'22) 
-* [BiB](https://github.com/huyvvo/BiB): Active learning strategies for weakly-supervised object detection (ECCV'22)
-* [D&S](https://github.com/vobecant/DriveAndSegment): Unsupervised semantic segmentation of urban scenes via cross-modal distillation (ECCV'22) 
-* [STEEX](https://github.com/valeoai/STEEX): Steering Counterfactual Explanations with Semantics (ECCV'22)
-* [CAB](https://github.com/valeoai/CAB): Raising Context Awareness in Motion Forecasting (workshop CVPR'22)
-* [MuHDi](https://github.com/valeoai/MuHDi): Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation ([CLVision'22](https://arxiv.org/abs/2204.11667))
-* [SLidR](https://github.com/valeoai/SLidR): Image-to-Lidar self-supervised distillation for autonomous driving data ([CVPR'22](https://arxiv.org/abs/2203.16258))
-* [RADIal](https://github.com/valeoai/RADIal) ([dataset](https://www.dropbox.com/s/y5kptmgxcngesp7/RADIal.zip)): HR radar dataset (+ camera & lidar) for vehicle and free space detection ([CVPR'22](https://arxiv.org/abs/2112.10646))
-* [LOST](https://github.com/valeoai/LOST): Object localization with self-supervised transformers (BMVC'21) 
-* [MTAF](https://github.com/valeoai/MTAF): Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)
-* [PCAM](https://github.com/valeoai/PCAM): Product of Cross-Attention Matrices for rigid registration of point clouds (ICCV'21)
-* [SP4ASC](https://github.com/valeoai/SP4ASC): Separable convolutions for [acoustic scene classification in DCASE'21 Challenge](http://dcase.community/challenge2021/task-acoustic-scene-classification-results-a).
-* [MVRSS](https://github.com/valeoai/MVRSS): Multi-view radar semantic segmentation (ICCV'21)
-* [ObsNet](https://github.com/valeoai/obsnet): Out-Of-Distribution detection by learning from local adversarial attacks in semantic segmentation (ICCV'21)
-* [Semantic Palette](https://github.com/valeoai/SemanticPalette): Guiding scene generation with class proportions (CVPR'21) 
-* [Attributes with Fields](https://github.com/vita-epfl/detection-attributes-fields): Detecting 32 pedestrian attributes with composite fields (T-ITS)
-* [OBoW](https://github.com/valeoai/obow): Online BoW generation for unsupervised representation learning (CVPR'21)  
-* [DummyNet](https://github.com/vobecant/DummyNet): Artificial Dummies for Urban Dataset Augmentation (AAAI'21)
-* [CARRADA](https://github.com/valeoai/carrada_dataset) ([dataset](http://download.tsi.telecom-paristech.fr/Carrada/Carrada.tar.gz)): Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset (ICPR'20)
-* [ESL](https://github.com/valeoai/ESL): Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (workshop CVPR'20)
-* [FLOT](https://github.com/valeoai/FLOT): Scene flow on point clouds guided by optimal transport (ECCV'20)
-* [AdamSRT](https://github.com/ymontmarin/adamsrt): Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)
-* [LightConvPoint](https://github.com/valeoai/LightConvPoint): Convolution for points (ACCV'20)
-* [xMUDA](https://github.com/valeoai/xmuda): Cross-modal UDA for 3D semantic segmentation (CVPR'20)
-* [LearningByCheating](https://github.com/valeoai/LearningByCheating): End-to-End driving using implicit affordances (CVPR'20)  
-* [rOSD](https://github.com/huyvvo/rOSD): Unsupervised object discovery at scale (ECCV'20)  
-* [ConvPoint](https://github.com/aboulch/ConvPoint): Convolutions for unstructured point clouds (Computer \& Graphics 2020)  
-* [BEEF](https://github.com/valeoai/BEEF): Driving behavior explanation with multi-level fusion (workshop NeurIPS'20 and Pattern Recognition'22) 
-* [Woodscape](https://woodscape.valeo.com/): Driving fisheye multi-task dataset (ICCV'19)
-* [ZS3](https://github.com/valeoai/ZS3): Zero-Shot Semantic Segmentation (NeurIPS'19)
-* [BF3S](https://github.com/valeoai/BF3S): Boosting few-shot visual learning with self-supervision (ICCV'19)
-* [ConfidNet](https://github.com/valeoai/ConfidNet): Addressing failure prediction by learning model confidence (NeurIPS'19)
-* [Rainbow-IQN Ape-X](https://github.com/valeoai/rainbow-iqn-apex): effective RL combination for Atari games
-* [DADA](https://github.com/valeoai/DADA): Depth-aware Domain Adaptation in Semantic Segmentation (ICCV'19)
-* [AdvEnt](https://github.com/valeoai/ADVENT): Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR'19)
-* [OSD](https://github.com/huyvvo/OSD): Unsupervised object discovery as optimization (CVPR'19)  
+[`SFRIK`](https://github.com/valeoai/sfrik) Self-supervised learning with rotation-invariant kernels (ICLR'23)  
+[`FOUND`](https://github.com/valeoai/FOUND) Observing the background to discover objects (CVPR'23)  
+[`ALSO`](https://github.com/valeoai/ALSO) Automotive Lidar self-supervision by occupancy estimation (CVPR'23)    
+[`RangeViT`](https://github.com/valeoai/rangevit) ViT for 3D Semantic Segmentation in autonomous driving (CVPR'23)  
+[`OCTET`](https://github.com/valeoai/OCTET) Object-aware counterfactual explanations (CVPR'23)  
+[`WaffleIron`](https://github.com/valeoai/WaffleIron) Automotive point cloud semantic segmentation (arxiv 2022)  
+[`LidarTouch`](https://github.com/F-Barto/LiDARTouch) Monocular metric depth estimation with a few-beam LiDAR (CVIU 2022)  
+[`DenseMTL`](https://github.com/astra-vision/DenseMTL) Cross-task attention mechanism for dense multi-task learning (WACV'23)  
+[`LaRa`](https://github.com/valeoai/LaRa) Latents and rays for multi-camera BEV semantic segmentation (CoRL'22)  
+[`BiB`](https://github.com/huyvvo/BiB) Active learning strategies for weakly-supervised object detection (ECCV'22)  
+[`D&S`](https://github.com/vobecant/DriveAndSegment) Unsupervised semantic segmentation of urban scenes via cross-modal distillation (ECCV'22)   
+[`STEEX`](https://github.com/valeoai/STEEX) Steering Counterfactual Explanations with Semantics (ECCV'22)  
+[`CAB`](https://github.com/valeoai/CAB) Raising Context Awareness in Motion Forecasting (workshop CVPR'22)  
+[`MuHDi`](https://github.com/valeoai/MuHDi) Multi-head distillation for continual unsupervised domain adaptation in semantic segmentation ([CLVision'22](https://arxiv.org/abs/2204.11667))  
+[`SLidR`](https://github.com/valeoai/SLidR) Image-to-Lidar self-supervised distillation for autonomous driving data ([CVPR'22](https://arxiv.org/abs/2203.16258))  
+[`RADIal`](https://github.com/valeoai/RADIal) ([dataset](https://www.dropbox.com/s/y5kptmgxcngesp7/RADIal.zip)) HR radar dataset (+ camera & lidar) for vehicle and free space detection ([CVPR'22](https://arxiv.org/abs/2112.10646))  
+[`LOST`](https://github.com/valeoai/LOST) Object localization with self-supervised transformers (BMVC'21)   
+[`MTAF`](https://github.com/valeoai/MTAF) Multi-Target Adversarial Frameworks for domain adaptation (ICCV'21)  
+[`PCAM`](https://github.com/valeoai/PCAM) Product of Cross-Attention Matrices for rigid registration of point clouds (ICCV'21)  
+[`SP4ASC`](https://github.com/valeoai/SP4ASC) Separable convolutions for [acoustic scene classification in DCASE'21 Challenge](http://dcase.community/challenge2021/task-acoustic-scene-classification-results-a)  
+[`MVRSS`](https://github.com/valeoai/MVRSS) Multi-view radar semantic segmentation (ICCV'21)  
+[`ObsNet`](https://github.com/valeoai/obsnet) Out-Of-Distribution detection by learning from local adversarial attacks in semantic segmentation (ICCV'21)   
+[`Semantic Palette`](https://github.com/valeoai/SemanticPalette) Guiding scene generation with class proportions (CVPR'21)  
+[`Attributes with Fields`](https://github.com/vita-epfl/detection-attributes-fields) Detecting 32 pedestrian attributes with composite fields (T-ITS)  
+[`OBoW`](https://github.com/valeoai/obow) Online BoW generation for unsupervised representation learning (CVPR'21)  
+[`DummyNet`](https://github.com/vobecant/DummyNet) Artificial Dummies for Urban Dataset Augmentation (AAAI'21)  
+[`CARRADA`](https://github.com/valeoai/carrada_dataset) ([dataset](http://download.tsi.telecom-paristech.fr/Carrada/Carrada.tar.gz)) Camera and Automotive Radar with Range-Angle-Doppler Annotations dataset (ICPR'20)  
+[`ESL`](https://github.com/valeoai/ESL) Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation (workshop CVPR'20)  
+[`FLOT`](https://github.com/valeoai/FLOT) Scene flow on point clouds guided by optimal transport (ECCV'20)  
+[`AdamSRT`](https://github.com/ymontmarin/adamsrt) Adam exploiting BN-induced pherical invariance of CNN (arXiv 2020)  
+[`LightConvPoint`](https://github.com/valeoai/LightConvPoint) Convolution for points (ACCV'20)  
+[`xMUDA`](https://github.com/valeoai/xmuda) Cross-modal UDA for 3D semantic segmentation (CVPR'20)  
+[`LearningByCheating`](https://github.com/valeoai/LearningByCheating) End-to-End driving using implicit affordances (CVPR'20)   
+[`rOSD`](https://github.com/huyvvo/rOSD) Unsupervised object discovery at scale (ECCV'20)  
+[`ConvPoint`](https://github.com/aboulch/ConvPoint) Convolutions for unstructured point clouds (Computer \& Graphics 2020)  
+[`BEEF`](https://github.com/valeoai/BEEF) Driving behavior explanation with multi-level fusion (workshop NeurIPS'20 and Pattern Recognition'22)  
+[`Woodscape`](https://woodscape.valeo.com/) Driving fisheye multi-task dataset (ICCV'19)  
+[`ZS3`](https://github.com/valeoai/ZS3) Zero-Shot Semantic Segmentation (NeurIPS'19)  
+[`BF3S`](https://github.com/valeoai/BF3S) Boosting few-shot visual learning with self-supervision (ICCV'19)  
+[`ConfidNet`](https://github.com/valeoai/ConfidNet) Addressing failure prediction by learning model confidence (NeurIPS'19)  
+[`Rainbow-IQN Ape-X`](https://github.com/valeoai/rainbow-iqn-apex) effective RL combination for Atari games  
+[`DADA`](https://github.com/valeoai/DADA) Depth-aware Domain Adaptation in Semantic Segmentation (ICCV'19)  
+[`AdvEnt`](https://github.com/valeoai/ADVENT) Adversarial Entropy minimization for domain adaptation in semantic segmentation (CVPR'19)  
+[`OSD`](https://github.com/huyvvo/OSD) Unsupervised object discovery as optimization (CVPR'19)  
 
 ### Previous news
 * 09/2022: Patrick Pérez contributes to the [Czech-French workshop on AI](https://czech-french-ai.eu/) in Prague.
@@ -122,7 +122,7 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 * 08/2022: Valeo.ai is part of Astra, the new Inria-Valeo join team on autonomous driving.
 * 06/2022: Valeo.ai presents 4 [papers](https://ptrckprz.github.io/vaipub) (25% acceptance ratio) and 3 worshop [papers](https://ptrckprz.github.io/vaipub) at CVPR'22, some with codes ([SliDR](https://github.com/valeoai/SLidR), [POCO](https://github.com/valeoai/POCO)], [MuHDI](https://github.com/valeoai/MuHDi)), one with dat ([RADIal](https://github.com/valeoai/RADIal)).  
 * 05/2022: Patrick Pérez delivers a keynote at Autonomy 2.0 ICRA workshop.    
-* 05/2022: Oriane Siméoni and Renaud Marlet are Outstanding Reviewers at CVPR'22..  
+* 05/2022: Oriane Siméoni and Renaud Marlet are Outstanding Reviewers at CVPR'22.  
 * 04/2022: Antoine Saporta defends his PhD at Sorbonne University.
 * 03/2022: Geoffrey Bouquot, Valeo CTO, highlights several team's projects on [augmented perception of autonomous vehicles](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/) at Nvidia GTC.  
 * 03/2022: Matthieu Cord delivers a keynote at the Explainable AV Workshop of the European Commission Joint Research Centre.
