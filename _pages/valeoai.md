@@ -50,15 +50,15 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Lastest News
-`paper` `code`  [02/2023] Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET))   
-`team` [01/2023] Eduardo Valle starts as senior scientist  
-`team` [12/2022] Cédric Rommel starts as research scientist  
-`team` [11/2022] Huy Van Vo defends his PhD at ENS  
-`collab` [10/2022] [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception  
-`team` [10/2022] Yihong Xu starts as research scientist  
-`paper` `code` `data` [10/2022] Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([BiB](https://github.com/huyvvo/BiB), [D&S](https://github.com/vobecant/DriveAndSegment), [STEEX](https://github.com/valeoai/STEEX), [AttMask](https://github.com/gkakogeorgiou/attmask), [LDU](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([HULC](https://vcai.mpi-inf.mpg.de/projects/HULC/))  
-`pres` [10/2022] Andrei Bursuc and Spyros Gidaris runs [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) ECCV'22 Tutorial  
-`challenge` [09/2022] ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data  
+[02/2023] `paper` `code`  Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET))   
+[01/2023] `team` Eduardo Valle starts as senior scientist  
+[12/2022] `team` Cédric Rommel starts as research scientist  
+[11/2022] `team` Huy Van Vo defends his PhD at ENS  
+[10/2022] `collab` [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception  
+[10/2022] `team` Yihong Xu starts as research scientist  
+[10/2022] `paper` `code` `data` Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([BiB](https://github.com/huyvvo/BiB), [D&S](https://github.com/vobecant/DriveAndSegment), [STEEX](https://github.com/valeoai/STEEX), [AttMask](https://github.com/gkakogeorgiou/attmask), [LDU](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([HULC](https://vcai.mpi-inf.mpg.de/projects/HULC/))  
+[10/2022] `pres` Andrei Bursuc and Spyros Gidaris runs [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) ECCV'22 Tutorial  
+[09/2022] `challenge` ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data  
 
 ### Main research themes
 
