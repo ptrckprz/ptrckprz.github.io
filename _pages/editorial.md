@@ -1,5 +1,5 @@
 ---
-title: "Editorial duties and Committees"
+title: "Services"
 permalink: /edit/
 author_profile: true
 redirect_from:
@@ -28,6 +28,11 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
+* 2023.02: Zongmian Li (ENS Paris), as reviewer
+* 2023.02: Robin Strudel (Inria Paris), as reviewer
+* 2022.11: Vo Van Huy (Inria Paris), as advisor
+* 2022.11: Simon Roburin (ENPC), as advisor 
+* 2022.11: Anthony Hu (Cambridge University) as examiner
 * 2022.06: Yihong Xu (Inria Grenoble), as reviewer
 * 2022.06: Vo Van Huy (Inria Paris/Valeo), as advisor
 * 2022.04: Antoine Saporta (Sorbonne/Valeo), as advisor
