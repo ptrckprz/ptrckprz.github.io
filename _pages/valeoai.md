@@ -70,7 +70,7 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Code and data
 
-[`SFRIK`](https://github.com/valeoai/sfrik) Self-supervised learning with rotation-invariant kernels (ICLR'23)  
+[`SFRIK`](https://github.com/valeoai/sfrik) Self-supervised learning with rotation-invariant kernels (ICLR'23)   
 [`FOUND`](https://github.com/valeoai/FOUND) Observing the background to discover objects (CVPR'23)  
 [`ALSO`](https://github.com/valeoai/ALSO) Automotive Lidar self-supervision by occupancy estimation (CVPR'23)    
 [`RangeViT`](https://github.com/valeoai/rangevit) ViT for 3D Semantic Segmentation in autonomous driving (CVPR'23)  
