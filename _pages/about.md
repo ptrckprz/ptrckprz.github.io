@@ -15,6 +15,7 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 * 2023.01: [Paper](https://ptrckprz.github.io/conf/) on self-supervised learning with rotation-invariant kernels accepted at ICLR'23 (collab with ENS Lyon).
 * 2022.12: [Paper](https://ptrckprz.github.io/conf/) on transformer-based BEV segmentation preesented at CoRL'22 (collab with Inria Grenoble).
 * 2022.11: [Talk](https://ptrckprz.github.io/pres/) at Collège de France workshop on the Future of Transports ([video](https://www.youtube.com/watch?v=n6eIMCbgSiI)).
+* 2022.11: [Article](https://www.lesechos.fr/idees-debats/cercle/opinion-vehicules-autonomes-partageons-les-donnees-1875142) in Les Echos (in French).
 * 2022.11: [Talk](https://ptrckprz.github.io/pres/) at Wayve Scientific Speaker Series.
 * 2022.10: Tutorial [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) at ECCV'22 ([video](https://www.youtube.com/watch?v=RhNZUyOubfE)).
 * 2022.10: [Keynote](https://ptrckprz.github.io/pres/) at the [VBSD](https://wvbsd.github.io/2022/index.html) ECCV workhsop
