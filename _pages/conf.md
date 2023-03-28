@@ -10,6 +10,14 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380)  
+M. Zemni, M. Chen, É. Zablocki, H. Ben-Younes, P. Pérez, M. Cord  
+*CVPR 2023* [[code](https://github.com/valeoai/OCTET)]
+
+[Unsupervised object localization: observing the background to discover objects](https://arxiv.org/abs/2212.07834)  
+O. Siméoni, Ch. Sekkat, G. Puy, A. Vobecky, E. Zablocki, P. Pérez  
+*CVPR 2023* [[code](https://github.com/valeoai/FOUND)]
+
 [Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
 *ICLR 2023*
