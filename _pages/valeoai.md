@@ -34,6 +34,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Léon Zheng**, PhD student w/ ENS Lyon | [page](https://leonzheng2.github.io/)
 
 **Human Resource Partner**: [Alain Phetsinghane](mailto:alain.phetsinghane@valeo.com)  
+**Collaborative projects manager**: [Serkan Odabas](mailto:serkan.odabas@valeo.com)    
 **Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
 **Location**: [100 rue de Courcelles](https://goo.gl/maps/LPCmZTD1GZo36qWU6), Paris  
 
