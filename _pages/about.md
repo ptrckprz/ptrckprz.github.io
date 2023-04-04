@@ -11,8 +11,10 @@ redirect_from:
 Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), an AI research lab focused on Valeo automotive applications, self-driving cars in particular. Before joining Valeo, Patrick Pérez was researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include multimodal scene understanding and computational imaging.
 
 ### News
-* 2023.06: Participating to CVPR'23 workshop "Object localization for free: Going beyond self-supervised learning" 
+* 2023.06: [Talk](https://ptrckprz.github.io/pres/) at "Object localization for free: Going beyond self-supervised learning" CVPR'23 Tutorial.
+* 2023.06: [Keynote](https://ptrckprz.github.io/pres/) at Vision4AllSeasons CVPR'23 workshop. 
 * 2023.06: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC). 
+* 2023.04: "BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world" accepted as ICCV'23 workshop.
 * 2023.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'23.
 * 2023.01: [Paper](https://ptrckprz.github.io/conf/) on self-supervised learning with rotation-invariant kernels accepted at ICLR'23 (collab with ENS Lyon).
 * 2022.12: [Paper](https://ptrckprz.github.io/conf/) on transformer-based BEV segmentation preesented at CoRL'22 (collab with Inria Grenoble).
@@ -30,7 +32,7 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 * 2022.07: Course on robustness, confidence and adaptation at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague.
 * 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 2022.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'22.
-* 2022.06: [Keynote](https://ptrckprz.github.io/pres/) at the [Vision4AllSeaons](https://vision4allseason.net/) CVPR Workshop.
+* 2022.06: [Keynote](https://ptrckprz.github.io/pres/) at the [Vision4AllSeasons](https://vision4allseason.net/) CVPR Workshop.
 * 2022.05: [Keynote](https://ptrckprz.github.io/pres/) at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop.
 * 2022.02: [Talk](https://ptrckprz.github.io/pres/) at EPFL CV Seminar.
 * 2022.01: [IMT podcast](https://imtech.wp.imt.fr/2022/01/26/voitures-intelligentes-sur-la-route-de-lautonomie/) (in French) on challenges of driving automation.
