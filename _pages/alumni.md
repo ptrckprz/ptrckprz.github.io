@@ -20,9 +20,9 @@ redirect_from:
 * R. Venkatesh Babu, Inria (2004), now Associate Professor at IISc Bangalore
 
 ### PhDs
-* Antoine Saporta (Sorbonne U., April 2022)
-* Charles Corbière (CNAM, March 2022)
-* Arthur Ouaknine (Telecom Paris, March 2022)
+* Antoine Saporta (Sorbonne U., April 2022), now engineer at Meero
+* Charles Corbière (CNAM, March 2022), now Postdoc at EPFL
+* Arthur Ouaknine (Telecom Paris, March 2022), now Postdoc at McGill
 * Martin Engilberge (Sorbonne U., June 2020), now Postdoc at EPFL
 * Sanjeel Parekh (Telecom Paris, Jan. 2019), now Senior Research Engineer at Audio Analytics
 * Himalaya Jain (Inria, May 2018), now Researcher at Helsing
