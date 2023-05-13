@@ -13,8 +13,9 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 ### News
 * 2023.06: [Talk](https://ptrckprz.github.io/pres/) at "Object localization for free: Going beyond self-supervised learning" CVPR'23 Tutorial.
 * 2023.06: [Keynote](https://ptrckprz.github.io/pres/) at Vision4AllSeasons CVPR'23 workshop. 
-* 2023.06: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC). 
 * 2023.05: Talk at [CIIRC 10-th anniversary's AI Symposium](https://industry-ai.cz/ai-symposium/)
+* 2023.05: [Keynote](https://ptrckprz.github.io/pres/) at Orasis 2023. 
+* 2023.05: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC). 
 * 2023.04: "[BRAVO](https://valeoai.github.io/bravo/): Robustness and Reliability of Autonomous Vehicles in the Open-world" accepted as ICCV'23 workshop.
 * 2023.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'23.
 * 2023.03: Valeo.ai celebrates its 5th anniversary!
