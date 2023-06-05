@@ -33,7 +33,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
 **Léon Zheng**, PhD student w/ ENS Lyon | [page](https://leonzheng2.github.io/)
 
-**Human Resource Partner**: [Marine MIchaud](mailto:marine.michaud@valeo.com)  
+**Human Resource Partner**: [Marine Michaud](mailto:marine.michaud@valeo.com)  
 **Collaborative projects manager**: [Serkan Odabas](mailto:serkan.odabas@valeo.com)    
 **Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
 **Location**: [100 rue de Courcelles](https://goo.gl/maps/LPCmZTD1GZo36qWU6), Paris  
