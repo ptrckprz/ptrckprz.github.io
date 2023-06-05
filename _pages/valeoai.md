@@ -51,7 +51,7 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Lastest News
 [06/2023] `pres` Oriane Siméoni runs "Object localization for free: Going beyond self-supervised learning" CVPR'23 Tutorial  
-[06/2023] `pres` Eight Valeo.ai researchers participate to CVPR'23  
+[06/2023] `pres` Nine Valeo.ai researchers participate to CVPR'23  
 [06/2023] `pres` Patrick Pérez delivers keynote at Vision4AllSeasons CVPR'23 workshop   
 [04/2023] `pres` "BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world" accepted as ICCV'23 workshop  
 [03/2023] `team` Valeo.ai celebrates its 5th anniversary!  
