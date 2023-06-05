@@ -11,12 +11,11 @@ redirect_from:
 Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), an AI research lab focused on Valeo automotive applications, self-driving cars in particular. Before joining Valeo, Patrick Pérez was researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include multimodal scene understanding and computational imaging.
 
 ### News
-* 2023.06: [Talk](https://ptrckprz.github.io/pres/) at "Object localization for free: Going beyond self-supervised learning" CVPR'23 Tutorial.
-* 2023.06: [Keynote](https://ptrckprz.github.io/pres/) at Vision4AllSeasons CVPR'23 workshop. 
-* 2023.05: Talk at [CIIRC 10-th anniversary's AI Symposium](https://industry-ai.cz/ai-symposium/)
+* 2023.06: [Talk](https://ptrckprz.github.io/pres/) at [Object localization for free: Going beyond self-supervised learning](https://osimeoni.github.io/object-localization-for-free/) CVPR'23 Tutorial.
+* 2023.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'23 workshop. 
+* 2023.05: Talk and panels at [CIIRC 10-th anniversary's AI Symposium](https://industry-ai.cz/ai-symposium/)
 * 2023.05: [Keynote](https://ptrckprz.github.io/pres/) at Orasis 2023. 
-* 2023.05: [Talk](https://ptrckprz.github.io/pres/) at Samsung AI Center (SAIC). 
-* 2023.04: "[BRAVO](https://valeoai.github.io/bravo/): Robustness and Reliability of Autonomous Vehicles in the Open-world" accepted as ICCV'23 workshop.
+* 2023.04: [BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world](https://valeoai.github.io/bravo/) accepted as ICCV'23 workshop.
 * 2023.03: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'23.
 * 2023.03: Valeo.ai celebrates its 5th anniversary!
 * 2023.01: [Paper](https://ptrckprz.github.io/conf/) on self-supervised learning with rotation-invariant kernels accepted at ICLR'23 (collab with ENS Lyon).
@@ -35,7 +34,7 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 * 2022.07: Course on robustness, confidence and adaptation at the Vision and Sport Summer School ([VS3 2022](http://cmp.felk.cvut.cz/summerschool2022/)) in Prague.
 * 2022.07: Our survey on the [Explainability of vision-based autonomous driving systems](https://arxiv.org/abs/2101.05307) accepted in IJCV.
 * 2022.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'22.
-* 2022.06: [Keynote](https://ptrckprz.github.io/pres/) at the [Vision4AllSeasons](https://vision4allseason.net/) CVPR Workshop.
+* 2022.06: [Keynote](https://ptrckprz.github.io/pres/) at the [Vision4AllSeasons](https://vision4allseason.net/workshop-at-cvpr22/) CVPR Workshop.
 * 2022.05: [Keynote](https://ptrckprz.github.io/pres/) at the [Autonomy2.0](https://www.icra2022av.org/) ICRA Workshop.
 * 2022.02: [Talk](https://ptrckprz.github.io/pres/) at EPFL CV Seminar.
 * 2022.01: [IMT podcast](https://imtech.wp.imt.fr/2022/01/26/voitures-intelligentes-sur-la-route-de-lautonomie/) (in French) on challenges of driving automation.
@@ -51,7 +50,7 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 * 2021.08: [Paper](https://ptrckprz.github.io/jal/) on [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130) accepted in CVIU.
 * 2021.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ICCV'21.
 * 2021.07: [Code](https://github.com/valeoai/SemanticPalette) for our CVPR'21 paper "Semantic Palette: Guiding scene generation with class proportions".
-* 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'21 workshop.
+* 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/workshop-at-cvpr21/) CVPR'21 workshop.
 * 2021.06: [Keynote](https://ptrckprz.github.io/pres/) at [SAIAD](https://sites.google.com/view/saiad2021) CVPR'21 workshop.
 * 2021.05: [Paper](https://ptrckprz.github.io/jal/) on [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508) accepted in IEEE T-PAMI (collab with CNAM).
 * 2021.04: [Paper](https://ptrckprz.github.io/conf/) accepted at Siggraph'21 (collab with MPI).
