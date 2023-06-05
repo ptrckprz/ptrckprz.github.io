@@ -33,7 +33,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Eloi Zablocki**, research scientist | [scholar](https://scholar.google.fr/citations?hl=en&user=dOkbUmEAAAAJ) | [twitter](https://twitter.com/EloiZablocki)  
 **Léon Zheng**, PhD student w/ ENS Lyon | [page](https://leonzheng2.github.io/)
 
-**Human Resource Partner**: [Alain Phetsinghane](mailto:alain.phetsinghane@valeo.com)  
+**Human Resource Partner**: [Marine MIchaud](mailto:marine.michaud@valeo.com)  
 **Collaborative projects manager**: [Serkan Odabas](mailto:serkan.odabas@valeo.com)    
 **Assistant**: [Ouafa Bakrine](mailto:ouafa.bakrine@valeo.com)  
 **Location**: [100 rue de Courcelles](https://goo.gl/maps/LPCmZTD1GZo36qWU6), Paris  
@@ -212,7 +212,7 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 **Maxime Bucher**, research scientist ([scholar](https://scholar.google.fr/citations?user=NbYEOpMAAAAJ&hl=en))  
 **Charles Corbière**, PhD student with CNAM ([scholar](https://scholar.google.fr/citations?user=UcnFUZ8AAAAJ&hl=en)), now at EPFL  
 **Maximilian Jaritz**, PhD student ([scholar](https://scholar.google.com/citations?user=yt2IsdAAAAAJ&hl=en)), now at Amazon  
-**Himalaya Jain**, research scientist ([scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en)), now at Helsing  
+**Himalaya Jain**, research scientist ([scholar](https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en)), now at Helsin  
 **Gabriel de Marmiesse**, research engineer ([github](https://github.com/gabrieldemarmiesse)), now at Preligens  
 **Arthur Ouaknine**, PhD student with Telecom ([scholar](https://scholar.google.com/citations?user=OCT3E9wAAAAJ&hl=en)), now at McGill     
 **Julien Rebut**, research scientist ([scholar](https://scholar.google.com/citations?hl=en)), now at Hexagon|AutonomouStuff  
