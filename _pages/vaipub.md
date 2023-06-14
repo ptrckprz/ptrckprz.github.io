@@ -38,6 +38,10 @@ C. Dancette, S. Whitehead, R. Maheshwary, R. Vedantam, S. Scherer, X. Chen, M. C
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
 *ICLR 2023* [[code](https://github.com/valeoai/sfrik)]
 
+[Packed Ensembles for efficient uncertainty estimation](https://arxiv.org/abs/2210.09184)  
+O. Laurent, A. Lafage, E. Tartaglione, G. Daniel, J.-M. Martinez, A. Bursuc, G. Franchi  
+*ICLR  2023* [[code](https://github.com/ENSTA-U2IS/torch-uncertainty)]
+
 **2022**
 
 [LaRa: Latents and Rays for multi-camera bird's-eye-view semantic segmentation](https://arxiv.org/abs/2206.13294)  
