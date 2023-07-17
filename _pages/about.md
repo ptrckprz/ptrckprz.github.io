@@ -11,6 +11,9 @@ redirect_from:
 Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), an AI research lab focused on Valeo automotive applications, self-driving cars in particular. Before joining Valeo, Patrick Pérez was researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include multimodal scene understanding and computational imaging.
 
 ### News
+* 2023.07: Paper on [prompt-based zero-shot domain adaptation](https://arxiv.org/abs/2212.03241) accepted at ICCV 2023.  
+* 2023.07: Radio program at Rencontres de Pétraques (["Comment dépasser la guerre des intelligences"](https://www.radiofrance.fr/franceculture/podcasts/les-rencontres-de-petrarque/peut-on-depasser-la-guerre-des-intelligences-1975758)) by Caroline Broué, along with Anne Alombert, Yoshua Bengio and Yann LeCun.
+* 2023.07: Talk on AI at CNIL (Commission Informatique et Liberté) 
 * 2023.06: [Talk](https://ptrckprz.github.io/pres/) at [Object localization for free: Going beyond self-supervised learning](https://osimeoni.github.io/object-localization-for-free/) CVPR'23 Tutorial.
 * 2023.06: [Keynote](https://ptrckprz.github.io/pres/) at [Vision4AllSeasons](https://vision4allseason.net/) CVPR'23 workshop. 
 * 2023.05: Talk and panels at [CIIRC 10-th anniversary's AI Symposium](https://industry-ai.cz/ai-symposium/)
