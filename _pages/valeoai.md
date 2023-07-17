@@ -5,16 +5,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-An international team based in Paris, which conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is on reliable and sustainable automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [projects](https://valeoai.github.io/blog/projects), [codes](https://github.com/valeoai), [posts](https://valeoai.github.io/blog) and [tweets](https://twitter.com/valeoai). 
-
-###  Team
 <p align="left">
   <img alt="Light" src="../images/team-photo-crop-2021.jpg" width="47.5%">
   <img alt="Dark" src="../images/valeoai-at-cvpr23.jpg" width="42.5%">
 </p>  
 
+An international team based in Paris, which conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is on reliable and sustainable automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [projects](https://valeoai.github.io/blog/projects), [codes](https://github.com/valeoai), [posts](https://valeoai.github.io/blog) and [tweets](https://twitter.com/valeoai). 
 
+###  Team
 **Florent Bartoccioni**, research engineer | [page](https://f-barto.github.io/)   
 **Victor Besnier**, research scientist | [scholar](https://scholar.google.com/citations?user=n_C2h-QAAAAJ&hl=en)  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=en)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
@@ -69,7 +67,7 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 [11/2022] `team` Huy Van Vo defends his PhD at ENS and joins FAIR at META  
 [10/2022] `collab` [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception  
 [10/2022] `team` Yihong Xu starts as research scientist  
-[10/2022] `paper` `code` `data` Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([BiB](https://github.com/huyvvo/BiB), [D&S](https://github.com/vobecant/DriveAndSegment), [STEEX](https://github.com/valeoai/STEEX), [AttMask](https://github.com/gkakogeorgiou/attmask), [LDU](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([HULC](https://vcai.mpi-inf.mpg.de/projects/HULC/))  
+[10/2022] `paper` `code` `data` Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([`BiB`](https://github.com/huyvvo/BiB), [`D&S`](https://github.com/vobecant/DriveAndSegment), [`STEEX`](https://github.com/valeoai/STEEX), [`AttMask`](https://github.com/gkakogeorgiou/attmask), [`LDU`](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([`HULC`](https://vcai.mpi-inf.mpg.de/projects/HULC/))  
 [10/2022] `pres` Andrei Bursuc and Spyros Gidaris run [Self-supervision on wheels: Advances in self-supervised learning from autonomous driving data](https://gidariss.github.io/ssl-on-wheels-eccv2022/) ECCV'22 Tutorial  
 [09/2022] `challenge` ObsNet ranks first on [SegmentMeIfYouCan benchmark](https://segmentmeifyoucan.com/leaderboard) (Anomaly Track) among methods with no OoD training data  
 
