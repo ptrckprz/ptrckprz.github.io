@@ -9,7 +9,12 @@ redirect_from:
 An international team based in Paris, which conducts AI research for [Valeo](http://valeo.com) automotive applications, in collaboraton with world-class academics. Our main research is on reliable and sustainable automotive AI. See our [papers](https://ptrckprz.github.io/vaipub), [projects](https://valeoai.github.io/blog/projects), [codes](https://github.com/valeoai), [posts](https://valeoai.github.io/blog) and [tweets](https://twitter.com/valeoai). 
 
 ###  Team
-![](../images/team-photo-crop-2021.jpg)  
+<p align="center">
+  <img alt="Light" src="../images/team-photo-crop-2021.jpg" width="47%">
+&nbsp;
+  <img alt="Dark" src="../images/valeoai-at-cvpr23.jpg" width="43%">
+</p>  
+
 **Florent Bartoccioni**, research engineer | [page](https://f-barto.github.io/)   
 **Victor Besnier**, research scientist | [scholar](https://scholar.google.com/citations?user=n_C2h-QAAAAJ&hl=en)  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=en)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
