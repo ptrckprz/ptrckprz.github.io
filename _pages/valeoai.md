@@ -14,6 +14,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
   <img alt="Dark" src="../images/valeoai-at-cvpr23.jpg" width="42.5%">
 </p>  
 
+
 **Florent Bartoccioni**, research engineer | [page](https://f-barto.github.io/)   
 **Victor Besnier**, research scientist | [scholar](https://scholar.google.com/citations?user=n_C2h-QAAAAJ&hl=en)  
 **Alexandre Boulch**, research scientist | [page](http://www.boulch.eu/) | [scholar](https://scholar.google.com/citations?user=iJ3qFGAAAAAJ&hl=en)| [github](https://github.com/aboulch) | [twitter](https://twitter.com/AlexandreBoulch)  
@@ -55,15 +56,17 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Lastest News
+[07/2023] `paper` `code` Four [papers](https://ptrckprz.github.io/vaipub) accepted at ICCV'23, one with code so far ([`WaffleIron`](https://github.com/valeoai/WaffleIron))  
 [06/2023] `pres` Oriane Siméoni runs "Object localization for free: Going beyond self-supervised learning" CVPR'23 Tutorial  
 [06/2023] `pres` Nine Valeo.ai researchers participate to CVPR'23  
-[06/2023] `pres` Patrick Pérez delivers keynote at Vision4AllSeasons CVPR'23 workshop   
+[06/2023] `pres` Patrick Pérez delivers keynote at Vision4AllSeasons CVPR'23 workshop  
+[06/2023] `team` Florent Bartoccioni defends his PhD at Inria-Grenoble and joins Valeo.ai as research engineer  
 [04/2023] `pres` "BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world" accepted as ICCV'23 workshop  
 [03/2023] `team` Valeo.ai celebrates its 5th anniversary!  
-[02/2023] `paper` `code`  Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([FOUND](https://github.com/valeoai/FOUND), [ALSO](https://github.com/valeoai/ALSO), [Range-ViT](https://github.com/valeoai/rangevit), [OCTET](https://github.com/valeoai/OCTET))   
+[02/2023] `paper` `code`  Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([`FOUND`](https://github.com/valeoai/FOUND), [`ALSO`](https://github.com/valeoai/ALSO), [`Range-ViT`](https://github.com/valeoai/rangevit), [`OCTET`](https://github.com/valeoai/OCTET))   
 [01/2023] `team` Eduardo Valle starts as senior scientist  
 [12/2022] `team` Cédric Rommel starts as research scientist  
-[11/2022] `team` Huy Van Vo defends his PhD at ENS  
+[11/2022] `team` Huy Van Vo defends his PhD at ENS and joins FAIR at META  
 [10/2022] `collab` [Astra-Vision](https://astra-vision.github.io/), part of Inria-Valeo joint team Astra, starts research on perception  
 [10/2022] `team` Yihong Xu starts as research scientist  
 [10/2022] `paper` `code` `data` Six [papers](https://ptrckprz.github.io/vaipub) presented at ECCV'22, five with codes ([BiB](https://github.com/huyvvo/BiB), [D&S](https://github.com/vobecant/DriveAndSegment), [STEEX](https://github.com/valeoai/STEEX), [AttMask](https://github.com/gkakogeorgiou/attmask), [LDU](https://github.com/ENSTA-U2IS/LDU)) and one with dataset ([HULC](https://vcai.mpi-inf.mpg.de/projects/HULC/))  
@@ -80,12 +83,13 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Code and data
 
+[`POCO`](https://github.com/valeoai/POCO) Point Convolution for Surface Reconstruction (CVPR'22)  
 [`SFRIK`](https://github.com/valeoai/sfrik) Self-supervised learning with rotation-invariant kernels (ICLR'23)   
 [`FOUND`](https://github.com/valeoai/FOUND) Observing the background to discover objects (CVPR'23)  
 [`ALSO`](https://github.com/valeoai/ALSO) Automotive Lidar self-supervision by occupancy estimation (CVPR'23)    
 [`RangeViT`](https://github.com/valeoai/rangevit) ViT for 3D Semantic Segmentation in autonomous driving (CVPR'23)  
 [`OCTET`](https://github.com/valeoai/OCTET) Object-aware counterfactual explanations (CVPR'23)  
-[`WaffleIron`](https://github.com/valeoai/WaffleIron) Automotive point cloud semantic segmentation (arxiv 2022)  
+[`WaffleIron`](https://github.com/valeoai/WaffleIron) Automotive point cloud semantic segmentation (ICCV'23)  
 [`LidarTouch`](https://github.com/F-Barto/LiDARTouch) Monocular metric depth estimation with a few-beam LiDAR (CVIU 2022)  
 [`DenseMTL`](https://github.com/astra-vision/DenseMTL) Cross-task attention mechanism for dense multi-task learning (WACV'23)  
 [`LaRa`](https://github.com/valeoai/LaRa) Latents and rays for multi-camera BEV semantic segmentation (CoRL'22)  
