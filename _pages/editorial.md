@@ -29,7 +29,7 @@ redirect_from:
 
 ### PhD committees since 2015
 * 2023.12: Etienne Meunier (Inria Rennes), as reveiwer
-* 2023.09: Vidit Vidti (EPFL), as reviewer
+* 2023.09: Vidit Vidit (EPFL), as reviewer
 * 2023.07: Jayneel Parekh (TelecomParis), as examiner
 * 2023.05: Florent Bartoccioni (Inria/Valeo.ai), as advisor
 * 2023.02: Zongmian Li (ENS Paris), as reviewer
