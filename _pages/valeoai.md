@@ -59,7 +59,9 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 [06/2023] `pres` Nine Valeo.ai researchers participate to CVPR'23  
 [06/2023] `pres` Patrick Pérez delivers keynote at Vision4AllSeasons CVPR'23 workshop  
 [06/2023] `team` Florent Bartoccioni defends his PhD at Inria-Grenoble and joins Valeo.ai as research engineer  
-[04/2023] `pres` "BRAVO: Robustness and Reliability of Autonomous Vehicles in the Open-world" accepted as ICCV'23 workshop  
+[04/2023] `pres` "[BRAVO](https://valeoai.github.io/bravo/): Robustness and Reliability of Autonomous Vehicles in the Open-world" accepted as ICCV'23 workshop  
+[04/2023] `pres` "[Uncertainty Quantification for Computer Vision](https://uncv2023.github.io/)" accepted as ICCV'23 wokrshop  
+[04/2023] `pres` "The Many Faces of Reliability of Deep Learning for Real-World Deployment" accepted as ICCV'23 tutorial  
 [03/2023] `team` Valeo.ai celebrates its 5th anniversary!  
 [02/2023] `paper` `code`  Six [papers](https://ptrckprz.github.io/vaipub) accepted at CVPR'23, four with codes ([`FOUND`](https://github.com/valeoai/FOUND), [`ALSO`](https://github.com/valeoai/ALSO), [`Range-ViT`](https://github.com/valeoai/rangevit), [`OCTET`](https://github.com/valeoai/OCTET))   
 [01/2023] `team` Eduardo Valle starts as senior scientist  
