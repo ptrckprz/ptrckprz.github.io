@@ -10,6 +10,26 @@ redirect_from:
 
 **2023**
 
+[PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2212.03241)  
+M. Fahes, T.-H. Vu, A. Bursuc, P. Pérez, R. de Charette  
+*ICCV 2023*
+
+[Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation](https://arxiv.org/abs/2212.03241)  
+G. Puy, A. Boulch, R. Marlet    
+*ICCV 2023*  [[code](https://github.com/valeoai/WaffleIron)]
+
+[You Never Get a Second Chance To Make a Good First Impression:Seeding Active Learning for 3D Semantic Segmentation](https://arxiv.org/abs/2304.11762)  
+N. Samet, O. Siméoni, G. Puy, G. Ponimatkin, R. Marlet, V. Lepetit  
+*ICCV 2023*  
+
+[Zero-shot spatial layout conditioning for text-to-image diffusion models](https://arxiv.org/abs/2306.13754)  
+G. Couairon, M. Careil, M. Cord, S. Lathuilière, J. Verbeek  
+*ICCV 2023*  
+
+[eP-ALM: Efficient Perceptual Augmentation of Language Models](https://arxiv.org/abs/2303.11403)  
+M. Shukor, C. Dancette, M. Cord  
+*ICCV 2023*  
+
 [OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380)  
 M. Zemni, M. Chen, É. Zablocki, H. Ben-Younes, P. Pérez, M. Cord  
 *CVPR 2023* [[code](https://github.com/valeoai/OCTET)]
