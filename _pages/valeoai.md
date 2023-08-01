@@ -54,7 +54,7 @@ Télécom, Paris ([Gaël Richard](https://scholar.google.com/citations?user=xn70
 UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Lastest News
-[07/2023] `paper` `code` Four [papers](https://ptrckprz.github.io/vaipub) accepted at ICCV'23, one with code so far ([`WaffleIron`](https://github.com/valeoai/WaffleIron))  
+[07/2023] `paper` `code` Five [papers](https://ptrckprz.github.io/vaipub) accepted at ICCV'23, one with code so far ([`WaffleIron`](https://github.com/valeoai/WaffleIron))  
 [07/2023] `service` Renaud Marlet and Oriane Siméoni join [ICCV'23 organization](https://iccv2023.thecvf.com/iccv.2023.people-75.php) as Logistic Chair (Patrick Pérez serving as Industrial Relation co-chair)  
 [06/2023] `pres` Oriane Siméoni runs "Object localization for free: Going beyond self-supervised learning" CVPR'23 Tutorial  
 [06/2023] `pres` Nine Valeo.ai researchers participate to CVPR'23  
