@@ -10,6 +10,10 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2212.03241)  
+M. Fahes, T.-H. Vu, A. Bursuc, P. Pérez, R. de Charette  
+*ICCV 2023*
+
 [OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380)  
 M. Zemni, M. Chen, É. Zablocki, H. Ben-Younes, P. Pérez, M. Cord  
 *CVPR 2023* [[code](https://github.com/valeoai/OCTET)]
