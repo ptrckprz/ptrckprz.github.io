@@ -198,7 +198,7 @@ A.Q. Cao, G. Puy, A. Boulch, R. Marlet
 A. Ouaknine, A. Newson, P. Pérez, F. Tupin, J. Rebut  
 *ICCV 2021* [[code](https://github.com/valeoai/MVRSS),[page](https://valeoai.github.io/blog/publications/mvrss/)]
 
-[Multi-target adversarial frameworks for domain adaptationin in semantic segmentation](https://arxiv.org/abs/2108.06962)  
+[Multi-target adversarial frameworks for domain adaptation in in semantic segmentation](https://arxiv.org/abs/2108.06962)  
 A. Saporta, T.H. Vu, M. Cord, P. Pérez  
 *ICCV 2021* [[code](https://github.com/valeoai/MTAF),[page](https://valeoai.github.io/blog/publications/mtaf/),[video](https://www.youtube.com/watch?v=cfOCSSjf7Ew)] 
 
