@@ -10,6 +10,14 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis]()  
+V. Letzelter, M. Fontaine, M. Chen, P. Pérez, S. Essid, G. Richard  
+*NeurIPS 2023*
+
+[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images]()  
+A. Vobecky, O. Siméoni, D. Hurych, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic 
+*NeurIPS 2023*
+
 [PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2212.03241)  
 M. Fahes, T.-H. Vu, A. Bursuc, P. Pérez, R. de Charette  
 *ICCV 2023*
