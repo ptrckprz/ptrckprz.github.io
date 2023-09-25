@@ -10,11 +10,15 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Decaf: Monocular Deformation Capture for Face and Hand Interactions]()  
+S. Shimada, V. Golyanik, P. Pérez, Ch. Theobalt  
+*Siggrah Asia 2023*
+
 [Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis]()  
 V. Letzelter, M. Fontaine, M. Chen, P. Pérez, S. Essid, G. Richard  
 *NeurIPS 2023*
 
-[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images]()  
+[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images]()   
 A. Vobecky, O. Siméoni, D. Hurych, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic  
 *NeurIPS 2023*
 
