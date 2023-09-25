@@ -10,6 +10,26 @@ redirect_from:
 
 **2023**
 
+[Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards](https://arxiv.org/abs/2306.04488)  
+A. Ramé, G. Couairon, M. Shukor, C. Dancette, J.-B. Gaya, L. Soulier, M. Cord  
+*NeurIPS 2023*
+
+[Unifying GANs and Score-Based Diffusion as Generative Particle Models](https://arxiv.org/abs/2305.16150)  
+J.-Y. Franceschi, M. Gartrell, L. Dos Santos, Th. Issenhuth, E. de Bézenac, Mi. Chen, A. Rakotomamonjy  
+*NeurIPS 2023*
+
+[Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis]()  
+V. Letzelter, M. Fontaine, M. Chen, P. Pérez, S. Essid, G. Richard  
+*NeurIPS 2023*
+
+[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images]()   
+A. Vobecky, O. Siméoni, D. Hurych, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic  
+*NeurIPS 2023*
+
+[Decaf: Monocular Deformation Capture for Face and Hand Interactions]()  
+S. Shimada, V. Golyanik, P. Pérez, Ch. Theobalt  
+*Siggrah Asia 2023*
+
 [PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2212.03241)  
 M. Fahes, T.-H. Vu, A. Bursuc, P. Pérez, R. de Charette  
 *ICCV 2023*
