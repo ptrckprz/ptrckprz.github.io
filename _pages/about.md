@@ -12,7 +12,7 @@ Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://p
 
 ### News
 * 2023.12: [Paper](https://vcai.mpi-inf.mpg.de/projects/Decaf/) on monocolar hand-face reconstrution at SiggraphAsia (collaboration with MPI), 
-* 2023.10: Podcast on outomotive AI in [Moving Your Future by Valeo](https://shows.acast.com/moving-your-future-by-valeo/episodes/how-is-ai-transforming-the-automotive-industry) series  
+* 2023.10: Podcast on automotive AI in [Moving Your Future by Valeo](https://shows.acast.com/moving-your-future-by-valeo/episodes/how-is-ai-transforming-the-automotive-industry) series  
 * 2023.09: Participating to several events at ICCV in Paris: [BRAVO](https://valeoai.github.io/bravo/) workshop,  [Human Environment Navigation](https://jrdb.erc.monash.edu/workshops/iccv2023) workshop, and tutorial on [Reliability](https://abursuc.github.io/many-faces-reliability/). 
 * 2023.09: [Papers](https://ptrckprz.github.io/conf/) accepted at NeurIPS'23.
 * 2023.07: Paper on [prompt-based zero-shot domain adaptation](https://arxiv.org/abs/2212.03241) accepted at ICCV 2023.  
