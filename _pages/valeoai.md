@@ -213,6 +213,7 @@ UBS, Vannes ([Nicolas Courty](https://people.irisa.fr/Nicolas.Courty/))
 
 ### Commnunication
 
+* Patrick Pérez on automotive AI in [Moving Your Future by Valeo](https://shows.acast.com/moving-your-future-by-valeo/episodes/how-is-ai-transforming-the-automotive-industry) podcast  
 * Patrick Pérez on [automotive AI and Valeo](https://www.youtube.com/watch?v=F7LZ-arFr-E).
 * With seven other France’s global industry players, Valeo signs a [Manifesto on AI for Industry](https://www.valeo.com/en/ai-for-humanity-french-industry-engages-on-artificial-intelligence/).   
 * Jacques Aschenbroich (Chairman and CEO of Valeo) on [AI and valeo.ai](https://www.linkedin.com/pulse/valeo-our-order-intake-already-includes-ai-jacques-aschenbroich/).  
