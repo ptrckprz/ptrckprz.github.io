@@ -29,6 +29,7 @@ An international team based in Paris, which conducts AI research for [Valeo](htt
 **Patrick Pérez**, scientific director (and Valeo VP of AI) | [page](https://ptrckprz.github.io/) | [scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en)  
 **Cédric Rommel**, research scientist | [page](https://cedricrommel.github.io/) | [scholar](https://scholar.google.com/citations?user=GBv4KYwAAAAJ&hl=en) | [twitter](https://twitter.com/ccrommel)  
 **Gilles Puy**, research scientist | [page](https://sites.google.com/site/puygilles/home) | [scholar](https://scholar.google.com/citations?user=enaORE8AAAAJ&hl=en)  
+**Nermin Samet**, research scientist | [page](https://nerminsamet.github.io/) | [scholar](https://scholar.google.com/citations?user=kEVeHU0AAAAJ)  
 **Corentin Sautier**, PhD student w/ ENPC | [linkedin](https://www.linkedin.com/in/corentin-sautier-74415917b)    
 **Oriane Siméoni**, research scientist | [page](https://osimeoni.github.io/) | [scholar](https://scholar.google.com/citations?user=PC7ELtEAAAAJ&hl=en) | [github](https://github.com/osimeoni)  
 **Eduardo Valle**, senior scientist | [scholar](https://scholar.google.com/citations?user=lxWPqWAAAAAJ&hl=en)  
