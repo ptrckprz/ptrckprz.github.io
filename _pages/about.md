@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Patrick Pérez is Valeo VP of AI and Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), an AI research lab focused on Valeo automotive applications, self-driving cars in particular. Before joining Valeo, Patrick Pérez was researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include multimodal scene understanding and computational imaging.
+Patrick Pérez is CEO at [Kyutai](https://kyutai.org), a non-profit open-science AI lab, based in Paris. Prior to this, Patrick was at Valeo as VP of AI and Scientific Director of [valeo.ai](https://ptrckprz.github.io/valeoai/), and with Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004) as research scientist. His research interests lies in reliable multimodal AI for the benefit of all.
 
 ### News
-* 2023.13: Joining [Kyutai](https://kyutai.org) as CEO.   
+* 2023.12: Joining [Kyutai](https://kyutai.org) as CEO.   
 * 2023.12: [Paper](https://vcai.mpi-inf.mpg.de/projects/Decaf/) on monocolar hand-face reconstrution at SiggraphAsia (collaboration with MPI).  
 * 2023.10: Podcast on automotive AI in [Moving Your Future by Valeo](https://shows.acast.com/moving-your-future-by-valeo/episodes/how-is-ai-transforming-the-automotive-industry) series  
 * 2023.09: Participating to several events at ICCV in Paris: [BRAVO](https://valeoai.github.io/bravo/) workshop,  [Human Environment Navigation](https://jrdb.erc.monash.edu/workshops/iccv2023) workshop, and tutorial on [Reliability](https://abursuc.github.io/many-faces-reliability/). 
