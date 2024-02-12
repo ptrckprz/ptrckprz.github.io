@@ -28,6 +28,11 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
+* 2024.05: Léon Zheng (ENS Lyon/Valeo), as advisor
+* 2024.04: Adrien Bardes (INRIA/META), as examiner
+* 2024.04: Soshi Shimada (MPI), as reviewer
+* 2024.03: Nicolas Cherel (TelecomParis), as examiner
+* 2024.01: Damien Robert (IGN/ENGIE), as examiner
 * 2023.12: Etienne Meunier (Inria Rennes), as reveiwer
 * 2023.09: Vidit Vidit (EPFL), as reviewer
 * 2023.07: Jayneel Parekh (TelecomParis), as examiner
