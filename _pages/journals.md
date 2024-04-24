@@ -12,43 +12,43 @@ redirect_from:
 
 [MOCA: Self-supervised representation learning by predicting masked online codebook assignments](https://arxiv.org/abs/2307.09361)  
 S. Gidaris, A. Bursuc, O. Simeoni, A. Vobecky, N. Komodakis, M. Cord, P. Pérez  
-TMLR, 2024
+Transactions on Machine Learning Research, 2024
 
-[LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR]()  
+[LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR](https://arxiv.org/abs/2109.03569)  
 F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
-CVIU, 2021
+Computer Vision and Image Understanding, 227, 2023
 
 [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
-IJCV, 2022 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
+International Journal on Computer Vision, 130:2425–2452, 2022 [[blog post](https://valeoai.github.io/blog/2021/02/18/explainable-driving.html)]
 
-[Spherical Perspective on Learning with Normalization Layers]()  
+[Spherical Perspective on Learning with Normalization Layers](https://arxiv.org/abs/2006.13382)  
 S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
-Neurocomputing, 2022  
+Neurocomputing, 487:66-74, 2022  
 
 [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
 M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
-IEEE Trans. on Pattern Analysis and Machine Intelligence, 2022
+IEEE Trans. on Pattern Analysis and Machine Intelligence,45:1533-1544, 2022
 
 [Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
 H. Ben-Younes, É. Zablocki, P. Pérez, M. Cord  
-Pattern Recognition, 123, 2021 [[code](https://github.com/valeoai/BEEF)]
+Pattern Recognition,123, 2021 [[code](https://github.com/valeoai/BEEF)]
 
 [Detecting 32 pedestrian attributes for autonomous vehicles](https://arxiv.org/abs/2012.02647)  
 T. Mordan, M. Cord, P. Pérez, A. Alahi  
-IEEE Trans. on Intelligent Transportation Systems, 2021 [[code](https://github.com/vita-epfl/detection-attributes-fields)]
+IEEE Trans. on Intelligent Transportation Systems, 23(8):11823-11835, 2021 [[code](https://github.com/vita-epfl/detection-attributes-fields)]
 
 [Handling new target classes in semantic segmentation with domain adaptation](https://arxiv.org/abs/2004.01130)  
 M. Bucher, T.-H. Vu, M. Cord, P. Pérez  
-Computer Vision and Image Understanding, 2021 [[page](https://valeoai.github.io/blog/publications/buda/)]
+Computer Vision and Image Understanding, 212, 2021 [[page](https://valeoai.github.io/blog/publications/buda/)]
 
 [Confidence estimation via auxiliary models](https://arxiv.org/abs/2012.06508)  
 Ch. Corbière, N. Thome, A. Saporta, T.-H. Vu, M. Cord, P. Pérez  
-IEEE Trans. on Pattern Analysis and Machine Intelligence, 2021 [[code](https://github.com/valeoai/ConfidNet),[page](https://valeoai.github.io/blog/publications/confidnet_conda/)]
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 44(10):6043-6055, 2021 [[code](https://github.com/valeoai/ConfidNet),[page](https://valeoai.github.io/blog/publications/confidnet_conda/)]
 
 [Deep reinforcement learning for autonomous driving: A survey](https://arxiv.org/abs/2002.00444)  
 B. Ravi Kiran, I. Sobh, V. Talpaert, P. Mannion, A. Al Sallab, S. Yogamani, P. Pérez  
-IEEE Trans. on Intelligent Transportation Systems, 2021
+IEEE Trans. on Intelligent Transportation Systems, 23(6):4909-4926, 2021
 
 [ROAM: a Rich Object Appearance Model with Application to Rotoscoping](https://ieeexplore.ieee.org/document/8666808)  
 J.-M. Pérez-Rua, O. Miksik, T. Crivelli, P. Bouthemy, P. Torr and P. Pérez  
@@ -72,7 +72,7 @@ IEEE Trans. on Signal Processing, 66(21):5604 - 5617, 2018
 
 [Deep video portraits](https://web.stanford.edu/~zollhoef/papers/SG2018_DeepVideo/paper.pdf)  
 H. Kim, P. Garrido, A. Tewari, W. Xu, J. Thies, M. Niessner, P. Pérez, Ch. Richardt, M. Zollhöfer, Ch. Theobalt  
-ACM Tran. on Graphics (Proc. Siggraph 2018), 2018
+ACM Tran. on Graphics (Proc. Siggraph 2018), 37(4):1-14, 2018
 
 [State of the art on monocular 3D face Reconstruction, tracking, and applications](https://web.stanford.edu/~zollhoef/papers/EG18_FaceSTAR/paper.pdf)  
 M. Zollhoefer, J. Thies, P. Garrido, D. Bradley, T.Beeler, P. Pérez, M. Stamminger, M. Niessner, Ch. Theobalt  
@@ -104,7 +104,7 @@ ACM Trans. on Graphics (Proc. Siggraph Asia 2016), 35(6), 2016
 
 [Reconstruction of personalized 3D face rigs from monocular video](http://people.mpi-inf.mpg.de/~mzollhoef/Papers/SG2016_PF/paper.pdf)  
 P. Garrido, M. Zollhoefer, D. Casas, L. Valgaerts, K. Varanasi, P. Perez, Ch. Theobalt  
-ACM Trans. on Graphics, 35(3), 2016 - Presented at Siggraph 2016
+ACM Trans. on Graphics, 35(3):1-15, 2016 - Presented at Siggraph 2016
 
 [Sparse multi-view consistency for object segmentation](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6996026)  
 A. Djelouah, J.S. Franco, F. Le Clerc, P. Pérez and E. Boyer  
