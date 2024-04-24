@@ -16,7 +16,7 @@ Transactions on Machine Learning Research, 2024
 
 [LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR](https://arxiv.org/abs/2109.03569)  
 F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
-Computer Vision and Image Understanding, 227, 2023
+Computer Vision and Image Understanding, 227, 2023 [[code](https://github.com/F-Barto/LiDARTouch)]
 
 [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
@@ -24,11 +24,11 @@ International Journal on Computer Vision, 130:2425–2452, 2022 [[blog post](htt
 
 [Spherical Perspective on Learning with Normalization Layers](https://arxiv.org/abs/2006.13382)  
 S. Roburin, Y. de Mont-Marin, A. Bursuc, R. Marlet, P. Pérez, M. Aubry  
-Neurocomputing, 487:66-74, 2022  
+Neurocomputing, 487:66-74, 2022 [[code](https://github.com/ymontmarin/adamsrt#results)]  
 
 [Cross-modal learning for domain adaptation in 3D semantic segmentation](https://arxiv.org/abs/2101.07253)  
-M. Jaritz, T.-H. Vu, R. de Charette, ́E. Wirbel, P. Pérez  
-IEEE Trans. on Pattern Analysis and Machine Intelligence,45:1533-1544, 2022
+M. Jaritz, T.-H. Vu, R. de Charette, É. Wirbel, P. Pérez  
+IEEE Trans. on Pattern Analysis and Machine Intelligence,45:1533-1544, 2022 [[code](https://github.com/valeoai/xmuda_journal)]
 
 [Driving behavior explanation with multi-level fusion](https://arxiv.org/abs/2012.04983)  
 H. Ben-Younes, É. Zablocki, P. Pérez, M. Cord  
