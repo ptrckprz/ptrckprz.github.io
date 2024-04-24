@@ -10,9 +10,13 @@ redirect_from:
 
 ### Selection (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[MOCA: Self-supervised representation learning by predicting masked online codebook assignments](https://arxiv.org/abs/2307.09361)  
+S. Gidaris, A. Bursuc, O. Simeoni, A. Vobecky, N. Komodakis, M. Cord, P. Pérez  
+TMLR, 2024
+
 [LiDARTouch: Monocular metric depth estimation with a few-beam LiDAR]()  
 F. Bartoccioni, É. Zablocki, P. Pérez, M. Cord, K. Alahari  
-subitted to  *CVIU*, 2021
+CVIU, 2021
 
 [Explainability of vision-based autonomous driving systems: Review and challenges](https://arxiv.org/abs/2101.05307)  
 E. Zabloki, H. Ben-Younes, P. Pérez, M. Cord  
