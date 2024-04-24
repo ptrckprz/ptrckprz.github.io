@@ -10,21 +10,37 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
-[Decaf: Monocular Deformation Capture for Face and Hand Interactions]()  
+[PointBeV: A sparse approach to BeV predictions](https://arxiv.org/abs/2312.00703)  
+L. Chambon, E. Zablocki, M. Chen, F. Bartoccioni, P. Pérez, M. Cord  
+*CVPR 2024* [[code](https://github.com/valeoai/PointBeV)]
+
+[A simple recipe for language-guided domain generalized segmentation](https://arxiv.org/abs/2311.17922)  
+M Fahes, TH Vu, A Bursuc, P Pérez, R de Charette  
+*CVPR 2024* [[code](https://github.com/astra-vision/FAMix#)]
+
+[Revisiting the distillation of image representations into point clouds for autonomous driving](https://arxiv.org/abs/2310.17504)  
+G Puy, S Gidaris, A Boulch, O Siméoni, C Sautier, P Pérez, A Bursuc, R Marlet  
+*CVPR 2024* [[code](https://github.com/valeoai/scalr)]
+
+[Towards Motion Forecasting with Real-World Perception Inputs: Are End-to-End Approaches Competitive?](https://arxiv.org/abs/2306.09281)  
+Y Xu, L Chambon, M Chen, A Alahi, M Cord, P Perez  
+*ICRA 2024* [[code](https://github.com/valeoai/MFEval)]
+
+[Decaf: Monocular Deformation Capture for Face and Hand Interactions](https://arxiv.org/abs/2309.16670)  
 S. Shimada, V. Golyanik, P. Pérez, Ch. Theobalt  
-*Siggrah Asia 2023*
+*Siggrah Asia 2023* [[page](https://vcai.mpi-inf.mpg.de/projects/Decaf/),[dataset](https://github.com/soshishimada/DecafDatasetScript)]
 
-[Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis]()  
+[Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis](https://arxiv.org/abs/2311.01052)  
 V. Letzelter, M. Fontaine, M. Chen, P. Pérez, S. Essid, G. Richard  
-*NeurIPS 2023*
+*NeurIPS 2023* [[code](https://github.com/victorletzelter/code-rmcl?tab=readme-ov-file)]
 
-[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images]()   
+[POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images](https://arxiv.org/abs/2401.09413)   
 A. Vobecky, O. Siméoni, D. Hurych, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic  
-*NeurIPS 2023*
+*NeurIPS 2023* [[page](https://vobecant.github.io/POP3D/),[code](https://github.com/vobecant/POP3D)]
 
 [PØDA: Prompt-driven Zero-shot Domain Adaptation](https://arxiv.org/abs/2212.03241)  
 M. Fahes, T.-H. Vu, A. Bursuc, P. Pérez, R. de Charette  
-*ICCV 2023*
+*ICCV 2023* [[page](https://astra-vision.github.io/PODA),[code](https://github.com/astra-vision/PODA)]
 
 [OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380)  
 M. Zemni, M. Chen, É. Zablocki, H. Ben-Younes, P. Pérez, M. Cord  
@@ -36,7 +52,7 @@ O. Siméoni, Ch. Sekkat, G. Puy, A. Vobecky, E. Zablocki, P. Pérez
 
 [Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
-*ICLR 2023*
+*ICLR 2023* [[code](https://github.com/valeoai/sfrik)
 
 [LaRa: Latents and Rays for multi-camera bird's-eye-view semantic segmentation](https://arxiv.org/abs/2206.13294)  
 F. Bartoccioni, É. Zablocki, A. Bursuc, P. Pérez, M. Cord, K. Alahari  
