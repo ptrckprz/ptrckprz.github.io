@@ -15,15 +15,15 @@ L. Chambon, E. Zablocki, M. Chen, F. Bartoccioni, P. Pérez, M. Cord
 *CVPR 2024* [[code](https://github.com/valeoai/PointBeV)]
 
 [A simple recipe for language-guided domain generalized segmentation](https://arxiv.org/abs/2311.17922)  
-M Fahes, TH Vu, A Bursuc, P Pérez, R de Charette  
+M. Fahes, T.H. Vu, A. Bursuc, P. Pérez, R. de Charette  
 *CVPR 2024* [[code](https://github.com/astra-vision/FAMix#)]
 
 [Revisiting the distillation of image representations into point clouds for autonomous driving](https://arxiv.org/abs/2310.17504)  
-G Puy, S Gidaris, A Boulch, O Siméoni, C Sautier, P Pérez, A Bursuc, R Marlet  
+G. Puy, S. Gidaris, A. Boulch, O. Siméoni, C. Sautier, P. Pérez, A. Bursuc, R. Marlet  
 *CVPR 2024* [[code](https://github.com/valeoai/scalr)]
 
 [Towards Motion Forecasting with Real-World Perception Inputs: Are End-to-End Approaches Competitive?](https://arxiv.org/abs/2306.09281)  
-Y Xu, L Chambon, M Chen, A Alahi, M Cord, P Perez  
+Y. Xu, L. Chambon, M. Chen, A. Alahi, M. Cord, P. Pérez  
 *ICRA 2024* [[code](https://github.com/valeoai/MFEval)]
 
 [Decaf: Monocular Deformation Capture for Face and Hand Interactions](https://arxiv.org/abs/2309.16670)  
