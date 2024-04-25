@@ -28,6 +28,8 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
+* 2024.07: Guillaume Le Moing (Inria), as reviewer
+* 2024.05: Laura Calem (CNAM/Valeo), as advisor
 * 2024.05: Léon Zheng (ENS Lyon/Valeo), as advisor
 * 2024.04: Adrien Bardes (INRIA/META), as examiner
 * 2024.04: Soshi Shimada (MPI), as reviewer
