@@ -20,6 +20,9 @@ redirect_from:
 * R. Venkatesh Babu, Inria (2004), now at IISc Bangalore
 
 ### PhDs
+
+* Laura Calem (Le CNAM, May 2024)
+* Léon Zheng (ENS Lyon, May 2024)
 * Florent Bartoccioni (Inria Grenoble, May 2023), now at Valeo.ai
 * Simon Roburin (ENPC, Nov. 2022), now postdoc at EPFL 
 * Vo Van Huy (Inria Paris, Nov. 2022), now at Meta AI
