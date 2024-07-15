@@ -10,6 +10,10 @@ redirect_from:
 
 ### Selection (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey](https://arxiv.org/abs/2310.12904)  
+O. Siméoni, É. Zablocki, S. Gidaris. G. Puy, P. Pérez    
+Int. J. Computer Vision, 2024
+
 [MOCA: Self-supervised representation learning by predicting masked online codebook assignments](https://arxiv.org/abs/2307.09361)  
 S. Gidaris, A. Bursuc, O. Simeoni, A. Vobecky, N. Komodakis, M. Cord, P. Pérez  
 Transactions on Machine Learning Research, 2024
