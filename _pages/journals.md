@@ -12,7 +12,7 @@ redirect_from:
 
 [Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey](https://arxiv.org/abs/2310.12904)  
 O. Siméoni, É. Zablocki, S. Gidaris. G. Puy, P. Pérez    
-Int. J. Computer Vision, 2024
+Int. J. Computer Vision, 2024 [[page](https://valeoai.github.io/blog/publications/unsupervised_object_localization_survey/), [code](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)]
 
 [MOCA: Self-supervised representation learning by predicting masked online codebook assignments](https://arxiv.org/abs/2307.09361)  
 S. Gidaris, A. Bursuc, O. Simeoni, A. Vobecky, N. Komodakis, M. Cord, P. Pérez  
