@@ -15,6 +15,7 @@ Patrick Pérez is CEO at [Kyutai](https://kyutai.org), a non-profit open-science
 * 2024.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'24.
 * 2024.07: Keynote and panel at the [Hi!Paris Summer School](https://www.hi-paris.fr/summer-school-2024).
 * 2024.06: Panel at the Meta's [Open Source AI Day](https://events.atmeta.com/aiopensourcedayparis), at Station F.
+* 2024.06: Survey [paper](https://valeoai.github.io/blog/publications/unsupervised_object_localization_survey/) on unsupervised object discovery accepted in IJCV, project led by Oriane Siméoni
 * 2024.06: Panel at the [Cyber Valley Days](https://cyber-valley.de/cyber-valley-days) in Tübingen.
 * 2024.06: Keynote at the delightful [Imagine-ENPC](https://x.com/ImagineEnpc) retreat.
 * 2024.05: [Paper](https://ptrckprz.github.io/conf/) accepted at ICML'24.
