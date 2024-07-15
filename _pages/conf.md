@@ -10,21 +10,33 @@ redirect_from:
 
 ### Selection since 2010 (complete list on [Scholar](https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en))
 
+[CLIP-DINOiser: Teaching CLIP a few DINO tricks for open-vocabulary semantic segmentation](https://arxiv.org/abs/2312.12359)  
+M. Wysoczańska, O. Siméoni, M. Ramamonjisoa, A. Bursuc, T. Trzciński, P. Pérez  
+*ECCV 2024* [[page](https://wysoczanska.github.io/CLIP_DINOiser/), [code](https://github.com/wysoczanska/clip_dinoiser/)]
+
+[Reliability in Semantic Segmentation: Can We Use Synthetic Data?](https://arxiv.org/abs/2312.09231)  
+Th. Loiseau, T-H Vu, M. Chen, P. Pérez, M. Cord  
+*ECCV 2024* 
+
+[Winner-takes-all learners are geometry-aware conditional density estimators](https://arxiv.org/abs/2406.04706)  
+V. Letzelter, D. Perera, C. Rommel, M. Fontaine, S. Essid, G. Richard, P. Pérez  
+*ICML 2024* [[page](https://valeoai.github.io/blog/publications/wta_learners/), [code](https://github.com/Victorletzelter/VoronoiWTA)]
+
 [PointBeV: A sparse approach to BeV predictions](https://arxiv.org/abs/2312.00703)  
 L. Chambon, E. Zablocki, M. Chen, F. Bartoccioni, P. Pérez, M. Cord  
-*CVPR 2024* [[code](https://github.com/valeoai/PointBeV)]
+*CVPR 2024* [[page](https://valeoai.github.io/blog/publications/pointbev/), [code](https://github.com/valeoai/PointBeV)]
 
 [A simple recipe for language-guided domain generalized segmentation](https://arxiv.org/abs/2311.17922)  
 M. Fahes, T.H. Vu, A. Bursuc, P. Pérez, R. de Charette  
-*CVPR 2024* [[code](https://github.com/astra-vision/FAMix#)]
+*CVPR 2024* [[page](https://valeoai.github.io/blog/publications/famix/), [code](https://github.com/astra-vision/FAMix#)]
 
-[Revisiting the distillation of image representations into point clouds for autonomous driving](https://arxiv.org/abs/2310.17504)  
+[Three Pillars improving Vision Foundation Model Distillation for Lidar](https://arxiv.org/abs/2310.17504)  
 G. Puy, S. Gidaris, A. Boulch, O. Siméoni, C. Sautier, P. Pérez, A. Bursuc, R. Marlet  
-*CVPR 2024* [[code](https://github.com/valeoai/scalr)]
+*CVPR 2024* [[page](https://valeoai.github.io/blog/publications/scalr/), [code](https://github.com/valeoai/scalr)]
 
 [Towards Motion Forecasting with Real-World Perception Inputs: Are End-to-End Approaches Competitive?](https://arxiv.org/abs/2306.09281)  
 Y. Xu, L. Chambon, M. Chen, A. Alahi, M. Cord, P. Pérez  
-*ICRA 2024* [[code](https://github.com/valeoai/MFEval)]
+*ICRA 2024* [[page](https://valeoai.github.io/blog/publications/real-world-forecasting/), [code](https://github.com/valeoai/MFEval)]
 
 [Decaf: Monocular Deformation Capture for Face and Hand Interactions](https://arxiv.org/abs/2309.16670)  
 S. Shimada, V. Golyanik, P. Pérez, Ch. Theobalt  
@@ -32,7 +44,7 @@ S. Shimada, V. Golyanik, P. Pérez, Ch. Theobalt
 
 [Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis](https://arxiv.org/abs/2311.01052)  
 V. Letzelter, M. Fontaine, M. Chen, P. Pérez, S. Essid, G. Richard  
-*NeurIPS 2023* [[code](https://github.com/victorletzelter/code-rmcl?tab=readme-ov-file)]
+*NeurIPS 2023* [[page](https://valeoai.github.io/blog/publications/rmcl/), [code](https://github.com/victorletzelter/code-rmcl)]
 
 [POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images](https://arxiv.org/abs/2401.09413)   
 A. Vobecky, O. Siméoni, D. Hurych, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic  
@@ -44,31 +56,31 @@ M. Fahes, T.-H. Vu, A. Bursuc, P. Pérez, R. de Charette
 
 [OCTET: Object-aware Counterfactual Explanations](https://arxiv.org/abs/2211.12380)  
 M. Zemni, M. Chen, É. Zablocki, H. Ben-Younes, P. Pérez, M. Cord  
-*CVPR 2023* [[code](https://github.com/valeoai/OCTET)]
+*CVPR 2023* [[page](https://valeoai.github.io/blog/publications/pop3d/), [code](https://github.com/valeoai/OCTET)]
 
 [Unsupervised object localization: observing the background to discover objects](https://arxiv.org/abs/2212.07834)  
 O. Siméoni, Ch. Sekkat, G. Puy, A. Vobecky, E. Zablocki, P. Pérez  
-*CVPR 2023* [[code](https://github.com/valeoai/FOUND)]
+*CVPR 2023* [[page](https://valeoai.github.io/blog/publications/found/), [code](https://github.com/valeoai/FOUND)]
 
 [Self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789)  
 L. Zheng, G. Puy, E. Riccietti, P. Pérez, R. Gribonval  
-*ICLR 2023* [[code](https://github.com/valeoai/sfrik)
+*ICLR 2023* [[page](https://valeoai.github.io/blog/publications/sfrik/), [code](https://github.com/valeoai/sfrik)]
 
 [LaRa: Latents and Rays for multi-camera bird's-eye-view semantic segmentation](https://arxiv.org/abs/2206.13294)  
 F. Bartoccioni, É. Zablocki, A. Bursuc, P. Pérez, M. Cord, K. Alahari  
-*CoRL 2022* [[code](https://github.com/valeoai/LaRa)]
+*CoRL 2022* [[page](https://valeoai.github.io/blog/publications/lara/), [code](https://github.com/valeoai/LaRa)]
 
 [Drive&Segment: Unsupervised semantic segmentation of urban scenes via cross-modal distillation](https://arxiv.org/abs/2203.11160)  
 A. Vobecky, D. Hurych, O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Sivic  
 *ECCV 2022* [[page](https://vobecant.github.io/DriveAndSegment/),[code](https://github.com/vobecant/DriveAndSegment),[demo](https://huggingface.co/spaces/vobecant/DaS)]
 
 [Active learning strategies for weakly-supervised object detection](https://arxiv.org/abs/2207.12112)  
-O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce  
-*ECCV 2022* [[code](https://github.com/huyvvo/BiB)]
+H.V. Vo, O. Siméoni, S. Gidaris, A. Bursuc, P. Pérez, J. Ponce  
+*ECCV 2022* [[page](https://valeoai.github.io/blog/publications/bib/), [code](https://github.com/huyvvo/BiB)]
 
 [STEEX: Steering Counterfactual Explanations with Semantics](https://arxiv.org/abs/2111.09094)  
 P. Jacob, É. Zablocki, H. Ben-Younes, M. Chen, P. Pérez, M. Cord  
-*ECCV 2022* [[code](https://github.com/valeoai/STEEX)]
+*ECCV 2022* [[page](https://valeoai.github.io/blog/publications/steex),[code](https://github.com/valeoai/STEEX)]
 
 [HULC: 3D human motion capture with pose manifold sampling and dense contact guidance](https://arxiv.org/abs/2205.05677)  
 S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt  
@@ -78,7 +90,7 @@ S. Shimada, V. Golyanik, P. Pérez, W. Xu, Ch. Theobalt
 J. Rebut, A. Ouaknine, W. Malik, P. Pérez  
 *CVPR 2022* [[data](https://github.com/valeoai/RADIal), [video](https://www.youtube.com/watch?v=bBEKZ7dl7zE)]
 
-Diverse probabilistic trajectory forecasting with admissibility constraints  
+[Diverse probabilistic trajectory forecasting with admissibility constraints](https://arxiv.org/abs/2302.03462)  
 L. Calem, H. Ben-Younes, P. Pérez, N. Thome  
 *ICPR 2022*  
 
