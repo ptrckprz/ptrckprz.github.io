@@ -17,6 +17,7 @@ Patrick Pérez is CEO at [Kyutai](https://kyutai.org), a non-profit open-science
 * 2024.06: Panel at the Meta's [Open Source AI Day](https://events.atmeta.com/aiopensourcedayparis), at Station F.
 * 2024.06: Panel at the [Cyber Valley Days](https://cyber-valley.de/cyber-valley-days) in Tübingen.
 * 2024.06: Keynote at the delightful [Imagine-ENPC](https://x.com/ImagineEnpc) retreat.
+* 2024.05: [Paper](https://ptrckprz.github.io/conf/) accepted at ICML'24.
 * 2024.04: [Papers](https://ptrckprz.github.io/conf/) accepted at CVPR'24.
 * 2024.04: Panel at the [R.AI.SE Summit 2024](https://www.raisesummit.com) ([video](https://youtu.be/wvbOUcHSF9Q) and [itw with BFMTV](https://www.bfmtv.com/economie/replay-emissions/01-business/kyutai-des-talents-francais-au-service-d-une-ia-plus-ouverte-et-souveraine-13-04_VN-202404130326.html))
 * 2023.12: Joining [Kyutai](https://kyutai.org) as CEO.   
