@@ -11,6 +11,7 @@ redirect_from:
 Patrick Pérez is CEO at [Kyutai](https://kyutai.org), a non-profit open-science AI lab, based in Paris. Prior to this, Patrick was at Valeo as VP of AI and Scientific Director of [valeo.ai](https://valeoai.github.io/blog/) (2018-2023), and with Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004) as research scientist. His research interests lie in reliable multimodal AI for the benefit of all.
 
 ### News
+* 2024.09: We release paper, inference codes and models for Moshi ([paper](./files/Moshi-2024-09-19.pdf), [github](https://github.com/kyutai-labs/moshi))
 * 2024.07: Kyutai introduces Moshi, first ever-released real-time voice AI ([EU demo](https://moshi.chat), [US demo](https://us.moshi.chat), [press release](https://kyutai.org/cp_moshi.pdf), [keynote](https://www.youtube.com/live/hm2IJSKcYvo)); paper, weights and codes under preparation for release, stay tuned.
 * 2024.07: [Papers](https://ptrckprz.github.io/conf/) accepted at ECCV'24.
 * 2024.07: Keynote and panel at the [Hi!Paris Summer School](https://www.hi-paris.fr/summer-school-2024).
