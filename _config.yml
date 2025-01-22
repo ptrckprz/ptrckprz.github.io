@@ -82,7 +82,7 @@ author:
   avatar           : "pat_hallwyll_id.jpg"
   bio              : "CEO @ Kyutai"
   location         : "Paris, France"
-  employer         :
+  employer         : "https://www.kyutai.org" 
   googlescholar    : "https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en"
   email            : "patrick@kyutai.org"
   uri              :
@@ -97,19 +97,20 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/patrick-pérez-253695146/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ptrkprz"
+  twitter          : # "@ptrkprz"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "@ptrkprz.bsky.social"
 
 
 # Reading Files
