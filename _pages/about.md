@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Patrick Pérez is CEO at [Kyutai](https://kyutai.org), a non-profit open-science AI lab, based in Paris. Prior to this, Patrick was at Valeo as VP of AI and Scientific Director of [valeo.ai](https://valeoai.github.io/blog/) (2018-2023), and with Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004) as research scientist. His research interests lie in reliable multimodal AI for the benefit of all.
+Patrick Pérez is CEO at [Kyutai](https://kyutai.org), a non-profit open-science AI lab, based in Paris. Prior to this, Patrick was at Valeo as VP of AI and Scientific Director of [valeo.ai](https://valeoai.github.io/blog/) (2018-2023), and with Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004) as research scientist. His research interests lie in reliable multimodal AI for the benefit of all.  
 
 As per Jan 2025, I am starting to move away from platforms owned and ran by cynical, greedy, masculinist personalities.  
 
