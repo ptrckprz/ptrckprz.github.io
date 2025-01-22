@@ -82,7 +82,7 @@ author:
   avatar           : "pat_hallwyll_id.jpg"
   bio              : "CEO @ Kyutai"
   location         : "Paris, France"
-  employer         : "https://www.kyutai.org" 
+  employer         : # "https://www.kyutai.org" 
   googlescholar    : "https://scholar.google.fr/citations?user=8Cph5uQAAAAJ&hl=en"
   email            : "patrick@kyutai.org"
   uri              :
