@@ -11,11 +11,11 @@ redirect_from:
 ### Postdocs
 * Gilles Puy, Technicolor (2016-2017), now at Valeo.ai
 * Çağdaş Bilen, Technicolor (2014-2015), now at Meta Reality Labs Research
-* Gaurav Sharma, Technicolor (2013-2014), now at TensorTour
-* Alexey Ozerov, Technicolor (2012-2013), now at Ava
-* Tomas Crivelli, Technicolor (2011-2012), now at Zowl Labs
-* Joaquin Zepeda, Technicolor (2010-2011)  
-* Imran Junejo, Inria (2007-2008), now at IBA Karachi
+* Gaurav Sharma, Technicolor (2013-2014), now at Typeface
+* Alexey Ozerov, Technicolor (2012-2013)
+* Tomas Crivelli, Technicolor (2011-2012), now at DeepHawk
+* Joaquin Zepeda, Technicolor (2010-2011), now at Meta
+* Imran Junejo, Inria (2007-2008), now at AMD
 * Ivan Laptev, Inria (2004-2005), now at MBZUAI (on leave from Inria) 
 * R. Venkatesh Babu, Inria (2004), now at IISc Bangalore
 
@@ -35,7 +35,7 @@ redirect_from:
 * Ondra Miksik (Oxford University, Jan. 2018), now at Microsoft Research
 * Juan-Manuel Perez-Rua (Inria, Dec. 2017), now at Meta AI
 * Praveen Kulkarni (U. Caen, Jan. 2017), now at Bosch
-* Pablo Garrido (MPI-Saarbruken, June 2016), now at Epic Games
+* Pablo Garrido (MPI-Saarbruken, June 2016), now at Flawless
 * Abdelaziz Djellouah (Inria, March 2015), now at Disney Research
 * Anthony Bourrier (Inria, May 2014), now at Thales
 * Alasdair Newson (Telecom Paris, March 2014), now at Sorbonne University
@@ -50,6 +50,6 @@ redirect_from:
 * Thomas Corpetti (Inria, 2002), now at CNRS
 * Jean-Noël Provost (École Navale, 2001)
 * Annabelle Chardin (Inria, 2000)
-* Max Mignotte (École Navale 1998), now  at U. Montréal
+* Max Mignotte (École Navale 1998), now at U. Montréal
 * Pierre Thourel (École Navale, 1996)
 * Jean-Marc Laferté (Inria, 1996)
