@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ### Postdocs
-* Nicolas Dufour, Kyutai )2026-)
+* Nicolas Dufour, Kyutai (2026-)
 * Juliette Marrie, Kyutai (2025-)
 * Moritz Bhöle, Kyutai (2024-2025), now at Kyutai
 * Gilles Puy, Technicolor (2016-2017), now at Meta
