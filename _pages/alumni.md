@@ -9,8 +9,11 @@ redirect_from:
 {% include base_path %}
 
 ### Postdocs
-* Gilles Puy, Technicolor (2016-2017), now at Valeo.ai
-* Çağdaş Bilen, Technicolor (2014-2015), now at Meta Reality Labs Research
+* Nicolas Dufour, Kyutai )2026-)
+* Juliette Marrie, Kyutai (2025-)
+* Moritz Bhöle, Kyutai (2024-2025), now at Kyutai
+* Gilles Puy, Technicolor (2016-2017), now at Meta
+* Çağdaş Bilen, Technicolor (2014-2015), now at Meta
 * Gaurav Sharma, Technicolor (2013-2014), now at Typeface
 * Alexey Ozerov, Technicolor (2012-2013)
 * Tomas Crivelli, Technicolor (2011-2012), now at DeepHawk
@@ -21,22 +24,24 @@ redirect_from:
 
 ### PhDs
 
+* Mohmmad Fahes (Inria, 2026)
+* Victor Letzelter (Telecom Paris, April 2026), now at Mistral 
 * Laura Calem (Le CNAM, May 2024)
-* Léon Zheng (ENS Lyon, May 2024)
-* Florent Bartoccioni (Inria Grenoble, May 2023), now at Valeo.ai
-* Simon Roburin (ENPC, Nov. 2022), now postdoc at EPFL 
-* Vo Van Huy (Inria Paris, Nov. 2022), now at Meta AI
+* Léon Zheng (ENS Lyon, May 2024), now at Huawey
+* Florent Bartoccioni (Inria Grenoble, May 2023), now at Wayve
+* Simon Roburin (ENPC, Nov. 2022), now at Sorbonne Université 
+* Vo Van Huy (Inria Paris, Nov. 2022), now at Meta 
 * Antoine Saporta (Sorbonne U., April 2022), now at Meero
-* Charles Corbière (CNAM, March 2022), now postdoc at EPFL
-* Arthur Ouaknine (Telecom Paris, March 2022), now postdoc at McGill
-* Martin Engilberge (Sorbonne U., June 2020), now postdoc at EPFL
-* Sanjeel Parekh (Telecom Paris, Jan. 2019), now at Meta Reality Labs Research
+* Charles Corbière (CNAM, March 2022), now at Raidium
+* Arthur Ouaknine (Telecom Paris, March 2022), now at McGill
+* Martin Engilberge (Sorbonne U., June 2020), now at EPFL
+* Sanjeel Parekh (Telecom Paris, Jan. 2019), now at Meta
 * Himalaya Jain (Inria, May 2018), now at Helsing
 * Ondra Miksik (Oxford University, Jan. 2018), now at Microsoft Research
-* Juan-Manuel Perez-Rua (Inria, Dec. 2017), now at Meta AI
+* Juan-Manuel Perez-Rua (Inria, Dec. 2017), now at Meta
 * Praveen Kulkarni (U. Caen, Jan. 2017), now at Bosch
 * Pablo Garrido (MPI-Saarbruken, June 2016), now at Flawless
-* Abdelaziz Djellouah (Inria, March 2015), now at Disney Research
+* Abdelaziz Djellouah (Inria, March 2015), now at Disney Research 
 * Anthony Bourrier (Inria, May 2014), now at Thales
 * Alasdair Newson (Telecom Paris, March 2014), now at Sorbonne University
 * Aymeric Stamm (Inria, Dec. 2013), now at CNRS
