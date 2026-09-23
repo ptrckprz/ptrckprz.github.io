@@ -10,7 +10,7 @@ redirect_from:
 * Editorial board of the International Journal on Computer Vision (IJCV): 2010-2020
 * Associate Editor for the IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): 2008-2012
 * Associate Editor for the IEEE Transactions on Image Processing (T-IP): 2002-2006
-* Area chair for CVPR (2026), ECCV (2020, 2014, 2012, 2010, 2008), ICCV (2019, 2013, 2011), BMVC (2017, 2025)
+* Area chair for CVPR (2026), ECCV (2020, 2014, 2012, 2010, 2008), ICCV (2019, 2013, 2011), BMVC (2025, 2017)
 * Industrial chair for ICCV 2023
 
 ### "Research Habilitation" committees
