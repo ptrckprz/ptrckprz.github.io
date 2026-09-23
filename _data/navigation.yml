@@ -5,16 +5,16 @@ main:
 #  url: /proj/
 
 # - title: "conferences"
-  url: /conf/
+#  url: /conf/
 
 # - title: "journals"
-  url: /jal/
+#  url: /jal/
 
 #  - title: "publications"
 #    url: /publications/
 
 # - title: "talks"
-  url: /pres/
+#  url: /pres/
   
 - title: "code & data"
   url: /data/    
