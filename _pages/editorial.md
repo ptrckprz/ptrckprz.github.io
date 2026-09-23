@@ -28,6 +28,10 @@ redirect_from:
 * July 2009: [Eric Debreuve](http://www.i3s.unice.fr/~debreuve/) (U. Nice), as reviewer
 
 ### PhD committees since 2015
+* 2026.09: Aryamaan Jain (Inria), as examiner 
+* 2026.09: Robin Courant (Polytechnique), as reviewer
+* 2025.11: Nicolas Dufour (ENPC), as reiewer
+* 2025.05: Zerui Chen (Inria), as reviewer
 * 2024.07: Guillaume Le Moing (Inria), as reviewer
 * 2024.05: Laura Calem (CNAM/Valeo), as advisor
 * 2024.05: Léon Zheng (ENS Lyon/Valeo), as advisor
