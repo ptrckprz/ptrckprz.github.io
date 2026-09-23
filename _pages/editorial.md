@@ -30,6 +30,7 @@ redirect_from:
 ### PhD committees since 2015
 * 2026.09: Aryamaan Jain (Inria), as examiner 
 * 2026.09: Robin Courant (Polytechnique), as reviewer
+* 2025.12: Amandine Brunetto  (Mines Paris), as examiner
 * 2025.11: Nicolas Dufour (ENPC), as reiewer
 * 2025.05: Zerui Chen (Inria), as reviewer
 * 2024.07: Guillaume Le Moing (Inria), as reviewer
